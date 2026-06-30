@@ -4430,8 +4430,8 @@
     "synonyms": [
       "-"
     ],
-    "livertox_grade": "-",
-    "rucam_score_bonus": "-",
+    "livertox_grade": "D",
+    "rucam_score_bonus": 1,
     "hepatotoxicity_pattern": "-",
     "description_th": "Rilpivirine เป็นยาแผนปัจจุบันที่อาจทำให้เกิดความเป็นพิษต่อตับ (Drug-Induced Liver Injury, DILI). มีหลักฐานความเป็นพิษต่อตับในระดับ case report(s). อุบัติการณ์: 4% of patients.",
     "scientific_name": null,
@@ -5082,8 +5082,8 @@
     "synonyms": [
       "-"
     ],
-    "livertox_grade": "-",
-    "rucam_score_bonus": "-",
+    "livertox_grade": "D",
+    "rucam_score_bonus": 1,
     "hepatotoxicity_pattern": "Cholestatic (น้ำดีคั่ง/ท่อน้ำดีอุดตัน)",
     "description_th": "Repaglinide เป็นยาแผนปัจจุบันที่อาจทำให้เกิดความเป็นพิษต่อตับแบบ Cholestatic (น้ำดีคั่ง/ท่อน้ำดีอุดตัน).",
     "scientific_name": null,
