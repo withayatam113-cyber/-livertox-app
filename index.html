@@ -47,9 +47,20 @@
     .score-bar-inner { height: 100%; border-radius: 9999px; transition: width 0.4s ease; }
 
     @media print {
-      body * { visibility: hidden !important; }
-      #pdf-report, #pdf-report * { visibility: visible !important; }
-      #pdf-report { position: fixed !important; left: 0; top: 0; width: 100%; display: block !important; }
+      body > *:not(#pdf-report) { display: none !important; }
+      #pdf-report {
+        display: block !important;
+        position: static !important;
+        width: 100% !important;
+        margin: 0 !important;
+        padding: 16px !important;
+        font-family: 'Sarabun', sans-serif !important;
+        color: #1e293b !important;
+        background: white !important;
+        font-size: 12px !important;
+      }
+      #pdf-report * { visibility: visible !important; }
+      @page { size: A4 portrait; margin: 15mm; }
     }
 
     .dropdown-item:hover { background-color: #f0fdfa; }
@@ -11175,37 +11186,17 @@ async function generatePDF() {
 
   const filename = 'RUCAM_Report_' + (appState.patientCaseId || 'Case') + '_' + new Date().toISOString().slice(0,10) + '.pdf';
 
-  // ── แสดง reportEl ก่อน render (html2canvas ต้องการ element ที่อยู่ใน viewport) ──
-  reportEl.style.cssText = 'display:block; position:fixed; left:0; top:0; width:780px; opacity:0.001; pointer-events:none; z-index:-1; font-family:\'Sarabun\',sans-serif; padding:20px; color:#1e293b; background:white;';
+  // ── ใช้ window.print() — แน่ใจว่าฟอนต์ภาษาไทยแสดงผลถูกต้อง ──
+  reportEl.style.display = 'block';
 
-  if (typeof html2pdf === 'undefined') {
-    reportEl.style.cssText = 'display:block; position:fixed; left:0; top:0; width:100%;';
-    window.print();
-    reportEl.style.display = 'none';
-    return;
-  }
-
-  const opt = {
-    margin: [10, 10, 10, 10],
-    filename: filename,
-    image: { type: 'jpeg', quality: 0.98 },
-    html2canvas: {
-      scale: 2, useCORS: true, allowTaint: true, logging: false,
-      onclone: (clonedDoc) => clonedDoc.fonts.ready
-    },
-    jsPDF: { unit: 'mm', format: 'a4', orientation: 'portrait' }
-  };
+  await document.fonts.ready;
 
   try {
-    await document.fonts.ready;
-    await new Promise(r => setTimeout(r, 400)); // รอให้ browser paint element + font glyphs
-    await html2pdf().from(reportEl).set(opt).save();
-    showToast('บันทึก PDF เรียบร้อย: ' + filename);
-  } catch (e) {
-    reportEl.style.cssText = 'display:block; position:fixed; left:0; top:0; width:100%;';
     window.print();
+    showToast('เปิดหน้าต่างพิมพ์ — เลือก "Save as PDF" เพื่อบันทึก');
   } finally {
-    reportEl.style.display = 'none';
+    // รอให้ dialog ปิดก่อน hide
+    setTimeout(() => { reportEl.style.display = 'none'; }, 2000);
     reportEl.style.position  = '';
     reportEl.style.left      = '';
     reportEl.style.top       = '';
