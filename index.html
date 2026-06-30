@@ -11182,26 +11182,32 @@ async function generatePDF() {
     </div>
   `;
 
-  reportEl.style.display = 'block';
+  // ── เปิด print window ใหม่ — หลีกเลี่ยง CSS conflict และ timing issue ──
+  const fontUrl = 'https://fonts.googleapis.com/css2?family=Sarabun:wght@400;600;700;800&display=swap';
+  const pw = window.open('', '_blank', 'width=860,height=1100');
+  if (!pw) { showToast('กรุณาอนุญาต popup เพื่อพิมพ์รายงาน'); return; }
 
-  const filename = 'RUCAM_Report_' + (appState.patientCaseId || 'Case') + '_' + new Date().toISOString().slice(0,10) + '.pdf';
+  pw.document.write(`<!DOCTYPE html><html><head>
+    <meta charset="utf-8">
+    <title>RUCAM Report</title>
+    <link href="${fontUrl}" rel="stylesheet">
+    <style>
+      * { box-sizing: border-box; }
+      body { font-family: 'Sarabun', sans-serif; color: #1e293b; background: white; margin: 0; padding: 20px; }
+      table { border-collapse: collapse; width: 100%; }
+      @page { size: A4 portrait; margin: 15mm; }
+      @media print { body { padding: 0; } }
+    </style>
+  </head><body>${reportEl.innerHTML}</body></html>`);
+  pw.document.close();
 
-  // ── ใช้ window.print() — แน่ใจว่าฟอนต์ภาษาไทยแสดงผลถูกต้อง ──
-  reportEl.style.display = 'block';
+  pw.addEventListener('load', async () => {
+    await pw.document.fonts.ready;
+    pw.focus();
+    pw.print();
+  });
 
-  await document.fonts.ready;
-
-  try {
-    window.print();
-    showToast('เปิดหน้าต่างพิมพ์ — เลือก "Save as PDF" เพื่อบันทึก');
-  } finally {
-    // รอให้ dialog ปิดก่อน hide
-    setTimeout(() => { reportEl.style.display = 'none'; }, 2000);
-    reportEl.style.position  = '';
-    reportEl.style.left      = '';
-    reportEl.style.top       = '';
-    reportEl.style.width     = '';
-  }
+  showToast('เปิดหน้าต่างพิมพ์ — เลือก "Save as PDF" เพื่อบันทึก');
 }
 
 // ============================================================
