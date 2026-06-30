@@ -11152,16 +11152,16 @@ async function generatePDF() {
             อายุ≥55: ${document.getElementById('q3-age')?.checked ? 'ใช่' : 'ไม่'} |
             แอลกอฮอล์: ${document.getElementById('q3-alcohol')?.checked ? 'ใช่' : 'ไม่'} |
             ตั้งครรภ์: ${appState.rRatioType === 'hepatocellular' ? 'N/A (Hepatocellular)' : (document.getElementById('q3-pregnant')?.checked ? 'ใช่' : 'ไม่')}
-            <br><span style="font-size:9px;color:#94a3b8;">นิยามแอลกอฮอล์ RUCAM 2016 — ♂ >3 ดริงก์/วัน (>3 เป๊ก 30 mL / >6 ฝาสุราสี / >3 กระป๋องเบียร์ 5% 330 mL) | ♀ >2 ดริงก์/วัน</span>
+            <br><span style="font-size:9px;color:#475569;">นิยามแอลกอฮอล์ RUCAM 2016:<br>♂ ผู้ชาย: &gt;3 ดริงก์มาตรฐาน/วัน [สุราขาว 40° &gt;3 เป๊ก | สุราสี &gt;6 ฝา | เบียร์ 5% ABV &gt;3 กระป๋อง 330 mL/วัน]<br>♀ ผู้หญิง: &gt;2 ดริงก์มาตรฐาน/วัน [สุราขาว 40° &gt;2 เป๊ก | สุราสี &gt;4 ฝา | เบียร์ 5% ABV &gt;2 กระป๋อง 330 mL/วัน]</span>
           </td><td style="padding:5px 8px;border:1px solid #e2e8f0;text-align:center;font-weight:700;">${appState.q3 > 0 ? '+' + appState.q3 : appState.q3}</td></tr>
           <tr style="background:#fafafa;"><td style="padding:5px 8px;border:1px solid #e2e8f0;">4. ยาอื่นร่วม</td><td style="padding:5px 8px;border:1px solid #e2e8f0;">${q4label}</td><td style="padding:5px 8px;border:1px solid #e2e8f0;text-align:center;font-weight:700;">${appState.q4 > 0 ? '+' + appState.q4 : appState.q4}</td></tr>
           <tr><td style="padding:5px 8px;border:1px solid #e2e8f0;">5. ตัดสาเหตุอื่น</td><td style="padding:5px 8px;border:1px solid #e2e8f0;">${q5label}<br><span style="font-size:10px;color:#64748b;">Group I ตรวจแล้ว: ${q5g1Done}</span>${q5g2Found !== '—' ? `<br><span style="font-size:10px;color:#64748b;">Group II (บันทึก): ${q5g2Found}</span>` : ''}</td><td style="padding:5px 8px;border:1px solid #e2e8f0;text-align:center;font-weight:700;">${appState.q5 > 0 ? '+' + appState.q5 : appState.q5}</td></tr>
           <tr style="background:#fafafa;"><td style="padding:5px 8px;border:1px solid #e2e8f0;">6. ประวัติความเป็นพิษยา</td><td style="padding:5px 8px;border:1px solid #e2e8f0;">${q6label}</td><td style="padding:5px 8px;border:1px solid #e2e8f0;text-align:center;font-weight:700;">${appState.q6 > 0 ? '+' + appState.q6 : appState.q6}</td></tr>
           <tr><td style="padding:5px 8px;border:1px solid #e2e8f0;">7. Re-challenge</td><td style="padding:5px 8px;border:1px solid #e2e8f0;">${q7label}</td><td style="padding:5px 8px;border:1px solid #e2e8f0;text-align:center;font-weight:700;">${appState.q7 > 0 ? '+' + appState.q7 : appState.q7}</td></tr>
         </tbody>
-        <tfoot><tr style="background:#0f766e;color:white;">
-          <td colspan="2" style="padding:8px;font-weight:700;border:1px solid #0d9488;">คะแนนรวม RUCAM</td>
-          <td style="padding:8px;text-align:center;font-size:18px;font-weight:900;border:1px solid #0d9488;">${calculateScore() > 0 ? '+' + calculateScore() : calculateScore()}</td>
+        <tfoot><tr style="background:#ccfbf1;color:#000000;border-top:2px solid #0f766e;">
+          <td colspan="2" style="padding:8px;font-weight:700;border:1px solid #0d9488;color:#000000;">คะแนนรวม RUCAM</td>
+          <td style="padding:8px;text-align:center;font-size:18px;font-weight:900;border:1px solid #0d9488;color:#000000;">${calculateScore() > 0 ? '+' + calculateScore() : calculateScore()}</td>
         </tr></tfoot>
       </table>
     </div>
