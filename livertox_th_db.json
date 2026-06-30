@@ -1068,8 +1068,8 @@
     "synonyms": [
       "-"
     ],
-    "livertox_grade": "-",
-    "rucam_score_bonus": "-",
+    "livertox_grade": "E",
+    "rucam_score_bonus": 0,
     "hepatotoxicity_pattern": "-",
     "description_th": "Heparin เป็นยาแผนปัจจุบันที่อาจทำให้เกิดความเป็นพิษต่อตับ (Drug-Induced Liver Injury, DILI).",
     "scientific_name": null,
@@ -1449,8 +1449,8 @@
     "synonyms": [
       "-"
     ],
-    "livertox_grade": "-",
-    "rucam_score_bonus": "-",
+    "livertox_grade": "E",
+    "rucam_score_bonus": 0,
     "hepatotoxicity_pattern": "-",
     "description_th": "Ipratropium เป็นยาแผนปัจจุบันที่อาจทำให้เกิดความเป็นพิษต่อตับ (Drug-Induced Liver Injury, DILI).",
     "scientific_name": null,
@@ -4351,8 +4351,8 @@
     "synonyms": [
       "-"
     ],
-    "livertox_grade": "-",
-    "rucam_score_bonus": "-",
+    "livertox_grade": "E",
+    "rucam_score_bonus": 0,
     "hepatotoxicity_pattern": "-",
     "description_th": "Emtricitabine เป็นยาแผนปัจจุบันที่อาจทำให้เกิดความเป็นพิษต่อตับ (Drug-Induced Liver Injury, DILI) ระดับความรุนแรงอาจถึงขั้นรุนแรง. อุบัติการณ์: 10% of patients.",
     "scientific_name": null,
@@ -8331,8 +8331,8 @@
     "synonyms": [
       "-"
     ],
-    "livertox_grade": "-",
-    "rucam_score_bonus": "-",
+    "livertox_grade": "E",
+    "rucam_score_bonus": 0,
     "hepatotoxicity_pattern": "-",
     "description_th": "Pilocarpine เป็นยาแผนปัจจุบันที่อาจทำให้เกิดความเป็นพิษต่อตับ (Drug-Induced Liver Injury, DILI).",
     "scientific_name": null,
