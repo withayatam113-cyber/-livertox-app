@@ -1,0 +1,42 @@
+[
+  {
+    "id": 8,
+    "name_en": "Atorvastatin",
+    "name_th": "อะทอร์วาสแตติน (ลิปิตอร์)",
+    "type": "ยาแผนปัจจุบัน",
+    "synonyms": ["Lipitor", "Atoris", "Atorlip"],
+    "livertox_grade": "A",
+    "rucam_score_bonus": 2,
+    "hepatotoxicity_pattern": "Mixed (Cholestatic พบบ่อยกว่า, บางรายเป็น Hepatocellular แบบ autoimmune-like)",
+    "description_th": "ยาลดไขมันกลุ่ม Statin ที่ใช้แพร่หลายที่สุด แม้ส่วนใหญ่ทำให้เอนไซม์ตับสูงขึ้นเล็กน้อยและไม่รุนแรง แต่ LiverTox จัดอยู่ใน Grade A เนื่องจากมีรายงานตับอักเสบรุนแรงที่มีลักษณะคล้ายโรคตับอักเสบจากภูมิคุ้มกันตนเอง",
+    "scientific_name": null,
+    "part_used": null,
+    "source": "LiverTox (NIDDK, NIH): Atorvastatin.nxml",
+
+    "hepatotox_mechanism": "Idiosyncratic (ไม่ทราบกลไกแน่ชัด ไม่สัมพันธ์กับขนาดยาโดยตรง คาดว่าเกี่ยวข้องกับเมแทบอไลต์ผ่าน CYP3A4 ในผู้ที่มีความเสี่ยงทางพันธุกรรม/ภูมิคุ้มกันแอบแฝง)",
+    "injury_pattern": "Mixed",
+    "severity_max": "Severe",
+    "fatal_cases_reported": false,
+
+    "onset_days_min": 30,
+    "onset_days_max": 180,
+    "recovery_days_min": 30,
+    "recovery_days_max": 180,
+    "chronic_risk": true,
+    "rechallenge_data": "positive",
+
+    "incidence_rate": "ตับอักเสบชัดเจนทางคลินิก: พบน้อยมาก (extraordinarily rare); เอนไซม์ตับสูงขึ้นเล็กน้อยแบบไม่มีอาการพบบ่อยกว่ามาก (~1-2% ของผู้ใช้)",
+    "risk_factors_th": [
+      "การสับเปลี่ยนระหว่างยากลุ่ม Statin ตัวอื่น",
+      "การเพิ่มขนาดยา (dose escalation)",
+      "มีแนวโน้มเป็นโรคภูมิคุ้มกันตนเองแอบแฝง (susceptible host)"
+    ],
+    "monitoring_note_th": "ติดตามค่า ALT และ Alkaline phosphatase หากมีอาการตัวเหลือง คันผิวหนัง หรือปัสสาวะเข้มขึ้น ควรหยุดยาทันทีและตรวจซ้ำ หากสงสัยภาวะ autoimmune hepatitis ให้พิจารณาส่งต่อเพื่อประเมินการรักษาด้วย corticosteroid",
+    "thai_herb_source": null,
+
+    "evidence_level": "case series",
+    "case_count_reported": 4,
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/NBK548236/",
+    "last_updated": "2026-06-29"
+  }
+]
