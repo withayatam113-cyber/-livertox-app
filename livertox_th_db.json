@@ -468,8 +468,8 @@
     "synonyms": [
       "-"
     ],
-    "livertox_grade": "-",
-    "rucam_score_bonus": "-",
+    "livertox_grade": "C",
+    "rucam_score_bonus": 1,
     "hepatotoxicity_pattern": "Hepatocellular (การทำลายเซลล์ตับ)",
     "description_th": "Mesalamine เป็นยาแผนปัจจุบันที่อาจทำให้เกิดความเป็นพิษต่อตับแบบ Hepatocellular (การทำลายเซลล์ตับ) ระดับความรุนแรงอาจถึงขั้นรุนแรง. มีหลักฐานความเป็นพิษต่อตับในระดับ case report(s).",
     "scientific_name": null,
@@ -1178,8 +1178,8 @@
     "synonyms": [
       "-"
     ],
-    "livertox_grade": "-",
-    "rucam_score_bonus": "-",
+    "livertox_grade": "A",
+    "rucam_score_bonus": 2,
     "hepatotoxicity_pattern": "-",
     "description_th": "Aspirin เป็นยาแผนปัจจุบันที่อาจทำให้เกิดความเป็นพิษต่อตับ (Drug-Induced Liver Injury, DILI) ระดับความรุนแรงอาจถึงขั้นปานกลาง. มีหลักฐานความเป็นพิษต่อตับในระดับ case report(s).",
     "scientific_name": null,
@@ -2158,8 +2158,8 @@
     "synonyms": [
       "-"
     ],
-    "livertox_grade": "-",
-    "rucam_score_bonus": "-",
+    "livertox_grade": "C",
+    "rucam_score_bonus": 1,
     "hepatotoxicity_pattern": "Hepatocellular (การทำลายเซลล์ตับ)",
     "description_th": "Methylphenidate เป็นยาแผนปัจจุบันที่อาจทำให้เกิดความเป็นพิษต่อตับแบบ Hepatocellular (การทำลายเซลล์ตับ) ระดับความรุนแรงอาจถึงขั้นรุนแรง. มีหลักฐานความเป็นพิษต่อตับในระดับ case report(s).",
     "scientific_name": null,
@@ -2311,8 +2311,8 @@
     "synonyms": [
       "-"
     ],
-    "livertox_grade": "-",
-    "rucam_score_bonus": "-",
+    "livertox_grade": "E",
+    "rucam_score_bonus": 0,
     "hepatotoxicity_pattern": "-",
     "description_th": "Caffeine เป็นยาแผนปัจจุบันที่อาจทำให้เกิดความเป็นพิษต่อตับ (Drug-Induced Liver Injury, DILI) ระดับความรุนแรงอาจถึงขั้นรุนแรง. มีหลักฐานความเป็นพิษต่อตับในระดับ case report(s).",
     "scientific_name": null,
@@ -2791,8 +2791,8 @@
     "synonyms": [
       "-"
     ],
-    "livertox_grade": "-",
-    "rucam_score_bonus": "-",
+    "livertox_grade": "E",
+    "rucam_score_bonus": 0,
     "hepatotoxicity_pattern": "-",
     "description_th": "Naltrexone เป็นยาแผนปัจจุบันที่อาจทำให้เกิดความเป็นพิษต่อตับ (Drug-Induced Liver Injury, DILI) ระดับความรุนแรงอาจถึงขั้นเล็กน้อย. อุบัติการณ์: 1% of patients.",
     "scientific_name": null,
@@ -3022,8 +3022,8 @@
     "synonyms": [
       "-"
     ],
-    "livertox_grade": "-",
-    "rucam_score_bonus": "-",
+    "livertox_grade": "E",
+    "rucam_score_bonus": 0,
     "hepatotoxicity_pattern": "Cholestatic (น้ำดีคั่ง/ท่อน้ำดีอุดตัน)",
     "description_th": "Ertapenem เป็นยาแผนปัจจุบันที่อาจทำให้เกิดความเป็นพิษต่อตับแบบ Cholestatic (น้ำดีคั่ง/ท่อน้ำดีอุดตัน) ระดับความรุนแรงอาจถึงขั้นรุนแรง. อุบัติการณ์: 5% of patients.",
     "scientific_name": null,
@@ -3555,8 +3555,8 @@
     "synonyms": [
       "-"
     ],
-    "livertox_grade": "-",
-    "rucam_score_bonus": "-",
+    "livertox_grade": "E",
+    "rucam_score_bonus": 0,
     "hepatotoxicity_pattern": "Hepatocellular (การทำลายเซลล์ตับ)",
     "description_th": "Rifapentine เป็นยาแผนปัจจุบันที่อาจทำให้เกิดความเป็นพิษต่อตับแบบ Hepatocellular (การทำลายเซลล์ตับ). อุบัติการณ์: 7% of patients.",
     "scientific_name": null,
@@ -3591,8 +3591,8 @@
     "synonyms": [
       "-"
     ],
-    "livertox_grade": "-",
-    "rucam_score_bonus": "-",
+    "livertox_grade": "E",
+    "rucam_score_bonus": 0,
     "hepatotoxicity_pattern": "-",
     "description_th": "Cycloserine เป็นยาแผนปัจจุบันที่อาจทำให้เกิดความเป็นพิษต่อตับ (Drug-Induced Liver Injury, DILI).",
     "scientific_name": null,
@@ -4042,8 +4042,8 @@
     "synonyms": [
       "-"
     ],
-    "livertox_grade": "-",
-    "rucam_score_bonus": "-",
+    "livertox_grade": "E",
+    "rucam_score_bonus": 0,
     "hepatotoxicity_pattern": "-",
     "description_th": "Posaconazole เป็นยาแผนปัจจุบันที่อาจทำให้เกิดความเป็นพิษต่อตับ (Drug-Induced Liver Injury, DILI) ระดับความรุนแรงอาจถึงขั้นเล็กน้อย. อุบัติการณ์: 12% of patients.",
     "scientific_name": null,
@@ -4661,8 +4661,8 @@
     "synonyms": [
       "-"
     ],
-    "livertox_grade": "-",
-    "rucam_score_bonus": "-",
+    "livertox_grade": "E",
+    "rucam_score_bonus": 0,
     "hepatotoxicity_pattern": "-",
     "description_th": "Entecavir เป็นยาแผนปัจจุบันที่อาจทำให้เกิดความเป็นพิษต่อตับ (Drug-Induced Liver Injury, DILI) ระดับความรุนแรงอาจถึงขั้นรุนแรง. อุบัติการณ์: 12% of patients.",
     "scientific_name": null,
@@ -4743,8 +4743,8 @@
     "synonyms": [
       "-"
     ],
-    "livertox_grade": "-",
-    "rucam_score_bonus": "-",
+    "livertox_grade": "E",
+    "rucam_score_bonus": 0,
     "hepatotoxicity_pattern": "-",
     "description_th": "Ribavirin เป็นยาแผนปัจจุบันที่อาจทำให้เกิดความเป็นพิษต่อตับ (Drug-Induced Liver Injury, DILI) ระดับความรุนแรงอาจถึงขั้นรุนแรง. มีหลักฐานความเป็นพิษต่อตับในระดับ case report(s).",
     "scientific_name": null,
@@ -5621,8 +5621,8 @@
     "synonyms": [
       "-"
     ],
-    "livertox_grade": "-",
-    "rucam_score_bonus": "-",
+    "livertox_grade": "B",
+    "rucam_score_bonus": 2,
     "hepatotoxicity_pattern": "Hepatocellular (การทำลายเซลล์ตับ)",
     "description_th": "Melphalan เป็นยาแผนปัจจุบันที่อาจทำให้เกิดความเป็นพิษต่อตับแบบ Hepatocellular (การทำลายเซลล์ตับ) ระดับความรุนแรงอาจถึงขั้นรุนแรง. อุบัติการณ์: 80% of patients.",
     "scientific_name": null,
@@ -5663,8 +5663,8 @@
     "synonyms": [
       "-"
     ],
-    "livertox_grade": "-",
-    "rucam_score_bonus": "-",
+    "livertox_grade": "E",
+    "rucam_score_bonus": 0,
     "hepatotoxicity_pattern": "Cholestatic (น้ำดีคั่ง/ท่อน้ำดีอุดตัน)",
     "description_th": "Carmustine เป็นยาแผนปัจจุบันที่อาจทำให้เกิดความเป็นพิษต่อตับแบบ Cholestatic (น้ำดีคั่ง/ท่อน้ำดีอุดตัน) ระดับความรุนแรงอาจถึงขั้นรุนแรง. อุบัติการณ์: 25% of patients.",
     "scientific_name": null,
@@ -5777,8 +5777,8 @@
     "synonyms": [
       "-"
     ],
-    "livertox_grade": "-",
-    "rucam_score_bonus": "-",
+    "livertox_grade": "B",
+    "rucam_score_bonus": 2,
     "hepatotoxicity_pattern": "-",
     "description_th": "Mitomycin เป็นยาแผนปัจจุบันที่อาจทำให้เกิดความเป็นพิษต่อตับ (Drug-Induced Liver Injury, DILI) ระดับความรุนแรงอาจถึงขั้นรุนแรง.",
     "scientific_name": null,
@@ -6020,8 +6020,8 @@
     "synonyms": [
       "-"
     ],
-    "livertox_grade": "-",
-    "rucam_score_bonus": "-",
+    "livertox_grade": "E",
+    "rucam_score_bonus": 0,
     "hepatotoxicity_pattern": "Cholestatic (น้ำดีคั่ง/ท่อน้ำดีอุดตัน)",
     "description_th": "Capecitabine เป็นยาแผนปัจจุบันที่อาจทำให้เกิดความเป็นพิษต่อตับแบบ Cholestatic (น้ำดีคั่ง/ท่อน้ำดีอุดตัน) ระดับความรุนแรงอาจถึงขั้นเล็กน้อย. อุบัติการณ์: 1% of patients.",
     "scientific_name": null,
@@ -6094,8 +6094,8 @@
     "synonyms": [
       "-"
     ],
-    "livertox_grade": "-",
-    "rucam_score_bonus": "-",
+    "livertox_grade": "E",
+    "rucam_score_bonus": 0,
     "hepatotoxicity_pattern": "-",
     "description_th": "Pemetrexed เป็นยาแผนปัจจุบันที่อาจทำให้เกิดความเป็นพิษต่อตับ (Drug-Induced Liver Injury, DILI) ระดับความรุนแรงอาจถึงขั้นปานกลาง. อุบัติการณ์: 6% of patients.",
     "scientific_name": null,
@@ -6470,8 +6470,8 @@
     "synonyms": [
       "-"
     ],
-    "livertox_grade": "-",
-    "rucam_score_bonus": "-",
+    "livertox_grade": "E",
+    "rucam_score_bonus": 0,
     "hepatotoxicity_pattern": "-",
     "description_th": "Mitotane เป็นยาแผนปัจจุบันที่อาจทำให้เกิดความเป็นพิษต่อตับ (Drug-Induced Liver Injury, DILI).",
     "scientific_name": null,
@@ -6899,8 +6899,8 @@
     "synonyms": [
       "-"
     ],
-    "livertox_grade": "-",
-    "rucam_score_bonus": "-",
+    "livertox_grade": "E",
+    "rucam_score_bonus": 0,
     "hepatotoxicity_pattern": "-",
     "description_th": "Everolimus เป็นยาแผนปัจจุบันที่อาจทำให้เกิดความเป็นพิษต่อตับ (Drug-Induced Liver Injury, DILI) ระดับความรุนแรงอาจถึงขั้นรุนแรง.",
     "scientific_name": null,
@@ -7248,8 +7248,8 @@
     "synonyms": [
       "-"
     ],
-    "livertox_grade": "-",
-    "rucam_score_bonus": "-",
+    "livertox_grade": "E",
+    "rucam_score_bonus": 0,
     "hepatotoxicity_pattern": "-",
     "description_th": "Deferiprone เป็นยาแผนปัจจุบันที่อาจทำให้เกิดความเป็นพิษต่อตับ (Drug-Induced Liver Injury, DILI). อุบัติการณ์: 7.5% of patients.",
     "scientific_name": null,
@@ -7364,8 +7364,8 @@
     "synonyms": [
       "-"
     ],
-    "livertox_grade": "-",
-    "rucam_score_bonus": "-",
+    "livertox_grade": "A",
+    "rucam_score_bonus": 2,
     "hepatotoxicity_pattern": "-",
     "description_th": "Vitamin A เป็นยาแผนปัจจุบันที่อาจทำให้เกิดความเป็นพิษต่อตับ (Drug-Induced Liver Injury, DILI) ระดับความรุนแรงอาจถึงขั้นรุนแรง. มีหลักฐานความเป็นพิษต่อตับในระดับ case report(s).",
     "scientific_name": null,
@@ -7945,8 +7945,8 @@
     "synonyms": [
       "-"
     ],
-    "livertox_grade": "-",
-    "rucam_score_bonus": "-",
+    "livertox_grade": "E",
+    "rucam_score_bonus": 0,
     "hepatotoxicity_pattern": "-",
     "description_th": "Secukinumab เป็นยาแผนปัจจุบันที่อาจทำให้เกิดความเป็นพิษต่อตับ (Drug-Induced Liver Injury, DILI) ระดับความรุนแรงอาจถึงขั้นเล็กน้อย.",
     "scientific_name": null,
@@ -8367,8 +8367,8 @@
     "synonyms": [
       "-"
     ],
-    "livertox_grade": "-",
-    "rucam_score_bonus": "-",
+    "livertox_grade": "B",
+    "rucam_score_bonus": 2,
     "hepatotoxicity_pattern": "Hepatocellular (การทำลายเซลล์ตับ)",
     "description_th": "Acitretin เป็นยาแผนปัจจุบันที่อาจทำให้เกิดความเป็นพิษต่อตับแบบ Hepatocellular (การทำลายเซลล์ตับ) ระดับความรุนแรงอาจถึงขั้นเล็กน้อย. มีหลักฐานความเป็นพิษต่อตับในระดับ case report(s). อุบัติการณ์: 4% of patients.",
     "scientific_name": null,
@@ -8403,8 +8403,8 @@
     "synonyms": [
       "-"
     ],
-    "livertox_grade": "-",
-    "rucam_score_bonus": "-",
+    "livertox_grade": "A",
+    "rucam_score_bonus": 2,
     "hepatotoxicity_pattern": "Hepatocellular (การทำลายเซลล์ตับ)",
     "description_th": "Propofol เป็นยาแผนปัจจุบันที่อาจทำให้เกิดความเป็นพิษต่อตับแบบ Hepatocellular (การทำลายเซลล์ตับ) ระดับความรุนแรงอาจถึงขั้นเล็กน้อย. มีหลักฐานความเป็นพิษต่อตับในระดับ case report(s).",
     "scientific_name": null,
