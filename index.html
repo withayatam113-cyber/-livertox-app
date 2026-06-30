@@ -281,6 +281,12 @@
       </div>
       <p id="selected-drug-source-display" class="hidden text-[11px] text-slate-400 mt-1"></p>
 
+      <!-- Herb-no-livertox warning: shown only for thai_herb_source=true + grade='-' -->
+      <div id="selected-drug-herb-warning" class="hidden mt-2 flex items-start gap-2 rounded-md bg-amber-50 border border-amber-200 px-3 py-2 text-xs text-amber-800">
+        <span class="mt-0.5 flex-shrink-0">&#9888;</span>
+        <span>สมุนไพรนี้ยังไม่มีข้อมูลความเป็นพิษต่อตับจาก LiverTox (NIH) — <strong>ไม่ควรใช้ประเมิน RUCAM โดยตรง</strong> ต้องผู้เชี่ยวชาญยืนยันก่อน</span>
+      </div>
+
       <!-- v3 detail fields: mechanism / temporal / clinical / evidence -->
       <div id="selected-drug-v3-details" class="hidden mt-2 pt-2 border-t border-teal-200 grid grid-cols-1 sm:grid-cols-2 gap-x-4 gap-y-1 text-xs text-slate-600">
         <p id="selected-drug-mechanism-display" class="hidden sm:col-span-2"><span class="font-semibold text-slate-700">กลไกการเกิดพิษ:</span> <span class="mechanism-value"></span></p>
@@ -965,7 +971,12 @@ function renderDrugDropdown(results) {
     return;
   }
 
-  list.innerHTML = results.map(d => `
+  list.innerHTML = results.map(d => {
+    const isHerbNoData = d.thai_herb_source === true && d.livertox_grade === '-';
+    const gradeBadge = isHerbNoData
+      ? `<span class="text-xs font-bold px-2 py-0.5 rounded-full flex-shrink-0 bg-amber-50 text-amber-700 border border-amber-300">สมุนไพร</span>`
+      : `<span class="text-xs font-bold px-2 py-0.5 rounded-full grade-badge-${d.livertox_grade} flex-shrink-0">Grade ${d.livertox_grade}</span>`;
+    return `
     <li class="dropdown-item px-4 py-3 cursor-pointer border-b border-slate-100 last:border-0"
         onclick="selectDrug(${d.id})">
       <div class="flex items-center justify-between gap-2">
@@ -973,12 +984,10 @@ function renderDrugDropdown(results) {
           <p class="font-semibold text-slate-800 text-sm">${d.name_en}</p>
           <p class="text-xs text-slate-500">${d.name_th}</p>
         </div>
-        <span class="text-xs font-bold px-2 py-0.5 rounded-full grade-badge-${d.livertox_grade} flex-shrink-0">
-          Grade ${d.livertox_grade}
-        </span>
+        ${gradeBadge}
       </div>
-    </li>
-  `).join('');
+    </li>`;
+  }).join('');
   dropdown.classList.remove('hidden');
 }
 
@@ -1036,6 +1045,10 @@ function renderDrugDetails(drug) {
   } else {
     sourceEl.classList.add('hidden');
   }
+
+  // Herb warning: show for thai_herb herbs with no LiverTox grade
+  const herbWarning = document.getElementById('selected-drug-herb-warning');
+  herbWarning.classList.toggle('hidden', !(drug.thai_herb_source === true && drug.livertox_grade === '-'));
 
   // ===== v3 fields: mechanism / temporal / clinical / evidence =====
   const v3Wrap = document.getElementById('selected-drug-v3-details');
