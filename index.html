@@ -11175,8 +11175,8 @@ async function generatePDF() {
 
   const filename = 'RUCAM_Report_' + (appState.patientCaseId || 'Case') + '_' + new Date().toISOString().slice(0,10) + '.pdf';
 
-  // ── แสดง reportEl ก่อน render (html2canvas ต้องการ visible element) ──
-  reportEl.style.cssText = 'display:block; position:fixed; left:-9999px; top:0; width:780px; font-family:\'Sarabun\',sans-serif; padding:20px; color:#1e293b; background:white;';
+  // ── แสดง reportEl ก่อน render (html2canvas ต้องการ element ที่อยู่ใน viewport) ──
+  reportEl.style.cssText = 'display:block; position:fixed; left:0; top:0; width:780px; opacity:0.001; pointer-events:none; z-index:-1; font-family:\'Sarabun\',sans-serif; padding:20px; color:#1e293b; background:white;';
 
   if (typeof html2pdf === 'undefined') {
     reportEl.style.cssText = 'display:block; position:fixed; left:0; top:0; width:100%;';
@@ -11189,12 +11189,16 @@ async function generatePDF() {
     margin: [10, 10, 10, 10],
     filename: filename,
     image: { type: 'jpeg', quality: 0.98 },
-    html2canvas: { scale: 2, useCORS: true, allowTaint: true, logging: false, onclone: () => document.fonts.ready },
+    html2canvas: {
+      scale: 2, useCORS: true, allowTaint: true, logging: false,
+      onclone: (clonedDoc) => clonedDoc.fonts.ready
+    },
     jsPDF: { unit: 'mm', format: 'a4', orientation: 'portrait' }
   };
 
   try {
     await document.fonts.ready;
+    await new Promise(r => setTimeout(r, 400)); // รอให้ browser paint element + font glyphs
     await html2pdf().from(reportEl).set(opt).save();
     showToast('บันทึก PDF เรียบร้อย: ' + filename);
   } catch (e) {
