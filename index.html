@@ -37,11 +37,11 @@
       flex-shrink: 0;
     }
 
-    .grade-badge-A { background:#fef2f2; color:#991b1b; border:1px solid #fca5a5; }
-    .grade-badge-B { background:#fff7ed; color:#9a3412; border:1px solid #fdba74; }
-    .grade-badge-C { background:#fefce8; color:#854d0e; border:1px solid #fde047; }
-    .grade-badge-D { background:#f0fdf4; color:#166534; border:1px solid #86efac; }
-    .grade-badge-E { background:#f8fafc; color:#475569; border:1px solid #cbd5e1; }
+    .grade-badge-A { background:#fecaca; color:#7f1d1d; border:3px solid #f87171; font-size:1.5rem; font-weight:900; padding:0.4rem 1.25rem; border-radius:9999px; }
+    .grade-badge-B { background:#fed7aa; color:#7c2d12; border:3px solid #fb923c; font-size:1.5rem; font-weight:900; padding:0.4rem 1.25rem; border-radius:9999px; }
+    .grade-badge-C { background:#fef08a; color:#713f12; border:3px solid #eab308; font-size:1.5rem; font-weight:900; padding:0.4rem 1.25rem; border-radius:9999px; }
+    .grade-badge-D { background:#bbf7d0; color:#14532d; border:3px solid #4ade80; font-size:1.5rem; font-weight:900; padding:0.4rem 1.25rem; border-radius:9999px; }
+    .grade-badge-E { background:#e2e8f0; color:#334155; border:3px solid #94a3b8; font-size:1.5rem; font-weight:900; padding:0.4rem 1.25rem; border-radius:9999px; }
 
     .score-bar-container { height: 24px; background: #e2e8f0; border-radius: 9999px; overflow: hidden; }
     .score-bar-inner { height: 100%; border-radius: 9999px; transition: width 0.4s ease; }
@@ -145,8 +145,8 @@
 
     /* ── Section background variants ── */
     .section-card-teal {
-      background: #f0fdfa !important;   /* Teal-50 — โซนค้นหายา (brand color) */
-      border: 2px solid #99f6e4 !important;
+      background: #5eead4 !important;   /* Teal-300 — เข้มกว่า Teal-50 ประมาณ 5x */
+      border: 2px solid #0d9488 !important;
     }
     .section-card-blue {
       background: #eff6ff !important;   /* Blue-50 — โซนข้อมูลผู้ป่วย/Lab */
@@ -316,7 +316,7 @@
           <p class="text-xs text-slate-500 mt-0.5" id="selected-drug-synonyms-display"></p>
           <p class="text-sm text-slate-600 mt-1" id="selected-drug-desc-display"></p>
         </div>
-        <span id="selected-drug-grade-badge" class="text-xs font-bold px-2 py-0.5 rounded-full flex-shrink-0"></span>
+        <span id="selected-drug-grade-badge" class="flex-shrink-0"></span>
       </div>
 
       <div class="mt-2 flex flex-wrap gap-x-4 gap-y-1 text-xs text-slate-600">
