@@ -37,11 +37,11 @@
       flex-shrink: 0;
     }
 
-    .grade-badge-A { background:#fecaca; color:#7f1d1d; border:3px solid #f87171; font-size:1.5rem; font-weight:900; padding:0.4rem 1.25rem; border-radius:9999px; }
-    .grade-badge-B { background:#fed7aa; color:#7c2d12; border:3px solid #fb923c; font-size:1.5rem; font-weight:900; padding:0.4rem 1.25rem; border-radius:9999px; }
-    .grade-badge-C { background:#fef08a; color:#713f12; border:3px solid #eab308; font-size:1.5rem; font-weight:900; padding:0.4rem 1.25rem; border-radius:9999px; }
-    .grade-badge-D { background:#bbf7d0; color:#14532d; border:3px solid #4ade80; font-size:1.5rem; font-weight:900; padding:0.4rem 1.25rem; border-radius:9999px; }
-    .grade-badge-E { background:#e2e8f0; color:#334155; border:3px solid #94a3b8; font-size:1.5rem; font-weight:900; padding:0.4rem 1.25rem; border-radius:9999px; }
+    .grade-badge-A { background:#fecaca; color:#7f1d1d; border:4px solid #f87171; font-size:3.5rem; font-weight:900; padding:0.6rem 2rem; border-radius:9999px; line-height:1.2; }
+    .grade-badge-B { background:#fed7aa; color:#7c2d12; border:4px solid #fb923c; font-size:3.5rem; font-weight:900; padding:0.6rem 2rem; border-radius:9999px; line-height:1.2; }
+    .grade-badge-C { background:#fef08a; color:#713f12; border:4px solid #eab308; font-size:3.5rem; font-weight:900; padding:0.6rem 2rem; border-radius:9999px; line-height:1.2; }
+    .grade-badge-D { background:#bbf7d0; color:#14532d; border:4px solid #4ade80; font-size:3.5rem; font-weight:900; padding:0.6rem 2rem; border-radius:9999px; line-height:1.2; }
+    .grade-badge-E { background:#e2e8f0; color:#334155; border:4px solid #94a3b8; font-size:3.5rem; font-weight:900; padding:0.6rem 2rem; border-radius:9999px; line-height:1.2; }
 
     .score-bar-container { height: 24px; background: #e2e8f0; border-radius: 9999px; overflow: hidden; }
     .score-bar-inner { height: 100%; border-radius: 9999px; transition: width 0.4s ease; }
@@ -145,8 +145,8 @@
 
     /* ── Section background variants ── */
     .section-card-teal {
-      background: #5eead4 !important;   /* Teal-300 — เข้มกว่า Teal-50 ประมาณ 5x */
-      border: 2px solid #0d9488 !important;
+      background: #0d9488 !important;   /* Teal-600 — ลง 3 เฉดจาก Teal-300 */
+      border: 2px solid #115e59 !important;
     }
     .section-card-blue {
       background: #eff6ff !important;   /* Blue-50 — โซนข้อมูลผู้ป่วย/Lab */
@@ -182,7 +182,23 @@
 
     /* ── Contrast fix: secondary text on colored section backgrounds ── */
     /* slate-400 (#94a3b8) ไม่ผ่าน WCAG AA บนพื้นสี → upgrade เป็น slate-600 (#475569) */
+    /* ข้อความบน teal-600 header → ขาว */
     .section-card-teal .text-slate-400,
+    .section-card-teal .text-slate-500,
+    .section-card-teal .text-slate-600,
+    .section-card-teal .text-slate-900,
+    .section-card-teal h2 {
+      color: #ffffff !important;
+    }
+    /* drug card (#selected-drug-info) มีพื้นหลัง teal-100 → คืน text สีเข้ม */
+    .section-card-teal #selected-drug-info .text-slate-400 { color: #94a3b8 !important; }
+    .section-card-teal #selected-drug-info .text-slate-500 { color: #64748b !important; }
+    .section-card-teal #selected-drug-info .text-slate-600 { color: #475569 !important; }
+    .section-card-teal #selected-drug-info .text-slate-700 { color: #334155 !important; }
+    .section-card-teal #selected-drug-info .text-slate-800 { color: #1e293b !important; }
+    .section-card-teal #selected-drug-info .text-slate-900 { color: #0f172a !important; }
+    .section-card-teal #selected-drug-info .text-teal-800 { color: #115e59 !important; }
+    .section-card-teal #selected-drug-info .text-teal-600 { color: #0d9488 !important; }
     .section-card-blue .text-slate-400,
     .section-card-amber .text-slate-400 {
       color: #475569 !important;
@@ -309,7 +325,7 @@
     </div>
 
     <!-- Selected drug info -->
-    <div id="selected-drug-info" class="hidden mt-3 bg-teal-50 border border-teal-200 rounded-lg p-3">
+    <div id="selected-drug-info" class="hidden mt-3 bg-teal-100 border border-teal-300 rounded-lg p-3">
       <div class="flex items-start justify-between gap-2">
         <div>
           <p class="font-semibold text-teal-800" id="selected-drug-name-display"></p>
@@ -10233,7 +10249,7 @@ function renderDrugDetails(drug) {
 
   const gradeBadge = document.getElementById('selected-drug-grade-badge');
   gradeBadge.textContent = `Grade ${drug.livertox_grade}`;
-  gradeBadge.className = `text-xs font-bold px-2 py-0.5 rounded-full flex-shrink-0 grade-badge-${drug.livertox_grade}`;
+  gradeBadge.className = `flex-shrink-0 grade-badge-${drug.livertox_grade}`;
 
   // ชื่อพ้อง/ชื่อการค้า
   const synEl = document.getElementById('selected-drug-synonyms-display');
