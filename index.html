@@ -133,16 +133,25 @@
     #pdf-report { display: none; }
 
     /* ── Section background variants ── */
-    .section-card-slate {
-      background: #f1f5f9 !important;   /* Slate-100 — โซนข้อมูลห้องแล็บ */
-      border: 2px solid #cbd5e1 !important;
+    .section-card-teal {
+      background: #f0fdfa !important;   /* Teal-50 — โซนค้นหายา (brand color) */
+      border: 2px solid #99f6e4 !important;
+    }
+    .section-card-blue {
+      background: #eff6ff !important;   /* Blue-50 — โซนข้อมูลผู้ป่วย/Lab */
+      border: 2px solid #bfdbfe !important;
+    }
+    .section-card-amber {
+      background: #fffbeb !important;   /* Amber-50 — โซนประเมิน RUCAM */
+      border: 2px solid #fde68a !important;
     }
     .section-card-emerald {
       background: #ecfdf5 !important;   /* Emerald-50 — โซนสรุปผลวินิจฉัย */
       border: 2px solid #34d399 !important;
     }
     .section-card-zinc {
-      background: #f5f5f5 !important;   /* Neutral-100 — โซนประวัติ */
+      background: #f4f4f5 !important;   /* Zinc-100 — โซนประวัติ */
+      border: 2px solid #d4d4d8 !important;
     }
 
     /* ── RUCAM question boxes (Q1–Q7) ── */
@@ -158,6 +167,31 @@
     input[type="text"]:focus, input[type="number"]:focus {
       border-color: #0f766e;
       box-shadow: 0 0 0 4px rgba(13,148,136,0.18);
+    }
+
+    /* ── Contrast fix: secondary text on colored section backgrounds ── */
+    /* slate-400 (#94a3b8) ไม่ผ่าน WCAG AA บนพื้นสี → upgrade เป็น slate-600 (#475569) */
+    .section-card-teal .text-slate-400,
+    .section-card-blue .text-slate-400,
+    .section-card-amber .text-slate-400 {
+      color: #475569 !important;
+    }
+    /* slate-500 บน amber ยังน้อยกว่า 4.5:1 → upgrade เป็น slate-700 (#334155) */
+    .section-card-amber .text-slate-500 {
+      color: #334155 !important;
+    }
+    .section-card-blue .text-slate-500 {
+      color: #475569 !important;
+    }
+    /* text-xs บน amber ต้องชัดพิเศษเพราะตัวเล็ก */
+    .section-card-amber .text-xs {
+      color: #374151 !important;
+    }
+    /* ยกเว้น score badge ที่มีสีเฉพาะ */
+    .section-card-amber .text-xs.text-teal-800,
+    .section-card-amber .text-xs.text-red-600,
+    .section-card-amber .text-xs.text-emerald-600 {
+      color: inherit !important;
     }
   </style>
 </head>
@@ -231,7 +265,7 @@
 <main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
 
   <!-- ========== SECTION 0: DRUG SEARCH ========== -->
-  <div class="section-card">
+  <div class="section-card section-card-teal">
     <div class="flex items-center gap-3 mb-4">
       <span class="text-2xl leading-none" aria-hidden="true">🔍</span>
       <h2 class="text-xl font-bold text-slate-900">ค้นหายาหรือสมุนไพรในฐานข้อมูล</h2>
@@ -310,7 +344,7 @@
   </div>
 
   <!-- ========== SECTION 1: R-RATIO CALCULATOR ========== -->
-  <div class="section-card section-card-slate">
+  <div class="section-card section-card-blue">
     <div class="flex items-center mb-4">
       <span class="section-number">1</span>
       <h2 class="text-xl font-bold text-slate-900">ข้อมูลผู้ป่วยและค่าผลเลือด</h2>
@@ -427,7 +461,7 @@
 
   <!-- ========== SECTION 2: RUCAM FORM ========== -->
   <div id="rucam-section" class="hidden">
-    <div class="section-card">
+    <div class="section-card section-card-amber">
       <div class="flex items-center mb-2">
         <span class="section-number">2</span>
         <h2 class="text-xl font-bold text-slate-900">แบบฟอร์มประเมิน RUCAM (7 เกณฑ์)</h2>
