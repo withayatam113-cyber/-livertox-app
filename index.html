@@ -153,8 +153,8 @@
 
     /* ── Section background variants ── */
     .section-card-teal {
-      background: #2dd4bf !important;   /* Teal-400 — อ่อนลง 2 เฉดจาก Teal-600 */
-      border: 2px solid #14b8a6 !important;
+      background: #166534 !important;   /* Green-800 (forest) */
+      border: 2px solid #14532d !important;
     }
     .section-card-blue {
       background: #dbeafe !important;   /* Blue-100 — โซนข้อมูลผู้ป่วย/Lab */
@@ -189,14 +189,13 @@
     }
 
     /* ── Contrast fix: secondary text on colored section backgrounds ── */
-    /* slate-400 (#94a3b8) ไม่ผ่าน WCAG AA บนพื้นสี → upgrade เป็น slate-600 (#475569) */
-    /* ข้อความบน teal-400 header → เขียวเข้ม เพื่อ contrast กับพื้นอ่อน */
+    /* พื้นเขียวป่าเข้ม (#166534) → ต้องใช้ตัวอักษรสีขาวเพื่อ contrast */
     .section-card-teal .text-slate-400,
     .section-card-teal .text-slate-500,
     .section-card-teal .text-slate-600,
     .section-card-teal .text-slate-900,
     .section-card-teal h2 {
-      color: #134e4a !important;
+      color: #ffffff !important;
     }
     /* drug card (#selected-drug-info) มีพื้นหลัง teal-100 → คืน text สีเข้ม */
     .section-card-teal #selected-drug-info .text-slate-400 { color: #94a3b8 !important; }
