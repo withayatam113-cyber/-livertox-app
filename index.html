@@ -397,14 +397,14 @@
     <!-- Sex Selection -->
     <div class="mb-6">
       <label class="block text-base font-semibold text-slate-900 mb-2">เพศ (สำหรับกำหนดค่า ULN อัตโนมัติ)</label>
-      <div class="flex gap-3">
+      <div class="flex flex-col sm:flex-row gap-3">
         <button id="btn-sex-male" onclick="selectSex('male')"
-          class="flex-1 sm:flex-none flex items-center justify-center gap-2 px-5 py-2.5 rounded-lg border-2 border-slate-200 bg-white text-slate-700 font-medium transition-all hover:border-teal-400">
+          class="flex items-center justify-center gap-2 px-5 py-2.5 rounded-lg border-2 border-slate-200 bg-white text-slate-700 font-medium transition-all hover:border-teal-400">
           &#9794; ชาย (Male)
           <span class="text-xs text-slate-400 font-normal">ALT 45 / ALP 115</span>
         </button>
         <button id="btn-sex-female" onclick="selectSex('female')"
-          class="flex-1 sm:flex-none flex items-center justify-center gap-2 px-5 py-2.5 rounded-lg border-2 border-slate-200 bg-white text-slate-700 font-medium transition-all hover:border-teal-400">
+          class="flex items-center justify-center gap-2 px-5 py-2.5 rounded-lg border-2 border-slate-200 bg-white text-slate-700 font-medium transition-all hover:border-teal-400">
           &#9792; หญิง (Female)
           <span class="text-xs text-slate-400 font-normal">ALT 34 / ALP 98</span>
         </button>
@@ -412,45 +412,51 @@
     </div>
 
     <!-- Lab Values -->
-    <div class="grid grid-cols-2 gap-4 mb-6">
-      <div>
-        <label class="block text-base font-semibold text-slate-900 mb-1">ALT ผู้ป่วย (U/L)</label>
-        <input type="number" id="alt-input" placeholder="เช่น 350" min="0"
-          oninput="appState.patientAlt = this.value; calculateQ2Drop();">
+    <div class="space-y-4 mb-6">
+      <!-- ALT pair -->
+      <div class="grid grid-cols-1 sm:grid-cols-2 gap-3">
+        <div>
+          <label class="block text-base font-semibold text-slate-900 mb-1">ALT ผู้ป่วย (U/L)</label>
+          <input type="number" id="alt-input" placeholder="เช่น 350" min="0"
+            oninput="appState.patientAlt = this.value; calculateQ2Drop();">
+        </div>
+        <div>
+          <label class="block text-base font-semibold text-slate-900 mb-1">
+            ULN ของ ALT (U/L) <span class="text-xs text-slate-400 font-normal">ค่าปกติสูงสุด</span>
+          </label>
+          <input type="number" id="uln-alt-input" placeholder="เช่น 50" min="0"
+            oninput="handleUlnEdit('alt'); calculateQ2Drop();">
+        </div>
       </div>
-      <div>
-        <label class="block text-base font-semibold text-slate-900 mb-1">
-          ULN ของ ALT (U/L)
-          <span class="text-xs text-slate-400 font-normal">ค่าปกติสูงสุด</span>
-        </label>
-        <input type="number" id="uln-alt-input" placeholder="เช่น 50" min="0"
-          oninput="handleUlnEdit('alt'); calculateQ2Drop();">
+      <!-- ALP pair -->
+      <div class="grid grid-cols-1 sm:grid-cols-2 gap-3">
+        <div>
+          <label class="block text-base font-semibold text-slate-900 mb-1">ALP ผู้ป่วย (U/L)</label>
+          <input type="number" id="alp-input" placeholder="เช่น 160" min="0"
+            oninput="appState.patientAlp = this.value; calculateQ2Drop();">
+        </div>
+        <div>
+          <label class="block text-base font-semibold text-slate-900 mb-1">
+            ULN ของ ALP (U/L) <span class="text-xs text-slate-400 font-normal">ค่าปกติสูงสุด</span>
+          </label>
+          <input type="number" id="uln-alp-input" placeholder="เช่น 115" min="0"
+            oninput="handleUlnEdit('alp'); calculateQ2Drop();">
+        </div>
       </div>
-      <div>
-        <label class="block text-base font-semibold text-slate-900 mb-1">ALP ผู้ป่วย (U/L)</label>
-        <input type="number" id="alp-input" placeholder="เช่น 160" min="0"
-          oninput="appState.patientAlp = this.value; calculateQ2Drop();">
-      </div>
-      <div>
-        <label class="block text-base font-semibold text-slate-900 mb-1">
-          ULN ของ ALP (U/L)
-          <span class="text-xs text-slate-400 font-normal">ค่าปกติสูงสุด</span>
-        </label>
-        <input type="number" id="uln-alp-input" placeholder="เช่น 115" min="0"
-          oninput="handleUlnEdit('alp'); calculateQ2Drop();">
-      </div>
-      <div>
-        <label class="block text-base font-semibold text-slate-900 mb-1">Total Bilirubin ผู้ป่วย (mg/dL)</label>
-        <input type="number" id="tb-input" placeholder="เช่น 2.5" min="0" step="0.1"
-          oninput="appState.patientTb = this.value">
-      </div>
-      <div>
-        <label class="block text-base font-semibold text-slate-900 mb-1">
-          ULN ของ TB (mg/dL)
-          <span class="text-xs text-slate-400 font-normal">ค่าปกติสูงสุด</span>
-        </label>
-        <input type="number" id="uln-tb-input" placeholder="เช่น 1.2" min="0" step="0.1"
-          oninput="handleUlnEdit('tb')">
+      <!-- Total Bilirubin pair -->
+      <div class="grid grid-cols-1 sm:grid-cols-2 gap-3">
+        <div>
+          <label class="block text-base font-semibold text-slate-900 mb-1">Total Bilirubin ผู้ป่วย (mg/dL)</label>
+          <input type="number" id="tb-input" placeholder="เช่น 2.5" min="0" step="0.1"
+            oninput="appState.patientTb = this.value">
+        </div>
+        <div>
+          <label class="block text-base font-semibold text-slate-900 mb-1">
+            ULN ของ TB (mg/dL) <span class="text-xs text-slate-400 font-normal">ค่าปกติสูงสุด</span>
+          </label>
+          <input type="number" id="uln-tb-input" placeholder="เช่น 1.2" min="0" step="0.1"
+            oninput="handleUlnEdit('tb')">
+        </div>
       </div>
     </div>
 
