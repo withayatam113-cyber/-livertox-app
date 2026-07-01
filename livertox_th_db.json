@@ -17,7 +17,36 @@
     "hepatotoxicity_pattern": "Hepatocellular",
     "scientific_name": null,
     "part_used": null,
-    "source": "LiverTox (NIDDK, NIH): Acetaminophen.nxml, updated 2016"
+    "source": "LiverTox (NIDDK, NIH): Acetaminophen.nxml",
+    "hepatotox_mechanism": "กลไก: Acetaminophen เป็นพิษต่อตับแบบ dose-dependent ผ่าน metabolite ที่เป็นพิษ NAPQI (N-acetyl-p-benzoquinone imine) ซึ่งสร้างผ่าน CYP2E1 และ CYP3A4 เมื่อ NAPQI เกินความสามารถของ glutathione ในการ detoxify จะเกิด oxidative stress และ hepatocyte necrosis แบบ centrilobular",
+    "injury_pattern": "Hepatocellular",
+    "severity_max": "Fatal",
+    "fatal_cases_reported": true,
+    "onset_days_min": 1,
+    "onset_days_max": 3,
+    "recovery_days_min": 7,
+    "recovery_days_max": 14,
+    "chronic_risk": false,
+    "rechallenge_data": "positive",
+    "incidence_rate": "พบบ่อยในผู้ที่ได้รับยาเกินขนาด (overdose); พิษต่อตับจากขนาดรักษาพบน้อยมาก ยกเว้นมีปัจจัยเสี่ยงร่วม",
+    "risk_factors_th": [
+      "ปัจจัยเสี่ยง: การใช้แอลกอฮอล์เรื้อรัง (เหนี่ยวนำ CYP2E1 และลด glutathione สำรอง)",
+      "ปัจจัยเสี่ยง: อดอาหาร/ขาดสารอาหาร (ลด glutathione)",
+      "ปัจจัยเสี่ยง: ยาที่เหนี่ยวนำ CYP2E1/CYP3A4 เช่น Rifampicin, Isoniazid, Phenytoin",
+      "ปัจจัยเสี่ยง: ขนาดยาเกิน 150 mg/kg หรือ >7.5 g ในผู้ใหญ่ภายใน 24 ชั่วโมง"
+    ],
+    "interacting_drugs_th": [
+      "ยาที่ใช้ร่วมความเสี่ยง: แอลกอฮอล์ — เหนี่ยวนำ CYP2E1 เพิ่มการสร้าง NAPQI และลด glutathione เพิ่มความเสี่ยงตับเสียหายอย่างมีนัยสำคัญ",
+      "ยาที่ใช้ร่วมความเสี่ยง: Rifampicin, Isoniazid, Phenytoin, Carbamazepine — เหนี่ยวนำ CYP2E1/CYP3A4 เพิ่มการสร้าง NAPQI",
+      "ยาที่ใช้ร่วมความเสี่ยง: Warfarin — การใช้ Paracetamol ระยะยาวอาจเพิ่มฤทธิ์ anticoagulant"
+    ],
+    "monitoring_note_th": "คำแนะนำติดตาม: ตรวจ serum ALT, AST, PT/INR และระดับ Acetaminophen ในเลือดเมื่อสงสัยพิษ ควรเริ่ม N-acetylcysteine (NAC) โดยเร็วที่สุดในกรณี overdose",
+    "thai_herb_source": null,
+    "evidence_level": "well-established",
+    "case_count_reported": null,
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Acetaminophen/",
+    "source_review_date": "2020-09-22",
+    "last_updated": "2026-07-01"
   },
   {
     "id": 2,
@@ -36,7 +65,31 @@
     "hepatotoxicity_pattern": "Cholestatic (มักเป็นแบบ mixed หรือ hepatocellular ในเด็ก)",
     "scientific_name": null,
     "part_used": null,
-    "source": "LiverTox (NIDDK, NIH): AmoxicillinClavulana.nxml"
+    "source": "LiverTox (NIDDK, NIH): AmoxicillinClavulana.nxml",
+    "hepatotox_mechanism": "กลไก: Clavulanate เป็นสารหลักที่ทำให้เกิด DILI โดยกลไก Idiosyncratic immune-mediated Clavulanate จับกับโปรตีนในตับเป็น hapten กระตุ้น T-cell immune response พบความสัมพันธ์กับ HLA alleles (HLA-A*02:01, HLA-DRB1*15:01)",
+    "injury_pattern": "Mixed",
+    "severity_max": "Severe",
+    "fatal_cases_reported": true,
+    "onset_days_min": 7,
+    "onset_days_max": 42,
+    "recovery_days_min": 30,
+    "recovery_days_max": 180,
+    "chronic_risk": true,
+    "rechallenge_data": "positive",
+    "incidence_rate": "1-2 ต่อ 10,000 ผู้ใช้ยา; เป็นสาเหตุ DILI จากยาปฏิชีวนะที่พบบ่อยที่สุดในประเทศตะวันตก",
+    "risk_factors_th": [
+      "ปัจจัยเสี่ยง: เพศชาย และอายุมากกว่า 55 ปี",
+      "ปัจจัยเสี่ยง: การใช้ยาซ้ำหลายครั้ง (repeated courses)",
+      "ปัจจัยเสี่ยง: HLA-A*02:01, HLA-DRB1*15:01 alleles"
+    ],
+    "interacting_drugs_th": "-",
+    "monitoring_note_th": "คำแนะนำติดตาม: ตรวจ ALT, ALP, Bilirubin หากใช้ยานานหรือมีอาการตัวเหลือง Cholestasis อาจดำเนินต่อหลายเดือน (ถึง Vanishing bile duct syndrome) หากจำเป็นต้องใช้ยาปฏิชีวนะอาจเปลี่ยนเป็น Amoxicillin เดี่ยว",
+    "thai_herb_source": null,
+    "evidence_level": "case series",
+    "case_count_reported": null,
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/AmoxicillinClavulanate/",
+    "source_review_date": "2020-02-03",
+    "last_updated": "2026-07-01"
   },
   {
     "id": 3,
@@ -54,7 +107,37 @@
     "hepatotoxicity_pattern": "Hepatocellular",
     "scientific_name": null,
     "part_used": null,
-    "source": "LiverTox (NIDDK, NIH): Isoniazid.nxml"
+    "source": "LiverTox (NIDDK, NIH): Isoniazid.nxml",
+    "hepatotox_mechanism": "กลไก: Isoniazid เกิด metabolic idiosyncratic toxicity ผ่าน metabolite Acetylhydrazine ที่สร้างโดย N-acetyltransferase 2 (NAT2) Acetylhydrazine ถูกกระตุ้นเพิ่มเติมโดย CYP2E1 ให้เป็น reactive intermediates ทำลาย hepatocyte ผู้ที่มี slow acetylator genotype (NAT2) จะสะสม acetylhydrazine มากกว่า เพิ่มความเสี่ยง DILI",
+    "injury_pattern": "Hepatocellular",
+    "severity_max": "Fatal",
+    "fatal_cases_reported": true,
+    "onset_days_min": 28,
+    "onset_days_max": 180,
+    "recovery_days_min": 30,
+    "recovery_days_max": 90,
+    "chronic_risk": false,
+    "rechallenge_data": "positive",
+    "incidence_rate": "DILI ทางคลินิก ~1-3% ของผู้ใช้ยา; ALT สูงแบบไม่มีอาการ 10-20% (มักหายได้เอง)",
+    "risk_factors_th": [
+      "ปัจจัยเสี่ยง: Slow NAT2 acetylator genotype — สะสม acetylhydrazine มากกว่า เพิ่มความเสี่ยง",
+      "ปัจจัยเสี่ยง: อายุมากกว่า 35 ปี — อุบัติการณ์ DILI สูงขึ้นตามอายุ",
+      "ปัจจัยเสี่ยง: การดื่มแอลกอฮอล์ — เหนี่ยวนำ CYP2E1 เพิ่มการสร้าง reactive intermediates",
+      "ปัจจัยเสี่ยง: การติดเชื้อ HIV, ภาวะทุพโภชนาการ, โรคตับเรื้อรัง",
+      "ปัจจัยเสี่ยง: ใช้ร่วมกับ Rifampicin — เพิ่มอุบัติการณ์ DILI อย่างมีนัยสำคัญ"
+    ],
+    "interacting_drugs_th": [
+      "ยาที่ใช้ร่วมความเสี่ยง: Rifampicin — synergistic hepatotoxicity Rifampicin เหนี่ยวนำ CYP2E1 ทำให้ acetylhydrazine ถูกกระตุ้นเป็น reactive intermediates มากขึ้น อุบัติการณ์ DILI ใน INH+RIF รวมกันสูงกว่า INH เดี่ยวหลายเท่า",
+      "ยาที่ใช้ร่วมความเสี่ยง: Phenytoin — Isoniazid ยับยั้ง CYP2C19 ทำให้ระดับ Phenytoin สูงขึ้น เพิ่มความเป็นพิษ",
+      "ยาที่ใช้ร่วมความเสี่ยง: แอลกอฮอล์ — เพิ่มความเสี่ยง hepatotoxicity ผ่าน CYP2E1 induction"
+    ],
+    "monitoring_note_th": "คำแนะนำติดตาม: ตรวจ LFTs ก่อนเริ่มยาและทุกเดือนระหว่างการรักษา หยุดยาทันทีหาก ALT >3x ULN ร่วมกับอาการ หรือ ALT >5x ULN แม้ไม่มีอาการ แจ้งผู้ป่วยให้รายงานอาการเบื่ออาหาร คลื่นไส้ หรือตัวเหลืองโดยเร็ว",
+    "thai_herb_source": null,
+    "evidence_level": "cohort",
+    "case_count_reported": null,
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Isoniazid/",
+    "source_review_date": "2020-02-20",
+    "last_updated": "2026-07-01"
   },
   {
     "id": 4,
@@ -63,7 +146,44 @@
     "type": "ยาแผนปัจจุบัน",
     "livertox_grade": "A",
     "rucam_score_bonus": 2,
-    "description_th": "ยาต้านวัณโรค มักทำให้ค่าเอนไซม์ตับสูงขึ้นชั่วคราว และเพิ่มความเสี่ยงตับอักเสบเมื่อใช้ร่วมกับ Isoniazid"
+    "description_th": "ยาต้านวัณโรค มักทำให้ค่าเอนไซม์ตับสูงขึ้นชั่วคราว และเพิ่มความเสี่ยงตับอักเสบเมื่อใช้ร่วมกับ Isoniazid",
+    "synonyms": [
+      "Rifampicin",
+      "RIF",
+      "Rimactane",
+      "Rifadin"
+    ],
+    "hepatotoxicity_pattern": "Hepatocellular",
+    "scientific_name": null,
+    "part_used": null,
+    "source": "LiverTox (NIDDK, NIH): Rifampin.nxml",
+    "hepatotox_mechanism": "กลไก: Rifampicin เป็น potent CYP inducer (CYP3A4, CYP2C9, CYP2E1) ทำให้เพิ่มการสร้าง toxic metabolites ของยาอื่น (รวมถึง Isoniazid) นอกจากนี้ยังยับยั้งการขับ bilirubin ผ่าน hepatic transporters (OATP1B1, MRP2) กลไก DILI โดยตรงเป็น Idiosyncratic hepatocellular injury",
+    "injury_pattern": "Hepatocellular",
+    "severity_max": "Fatal",
+    "fatal_cases_reported": true,
+    "onset_days_min": 14,
+    "onset_days_max": 42,
+    "recovery_days_min": 30,
+    "recovery_days_max": 60,
+    "chronic_risk": false,
+    "rechallenge_data": "positive",
+    "incidence_rate": "Monotherapy ~1%; ใช้ร่วมกับ Isoniazid เพิ่มอุบัติการณ์เป็น 4-8%",
+    "risk_factors_th": [
+      "ปัจจัยเสี่ยง: การใช้ร่วมกับ Isoniazid — พบบ่อยที่สุดในการรักษา TB",
+      "ปัจจัยเสี่ยง: ภาวะทุพโภชนาการ, โรคตับเรื้อรัง, การดื่มแอลกอฮอล์",
+      "ปัจจัยเสี่ยง: อายุมากกว่า 35 ปี"
+    ],
+    "interacting_drugs_th": [
+      "ยาที่ใช้ร่วมความเสี่ยง: Isoniazid — synergistic hepatotoxicity (สำคัญมาก ต้องติดตามตับอย่างใกล้ชิด)",
+      "ยาที่ใช้ร่วมความเสี่ยง: Rifampicin เป็น strong CYP inducer ลดระดับยาหลายชนิด เช่น Warfarin, ยาคุมกำเนิด, Protease inhibitors (HIV), Azole antifungals, Methadone, Corticosteroids"
+    ],
+    "monitoring_note_th": "คำแนะนำติดตาม: ตรวจ LFTs ก่อนเริ่มยาและทุกเดือน โดยเฉพาะเมื่อใช้ร่วมกับ Isoniazid ระวัง drug interactions กับยาอื่นอย่างเคร่งครัด",
+    "thai_herb_source": null,
+    "evidence_level": "cohort",
+    "case_count_reported": null,
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Rifampin/",
+    "source_review_date": "2020-02-03",
+    "last_updated": "2026-07-01"
   },
   {
     "id": 5,
@@ -81,7 +201,33 @@
     "hepatotoxicity_pattern": "Hepatocellular",
     "scientific_name": null,
     "part_used": null,
-    "source": "LiverTox (NIDDK, NIH): Diclofenac.nxml"
+    "source": "LiverTox (NIDDK, NIH): Diclofenac.nxml",
+    "hepatotox_mechanism": "กลไก: Diclofenac มี reactive metabolites 2 ชนิดคือ acylglucuronide (จาก UGT) และ quinone imine (ผ่าน CYP2C8, CYP3A4) สร้าง covalent adducts กับโปรตีนในตับ กระตุ้น immune response และยับยั้ง mitochondrial respiration เป็น idiosyncratic metabolic hepatotoxicity",
+    "injury_pattern": "Hepatocellular",
+    "severity_max": "Fatal",
+    "fatal_cases_reported": true,
+    "onset_days_min": 14,
+    "onset_days_max": 90,
+    "recovery_days_min": 30,
+    "recovery_days_max": 120,
+    "chronic_risk": true,
+    "rechallenge_data": "positive",
+    "incidence_rate": "~1-5 ต่อ 100,000 ผู้ใช้ยา; สูงกว่า NSAIDs ชนิดอื่นเช่น Ibuprofen หรือ Naproxen",
+    "risk_factors_th": [
+      "ปัจจัยเสี่ยง: เพศหญิง — พบ DILI จาก Diclofenac มากกว่าเพศชาย",
+      "ปัจจัยเสี่ยง: ผู้ป่วยโรคข้อเสื่อม (osteoarthritis) ที่ใช้ยาระยะยาว",
+      "ปัจจัยเสี่ยง: ใช้ยานานกว่า 6 สัปดาห์"
+    ],
+    "interacting_drugs_th": [
+      "ยาที่ใช้ร่วมความเสี่ยง: Fluconazole, Amiodarone — ยับยั้ง CYP2C8/2C9 ทำให้ระดับ Diclofenac และ acylglucuronide สูงขึ้น เพิ่มความเสี่ยง DILI"
+    ],
+    "monitoring_note_th": "คำแนะนำติดตาม: ตรวจ ALT ที่ 4-8 สัปดาห์หลังเริ่มยาในผู้ที่ใช้ระยะยาว หยุดยาทันทีหากมีอาการหรือ ALT >3x ULN พิจารณาเปลี่ยนเป็น NSAID ชนิดอื่น",
+    "thai_herb_source": null,
+    "evidence_level": "case series",
+    "case_count_reported": null,
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Diclofenac/",
+    "source_review_date": "2020-02-03",
+    "last_updated": "2026-07-01"
   },
   {
     "id": 6,
@@ -100,7 +246,33 @@
     "hepatotoxicity_pattern": "Hepatocellular (มักพบในผลิตภัณฑ์ curcumin เข้มข้นที่ดูดซึมสูง เช่น ผสม black pepper/piperine)",
     "scientific_name": "Curcuma longa L. (ชื่อพ้อง: Curcuma domestica Valeton)",
     "part_used": "เหง้า (rhizome) บดเป็นผง",
-    "source": "LiverTox (NIDDK, NIH): Turmeric.nxml; มอโนกราฟสมุนไพรในบัญชียาหลักแห่งชาติ: ขมิ้นชัน.pdf"
+    "source": "LiverTox (NIDDK, NIH): Turmeric.nxml; มอโนกราฟสมุนไพรในบัญชียาหลักแห่งชาติ: ขมิ้นชัน.pdf",
+    "hepatotox_mechanism": "กลไก: ยังไม่ทราบแน่ชัด คาดว่า curcumin ในปริมาณสูงจาก concentrated supplements อาจเกิด pro-oxidant effect และยับยั้ง mitochondrial function พบความสัมพันธ์กับ HLA-B*35:01 allele ในบางกรณี ชี้ถึงกลไก immune-mediated นอกจากนี้สิ่งปนเปื้อน (heavy metals) ในบางผลิตภัณฑ์อาจมีส่วน",
+    "injury_pattern": "Hepatocellular",
+    "severity_max": "Fatal",
+    "fatal_cases_reported": true,
+    "onset_days_min": 7,
+    "onset_days_max": 90,
+    "recovery_days_min": 30,
+    "recovery_days_max": 90,
+    "chronic_risk": false,
+    "rechallenge_data": "positive",
+    "incidence_rate": "หายาก แต่รายงานเพิ่มขึ้นตามความนิยมของ concentrated curcumin supplements",
+    "risk_factors_th": [
+      "ปัจจัยเสี่ยง: ผลิตภัณฑ์เข้มข้น (concentrated extracts) ขนาดสูง",
+      "ปัจจัยเสี่ยง: สูตรที่มี piperine (พริกไทยดำ) เพื่อเพิ่ม bioavailability ทำให้ระดับ curcumin ในเลือดสูงผิดปกติ",
+      "ปัจจัยเสี่ยง: HLA-B*35:01 genotype"
+    ],
+    "interacting_drugs_th": [
+      "ยาที่ใช้ร่วมความเสี่ยง: Curcumin อาจยับยั้ง CYP3A4, CYP2C9, P-glycoprotein — ระวังเมื่อใช้ร่วมกับ Warfarin, Cyclosporine หรือยาที่มีช่วงการรักษาแคบ"
+    ],
+    "monitoring_note_th": "คำแนะนำติดตาม: หยุด supplement ทันทีเมื่อสงสัย DILI ตรวจ ALT, ALP, Bilirubin ผู้ป่วย Grade A ควรหลีกเลี่ยงการใช้ต่อ",
+    "thai_herb_source": "ขมิ้นชัน (Curcuma longa L.)",
+    "evidence_level": "case series",
+    "case_count_reported": null,
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Turmeric/",
+    "source_review_date": "2020-10-20",
+    "last_updated": "2026-07-01"
   },
   {
     "id": 7,
@@ -109,7 +281,42 @@
     "type": "สมุนไพร/อาหารเสริม",
     "livertox_grade": "A",
     "rucam_score_bonus": 2,
-    "description_th": "พืชสมุนไพรที่นิยมใช้บรรเทาอาการวัยทอง มีรายงานตับอักเสบรุนแรงหลายรายในหลายประเทศ รวมถึงไทย"
+    "description_th": "พืชสมุนไพรที่นิยมใช้บรรเทาอาการวัยทอง มีรายงานตับอักเสบรุนแรงหลายรายในหลายประเทศ รวมถึงไทย",
+    "synonyms": [
+      "Actaea racemosa",
+      "Cimicifuga racemosa",
+      "Black Snakeroot",
+      "Bugbane"
+    ],
+    "hepatotoxicity_pattern": "Hepatocellular",
+    "scientific_name": "Actaea racemosa L. (ชื่อพ้อง: Cimicifuga racemosa (L.) Nutt.)",
+    "part_used": "รากและเหง้า (rhizome and root)",
+    "source": "LiverTox (NIDDK, NIH): BlackCohosh.nxml",
+    "hepatotox_mechanism": "กลไก: ยังไม่ทราบแน่ชัด สงสัยว่า triterpene glycosides หรือสารปนเปื้อนในผลิตภัณฑ์อาจทำให้เกิด mitochondrial dysfunction หรือ immune-mediated hepatocyte injury มีรายงานทั้งที่สอดคล้องกับ direct toxic และ idiosyncratic mechanism",
+    "injury_pattern": "Hepatocellular",
+    "severity_max": "Fatal",
+    "fatal_cases_reported": true,
+    "onset_days_min": 14,
+    "onset_days_max": 365,
+    "recovery_days_min": 30,
+    "recovery_days_max": 180,
+    "chronic_risk": false,
+    "rechallenge_data": "positive",
+    "incidence_rate": "หายาก แต่มีการรายงานใน pharmacovigilance databases ทั่วโลก รวมถึงกรณีที่ต้องปลูกถ่ายตับ",
+    "risk_factors_th": [
+      "ปัจจัยเสี่ยง: ขนาดสูงหรือผลิตภัณฑ์ที่มีสมุนไพรหลายชนิดรวมกัน",
+      "ปัจจัยเสี่ยง: โรคตับเรื้อรังหรือใช้ยาที่มีผลต่อตับร่วมด้วย"
+    ],
+    "interacting_drugs_th": [
+      "ยาที่ใช้ร่วมความเสี่ยง: ยาที่มีผลต่อตับชนิดอื่นๆ — เพิ่มความเสี่ยง hepatotoxicity"
+    ],
+    "monitoring_note_th": "คำแนะนำติดตาม: หยุด supplement ทันทีเมื่อมีอาการ ตรวจ ALT, Bilirubin บางรายต้องรักษาใน ICU หรือปลูกถ่ายตับ ควรหลีกเลี่ยงการใช้ซ้ำ",
+    "thai_herb_source": null,
+    "evidence_level": "case series",
+    "case_count_reported": null,
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/BlackCohosh/",
+    "source_review_date": "2020-10-20",
+    "last_updated": "2026-07-01"
   },
   {
     "id": 8,
@@ -163,7 +370,40 @@
     "type": "ยาแผนปัจจุบัน",
     "livertox_grade": "B",
     "rucam_score_bonus": 2,
-    "description_th": "ยาแก้ปวดกลุ่ม NSAIDs ที่หาซื้อได้ทั่วไป ความเสี่ยงตับอักเสบต่ำกว่า Diclofenac แต่มีรายงาน DILI เมื่อใช้ขนาดสูงหรือในผู้ป่วยที่มีโรคตับอยู่เดิม"
+    "description_th": "ยาแก้ปวดกลุ่ม NSAIDs ที่หาซื้อได้ทั่วไป ความเสี่ยงตับอักเสบต่ำกว่า Diclofenac แต่มีรายงาน DILI เมื่อใช้ขนาดสูงหรือในผู้ป่วยที่มีโรคตับอยู่เดิม",
+    "synonyms": [
+      "Advil",
+      "Motrin",
+      "Brufen",
+      "Nurofen"
+    ],
+    "hepatotoxicity_pattern": "Cholestatic หรือ Mixed (Hepatocellular พบน้อยกว่า)",
+    "scientific_name": null,
+    "part_used": null,
+    "source": "LiverTox (NIDDK, NIH): Ibuprofen.nxml",
+    "hepatotox_mechanism": "กลไก: Idiosyncratic immune-mediated คล้าย NSAIDs ชนิดอื่น Ibuprofen สร้าง acylglucuronide metabolite ที่อาจจับกับโปรตีนในตับเป็น hapten DILI จาก Ibuprofen พบน้อยกว่า Diclofenac อย่างชัดเจน",
+    "injury_pattern": "Cholestatic",
+    "severity_max": "Severe",
+    "fatal_cases_reported": false,
+    "onset_days_min": 7,
+    "onset_days_max": 42,
+    "recovery_days_min": 14,
+    "recovery_days_max": 60,
+    "chronic_risk": false,
+    "rechallenge_data": "positive",
+    "incidence_rate": "หายาก; พบน้อยกว่า Diclofenac อย่างชัดเจน",
+    "risk_factors_th": [
+      "ปัจจัยเสี่ยง: การใช้ขนาดสูงหรือระยะยาว",
+      "ปัจจัยเสี่ยง: ประวัติแพ้ NSAIDs"
+    ],
+    "interacting_drugs_th": "-",
+    "monitoring_note_th": "คำแนะนำติดตาม: ตรวจ ALT หากใช้ระยะยาว หยุดยาเมื่อมีอาการหรือ ALT >3x ULN พิจารณาเปลี่ยนเป็น analgesics ชนิดอื่น",
+    "thai_herb_source": null,
+    "evidence_level": "case report(s)",
+    "case_count_reported": null,
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Ibuprofen/",
+    "source_review_date": "2020-02-03",
+    "last_updated": "2026-07-01"
   },
   {
     "id": 10,
@@ -172,7 +412,41 @@
     "type": "ยาแผนปัจจุบัน",
     "livertox_grade": "B",
     "rucam_score_bonus": 2,
-    "description_th": "ยาปฏิชีวนะกลุ่ม Macrolide มีรายงาน Cholestatic hepatitis เป็นครั้งคราว อาการมักไม่รุนแรงและฟื้นตัวได้เองเมื่อหยุดยา"
+    "description_th": "ยาปฏิชีวนะกลุ่ม Macrolide มีรายงาน Cholestatic hepatitis เป็นครั้งคราว อาการมักไม่รุนแรงและฟื้นตัวได้เองเมื่อหยุดยา",
+    "synonyms": [
+      "Zithromax",
+      "Z-Pack",
+      "Azax",
+      "Azithral"
+    ],
+    "hepatotoxicity_pattern": "Cholestatic",
+    "scientific_name": null,
+    "part_used": null,
+    "source": "LiverTox (NIDDK, NIH): Azithromycin.nxml",
+    "hepatotox_mechanism": "กลไก: Idiosyncratic คล้ายกับ Erythromycin กลุ่ม Macrolide antibiotics อาจยับยั้ง bile acid transport ผ่าน MRP2/BSEP transporter หรือกระตุ้น immune response ผ่านกลไก hapten-mediated",
+    "injury_pattern": "Cholestatic",
+    "severity_max": "Moderate",
+    "fatal_cases_reported": false,
+    "onset_days_min": 7,
+    "onset_days_max": 21,
+    "recovery_days_min": 14,
+    "recovery_days_max": 30,
+    "chronic_risk": false,
+    "rechallenge_data": "positive",
+    "incidence_rate": "หายาก; พบน้อยกว่า Erythromycin",
+    "risk_factors_th": [
+      "ปัจจัยเสี่ยง: ประวัติแพ้ Macrolide antibiotics ชนิดอื่น"
+    ],
+    "interacting_drugs_th": [
+      "ยาที่ใช้ร่วมความเสี่ยง: Azithromycin ยับยั้ง CYP3A4 เล็กน้อย ระวังเมื่อใช้ร่วมกับ QT-prolonging drugs"
+    ],
+    "monitoring_note_th": "คำแนะนำติดตาม: ตรวจ LFTs หากมีอาการ Cholestatic hepatitis มักหายได้เองหลังหยุดยา",
+    "thai_herb_source": null,
+    "evidence_level": "case report(s)",
+    "case_count_reported": null,
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Azithromycin/",
+    "source_review_date": "2020-02-03",
+    "last_updated": "2026-07-01"
   },
   {
     "id": 11,
@@ -181,7 +455,42 @@
     "type": "สมุนไพร/อาหารเสริม",
     "livertox_grade": "B",
     "rucam_score_bonus": 2,
-    "description_th": "ผลิตภัณฑ์เสริมอาหารที่ใช้เพื่อลดน้ำหนัก มีรายงาน DILI จากปริมาณ EGCG สูงในรูปแบบเม็ด/แคปซูล ต่างจากการดื่มชาเขียวทั่วไปซึ่งปลอดภัยกว่า"
+    "description_th": "ผลิตภัณฑ์เสริมอาหารที่ใช้เพื่อลดน้ำหนัก มีรายงาน DILI จากปริมาณ EGCG สูงในรูปแบบเม็ด/แคปซูล ต่างจากการดื่มชาเขียวทั่วไปซึ่งปลอดภัยกว่า",
+    "synonyms": [
+      "EGCG supplements",
+      "Green Tea Catechins",
+      "Camellia sinensis extract"
+    ],
+    "hepatotoxicity_pattern": "Hepatocellular",
+    "scientific_name": "Camellia sinensis (L.) Kuntze",
+    "part_used": "ใบ (concentrated extract)",
+    "source": "LiverTox (NIDDK, NIH): GreenTea.nxml",
+    "hepatotox_mechanism": "กลไก: EGCG (Epigallocatechin gallate) ในระดับสูงจาก concentrated supplements อาจก่อ oxidative stress ผ่าน pro-oxidant activity และยับยั้ง mitochondrial respiratory chain นำไปสู่ hepatocyte necrosis ความเสี่ยงเพิ่มขึ้นเมื่อรับประทานขณะท้องว่าง (bioavailability สูงขึ้น 3.5 เท่า)",
+    "injury_pattern": "Hepatocellular",
+    "severity_max": "Fatal",
+    "fatal_cases_reported": true,
+    "onset_days_min": 7,
+    "onset_days_max": 90,
+    "recovery_days_min": 30,
+    "recovery_days_max": 120,
+    "chronic_risk": false,
+    "rechallenge_data": "positive",
+    "incidence_rate": "หายาก แต่เพิ่มขึ้นตามความนิยมของ weight-loss supplements ที่มี green tea extract",
+    "risk_factors_th": [
+      "ปัจจัยเสี่ยง: ผลิตภัณฑ์ที่มี EGCG >800 mg/day",
+      "ปัจจัยเสี่ยง: รับประทานขณะท้องว่าง — เพิ่ม bioavailability ของ EGCG 3.5 เท่า",
+      "ปัจจัยเสี่ยง: ผลิตภัณฑ์ลดน้ำหนักที่มีส่วนผสมหลายชนิด"
+    ],
+    "interacting_drugs_th": [
+      "ยาที่ใช้ร่วมความเสี่ยง: EGCG อาจยับยั้ง CYP3A4, CYP2C9 และ P-glycoprotein — ระวังเมื่อใช้ร่วมกับ Warfarin หรือยาที่มีช่วงการรักษาแคบ"
+    ],
+    "monitoring_note_th": "คำแนะนำติดตาม: หยุด supplement ทันที ตรวจ ALT, AST, Bilirubin บางรายต้องปลูกถ่ายตับ ควรหลีกเลี่ยงผลิตภัณฑ์เข้มข้นในผู้ที่มีประวัติตับผิดปกติ",
+    "thai_herb_source": "ชาเขียว (Camellia sinensis)",
+    "evidence_level": "case series",
+    "case_count_reported": null,
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/GreenTea/",
+    "source_review_date": "2020-05-02",
+    "last_updated": "2026-07-01"
   },
   {
     "id": 12,
@@ -190,7 +499,44 @@
     "type": "ยาแผนปัจจุบัน",
     "livertox_grade": "C",
     "rucam_score_bonus": 1,
-    "description_th": "ยาลดกรดยูริก สามารถทำให้เกิด Hypersensitivity syndrome ที่รวมถึงตับอักเสบได้ พบบ่อยในผู้ป่วยที่มีภาวะไตวายและผู้ที่ได้รับยาขนาดสูง"
+    "description_th": "ยาลดกรดยูริก สามารถทำให้เกิด Hypersensitivity syndrome ที่รวมถึงตับอักเสบได้ พบบ่อยในผู้ป่วยที่มีภาวะไตวายและผู้ที่ได้รับยาขนาดสูง",
+    "synonyms": [
+      "Zyloric",
+      "Lopurin",
+      "Zyloprim"
+    ],
+    "hepatotoxicity_pattern": "Mixed (Cholestatic หรือ Hepatocellular); มักเป็นส่วนหนึ่งของ DRESS syndrome",
+    "scientific_name": null,
+    "part_used": null,
+    "source": "LiverTox (NIDDK, NIH): Allopurinol.nxml",
+    "hepatotox_mechanism": "กลไก: Allopurinol และ oxypurinol (active metabolite) ทำหน้าที่เป็น hapten กระตุ้น T-cell mediated immune response พบความสัมพันธ์แข็งแกร่งกับ HLA-B*58:01 (พบบ่อยในชาวไทย ~7-9%, จีน ~6-8%, เกาหลี) ซึ่งเพิ่มความเสี่ยง SJS/TEN/DRESS อย่างมีนัยสำคัญ DILI เป็นส่วนหนึ่งของ Allopurinol Hypersensitivity Syndrome (AHS)",
+    "injury_pattern": "Mixed",
+    "severity_max": "Fatal",
+    "fatal_cases_reported": true,
+    "onset_days_min": 14,
+    "onset_days_max": 60,
+    "recovery_days_min": 30,
+    "recovery_days_max": 90,
+    "chronic_risk": false,
+    "rechallenge_data": "positive",
+    "incidence_rate": "DRESS/AHS ~1 ใน 500-1,000 ผู้ใช้ใหม่; สูงขึ้นมากในผู้ที่มี HLA-B*58:01 โดยเฉพาะในประชากรเอเชีย",
+    "risk_factors_th": [
+      "ปัจจัยเสี่ยง: HLA-B*58:01 allele — พบบ่อยในชาวไทย จีน เกาหลี เพิ่มความเสี่ยง SJS/TEN/DRESS อย่างมาก",
+      "ปัจจัยเสี่ยง: ไตวายเรื้อรัง — oxypurinol สะสมในร่างกาย เพิ่มระดับและระยะเวลาการสัมผัสยา",
+      "ปัจจัยเสี่ยง: เริ่มยาด้วยขนาดสูง (>100 mg/day) และปรับขึ้นเร็ว",
+      "ปัจจัยเสี่ยง: การใช้ยาขับปัสสาวะ (diuretics) ร่วมด้วย"
+    ],
+    "interacting_drugs_th": [
+      "ยาที่ใช้ร่วมความเสี่ยง: Azathioprine หรือ 6-Mercaptopurine — อันตรายมาก Allopurinol ยับยั้ง xanthine oxidase ทำให้ระดับ 6-mercaptopurine สูงขึ้น 4 เท่า เพิ่มความเป็นพิษต่อไขกระดูกอย่างรุนแรง ควรลดขนาด Azathioprine/6-MP ลง 75% หรือหลีกเลี่ยง",
+      "ยาที่ใช้ร่วมความเสี่ยง: Ampicillin/Amoxicillin — เพิ่มความเสี่ยงผื่นแพ้ยา"
+    ],
+    "monitoring_note_th": "คำแนะนำติดตาม: แนะนำตรวจ HLA-B*58:01 ก่อนเริ่มยาในผู้ป่วยไทยและเอเชีย เริ่มยาด้วยขนาดต่ำ (50-100 mg/day) และปรับขึ้นช้าๆ ตรวจ LFTs เมื่อมีอาการ",
+    "thai_herb_source": null,
+    "evidence_level": "case series",
+    "case_count_reported": null,
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Allopurinol/",
+    "source_review_date": "2019-05-06",
+    "last_updated": "2026-07-01"
   },
   {
     "id": 13,
@@ -199,7 +545,40 @@
     "type": "ยาแผนปัจจุบัน",
     "livertox_grade": "C",
     "rucam_score_bonus": 1,
-    "description_th": "ยาลดกรดกลุ่ม PPI ที่ใช้แพร่หลาย มีรายงาน DILI พบน้อยมาก ส่วนใหญ่เป็นแบบ Idiosyncratic และมักฟื้นตัวได้ดีหลังหยุดยา"
+    "description_th": "ยาลดกรดกลุ่ม PPI ที่ใช้แพร่หลาย มีรายงาน DILI พบน้อยมาก ส่วนใหญ่เป็นแบบ Idiosyncratic และมักฟื้นตัวได้ดีหลังหยุดยา",
+    "synonyms": [
+      "Losec",
+      "Prilosec",
+      "Omez"
+    ],
+    "hepatotoxicity_pattern": "Hepatocellular หรือ Cholestatic",
+    "scientific_name": null,
+    "part_used": null,
+    "source": "LiverTox (NIDDK, NIH): Omeprazole.nxml",
+    "hepatotox_mechanism": "กลไก: Idiosyncratic กลไกยังไม่ชัดเจน อาจเกี่ยวข้องกับ CYP2C19 polymorphism ซึ่งส่งผลต่อการเผาผลาญ omeprazole บางส่วนอาจเป็น immune-mediated (class effect กับ PPIs ชนิดอื่น)",
+    "injury_pattern": "Hepatocellular",
+    "severity_max": "Moderate",
+    "fatal_cases_reported": false,
+    "onset_days_min": 14,
+    "onset_days_max": 90,
+    "recovery_days_min": 14,
+    "recovery_days_max": 60,
+    "chronic_risk": false,
+    "rechallenge_data": "positive",
+    "incidence_rate": "หายากมาก; case reports เท่านั้น แม้ว่ายาจะถูกใช้อย่างแพร่หลาย",
+    "risk_factors_th": [
+      "ปัจจัยเสี่ยง: CYP2C19 poor metabolizer — อาจสะสมระดับยาสูงขึ้น"
+    ],
+    "interacting_drugs_th": [
+      "ยาที่ใช้ร่วมความเสี่ยง: Omeprazole ยับยั้ง CYP2C19 — ระวังเมื่อใช้ร่วมกับ Clopidogrel (ลดประสิทธิภาพ), Warfarin, Phenytoin"
+    ],
+    "monitoring_note_th": "คำแนะนำติดตาม: ตรวจ LFTs หากมีอาการ มักหายได้เองหลังหยุดยา หากจำเป็นต้องใช้ PPI อาจเปลี่ยนเป็น Pantoprazole หรือ Rabeprazole",
+    "thai_herb_source": null,
+    "evidence_level": "case report(s)",
+    "case_count_reported": null,
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Omeprazole/",
+    "source_review_date": "2020-02-03",
+    "last_updated": "2026-07-01"
   },
   {
     "id": 14,
@@ -218,7 +597,32 @@
     "hepatotoxicity_pattern": "ไม่มีในฐาน LiverTox (ไม่ใช่สมุนไพรตะวันตก) — อ้างอิงจากรายงานเฉพาะกรณีในวรรณกรรมเอเชีย มักเป็นแบบ hepatocellular",
     "scientific_name": "Andrographis paniculata (Burm.f.) Wall. ex Nees",
     "part_used": "ผงจากส่วนเหนือดิน (aerial parts)",
-    "source": "มอโนกราฟสมุนไพรในบัญชียาหลักแห่งชาติ: ฟ้าทะลายโจร.pdf (ไม่มีรายการใน LiverTox)"
+    "source": "มอโนกราฟสมุนไพรในบัญชียาหลักแห่งชาติ: ฟ้าทะลายโจร.pdf (ไม่มีรายการใน LiverTox)",
+    "hepatotox_mechanism": "กลไก: ยังไม่ทราบแน่ชัด สงสัยว่า Andrographolide และ diterpene lactones ในปริมาณสูงอาจเกิด immune-mediated hepatocyte injury หรือ direct hepatotoxicity ข้อมูลมาจาก pharmacovigilance ในประเทศไทยและกรณีศึกษาเฉพาะราย ไม่มีข้อมูลโดยตรงจาก LiverTox",
+    "injury_pattern": "Hepatocellular",
+    "severity_max": "Moderate",
+    "fatal_cases_reported": false,
+    "onset_days_min": 14,
+    "onset_days_max": 90,
+    "recovery_days_min": 30,
+    "recovery_days_max": 60,
+    "chronic_risk": false,
+    "rechallenge_data": "positive",
+    "incidence_rate": "หายาก; รายงานเพิ่มขึ้นหลังการใช้แพร่หลายในช่วง COVID-19",
+    "risk_factors_th": [
+      "ปัจจัยเสี่ยง: ขนาดสูง (>4 เม็ด/วันของสูตรมาตรฐาน) หรือใช้ต่อเนื่องนานกว่า 4 สัปดาห์",
+      "ปัจจัยเสี่ยง: ผลิตภัณฑ์ที่มีส่วนผสมหลายชนิดรวมกัน"
+    ],
+    "interacting_drugs_th": [
+      "ยาที่ใช้ร่วมความเสี่ยง: Andrographis อาจยับยั้ง CYP3A4 และ P-glycoprotein — ระวังเมื่อใช้ร่วมกับ Warfarin, Cyclosporine"
+    ],
+    "monitoring_note_th": "คำแนะนำติดตาม: ตรวจ LFTs หากใช้นานกว่า 4 สัปดาห์ หยุดยาและตรวจเมื่อมีอาการ ควรหลีกเลี่ยงในผู้ที่มีโรคตับเรื้อรัง",
+    "thai_herb_source": "ฟ้าทะลายโจร (Andrographis paniculata)",
+    "evidence_level": "case report(s)",
+    "case_count_reported": null,
+    "livertox_url": null,
+    "source_review_date": null,
+    "last_updated": "2026-07-01"
   },
   {
     "id": 15,
@@ -227,7 +631,38 @@
     "type": "ยาแผนปัจจุบัน",
     "livertox_grade": "D",
     "rucam_score_bonus": 1,
-    "description_th": "ยาปฏิชีวนะที่ใช้บ่อยที่สุดในประเทศไทย เมื่อใช้เดี่ยวโดยไม่มี Clavulanate ความเสี่ยงต่อตับต่ำกว่ามาก รายงาน DILI พบได้แต่ไม่บ่อย"
+    "description_th": "ยาปฏิชีวนะที่ใช้บ่อยที่สุดในประเทศไทย เมื่อใช้เดี่ยวโดยไม่มี Clavulanate ความเสี่ยงต่อตับต่ำกว่ามาก รายงาน DILI พบได้แต่ไม่บ่อย",
+    "synonyms": [
+      "Amoxil",
+      "Trimox",
+      "Polymox"
+    ],
+    "hepatotoxicity_pattern": "Cholestatic",
+    "scientific_name": null,
+    "part_used": null,
+    "source": "LiverTox (NIDDK, NIH): Amoxicillin.nxml",
+    "hepatotox_mechanism": "กลไก: Idiosyncratic immune-mediated พบน้อยกว่า Amoxicillin-Clavulanate มากอย่างชัดเจน แสดงให้เห็นว่า Clavulanate เป็นตัวกระตุ้นหลักใน combination product Amoxicillin เดี่ยวอาจสร้าง reactive metabolites หรือ hapten ในปริมาณน้อย",
+    "injury_pattern": "Cholestatic",
+    "severity_max": "Moderate",
+    "fatal_cases_reported": false,
+    "onset_days_min": 7,
+    "onset_days_max": 42,
+    "recovery_days_min": 14,
+    "recovery_days_max": 60,
+    "chronic_risk": false,
+    "rechallenge_data": "positive",
+    "incidence_rate": "หายากมาก; น้อยกว่า Amoxicillin-Clavulanate อย่างมีนัยสำคัญ",
+    "risk_factors_th": [
+      "ปัจจัยเสี่ยง: ประวัติแพ้ penicillins"
+    ],
+    "interacting_drugs_th": "-",
+    "monitoring_note_th": "คำแนะนำติดตาม: ตรวจ LFTs หากมีอาการ Cholestasis มักหายได้เองหลังหยุดยา",
+    "thai_herb_source": null,
+    "evidence_level": "case report(s)",
+    "case_count_reported": null,
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Amoxicillin/",
+    "source_review_date": "2020-02-03",
+    "last_updated": "2026-07-01"
   },
   {
     "id": 16,
@@ -236,7 +671,39 @@
     "type": "ยาแผนปัจจุบัน",
     "livertox_grade": "D",
     "rucam_score_bonus": 1,
-    "description_th": "ยาลดความดันโลหิตกลุ่ม ARB มีรายงาน DILI น้อยมาก ส่วนใหญ่เป็น Cholestatic pattern และฟื้นตัวได้หลังหยุดยา"
+    "description_th": "ยาลดความดันโลหิตกลุ่ม ARB มีรายงาน DILI น้อยมาก ส่วนใหญ่เป็น Cholestatic pattern และฟื้นตัวได้หลังหยุดยา",
+    "synonyms": [
+      "Cozaar",
+      "Hyzaar (with HCTZ)"
+    ],
+    "hepatotoxicity_pattern": "Hepatocellular",
+    "scientific_name": null,
+    "part_used": null,
+    "source": "LiverTox (NIDDK, NIH): Losartan.nxml",
+    "hepatotox_mechanism": "กลไก: Idiosyncratic metabolic Losartan ถูกเผาผลาญเป็น active metabolite E-3174 ผ่าน CYP2C9 บาง metabolites อาจเป็น reactive intermediates ที่ก่อ hepatocyte injury ใน susceptible individuals",
+    "injury_pattern": "Hepatocellular",
+    "severity_max": "Moderate",
+    "fatal_cases_reported": false,
+    "onset_days_min": 14,
+    "onset_days_max": 180,
+    "recovery_days_min": 30,
+    "recovery_days_max": 90,
+    "chronic_risk": false,
+    "rechallenge_data": "positive",
+    "incidence_rate": "หายาก; case reports เท่านั้น",
+    "risk_factors_th": [
+      "ปัจจัยเสี่ยง: CYP2C9 poor metabolizer — ระดับ Losartan สูงขึ้น"
+    ],
+    "interacting_drugs_th": [
+      "ยาที่ใช้ร่วมความเสี่ยง: Fluconazole, Amiodarone — ยับยั้ง CYP2C9 เพิ่มระดับ Losartan"
+    ],
+    "monitoring_note_th": "คำแนะนำติดตาม: ตรวจ LFTs หากมีอาการ มักหายได้เองหลังหยุดยา หากจำเป็นต้องใช้ ARB อาจเปลี่ยนเป็นชนิดอื่น (อย่างไรก็ตามอาจเกิด class effect)",
+    "thai_herb_source": null,
+    "evidence_level": "case report(s)",
+    "case_count_reported": null,
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Losartan/",
+    "source_review_date": "2020-02-03",
+    "last_updated": "2026-07-01"
   },
   {
     "id": 17,
@@ -245,7 +712,39 @@
     "type": "ยาแผนปัจจุบัน",
     "livertox_grade": "E",
     "rucam_score_bonus": 0,
-    "description_th": "ยาลดน้ำตาลในเลือดสำหรับเบาหวานชนิดที่ 2 มีประวัติความปลอดภัยต่อตับดีมาก ยังไม่มีหลักฐานชัดเจนว่าทำให้เกิด DILI"
+    "description_th": "ยาลดน้ำตาลในเลือดสำหรับเบาหวานชนิดที่ 2 มีประวัติความปลอดภัยต่อตับดีมาก ยังไม่มีหลักฐานชัดเจนว่าทำให้เกิด DILI",
+    "synonyms": [
+      "Glucophage",
+      "Glumetza",
+      "Fortamet"
+    ],
+    "hepatotoxicity_pattern": "Hepatocellular",
+    "scientific_name": null,
+    "part_used": null,
+    "source": "LiverTox (NIDDK, NIH): Metformin.nxml",
+    "hepatotox_mechanism": "กลไก: Metformin มีหลักฐานทางคลินิกของ DILI น้อยมาก กลไกที่เสนอคือยับยั้ง mitochondrial complex I ซึ่งอาจส่งผลต่อ hepatic mitochondrial function ใน susceptible individuals นอกจากนี้ในผู้ที่มีโรคตับเรื้อรังรุนแรงมีความเสี่ยง lactic acidosis แม้ว่าจะไม่ใช่ DILI โดยตรง",
+    "injury_pattern": "Hepatocellular",
+    "severity_max": "Mild",
+    "fatal_cases_reported": false,
+    "onset_days_min": 14,
+    "onset_days_max": 90,
+    "recovery_days_min": 14,
+    "recovery_days_max": 30,
+    "chronic_risk": false,
+    "rechallenge_data": "not reported",
+    "incidence_rate": "หายากมาก; แทบไม่มีหลักฐานว่า Metformin ทำให้เกิด DILI จริงๆ กรณีส่วนใหญ่อาจมีสาเหตุอื่น",
+    "risk_factors_th": [
+      "ปัจจัยเสี่ยง: โรคตับเรื้อรัง — เพิ่มความเสี่ยง lactic acidosis (ไม่ใช่ DILI โดยตรง)",
+      "ปัจจัยเสี่ยง: ไตวาย — สะสม Metformin เพิ่มความเสี่ยง lactic acidosis"
+    ],
+    "interacting_drugs_th": "-",
+    "monitoring_note_th": "คำแนะนำติดตาม: Metformin ไม่แนะนำในผู้ที่มีโรคตับเรื้อรังรุนแรง (Child-Pugh B/C) เนื่องจากความเสี่ยง lactic acidosis ตรวจ LFTs หากมีอาการ",
+    "thai_herb_source": null,
+    "evidence_level": "case report(s)",
+    "case_count_reported": null,
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Metformin/",
+    "source_review_date": "2020-02-03",
+    "last_updated": "2026-07-01"
   },
   {
     "id": 18,
@@ -254,7 +753,39 @@
     "type": "ยาแผนปัจจุบัน",
     "livertox_grade": "E",
     "rucam_score_bonus": 0,
-    "description_th": "ยาแก้แพ้กลุ่ม Antihistamine รุ่น 2 ไม่มีหลักฐานว่าทำให้เกิดตับอักเสบจากยา ปลอดภัยต่อตับในผู้ป่วยทั่วไป"
+    "description_th": "ยาแก้แพ้กลุ่ม Antihistamine รุ่น 2 ไม่มีหลักฐานว่าทำให้เกิดตับอักเสบจากยา ปลอดภัยต่อตับในผู้ป่วยทั่วไป",
+    "synonyms": [
+      "Zyrtec",
+      "Reactine",
+      "Virlix",
+      "Cetin"
+    ],
+    "hepatotoxicity_pattern": "Hepatocellular หรือ Cholestatic",
+    "scientific_name": null,
+    "part_used": null,
+    "source": "LiverTox (NIDDK, NIH): Cetirizine.nxml",
+    "hepatotox_mechanism": "กลไก: Idiosyncratic ไม่ทราบกลไกแน่ชัด มี case reports จำนวนน้อยมากที่รายงาน DILI จาก Cetirizine กลไกน่าจะเป็น immune-mediated",
+    "injury_pattern": "Hepatocellular",
+    "severity_max": "Mild",
+    "fatal_cases_reported": false,
+    "onset_days_min": 7,
+    "onset_days_max": 90,
+    "recovery_days_min": 14,
+    "recovery_days_max": 30,
+    "chronic_risk": false,
+    "rechallenge_data": "positive",
+    "incidence_rate": "หายากมาก; รายงานน้อยมากเมื่อเทียบกับการใช้ยาที่แพร่หลาย",
+    "risk_factors_th": [
+      "ปัจจัยเสี่ยง: ยังไม่ทราบปัจจัยเสี่ยงที่ชัดเจน"
+    ],
+    "interacting_drugs_th": "-",
+    "monitoring_note_th": "คำแนะนำติดตาม: ตรวจ LFTs หากมีอาการ มักหายได้เองหลังหยุดยา",
+    "thai_herb_source": null,
+    "evidence_level": "case report(s)",
+    "case_count_reported": null,
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Cetirizine/",
+    "source_review_date": "2020-02-03",
+    "last_updated": "2026-07-01"
   },
   {
     "id": 19,
@@ -273,7 +804,33 @@
     "description_th": "มีรายงานตับอักเสบเฉียบพลันแบบมีอาการตัวเหลืองหลังใช้เพื่อลดน้ำหนักหรือรักษาสิว ระยะเริ่มเป็นพิษ 3–8 สัปดาห์ ส่วนใหญ่ฟื้นตัวเองได้ภายใน 1–2 เดือนหลังหยุดใช้ เป็นสาเหตุที่พบได้น้อยมาก",
     "scientific_name": "Centella asiatica (L.) Urb.",
     "part_used": "ส่วนเหนือดิน (aerial parts)",
-    "source": "LiverTox (NIDDK, NIH): Centella.nxml; มอโนกราฟสมุนไพรในบัญชียาหลักแห่งชาติ: บัวบก.pdf"
+    "source": "LiverTox (NIDDK, NIH): Centella.nxml; มอโนกราฟสมุนไพรในบัญชียาหลักแห่งชาติ: บัวบก.pdf",
+    "hepatotox_mechanism": "กลไก: ยังไม่ทราบแน่ชัด สงสัยว่า pentacyclic triterpenoids (asiaticoside, madecassoside) ในระดับสูงจาก concentrated supplements อาจก่อ direct hepatocyte toxicity หรือ immune-mediated injury มีรายงานทั้งจากยาแผนปัจจุบันและสมุนไพรสกัด",
+    "injury_pattern": "Hepatocellular",
+    "severity_max": "Severe",
+    "fatal_cases_reported": true,
+    "onset_days_min": 14,
+    "onset_days_max": 120,
+    "recovery_days_min": 30,
+    "recovery_days_max": 90,
+    "chronic_risk": false,
+    "rechallenge_data": "positive",
+    "incidence_rate": "หายาก แต่มีรายงานในประเทศไทยและยุโรปจาก Centella supplements",
+    "risk_factors_th": [
+      "ปัจจัยเสี่ยง: ผลิตภัณฑ์เข้มข้น (concentrated extracts) ขนาดสูง",
+      "ปัจจัยเสี่ยง: ใช้ระยะยาวต่อเนื่อง",
+      "ปัจจัยเสี่ยง: ผลิตภัณฑ์ลดน้ำหนักที่มีส่วนผสมหลายชนิด"
+    ],
+    "interacting_drugs_th": [
+      "ยาที่ใช้ร่วมความเสี่ยง: ยาที่มีผลต่อตับชนิดอื่นๆ เพิ่มความเสี่ยง hepatotoxicity"
+    ],
+    "monitoring_note_th": "คำแนะนำติดตาม: หยุด supplement ทันที ตรวจ ALT, AST, Bilirubin บางรายต้องปลูกถ่ายตับ ควรหลีกเลี่ยงในผู้ที่มีโรคตับเรื้อรัง",
+    "thai_herb_source": "บัวบก (Centella asiatica)",
+    "evidence_level": "case series",
+    "case_count_reported": null,
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/CentellaAsiatica/",
+    "source_review_date": "2020-02-26",
+    "last_updated": "2026-07-01"
   },
   {
     "id": 20,
@@ -291,7 +848,30 @@
     "description_th": "ยาระบายสมุนไพรกลุ่ม anthraquinone ที่ใช้บรรเทาอาการท้องผูก ความเป็นพิษต่อตับพบน้อยมากเมื่อใช้ตามขนาดที่แนะนำ ส่วนใหญ่ที่มีรายงานเกี่ยวข้องกับการใช้เกินขนาดต่อเนื่อง",
     "scientific_name": "Senna alexandrina Mill. (ชื่อพ้อง: Cassia acutifolia, Cassia angustifolia)",
     "part_used": "ใบ หรือใบผสมฝัก",
-    "source": "LiverTox (NIDDK, NIH): Senna.nxml; มอโนกราฟสมุนไพรในบัญชียาหลักแห่งชาติ: มะขามแขก.pdf"
+    "source": "LiverTox (NIDDK, NIH): Senna.nxml; มอโนกราฟสมุนไพรในบัญชียาหลักแห่งชาติ: มะขามแขก.pdf",
+    "hepatotox_mechanism": "กลไก: ยังไม่ทราบแน่ชัด สงสัยว่า sennoside metabolites (rheinanthrone) ที่สร้างโดย intestinal bacteria อาจมี hepatotoxic potential การใช้ระยะยาวในขนาดสูง (chronic laxative abuse) เกี่ยวข้องกับการเกิด DILI มากกว่าการใช้ระยะสั้น",
+    "injury_pattern": "Hepatocellular",
+    "severity_max": "Moderate",
+    "fatal_cases_reported": false,
+    "onset_days_min": 30,
+    "onset_days_max": 365,
+    "recovery_days_min": 30,
+    "recovery_days_max": 90,
+    "chronic_risk": true,
+    "rechallenge_data": "not reported",
+    "incidence_rate": "หายาก; เกี่ยวข้องกับการใช้ระยะยาวในขนาดสูงเป็นหลัก",
+    "risk_factors_th": [
+      "ปัจจัยเสี่ยง: การใช้ยาระยะยาว (chronic laxative use) ในขนาดสูง",
+      "ปัจจัยเสี่ยง: ใช้เพื่อลดน้ำหนักในปริมาณมากเกิน"
+    ],
+    "interacting_drugs_th": "-",
+    "monitoring_note_th": "คำแนะนำติดตาม: ไม่แนะนำใช้ Senna ระยะยาว (>1-2 สัปดาห์) โดยไม่จำเป็น ตรวจ LFTs หากใช้นาน",
+    "thai_herb_source": "ขี้เหล็กแขก (Senna alexandrina)",
+    "evidence_level": "case report(s)",
+    "case_count_reported": null,
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Senna/",
+    "source_review_date": "2020-02-03",
+    "last_updated": "2026-07-01"
   },
   {
     "id": 21,
@@ -309,7 +889,30 @@
     "description_th": "สมุนไพรไทยที่ใช้แก้ไข้ ถอนพิษ และเชื่อกันว่าช่วยปกป้องตับ ยังไม่มีหลักฐานทางคลินิกที่ชัดเจนว่าก่อให้เกิดตับอักเสบ แต่ข้อมูลด้านความปลอดภัยระยะยาวยังมีจำกัด ไม่มีรายการใน LiverTox",
     "scientific_name": "Thunbergia laurifolia Lindl.",
     "part_used": "ใบที่โตเต็มที่",
-    "source": "มอโนกราฟสมุนไพรในบัญชียาหลักแห่งชาติ: รางจืด.pdf (ไม่มีรายการใน LiverTox)"
+    "source": "มอโนกราฟสมุนไพรในบัญชียาหลักแห่งชาติ: รางจืด.pdf (ไม่มีรายการใน LiverTox)",
+    "hepatotox_mechanism": "กลไก: ยังไม่ทราบแน่ชัด สงสัยว่า flavonoids และ iridoid glycosides ใน Thunbergia laurifolia อาจมี hepatotoxic potential ในปริมาณสูง ข้อมูลทางคลินิกยังมีจำกัดมาก ไม่มีข้อมูลใน LiverTox ข้อมูลมาจาก pharmacovigilance ของไทยเท่านั้น",
+    "injury_pattern": "Hepatocellular",
+    "severity_max": "Moderate",
+    "fatal_cases_reported": false,
+    "onset_days_min": null,
+    "onset_days_max": null,
+    "recovery_days_min": null,
+    "recovery_days_max": null,
+    "chronic_risk": false,
+    "rechallenge_data": "not reported",
+    "incidence_rate": "ไม่ทราบ; ข้อมูลทางระบาดวิทยายังไม่เพียงพอ",
+    "risk_factors_th": [
+      "ปัจจัยเสี่ยง: ยังไม่ทราบปัจจัยเสี่ยงที่ชัดเจน",
+      "ปัจจัยเสี่ยง: สงสัยในผู้ที่ใช้ขนาดสูงหรือใช้ร่วมกับสมุนไพรอื่น"
+    ],
+    "interacting_drugs_th": "-",
+    "monitoring_note_th": "คำแนะนำติดตาม: ตรวจ LFTs หากมีอาการหลังใช้ หยุดและปรึกษาแพทย์ ข้อมูลทางคลินิกยังมีจำกัด ควรระมัดระวังในผู้ที่มีโรคตับเรื้อรัง",
+    "thai_herb_source": "รางจืด (Thunbergia laurifolia Lindl.)",
+    "evidence_level": "-",
+    "case_count_reported": null,
+    "livertox_url": null,
+    "source_review_date": null,
+    "last_updated": "2026-07-01"
   },
   {
     "id": 22,
