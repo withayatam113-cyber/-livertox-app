@@ -64,6 +64,7 @@
     }
 
     .dropdown-item:hover { background-color: #f0fdfa; }
+    .dropdown-item-active { background-color: #ccfbf1 !important; outline: 2px solid #14b8a6; outline-offset: -2px; }
     #drug-dropdown { box-shadow: 0 4px 16px rgba(0,0,0,0.12); }
 
     .section-card {
@@ -308,6 +309,7 @@
           <input type="text" id="drug-search-input"
             placeholder="พิมพ์ชื่อยาภาษาไทยหรืออังกฤษ เช่น paracetamol, ไอโซไนอาซิด..."
             oninput="handleDrugSearch(this.value)"
+            onkeydown="handleDrugSearchKeydown(event)"
             autocomplete="off" class="pr-10">
           <button id="drug-clear-btn" onclick="clearDrugSearch()"
             class="absolute right-3 top-1/2 -translate-y-1/2 text-slate-400 hover:text-slate-700 hidden">
@@ -10815,6 +10817,44 @@ function handleDrugSearch(query) {
   renderDrugDropdown(results);
 }
 
+let dropdownActiveIndex = -1;
+
+function handleDrugSearchKeydown(e) {
+  const list = document.getElementById('drug-dropdown-list');
+  const items = list.querySelectorAll('li[data-index]');
+  if (!items.length) return;
+
+  if (e.key === 'ArrowDown') {
+    e.preventDefault();
+    dropdownActiveIndex = Math.min(dropdownActiveIndex + 1, items.length - 1);
+    updateDropdownHighlight(items);
+  } else if (e.key === 'ArrowUp') {
+    e.preventDefault();
+    dropdownActiveIndex = Math.max(dropdownActiveIndex - 1, -1);
+    updateDropdownHighlight(items);
+  } else if (e.key === 'Enter') {
+    e.preventDefault();
+    if (dropdownActiveIndex >= 0 && items[dropdownActiveIndex]) {
+      const drugId = parseInt(items[dropdownActiveIndex].dataset.drugId);
+      selectDrug(drugId);
+    }
+  } else if (e.key === 'Escape') {
+    document.getElementById('drug-dropdown').classList.add('hidden');
+    dropdownActiveIndex = -1;
+  }
+}
+
+function updateDropdownHighlight(items) {
+  items.forEach((li, i) => {
+    if (i === dropdownActiveIndex) {
+      li.classList.add('dropdown-item-active');
+      li.scrollIntoView({ block: 'nearest' });
+    } else {
+      li.classList.remove('dropdown-item-active');
+    }
+  });
+}
+
 function renderDrugDropdown(results) {
   const dropdown = document.getElementById('drug-dropdown');
   const list = document.getElementById('drug-dropdown-list');
@@ -10825,13 +10865,15 @@ function renderDrugDropdown(results) {
     return;
   }
 
-  list.innerHTML = results.map(d => {
+  dropdownActiveIndex = -1;
+  list.innerHTML = results.map((d, idx) => {
     const isHerbNoData = d.thai_herb_source === true && d.livertox_grade === '-';
     const gradeBadge = isHerbNoData
       ? `<span class="text-xs font-bold px-2 py-0.5 rounded-full flex-shrink-0 bg-amber-50 text-amber-700 border border-amber-300">สมุนไพร</span>`
       : `<span class="text-xs font-bold px-2 py-0.5 rounded-full grade-badge-${d.livertox_grade} flex-shrink-0">Grade ${d.livertox_grade}</span>`;
     return `
     <li class="dropdown-item px-4 py-3 cursor-pointer border-b border-slate-100 last:border-0"
+        data-index="${idx}" data-drug-id="${d.id}"
         onclick="selectDrug(${d.id})">
       <div class="flex items-center justify-between gap-2">
         <div>
