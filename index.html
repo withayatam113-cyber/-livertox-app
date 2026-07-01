@@ -157,8 +157,8 @@
       border: 2px solid #14532d !important;
     }
     .section-card-blue {
-      background: #dbeafe !important;   /* Blue-100 — โซนข้อมูลผู้ป่วย/Lab */
-      border: 2px solid #bfdbfe !important;
+      background: #9f1239 !important;   /* Rose-800 (wine) — โซนข้อมูลผู้ป่วย/Lab */
+      border: 2px solid #881337 !important;
     }
     .section-card-amber {
       background: #fef3c7 !important;   /* Amber-100 — โซนประเมิน RUCAM */
@@ -206,7 +206,6 @@
     .section-card-teal #selected-drug-info .text-slate-900 { color: #0f172a !important; }
     .section-card-teal #selected-drug-info .text-teal-800 { color: #115e59 !important; }
     .section-card-teal #selected-drug-info .text-teal-600 { color: #0d9488 !important; }
-    .section-card-blue .text-slate-400,
     .section-card-amber .text-slate-400 {
       color: #475569 !important;
     }
@@ -214,8 +213,37 @@
     .section-card-amber .text-slate-500 {
       color: #334155 !important;
     }
-    .section-card-blue .text-slate-500 {
-      color: #475569 !important;
+
+    /* พื้นไวน์เข้ม (#9f1239) → ต้องใช้ตัวอักษรสีขาว/อ่อนเพื่อ contrast */
+    .section-card-blue .text-slate-900 {
+      color: #ffffff !important;
+    }
+    .section-card-blue .text-slate-400 {
+      color: #fecdd3 !important;
+    }
+    /* ปุ่มเลือกเพศและกล่องผล R-ratio มีพื้นขาวของตัวเอง → คืน text สีเข้มเดิม */
+    .section-card-blue #btn-sex-male,
+    .section-card-blue #btn-sex-female {
+      color: #334155 !important;
+    }
+    .section-card-blue #btn-sex-male .text-slate-400,
+    .section-card-blue #btn-sex-female .text-slate-400 {
+      color: #94a3b8 !important;
+    }
+    .section-card-blue #rratio-result .text-slate-500 { color: #64748b !important; }
+    .section-card-blue #rratio-result .text-slate-800 { color: #1e293b !important; }
+
+    /* Section 1: กลับสี badge เลขและปุ่มหลักเป็นขาว/ไวน์ ตามดีไซน์ต้นแบบ (เฉพาะ section นี้) */
+    .section-card-blue .section-number {
+      background: #ffffff !important;
+      color: #9f1239 !important;
+    }
+    .section-card-blue .btn-primary {
+      background: #ffffff !important;
+      color: #9f1239 !important;
+    }
+    .section-card-blue .btn-primary:hover {
+      background: #ffe4e6 !important;
     }
     /* text-xs บน amber ต้องชัดพิเศษเพราะตัวเล็ก */
     .section-card-amber .text-xs {
@@ -483,9 +511,9 @@
           <p class="text-xs text-slate-500 font-medium">R-ratio</p>
           <p class="text-3xl font-bold text-slate-800" id="rratio-value"></p>
         </div>
-        <div>
+        <div class="text-center">
           <span id="rratio-type-badge" class="text-sm font-bold px-4 py-2 rounded-full border-2"></span>
-          <p class="text-xs text-slate-500 mt-1" id="rratio-formula-display"></p>
+          <p class="text-xs text-slate-500 mt-2" id="rratio-formula-display"></p>
         </div>
       </div>
     </div>
