@@ -7,8 +7,14 @@
   <script src="https://cdn.tailwindcss.com"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/html2pdf.js/0.10.1/html2pdf.bundle.min.js"></script>
   <style>
-    @import url('https://fonts.googleapis.com/css2?family=Sarabun:wght@300;400;500;600;700&display=swap');
-    body { font-family: 'Sarabun', 'Noto Sans Thai', sans-serif; }
+    @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Thai:wght@400;500;600;700;800&display=swap');
+    body {
+      font-family: 'Noto Sans Thai', 'Sarabun', sans-serif;
+      background: #f3f5f7;
+      -webkit-font-smoothing: antialiased;
+      -moz-osx-font-smoothing: grayscale;
+      text-rendering: optimizeLegibility;
+    }
     html { scroll-behavior: smooth; }
 
     .radio-card { transition: border-color 0.18s ease, background-color 0.18s ease; }
@@ -70,10 +76,10 @@
 
     .section-card {
       background: white;
-      border-radius: 1rem;
+      border-radius: 1.5rem;
       padding: 1.5rem;
       box-shadow: 0 1px 3px rgba(0,0,0,0.08);
-      margin-bottom: 1.5rem;
+      margin-bottom: 1.25rem;
     }
     .section-number {
       display: inline-flex;
@@ -88,7 +94,7 @@
     .btn-primary {
       background: #0d9488; color: white;
       padding: 0.625rem 1.25rem;
-      border-radius: 0.5rem;
+      border-radius: 9999px;
       font-weight: 600;
       transition: background 0.15s;
       cursor: pointer; border: none;
@@ -97,7 +103,7 @@
     .btn-secondary {
       background: #f1f5f9; color: #334155;
       padding: 0.625rem 1.25rem;
-      border-radius: 0.5rem;
+      border-radius: 9999px;
       font-weight: 600;
       transition: background 0.15s;
       cursor: pointer; border: 1px solid #cbd5e1;
@@ -106,7 +112,7 @@
     .btn-danger {
       background: #fef2f2; color: #dc2626;
       padding: 0.5rem 1rem;
-      border-radius: 0.5rem;
+      border-radius: 9999px;
       font-weight: 600;
       transition: background 0.15s;
       cursor: pointer; border: 1px solid #fca5a5;
@@ -115,10 +121,10 @@
 
     input[type="text"], input[type="number"] {
       border: 1px solid #cbd5e1;
-      border-radius: 0.5rem;
+      border-radius: 0.75rem;
       padding: 0.5rem 0.75rem;
       width: 100%;
-      font-family: 'Sarabun', sans-serif;
+      font-family: 'Noto Sans Thai', sans-serif;
       font-size: 1rem;
       color: #0f172a;
       background: white;
@@ -151,26 +157,26 @@
       border: 2px solid #14b8a6 !important;
     }
     .section-card-blue {
-      background: #eff6ff !important;   /* Blue-50 — โซนข้อมูลผู้ป่วย/Lab */
+      background: #dbeafe !important;   /* Blue-100 — โซนข้อมูลผู้ป่วย/Lab */
       border: 2px solid #bfdbfe !important;
     }
     .section-card-amber {
-      background: #fffbeb !important;   /* Amber-50 — โซนประเมิน RUCAM */
+      background: #fef3c7 !important;   /* Amber-100 — โซนประเมิน RUCAM */
       border: 2px solid #fde68a !important;
     }
     .section-card-emerald {
-      background: #ecfdf5 !important;   /* Emerald-50 — โซนสรุปผลวินิจฉัย */
+      background: #d1fae5 !important;   /* Emerald-100 — โซนสรุปผลวินิจฉัย */
       border: 2px solid #34d399 !important;
     }
     .section-card-zinc {
-      background: #f4f4f5 !important;   /* Zinc-100 — โซนประวัติ */
+      background: #e4e4e7 !important;   /* Zinc-200 — โซนประวัติ */
       border: 2px solid #d4d4d8 !important;
     }
 
     /* ── RUCAM question boxes (Q1–Q7) ── */
     .rucam-q-box {
       border: 1.5px solid #d4d4d8;  /* Zinc-300 */
-      border-radius: 0.75rem;
+      border-radius: 1rem;
       padding: 1.25rem 1.25rem 1rem;
       margin-bottom: 0.875rem;
       background: #fafafa;          /* Zinc-50 */
@@ -222,9 +228,16 @@
     .section-card-amber .text-xs.text-emerald-600 {
       color: inherit !important;
     }
+
+    /* ── Rounder corners for elements whose class is reassigned by JS (colors/logic untouched, radius only) ── */
+    #btn-sex-male, #btn-sex-female,
+    #q1-date-hint, #q2-date-hint,
+    #score-interpretation {
+      border-radius: 12px !important;
+    }
   </style>
 </head>
-<body class="bg-slate-100 min-h-screen">
+<body class="min-h-screen">
 
 <!-- ========== PDPA MODAL ========== -->
 <div id="pdpa-modal" class="fixed inset-0 z-50 flex items-center justify-center p-4" style="background:rgba(15,23,42,0.85);">
@@ -265,7 +278,7 @@
 
 <!-- ========== HEADER ========== -->
 <header class="bg-slate-800 text-white py-6">
-  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+  <div class="max-w-[960px] mx-auto px-4 sm:px-6 lg:px-8">
     <div class="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-4">
       <div>
         <div class="flex items-center gap-3">
@@ -275,7 +288,7 @@
             </svg>
           </div>
           <div>
-            <h1 class="text-xl sm:text-2xl font-bold">ระบบประเมิน RUCAM Score</h1>
+            <h1 class="text-xl sm:text-2xl font-bold">เครื่องมือประเมินภาวะตับอักเสบจากยา (DILI)</h1>
             <p class="text-slate-300 text-sm">Drug-Induced Liver Injury (DILI) Assessment Tool — Version 2.0 (Thai)</p>
           </div>
         </div>
@@ -291,7 +304,7 @@
 </header>
 
 <!-- ========== MAIN CONTENT ========== -->
-<main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+<main class="max-w-[960px] mx-auto px-4 sm:px-6 lg:px-8 py-8">
 
   <!-- ========== SECTION 0: DRUG SEARCH ========== -->
   <div class="section-card section-card-teal">
@@ -859,7 +872,7 @@
 
 <!-- ========== FOOTER ========== -->
 <footer class="bg-slate-800 text-slate-300 py-10 mt-4">
-  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+  <div class="max-w-[960px] mx-auto px-4 sm:px-6 lg:px-8">
     <div class="mb-6">
       <p class="text-white font-semibold mb-1">Developed by Withaya Tammachai.</p>
       <p class="text-slate-400 text-sm">Based on the Roussel Uclaf Causality Assessment Method (RUCAM) and LiverTox<sup>&#174;</sup> Database (NIH/NIDDK).</p>
