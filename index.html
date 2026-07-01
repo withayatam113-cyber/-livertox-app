@@ -10996,7 +10996,11 @@ function renderDrugDetails(drug) {
   setField('selected-drug-incidence-display', '.incidence-value', drug.incidence_rate);
   setField('selected-drug-riskfactors-display', '.riskfactors-value', Array.isArray(drug.risk_factors_th) ? drug.risk_factors_th.join(', ') : (drug.risk_factors_th || null));
   setField('selected-drug-interacting-display', '.interacting-value', Array.isArray(drug.interacting_drugs_th) ? drug.interacting_drugs_th.join('; ') : (drug.interacting_drugs_th || null));
-  setField('selected-drug-monitoring-display', '.monitoring-value', drug.monitoring_note_th);
+  setField('selected-drug-monitoring-display', '.monitoring-value',
+    drug.monitoring_note_th
+      ? drug.monitoring_note_th.replace(/^(คำแนะนำติดตาม|ควรติดตาม)\s*:\s*/u, '')
+      : null
+  );
 
   const evEl = document.getElementById('selected-drug-evidence-display');
   if (drug.evidence_level) {
