@@ -992,7 +992,7 @@ function acceptPDPA() {
 // ============================================================
 // DRUG DATABASE (inline — ไม่ต้อง fetch เพื่อรองรับ file://)
 // ============================================================
-const DRUG_DB_INLINE = [
+const DRUG_DB_INLINE =[
     {
         "id": 1,
         "name_en": "Acetaminophen (Paracetamol)",
@@ -3248,7 +3248,7 @@ const DRUG_DB_INLINE = [
         "onset_days_max": 120,
         "recovery_days_min": null,
         "recovery_days_max": null,
-        "chronic_risk": true,
+        "chronic_risk": false,
         "rechallenge_data": "not reported",
         "incidence_rate": "พบได้น้อยมาก",
         "risk_factors_th": "-",
@@ -3284,7 +3284,7 @@ const DRUG_DB_INLINE = [
         "onset_days_max": 180,
         "recovery_days_min": null,
         "recovery_days_max": null,
-        "chronic_risk": true,
+        "chronic_risk": false,
         "rechallenge_data": "not reported",
         "incidence_rate": "พบได้น้อยมาก",
         "risk_factors_th": "-",
@@ -3358,7 +3358,7 @@ const DRUG_DB_INLINE = [
         "onset_days_max": 180,
         "recovery_days_min": null,
         "recovery_days_max": null,
-        "chronic_risk": true,
+        "chronic_risk": false,
         "rechallenge_data": "not reported",
         "incidence_rate": "พบได้น้อยมาก",
         "risk_factors_th": "-",
@@ -3887,7 +3887,7 @@ const DRUG_DB_INLINE = [
         "onset_days_max": 56,
         "recovery_days_min": null,
         "recovery_days_max": null,
-        "chronic_risk": true,
+        "chronic_risk": false,
         "rechallenge_data": "not reported",
         "incidence_rate": "พบได้น้อยมาก",
         "risk_factors_th": "-",
@@ -4596,7 +4596,7 @@ const DRUG_DB_INLINE = [
         "onset_days_max": 28,
         "recovery_days_min": 7,
         "recovery_days_max": 14,
-        "chronic_risk": true,
+        "chronic_risk": false,
         "rechallenge_data": "not reported",
         "incidence_rate": "อุบัติการณ์: 46% of patients",
         "risk_factors_th": [
@@ -10991,7 +10991,11 @@ function renderDrugDetails(drug) {
   }
   setField('selected-drug-recovery-display', '.recovery-value', recoveryText);
 
-  setField('selected-drug-chronic-display', '.chronic-value', drug.chronic_risk === undefined || drug.chronic_risk === null ? null : (drug.chronic_risk ? 'มีรายงานว่าอาจกลายเป็นเรื้อรัง (นานกว่า 6 เดือน)' : 'ส่วนใหญ่หายเป็นปกติ ไม่กลายเป็นเรื้อรัง'));
+  setField('selected-drug-chronic-display', '.chronic-value',
+    (drug.chronic_risk === undefined || drug.chronic_risk === null || drug.chronic_risk === '-')
+      ? null
+      : (drug.chronic_risk === true ? 'มีรายงานว่าอาจกลายเป็นเรื้อรัง (นานกว่า 6 เดือน)' : 'ส่วนใหญ่หายเป็นปกติ ไม่กลายเป็นเรื้อรัง')
+  );
   setField('selected-drug-rechallenge-display', '.rechallenge-value', drug.rechallenge_data);
   setField('selected-drug-incidence-display', '.incidence-value', drug.incidence_rate);
   setField('selected-drug-riskfactors-display', '.riskfactors-value', Array.isArray(drug.risk_factors_th) ? drug.risk_factors_th.join(', ') : (drug.risk_factors_th || null));
