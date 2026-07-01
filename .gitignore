@@ -5,3 +5,5 @@ Medication_Data/
 *.bak4
 livertox_th_db_*draft*.json
 livertox_th_db_*update*.json
+screenshots/
+docs/
