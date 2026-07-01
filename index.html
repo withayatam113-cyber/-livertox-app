@@ -4295,7 +4295,7 @@ const DRUG_DB_INLINE =[
         "onset_days_max": 60,
         "recovery_days_min": null,
         "recovery_days_max": null,
-        "chronic_risk": true,
+        "chronic_risk": false,
         "rechallenge_data": "not reported",
         "incidence_rate": "พบได้น้อยมาก",
         "risk_factors_th": "-",
@@ -5167,7 +5167,7 @@ const DRUG_DB_INLINE =[
         "onset_days_max": 42,
         "recovery_days_min": null,
         "recovery_days_max": null,
-        "chronic_risk": true,
+        "chronic_risk": false,
         "rechallenge_data": "not reported",
         "incidence_rate": "อุบัติการณ์: 7% of patients",
         "risk_factors_th": "-",
@@ -9400,7 +9400,7 @@ const DRUG_DB_INLINE =[
         "onset_days_max": 42,
         "recovery_days_min": null,
         "recovery_days_max": null,
-        "chronic_risk": true,
+        "chronic_risk": false,
         "rechallenge_data": "reported",
         "incidence_rate": "อุบัติการณ์: 18% of patients",
         "risk_factors_th": "-",
@@ -10169,7 +10169,7 @@ const DRUG_DB_INLINE =[
         "onset_days_max": 90,
         "recovery_days_min": 30,
         "recovery_days_max": 90,
-        "chronic_risk": true,
+        "chronic_risk": false,
         "rechallenge_data": "reported",
         "incidence_rate": "พบได้น้อยมาก",
         "risk_factors_th": [
@@ -10894,6 +10894,41 @@ function renderDrugDropdown(results) {
   dropdown.classList.remove('hidden');
 }
 
+function getChronicRiskText(drug) {
+  const cr = drug.chronic_risk;
+  if (cr === undefined || cr === null || cr === '-') return null;
+
+  const note = (drug.monitoring_note_th || '')
+    .replace(/^(คำแนะนำติดตาม|ควรติดตาม)\s*:\s*/u, '');
+
+  // split on sentence boundaries (. followed by space or end)
+  const sentences = note.split(/(?<=[.!?])\s+/);
+
+  if (cr === true) {
+    const chronicPhrases = ['chronic', 'cirrhosis', 'vanishing bile duct', 'fibrosis',
+      'prolonged', 'does not resolve', 'chronic hepatitis', 'chronic cholestasis',
+      'chronic injury', 'chronic liver', 'chronic course', 'chronic damage'];
+    const relevant = sentences.find(s =>
+      chronicPhrases.some(p => s.toLowerCase().includes(p))
+    );
+    if (relevant && relevant.trim().length > 15) return relevant.trim();
+    return 'มีรายงานว่าอาจกลายเป็นเรื้อรัง (นานกว่า 6 เดือน)';
+  }
+
+  if (cr === false) {
+    const recoveryPhrases = ['without evidence of residual or chronic', 'without evidence of chronic',
+      'complete recovery', 'full recovery', 'self-limiting', 'self-limited',
+      'resolves upon withdrawal', 'resolve upon withdrawal', 'resolves rapidly'];
+    const relevant = sentences.find(s =>
+      recoveryPhrases.some(p => s.toLowerCase().includes(p))
+    );
+    if (relevant && relevant.trim().length > 15) return relevant.trim();
+    return 'ส่วนใหญ่หายเป็นปกติหลังหยุดยา';
+  }
+
+  return null;
+}
+
 function renderDrugDetails(drug) {
   document.getElementById('selected-drug-info').classList.remove('hidden');
   document.getElementById('selected-drug-name-display').textContent = `${drug.name_en} — ${drug.name_th}`;
@@ -10991,11 +11026,7 @@ function renderDrugDetails(drug) {
   }
   setField('selected-drug-recovery-display', '.recovery-value', recoveryText);
 
-  setField('selected-drug-chronic-display', '.chronic-value',
-    (drug.chronic_risk === undefined || drug.chronic_risk === null || drug.chronic_risk === '-')
-      ? null
-      : (drug.chronic_risk === true ? 'มีรายงานว่าอาจกลายเป็นเรื้อรัง (นานกว่า 6 เดือน)' : 'ส่วนใหญ่หายเป็นปกติ ไม่กลายเป็นเรื้อรัง')
-  );
+  setField('selected-drug-chronic-display', '.chronic-value', getChronicRiskText(drug));
   setField('selected-drug-rechallenge-display', '.rechallenge-value', drug.rechallenge_data);
   setField('selected-drug-incidence-display', '.incidence-value', drug.incidence_rate);
   setField('selected-drug-riskfactors-display', '.riskfactors-value', Array.isArray(drug.risk_factors_th) ? drug.risk_factors_th.join(', ') : (drug.risk_factors_th || null));
