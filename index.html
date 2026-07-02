@@ -161,8 +161,8 @@
       border: 2px solid #881337 !important;
     }
     .section-card-amber {
-      background: #fef3c7 !important;   /* Amber-100 — โซนประเมิน RUCAM */
-      border: 2px solid #fde68a !important;
+      background: #1e3a5f !important;   /* Navy (กรมท่า) — โซนประเมิน RUCAM */
+      border: 2px solid #16283f !important;
     }
     .section-card-emerald {
       background: #d1fae5 !important;   /* Emerald-100 — โซนสรุปผลวินิจฉัย */
@@ -244,6 +244,11 @@
     }
     .section-card-blue .btn-primary:hover {
       background: #ffe4e6 !important;
+    }
+    /* Section 2: กลับสี badge เลขเป็นขาว/กรมท่า ตามดีไซน์ต้นแบบ (เฉพาะ section นี้) */
+    .section-card-amber .section-number {
+      background: #ffffff !important;
+      color: #1e3a5f !important;
     }
     /* text-xs บน amber ต้องชัดพิเศษเพราะตัวเล็ก */
     .section-card-amber .text-xs {
@@ -540,9 +545,9 @@
     <div class="section-card section-card-amber">
       <div class="flex items-center mb-2">
         <span class="section-number">2</span>
-        <h2 class="text-xl font-bold text-slate-900">แบบฟอร์มประเมิน RUCAM (7 เกณฑ์)</h2>
+        <h2 class="text-xl font-bold text-white">แบบฟอร์มประเมิน RUCAM (7 เกณฑ์)</h2>
       </div>
-      <p class="text-sm text-slate-500 mb-6 ml-10">กรุณาตอบทุกข้อตามสภาพผู้ป่วยจริง คะแนนจะอัปเดตอัตโนมัติ</p>
+      <p class="text-sm text-slate-300 mb-6 ml-10">กรุณาตอบทุกข้อตามสภาพผู้ป่วยจริง คะแนนจะอัปเดตอัตโนมัติ</p>
 
       <!-- Q1 -->
       <div class="rucam-q-box">
@@ -638,9 +643,9 @@
             <p class="text-xs text-slate-400 px-3 pb-3 leading-relaxed" style="margin-top:-6px;">
               <span class="font-semibold text-slate-500">นิยามตามเกณฑ์ RUCAM 2016:</span><br>
               ♂ ผู้ชาย: &gt; 3 ดริงก์มาตรฐาน/วัน
-              <span class="text-slate-300">[สุราขาว 40° &gt; 3 เป๊ก (30 mL/เป๊ก) | สุราสี &gt; 6 ฝา | เบียร์ 5% ABV &gt; 3 กระป๋อง 330 mL/วัน]</span><br>
+              <span class="text-black">[สุราขาว 40° &gt; 3 เป๊ก (30 mL/เป๊ก) | สุราสี &gt; 6 ฝา | เบียร์ 5% ABV &gt; 3 กระป๋อง 330 mL/วัน]</span><br>
               ♀ ผู้หญิง: &gt; 2 ดริงก์มาตรฐาน/วัน
-              <span class="text-slate-300">[สุราขาว 40° &gt; 2 เป๊ก | สุราสี &gt; 4 ฝา | เบียร์ 5% ABV &gt; 2 กระป๋อง 330 mL/วัน]</span>
+              <span class="text-black">[สุราขาว 40° &gt; 2 เป๊ก | สุราสี &gt; 4 ฝา | เบียร์ 5% ABV &gt; 2 กระป๋อง 330 mL/วัน]</span>
             </p>
           </div>
           <!-- Pregnancy row + dynamic disable -->
