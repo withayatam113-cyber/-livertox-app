@@ -579,8 +579,8 @@
           การดำเนินของโรคหลังหยุดยา (Course after Drug Cessation)
         </h3>
         <p class="text-xs text-slate-500 mb-1">
-          <span class="font-semibold">ตัวชี้วัดสำหรับประเภท <span id="q2-type-label" class="text-teal-700">—</span>:</span>
-          การลดลงของ ALT (Hepatocellular) หรือ ALP (Cholestatic/Mixed)
+          <span class="font-semibold">รูปแบบการอักเสบของตับ <span id="q2-type-label" class="text-teal-700">—</span>:</span>
+          <span id="q2-marker-label">การลดลงของ ALT หรือ ALP</span>
         </p>
         <div id="q2-hint" class="text-xs bg-blue-50 border border-blue-200 rounded px-3 py-2 mb-3 text-blue-700"></div>
 
@@ -11521,17 +11521,20 @@ function rebuildQ2() {
   const options = type === 'hepatocellular' ? Q2_HEPATOCELLULAR : Q2_CHOLESTATIC_MIXED;
   const isHepatoOrMixed = type === 'hepatocellular' || type === 'mixed';
 
-  const typeLabelEl = document.getElementById('q2-type-label');
-  const hintEl      = document.getElementById('q2-hint');
-  const peakLabelEl = document.getElementById('q2-peak-label');
-  const peakInputEl = document.getElementById('q2-peak-input');
+  const typeLabelEl   = document.getElementById('q2-type-label');
+  const hintEl        = document.getElementById('q2-hint');
+  const markerLabelEl = document.getElementById('q2-marker-label');
+  const peakLabelEl   = document.getElementById('q2-peak-label');
+  const peakInputEl   = document.getElementById('q2-peak-input');
 
   if (type === 'hepatocellular') {
     typeLabelEl.textContent = 'Hepatocellular';
     hintEl.textContent = 'ดูการเปลี่ยนแปลงของ ALT จากจุดสูงสุด หลังจากหยุดยา';
+    if (markerLabelEl) markerLabelEl.textContent = 'การลดลงของ ALT';
   } else {
     typeLabelEl.textContent = type === 'cholestatic' ? 'Cholestatic' : 'Mixed';
     hintEl.textContent = 'ดูการเปลี่ยนแปลงของ ALP จากจุดสูงสุด หลังจากหยุดยา (เวลานานกว่า Hepatocellular)';
+    if (markerLabelEl) markerLabelEl.textContent = 'การลดลงของ ALP';
   }
 
   if (peakLabelEl) {
