@@ -457,10 +457,10 @@
     </div>
 
     <!-- Lab Values -->
-    <div class="space-y-3 mb-6">
-      <!-- ALT pair -->
-      <div class="flex items-end gap-3">
-        <div class="flex-1 min-w-0">
+    <div class="flex flex-wrap gap-x-6 gap-y-4 mb-6">
+      <!-- ALT group -->
+      <div class="flex items-end gap-2">
+        <div class="w-32">
           <label class="block text-sm font-semibold text-slate-900 mb-1">ALT ผู้ป่วย (U/L)</label>
           <input type="number" id="alt-input" placeholder="เช่น 350" min="0"
             oninput="appState.patientAlt = this.value; calculateQ2Drop();">
@@ -471,9 +471,9 @@
             oninput="handleUlnEdit('alt'); calculateQ2Drop();">
         </div>
       </div>
-      <!-- ALP pair -->
-      <div class="flex items-end gap-3">
-        <div class="flex-1 min-w-0">
+      <!-- ALP group -->
+      <div class="flex items-end gap-2">
+        <div class="w-32">
           <label class="block text-sm font-semibold text-slate-900 mb-1">ALP ผู้ป่วย (U/L)</label>
           <input type="number" id="alp-input" placeholder="เช่น 160" min="0"
             oninput="appState.patientAlp = this.value; calculateQ2Drop();">
@@ -484,9 +484,9 @@
             oninput="handleUlnEdit('alp'); calculateQ2Drop();">
         </div>
       </div>
-      <!-- Total Bilirubin pair -->
-      <div class="flex items-end gap-3">
-        <div class="flex-1 min-w-0">
+      <!-- Total Bilirubin group -->
+      <div class="flex items-end gap-2">
+        <div class="w-32">
           <label class="block text-sm font-semibold text-slate-900 mb-1">Total Bilirubin ผู้ป่วย (mg/dL)</label>
           <input type="number" id="tb-input" placeholder="เช่น 2.5" min="0" step="0.1"
             oninput="appState.patientTb = this.value">
@@ -896,7 +896,7 @@
           <p class="text-xs text-slate-600 leading-relaxed pt-1.5 border-t border-red-200"><span class="font-semibold text-red-700">การจัดการ (Management):</span> ส่งต่อหน่วยดูแลวิกฤต/ICU โดยด่วน ปรึกษาแพทย์เฉพาะทางตับทันที ประเมินความจำเป็นในการปลูกถ่ายตับ ติดตามภาวะเลือดออกและสมองบวมอย่างใกล้ชิด</p>
         </div>
       </div>
-      <div class="flex flex-col sm:flex-row sm:items-start gap-2 sm:gap-4 bg-slate-800 border border-slate-900 rounded-xl p-3.5">
+      <div class="flex flex-col sm:flex-row sm:items-start gap-2 sm:gap-4 bg-slate-700 border border-slate-800 rounded-xl p-3.5">
         <span class="flex-shrink-0 bg-white text-slate-900 text-xs font-bold px-2.5 py-1 rounded-lg w-fit">Grade 5 &middot; Fatal</span>
         <div class="flex-1 space-y-1.5">
           <p class="text-sm text-slate-100 leading-relaxed">death or liver transplantation due to DILI</p>
