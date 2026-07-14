@@ -156,10 +156,6 @@
       background: #14b8a6 !important;   /* Teal-500 — ให้ตรงกับกรอบไอคอนหัวเครื่องมือ */
       border: 2px solid #0d9488 !important;   /* Teal-600 */
     }
-    .section-card-blue {
-      background: #475569 !important;   /* Slate-600 (เทาเข้ม) — โซนข้อมูลผู้ป่วย/Lab */
-      border: 2px solid #334155 !important;   /* Slate-700 */
-    }
     .section-card-amber {
       background: #1e3a5f !important;   /* Navy (กรมท่า) — โซนประเมิน RUCAM */
       border: 2px solid #16283f !important;
@@ -214,37 +210,6 @@
       color: #334155 !important;
     }
 
-    /* พื้นไวน์เข้ม (#9f1239) → ต้องใช้ตัวอักษรสีขาว/อ่อนเพื่อ contrast */
-    .section-card-blue .text-slate-900 {
-      color: #ffffff !important;
-    }
-    .section-card-blue .text-slate-400 {
-      color: #cbd5e1 !important;   /* อ่อนลงเพื่อ contrast บนพื้น Slate-600 ที่เข้ม */
-    }
-    /* ปุ่มเลือกเพศและกล่องผล R-ratio มีพื้นขาวของตัวเอง → คืน text สีเข้มเดิม */
-    .section-card-blue #btn-sex-male,
-    .section-card-blue #btn-sex-female {
-      color: #334155 !important;
-    }
-    .section-card-blue #btn-sex-male .text-slate-400,
-    .section-card-blue #btn-sex-female .text-slate-400 {
-      color: #94a3b8 !important;
-    }
-    .section-card-blue #rratio-result .text-slate-500 { color: #64748b !important; }
-    .section-card-blue #rratio-result .text-slate-800 { color: #1e293b !important; }
-
-    /* Section 1: กลับสี badge เลขและปุ่มหลักเป็นขาว/ไวน์ ตามดีไซน์ต้นแบบ (เฉพาะ section นี้) */
-    .section-card-blue .section-number {
-      background: #ffffff !important;
-      color: #9f1239 !important;
-    }
-    .section-card-blue .btn-primary {
-      background: #ffffff !important;
-      color: #9f1239 !important;
-    }
-    .section-card-blue .btn-primary:hover {
-      background: #ffe4e6 !important;
-    }
     /* Section 2: กลับสี badge เลขเป็นขาว/กรมท่า ตามดีไซน์ต้นแบบ (เฉพาะ section นี้) */
     .section-card-amber .section-number {
       background: #ffffff !important;
@@ -373,7 +338,7 @@
     </div>
 
     <!-- Selected drug info -->
-    <div id="selected-drug-info" class="hidden mt-3 bg-teal-100 border border-teal-300 rounded-lg p-3">
+    <div id="selected-drug-info" class="hidden mt-3 bg-white border border-teal-300 rounded-lg p-3">
       <div>
         <div class="flex items-center gap-2 flex-wrap">
           <p class="font-semibold text-teal-800" id="selected-drug-name-display"></p>
@@ -419,7 +384,7 @@
   </div>
 
   <!-- ========== SECTION 1: R-RATIO CALCULATOR ========== -->
-  <div class="section-card section-card-blue">
+  <div class="section-card section-card-zinc">
     <div class="flex items-center mb-4">
       <span class="section-number">1</span>
       <h2 class="text-xl font-bold text-slate-900">ข้อมูลผู้ป่วยและค่าผลเลือด</h2>
