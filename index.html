@@ -709,16 +709,16 @@
                 <span class="text-xs text-slate-700 leading-relaxed">ไวรัสตับอักเสบ E <span class="text-slate-400">(Anti-HEV IgM)</span></span>
               </label>
               <label class="flex items-start gap-2.5 cursor-pointer">
-                <input type="checkbox" id="q5-cmv" class="mt-0.5 w-4 h-4 rounded accent-teal-600 flex-shrink-0" onchange="handleQ5G1Change()">
-                <span class="text-xs text-slate-700 leading-relaxed">ติดเชื้อไวรัส CMV <span class="text-slate-400">(Anti-CMV IgM)</span></span>
-              </label>
-              <label class="flex items-start gap-2.5 cursor-pointer">
-                <input type="checkbox" id="q5-ebv" class="mt-0.5 w-4 h-4 rounded accent-teal-600 flex-shrink-0" onchange="handleQ5G1Change()">
-                <span class="text-xs text-slate-700 leading-relaxed">ติดเชื้อไวรัส EBV <span class="text-slate-400">(Monospot / Anti-EBV IgM)</span></span>
-              </label>
-              <label class="flex items-start gap-2.5 cursor-pointer">
                 <input type="checkbox" id="q5-biliary" class="mt-0.5 w-4 h-4 rounded accent-teal-600 flex-shrink-0" onchange="handleQ5G1Change()">
                 <span class="text-xs text-slate-700 leading-relaxed">ทางเดินน้ำดีอุดตัน <span class="text-slate-400">(Liver Ultrasound)</span></span>
+              </label>
+              <label class="flex items-start gap-2.5 cursor-pointer">
+                <input type="checkbox" id="q5-alcoholic" class="mt-0.5 w-4 h-4 rounded accent-teal-600 flex-shrink-0" onchange="handleQ5G1Change()">
+                <span class="text-xs text-slate-700 leading-relaxed">ภาวะติดสุราเรื้อรัง <span class="text-slate-400">(Alcoholism)</span></span>
+              </label>
+              <label class="flex items-start gap-2.5 cursor-pointer">
+                <input type="checkbox" id="q5-ischemic" class="mt-0.5 w-4 h-4 rounded accent-teal-600 flex-shrink-0" onchange="handleQ5G1Change()">
+                <span class="text-xs text-slate-700 leading-relaxed">ภาวะช็อก/ความดันโลหิตต่ำเฉียบพลัน หรือหัวใจล้มเหลว <span class="text-slate-400">(Recent Acute Hypotension / Cardiac Failure)</span></span>
               </label>
             </div>
           </div>
@@ -731,16 +731,16 @@
             </p>
             <div class="space-y-2">
               <label class="flex items-start gap-2.5 cursor-pointer">
+                <input type="checkbox" id="q5-cmv" class="mt-0.5 w-4 h-4 rounded accent-slate-500 flex-shrink-0" onchange="handleQ5G2Change()">
+                <span class="text-xs text-slate-600 leading-relaxed">ติดเชื้อไวรัส CMV <span class="text-slate-400">(Anti-CMV IgM)</span></span>
+              </label>
+              <label class="flex items-start gap-2.5 cursor-pointer">
+                <input type="checkbox" id="q5-ebv" class="mt-0.5 w-4 h-4 rounded accent-slate-500 flex-shrink-0" onchange="handleQ5G2Change()">
+                <span class="text-xs text-slate-600 leading-relaxed">ติดเชื้อไวรัส EBV <span class="text-slate-400">(Monospot / Anti-EBV IgM)</span></span>
+              </label>
+              <label class="flex items-start gap-2.5 cursor-pointer">
                 <input type="checkbox" id="q5-autoimmune" class="mt-0.5 w-4 h-4 rounded accent-slate-500 flex-shrink-0" onchange="handleQ5G2Change()">
                 <span class="text-xs text-slate-600 leading-relaxed">Autoimmune Hepatitis <span class="text-slate-400">(ANA, ASMA, IgG)</span></span>
-              </label>
-              <label class="flex items-start gap-2.5 cursor-pointer">
-                <input type="checkbox" id="q5-ischemic" class="mt-0.5 w-4 h-4 rounded accent-slate-500 flex-shrink-0" onchange="handleQ5G2Change()">
-                <span class="text-xs text-slate-600 leading-relaxed">Ischemic Hepatitis <span class="text-slate-400">(ตับขาดเลือดจากภาวะช็อก)</span></span>
-              </label>
-              <label class="flex items-start gap-2.5 cursor-pointer">
-                <input type="checkbox" id="q5-alcoholic" class="mt-0.5 w-4 h-4 rounded accent-slate-500 flex-shrink-0" onchange="handleQ5G2Change()">
-                <span class="text-xs text-slate-600 leading-relaxed">Alcoholic Hepatitis <span class="text-slate-400">(พิษสุราเรื้อรัง)</span></span>
               </label>
               <label class="flex items-start gap-2.5 cursor-pointer">
                 <input type="checkbox" id="q5-pregnancy" class="mt-0.5 w-4 h-4 rounded accent-slate-500 flex-shrink-0" onchange="handleQ5G2Change()">
@@ -865,6 +865,40 @@
     </div>
   </div>
 
+  <!-- ========== SEVERITY GRADING (Aithal 2011) — Reference Only ========== -->
+  <div id="severity-grading-section" class="section-card hidden">
+    <div class="flex items-center gap-2 mb-1">
+      <span class="bg-teal-100 text-teal-800 text-xs font-bold px-2 py-0.5 rounded">ส่วนเสริม</span>
+      <h2 class="text-xl font-bold text-slate-900">การประเมินระดับความรุนแรงของ DILI (Severity Grading)</h2>
+    </div>
+    <p class="text-xs text-slate-500 mb-4">ตารางอ้างอิงเท่านั้น ไม่ผูกกับคะแนน RUCAM หรือข้อมูลเคสที่บันทึก — ใช้ประกอบการพิจารณาทางคลินิกเพิ่มเติม</p>
+
+    <div class="space-y-2">
+      <div class="flex flex-col sm:flex-row sm:items-start gap-2 sm:gap-4 bg-green-50 border border-green-200 rounded-xl p-3.5">
+        <span class="flex-shrink-0 bg-green-100 text-green-700 text-xs font-bold px-2.5 py-1 rounded-lg w-fit">Grade 1 &middot; Mild</span>
+        <p class="text-sm text-slate-700 leading-relaxed">ALT &ge; 5xULN and/or ALP &ge; 2xULN, bilirubin &lt; 2.5 mg/dL, and no symptoms or mild symptoms, not hospitalized</p>
+      </div>
+      <div class="flex flex-col sm:flex-row sm:items-start gap-2 sm:gap-4 bg-yellow-50 border border-yellow-200 rounded-xl p-3.5">
+        <span class="flex-shrink-0 bg-yellow-100 text-yellow-700 text-xs font-bold px-2.5 py-1 rounded-lg w-fit">Grade 2 &middot; Moderate</span>
+        <p class="text-sm text-slate-700 leading-relaxed">as Grade 1 criteria but bilirubin &ge; 2.5 mg/dL, or symptomatic hepatitis, without hospitalization</p>
+      </div>
+      <div class="flex flex-col sm:flex-row sm:items-start gap-2 sm:gap-4 bg-orange-50 border border-orange-200 rounded-xl p-3.5">
+        <span class="flex-shrink-0 bg-orange-100 text-orange-700 text-xs font-bold px-2.5 py-1 rounded-lg w-fit">Grade 3 &middot; Moderate-Severe</span>
+        <p class="text-sm text-slate-700 leading-relaxed">as Grade 2 criteria, requiring hospitalization (or prolongation of existing hospitalization) for the DILI event</p>
+      </div>
+      <div class="flex flex-col sm:flex-row sm:items-start gap-2 sm:gap-4 bg-red-50 border border-red-200 rounded-xl p-3.5">
+        <span class="flex-shrink-0 bg-red-100 text-red-700 text-xs font-bold px-2.5 py-1 rounded-lg w-fit">Grade 4 &middot; Severe</span>
+        <p class="text-sm text-slate-700 leading-relaxed">as Grade 3 criteria, with evidence of hepatic decompensation (INR &ge; 1.5, and/or ascites, and/or hepatic encephalopathy)</p>
+      </div>
+      <div class="flex flex-col sm:flex-row sm:items-start gap-2 sm:gap-4 bg-slate-800 border border-slate-900 rounded-xl p-3.5">
+        <span class="flex-shrink-0 bg-white text-slate-900 text-xs font-bold px-2.5 py-1 rounded-lg w-fit">Grade 5 &middot; Fatal</span>
+        <p class="text-sm text-slate-100 leading-relaxed">death or liver transplantation due to DILI</p>
+      </div>
+    </div>
+
+    <p class="text-xs text-slate-400 mt-4">อ้างอิง: Aithal GP, Watkins PB, Andrade RJ, et al. Case definition and phenotype standardization in drug-induced liver injury. <em>Clin Pharmacol Ther.</em> 2011;89(6):806-815.</p>
+  </div>
+
   <!-- ========== SECTION 4: HISTORY ========== -->
   <div class="section-card section-card-zinc">
     <div class="flex items-center justify-between mb-4">
@@ -962,7 +996,7 @@ const appState = {
 function getQ1Options(type) {
   const stopDay = (type === 'cholestatic') ? '30' : '15';
   return [
-    { value:  2, label: `เริ่มมีอาการภายใน 5–90 วัน หลังเริ่มใช้ยา (หรือ ≤ 5 วัน หากผู้ป่วยเคยใช้ยานี้มาก่อนในอดีต)` },
+    { value:  2, label: `เริ่มมีอาการภายใน 5–90 วัน หลังเริ่มใช้ยา (หรือ ≤ 15 วัน หากผู้ป่วยเคยใช้ยานี้มาก่อนและเกิด Rechallenge)` },
     { value:  1, label: `เริ่มมีอาการ < 5 วัน หรือ > 90 วัน หลังเริ่มใช้ยา — หรือ เริ่มมีอาการหลังจากสั่งหยุดยาไปแล้ว ≤ ${stopDay} วัน` },
     { value:  0, label: 'ไม่ทราบข้อมูล / ไม่มีประวัติสืบค้นเวลาที่แน่ชัดได้' },
     { value: -1, label: `เริ่มมีอาการตับอักเสบเฉียบพลันหลังจากสั่งหยุดยาตัวนี้ไปแล้วนานมากกว่า ${stopDay} วัน` }
@@ -1010,7 +1044,7 @@ function getQ7Options(type) {
   return [
     { value:  3, label: `Re-challenge เป็นบวก (+3): ก่อนลองยาซ้ำค่า ${e} ลดลงมาต่ำกว่า 2 เท่าของ ULN และเมื่อได้ยาซ้ำ ค่า ${e} พุ่งกลับขึ้นมา ≥ 2 เท่าของ ULN` },
     { value:  1, label: `Re-challenge น่าสงสัย (+1): ผลเลือดสอดคล้องกับการให้ยาซ้ำ แต่ระดับเอนไซม์ ${e} ยังพุ่งสูงขึ้นไม่ถึง 2 เท่าของ ULN` },
-    { value: -2, label: `Re-challenge เป็นลบ (-2): ผู้ป่วยได้รับยาเดิมซ้ำ แต่ค่าเอนไซม์ ${e} ยังคงอยู่ในระดับปกติ ไม่มีการอักเสบเพิ่มขึ้น` },
+    { value: -2, label: `Re-challenge เป็นลบ (-2): ผู้ป่วยได้รับยาเดิมซ้ำ แต่ค่าเอนไซม์ ${e} อาจเพิ่มขึ้นบ้าง โดยยังไม่ถึงระดับผิดปกติ (ต่ำกว่า ULN) ทั้งนี้มียาอื่นใช้ร่วมด้วยในช่วงเวลาเดียวกัน` },
     { value:  0, label: 'ไม่ได้ทำ Re-challenge / ข้อมูลไม่เพียงพอหรือไม่สามารถแปลผลทางคลินิกได้' }
   ];
 }
@@ -11227,6 +11261,7 @@ function calculateRRatio() {
     alertEl.classList.remove('hidden');
     document.getElementById('rucam-section').classList.add('hidden');
     document.getElementById('score-section').classList.add('hidden');
+    document.getElementById('severity-grading-section').classList.add('hidden');
     return;
   }
 
@@ -11280,6 +11315,7 @@ function showRRatioBadge(r, type) {
 function showRUCAMSection() {
   document.getElementById('rucam-section').classList.remove('hidden');
   document.getElementById('score-section').classList.remove('hidden');
+  document.getElementById('severity-grading-section').classList.remove('hidden');
 }
 
 // ============================================================
@@ -11347,8 +11383,8 @@ function uncheckAllRadios(groupId) {
 // ============================================================
 // Q5 INTERACTIVE CHECKLIST
 // ============================================================
-const Q5_G1_IDS = ['hav','hbv','hcv','hev','cmv','ebv','biliary'];
-const Q5_G2_IDS = ['autoimmune','ischemic','alcoholic','pregnancy','sepsis'];
+const Q5_G1_IDS = ['hav','hbv','hcv','hev','biliary','alcoholic','ischemic'];
+const Q5_G2_IDS = ['cmv','ebv','autoimmune','pregnancy','sepsis'];
 
 function handleQ5G1Change() {
   appState.q5GroupI = Q5_G1_IDS.filter(id => document.getElementById('q5-' + id)?.checked);
@@ -12208,7 +12244,7 @@ function resetForm() {
   document.getElementById('btn-sex-male').className = deselectedClass;
   document.getElementById('btn-sex-female').className = deselectedClass;
 
-  ['rucam-section','score-section','rratio-result','dili-not-met-alert','validation-error'].forEach(id => {
+  ['rucam-section','score-section','severity-grading-section','rratio-result','dili-not-met-alert','validation-error'].forEach(id => {
     const el = document.getElementById(id); if (el) el.classList.add('hidden');
   });
 
