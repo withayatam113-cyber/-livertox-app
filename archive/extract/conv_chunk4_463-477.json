@@ -1,0 +1,429 @@
+[
+  {
+    "id": 463,
+    "name_en": "Bictegravir",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "E*",
+    "grade_explanation_en": "unproven but suspected potential cause of liver injury",
+    "rucam_score_bonus": 0,
+    "source": "LiverTox (NIDDK, NIH): Bictegravir.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Bictegravir/",
+    "source_review_date": "2019-04-10",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity In large clinical trials, therapy with bictegravir combined with emtricitabine and tenofovir alafenamide was associated with alanine aminotransferase (ALT) elevations (above 1.5 times ULN) in 11% patients, but these rates were similar to those in comparator groups (12% to 15%) receiving matched background optimized antiretroviral therapy without bictegravir. Elevations above 5 times ULN occurred in only 1.4% of bictegravir vs 0.9% to 1.3% of control comparator arm subjects. The elevations were not associated with clinical symptoms and generally did not require dose modification. In addition, there were no instances of acute hepatocellular liver injury with jaundice. The product label for bictegravir mentions acute exacerbations of hepatitis B and hepatic failure as potential adverse reactions when bictegravir with emtricitabine and tenofovir is discontinued. This adverse reaction can occur upon discontinuation of any antiretroviral regimen with concurrent activity against HBV and represents the effects of tenofovir and emtricitabine. Nevertheless, since its approval and its more widescale use, there have been no published reports of clinically apparent cases of liver injury or exacerbation of hepatitis B convincingly attributed to bictegravir. Likelihood score: E* (unproven but suspected potential cause of liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury The mechanism by which bictegravir might cause liver injury is not known. Bictegravir is metabolized by the liver, largely by glucuronidation with subsequent urinary clearance. Bictegravir has little or no effect on microsomal cytochrome P450 enzymes. Reconstitution of immune reactivity by antiretroviral therapy in patients with an underlying chronic hepatitis B or C can be associated with a transient flare of hepatitis. Discontinuation of antiretroviral therapy with concurrent activity against HBV can cause severe exacerbations of hepatitis B.",
+    "raw_outcome_text": "Outcome and Management If bictegravir hepatotoxicity occurs, it must be rare. Bictegravir has not been linked to cases of acute liver failure, chronic hepatitis or vanishing bile duct syndrome. Patients receiving antiviral therapy for HIV infection should be screened for evidence of hepatitis B and C and treated accordingly. Drug Class: Antiviral Agents Other Drugs in the Subclass, Integrase Strand Transfer Inhibitors: Cabotegravir, Dolutegravir, Elvitegravir, Raltegravir",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Bictegravir - Biktarvy®"
+    ],
+    "raw_drug_class": [
+      "Antiviral Agents",
+      "Cabotegravir",
+      "Dolutegravir",
+      "Elvitegravir",
+      "Raltegravir"
+    ],
+    "source_nxml_file": "Bictegravir.nxml"
+  },
+  {
+    "id": 464,
+    "name_en": "Biperiden",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "E",
+    "grade_explanation_en": "unlikely cause of clinically apparent liver injury",
+    "rucam_score_bonus": 0,
+    "source": "LiverTox (NIDDK, NIH): Biperiden.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Biperiden/",
+    "source_review_date": "2017-07-20",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity Biperiden has not been reported to cause serum aminotransferase elevations, but it has not been evaluated for effects on serum enzyme levels in a prospective manner. Despite its use for more than 50 years, there have been no reports of biperiden liver injury in the literature and it must be a very rare cause of liver injury, if it occurs at all. Likelihood score: E (unlikely cause of clinically apparent liver injury). Drug Class: Antiparkinson Agents Other Drugs in the Subclass, Anticholinergic Agents: Benztropine, Trihexyphenidyl",
+    "raw_mechanism_text": "",
+    "raw_outcome_text": "",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Biperiden - Akineton®"
+    ],
+    "raw_drug_class": [
+      "Antiparkinson Agents",
+      "Anticholinergic Agents",
+      "Benztropine",
+      "Trihexyphenidyl"
+    ],
+    "source_nxml_file": "Biperiden.nxml"
+  },
+  {
+    "id": 465,
+    "name_en": "Bisoprolol",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "E",
+    "grade_explanation_en": "unlikely cause of clinically apparent liver injury",
+    "rucam_score_bonus": 0,
+    "source": "LiverTox (NIDDK, NIH): Bisoprolol.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Bisoprolol/",
+    "source_review_date": "2017-01-15",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity Bisoprolol therapy has been associated with a low rate of mild-to-moderate elevations of serum aminotransferase levels which are usually asymptomatic and transient and resolve even with continuation of therapy. There have been no well documented cases of clinically apparent, acute liver injury attributable to bisoprolol. Thus, hepatotoxicity due to bisoprolol must be very rare, if it occurs at all. Most commonly used beta-blockers have been linked to rare instances of clinically apparent liver injury, typically with onset within 2 to 12 weeks, a hepatocellular pattern of liver enzyme elevations, rapid recovery upon withdrawal, and little evidence of hypersensitivity (rash, fever, eosinophilia) or autoantibody formation. Likelihood score: E (unlikely cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury The mechanism of drug induced liver injury from beta-blockers such as bisoprolol is not known. Bisoprolol is extensively metabolized by the liver and excreted as inactive metabolites. The few rare cases reported were likely idiosyncratic.",
+    "raw_outcome_text": "Outcome and Management The severity of liver injury due to beta-blockers ranges from mild serum aminotransferase elevations to acute hepatitis with jaundice. In large case series of drug induced liver injury and acute liver failure due to medications, bisoprolol has not been listed as a potential cause. There is little information about cross reactivity among the beta-blockers to hepatic injury. Switching from a beta-blocker that has caused acute liver injury to another should be done with caution and active monitoring. References to the safety and potential hepatotoxicity of bisoprolol are provided in the overview on Beta-Adrenergic Receptor Antagonists, last updated in June 2019. Drug Class: Beta-Adrenergic Receptor Antagonists",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [],
+    "raw_drug_class": [
+      "Beta-Adrenergic Receptor Antagonists"
+    ],
+    "source_nxml_file": "Bisoprolol.nxml"
+  },
+  {
+    "id": 466,
+    "name_en": "Bosentan",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "C",
+    "grade_explanation_en": "probable cause of clinically apparent liver injury",
+    "rucam_score_bonus": 1,
+    "source": "LiverTox (NIDDK, NIH): Bosentan.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Bosentan/",
+    "source_review_date": "2017-09-30",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity Bosentan is associated with elevations in serum aminotransferase levels above three times the upper limit of the normal range (ULN) in 3% to 18% of patients, averaging 7.6% using currently recommended doses. The enzyme elevations are usually self-limited and are rarely accompanied by symptoms, but can be more marked and persist and require dose reduction or discontinuation (in 3% to 4% of patients). Monthly monitoring of serum aminotransferase levels is recommended, with discontinuation for levels above 8 times the ULN or for values above 5 times the ULN that persist. There have also been rare reports of clinically apparent liver injury with jaundice associated with bosentan use. The onset of illness was usually within 1 to 6 months of starting bosentan, but cases arising during chronic therapy have also been described (Case 1). The enzyme pattern has typically been hepatocellular or mixed. Immunoallergic features are usually not present and autoantibodies are usually absent or present in low titer. Some cases have been severe and fatalities have been reported, but there have been no published reports of chronic hepatitis or vanishing bile duct syndrome attributed to bosentan. Autoimmune and immunoallergic features are usually not present. Likelihood score: C (probable cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury The cause of liver injury due to bosentan is not known. Bosentan is metabolized by the cytochrome P450 system (CYP 2C9 and 3A4) and can induce CYP activity that results in drug-drug interactions, particularly with cyclosporine A and birth control pills.",
+    "raw_outcome_text": "Outcome and Management Serum ALT or AST elevations are not uncommon during bosentan therapy. Elevations above 8 times the ULN should trigger drug discontinuation and avoidance of restarting bosentan. Elevations of 5 to 8 times the ULN should be confirmed with repeat testing and bosentan stopped if aminotransferase values persist at that level or rise with possible restarting if values fall back into the normal range. Elevations between 3 to 5 times the ULN should be confirmed on repeat testing and dose modification or interruption considered. The ALT elevations are usually transient and asymptomatic and may resolve despite continuing the medication without dose adjustment. Most cases of acute liver injury due to bosentan have been self-limited and have not resulted in acute liver failure or chronic injury. However, isolated cases of acute liver failure have been reported to the sponsor and have led to a strict monitoring program for its use. Patients with acute liver injury who are retreated with bosentan usually redevelop liver injury, for which reason rechallenge should be avoided. Switching patients to other endothelin receptor antagonists has been reported to be safe, without return of the liver test abnormalities, but these studies were done largely in patients with mild-to-moderate serum aminotransferase elevations without symptoms. In cases of clinically apparent liver injury due to bosentan, use of other agents for PAH may be more appropriate and switching to another endothelin receptor antagonist (such as ambrisentan) done with caution. Interestingly, several cases of acute liver injury attributed to the endothelin receptor antagonists have had an apparent rapid beneficial response to corticosteroid therapy, some but not all of which had autoimmune features. If corticosteroids are used, the dose and duration of therapy should be kept to a minimum. Drug Class: Pulmonary Arterial Hypertension Agents Other Drugs in the Subclass Endothelin Receptor Antagonists: Ambrisentan, Macitentan",
+    "raw_case_report_text": "CASE REPORT Case 1. Acute hepatitis during extended therapy with bosentan. [Modified from: Eriksson C, Gustavsson A, Kronvall T, Tysk C. Hepatotoxicity by bosentan in a patient with portopulmonary hypertension: a case-report and review of the literature. J Gastrointestin Liver Dis 2011; 20: 77-80. PubMed Citation] A 29 year old woman with portopulmonary hypertension due to portal vein thrombosis secondary to splenectomy was treated with bosentan in increasing doses up to 125 mg twice daily. During regular monitoring, her serum enzymes remained normal until 18 months after starting the endothelin receptor antagonist when she developed fatigue, nausea and anorexia followed by jaundice. On admission to the hospital, she was jaundiced, but had no fever, rash or adenopathy. Liver tests results showed a serum bilirubin of 10 mg/dL, ALT 600 U/L, AST 840 U/L, alkaline phosphatase 480 U/L, and INR 1.52 (Table). Tests for hepatitis A, B and C were negative as were autoantibodies. Abdominal ultrasound and CT scans showed no evidence of biliary obstruction. During the following week, serum bilirubin levels rose to 17.4 mg/dL and INR to 1.8, but she had no evidence of hepatic encephalopathy or ascites. Prednisolone was started in a dose of 40 mg daily. She improved rapidly and was able to be discharged one week later. Liver tests fell into the normal range within 6 weeks of the onset of illness. The dose of prednisolone was reduced and was withdrawn after 8 weeks. She was treated for her pulmonary artery hypertension with sildenafil and ambrisentan and serum enzymes remained normal. Key Points Medication: Bosentan (250 mg daily) Pattern: Mixed (R=2.5) Severity: 4+ (jaundice, hospitalization and prolongation of prothrombin time) Latency: 18 months Recovery: 6 weeks Other medications: Unspecified diuretics Laboratory Values Time After Starting Time After Stopping AST* (U/L) Alk P* (U/L) Bilirubin (mg/dL) Other Bosentan 125 mg twice daily started 0 Pre 42 1.2 1 month 36 1.0 6 months 24 1.1 12 months 30 1.3 16 months 42 1.3 18 months Admitted for jaundice; bosentan stopped 18 months 0 840 480 9.6 INR 1.52 3 days 870 12.0 6 days 900 14.6 INR 1.8 9 days 660 17.5 Prednisolone started 11 days 408 11.1 12 days 210 8.2 15 days 60 7.3 Discharged 22 days 24 3.5 19 months 4 weeks 42 2.6 6 weeks 24 1.4 Prednisolone stopped 20 months 2 months 24 0.8 Normal Values <55 <110 <1.2 * Some values estimated from Figure 1. ALT and Alk P converted from µkat to U/L (multiplying by 60) and bilirubin from µmol/L to mg/dL (dividing by 17.1). Comment The latency to onset of liver injury was 18 months, which is longer than usual. Most cases of liver injury linked to endothelin receptor antagonists have arisen within 2 to 6 months of starting. The injury had a mixed pattern, but was severe and led to initiation of corticosteroid therapy, which was followed by a prompt improvement. Interestingly, the patient later tolerated ambrisentan, another endothelin receptor antagonist without recurrence of liver injury. The lack of cross sensitivity to liver injury between these two agents may relate to their different chemical structures. Bosentan (like sitaxsentan) has a sulfonamide-like central moiety, whereas ambrisentan has a propionic acid based structure.",
+    "raw_case_report_key_points": {
+      "Medication": "Bosentan (250 mg daily)",
+      "Pattern": "Mixed (R=2.5)",
+      "Severity": "4+ (jaundice, hospitalization and prolongation of prothrombin time)",
+      "Latency": "18 months",
+      "Recovery": "6 weeks",
+      "Other medications": "Unspecified diuretics"
+    },
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Bosentan - Tracleer®"
+    ],
+    "raw_drug_class": [
+      "Pulmonary Arterial Hypertension Agents",
+      "Endothelin Receptor Antagonists",
+      "Ambrisentan",
+      "Macitentan"
+    ],
+    "source_nxml_file": "Bosentan.nxml"
+  },
+  {
+    "id": 467,
+    "name_en": "Bosutinib",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "D",
+    "grade_explanation_en": "possible uncommon cause of clinically apparent liver injury",
+    "rucam_score_bonus": 1,
+    "source": "LiverTox (NIDDK, NIH): Bosutinib.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Bosutinib/",
+    "source_review_date": "2017-09-30",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity In large clinical trials of bosutinib, elevations in serum aminotransferase levels were common, occurring in up to 58% of bosutinib treated patients. Values greater than 5 times the upper limit of normal (ULN) occurred in 4% to 19% of bosutinib recipients (and 3% of imatinib treated subjects). These abnormalities were usually asymptomatic, but led to discontinuation of therapy in up to 2% of treated patients. In addition, there have been isolated reports of clinically apparent liver injury attributed to bosutinib therapy, although the frequency of this outcome and the clinical features of the injury have not been well defined. The time to onset has generally been within 3 months and the pattern of serum enzyme elevations was usually hepatocellular. Certainly other tyrosine kinase receptor inhibitors used in the therapy of CML such as imatinib, nilotinib and ponatinib have been associated with cases of acute liver injury with jaundice. With these agents, the liver injury typically arises after several months of therapy and the pattern of serum enzyme elevations is typically hepatocellular. Immunoallergic features (rash, fever and eosinophilia) and autoantibody formation are usually not present. Reactivation of hepatitis B has been reported with imatinib and nilotinib therapy, but not with bosutinib. Reactivation typically occurs in an HBsAg positive person treated with the tyrosine kinase inhibitor for 3 to 6 months, presenting with jaundice, marked serum aminotransferase elevations and an increase in HBV DNA levels. Reactivation of hepatitis B can be severe and fatal instances have been reported after imatinib and nilotinib therapy. Screening of patients for HBsAg and anti-HBc is sometimes recommended before starting cancer chemotherapy and those with HBsAg offered prophylaxis with oral antiviral agents, such as lamivudine, tenofovir or entecavir. Whether reactivation occurs with bosutinib therapy is unclear. Likelihood score: D (possible uncommon cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury The cause of liver injury due to bosutinib is not known. Bosutinib is metabolized in the liver largely through the CYP 3A4 pathway and liver injury may be related to production of a toxic intermediate. Bosutinib is susceptible to drug-drug interactions with medications that are metabolized by CYP 3A4 or induce or inhibit CYP 3A4 activity.",
+    "raw_outcome_text": "Outcome and Management The product label for bosutinib recommends monitoring liver tests monthly for the first 3 months of treatment and as clinically indicated therafter. Serum aminotransferase elevations above 5 times the upper limit of normal (if confirmed) and any elevation associated with jaundice or symptoms should lead to dose reduction or temporary cessation. In some situations, therapy can be restarted, particularly with concurrent prednisone (10 to 20 mg daily). In patients with clinically apparent liver injury and jaundice, restarting therapy should be done with caution. There does not appear to be cross reactivity in risk for hepatic injury between bosutinib and other tyrosine kinase inhibitors and, in some situations, switching to another BCR-ABL inhibitor may be appropriate. In using this medication, other potentially hepatotoxic agents should be avoided. Drug Class: Antineoplastic Agents, Protein Kinase Inhibitors Other Drugs in the Subclass, Chronic Myeloid Leukemia Agents: Dasatinib, Imatinib, Nilotinib, Omacetaxine, Ponatinib",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Bosutinib - Bosulif®"
+    ],
+    "raw_drug_class": [
+      "Antineoplastic Agents",
+      "Protein Kinase Inhibitors",
+      "Dasatinib",
+      "Imatinib",
+      "Nilotinib",
+      "Omacetaxine",
+      "Ponatinib"
+    ],
+    "source_nxml_file": "Bosutinib.nxml"
+  },
+  {
+    "id": 468,
+    "name_en": "Brexpiprazole",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "E",
+    "grade_explanation_en": "unlikely cause of clinically apparent liver injury",
+    "rucam_score_bonus": 0,
+    "source": "LiverTox (NIDDK, NIH): Brexpiprazole.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Brexpiprazole/",
+    "source_review_date": "2023-06-05",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity Liver test abnormalities were reported to occur in ~1% of patients on long term therapy with brexpiprazole, but similar rates occurred in patients on placebo or with comparator agents. There have been no published reports of clinically apparent acute liver injury due to brexpiprazole and only rare instances have been reported with the much more frequently used aripiprazole. Thus, liver injury due to brexpiprazole must be rare, if it occurs at all. Likelihood score: E (unlikely cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury Brexpiprazole is extensively metabolized by the liver via the P450 system, largely by CYP 3A4 and 2D6, and liver injury from its use might be caused by a toxic or immunogenic intermediate metabolite. Brexpiprazole, like aripiprazole, is susceptible to drug-drug interactions, strong inducers of CYP 3A4 (such as rifampin) resulting in lower drug levels, and strong inhibitors (such as ketoconazole) resulting in higher levels.",
+    "raw_outcome_text": "Outcome and Management The serum aminotransferase elevations that occur with brexpiprazole therapy are usually self-limited and often do not require dose modification or discontinuation. No instances of acute liver failure, chronic hepatitis or vanishing bile duct syndrome have been attributed to brexpiprazole. Cross sensitivity to liver related or other hypersensitivity reactions between brexpiprazole and other antipsychotic agents have not been demonstrated but might be expected to occur with aripiprazole. Drug Class: Antipsychotic Agents, Atypicals",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [],
+    "raw_drug_class": [
+      "Antipsychotic Agents"
+    ],
+    "source_nxml_file": "Brexpiprazole.nxml"
+  },
+  {
+    "id": 469,
+    "name_en": "Brigatinib",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "E*",
+    "grade_explanation_en": "unproved but suspected cause of clinically apparent liver injury",
+    "rucam_score_bonus": 0,
+    "source": "LiverTox (NIDDK, NIH): Brigatinib.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Brigatinib/",
+    "source_review_date": "2018-08-03",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity In preregistration trials of brigatinib, ALT elevations occurred in up to 40% of patients but values above 5 times the upper limit of normal (ULN) were found in only 1% to 3%. Brigatinib therapy was also associated with frequent elevations in alkaline phosphatase (15% to 29%), but the serum enzyme elevations were usually mild-to-moderate in degree as well as asymptomatic and transient in nature. Clinically apparent liver injury with jaundice was not reported in the prelicensure studies of brigatinib and no reports have been published since its approval. In general, the ALK kinase inhibitors are associated with a high rate of serum enzymes elevations during therapy, but convincing cases of idiosyncratic, clinically apparent liver injury from their use have been rare. Most cases have been reported with crizotinib [approved in 2011] which is also the most frequently used of the kinase inhibitors with activity against ALK. Cases of liver injury with jaundice were reported to occur in trials of alectinib [2015] and ceritinib [2014], but details were not provided. Thus, acute liver injury with jaundice may occur with brigatinib but it must be rare if it occurs at all. Likelihood score: E* (unproved but suspected cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury Serum enzyme and bilirubin elevations are frequent during therapy with tyrosine kinase inhibitors, but their cause is unknown. The liver injury may be due to direct activity against essential intracellular kinases or to production of a toxic metabolite during metabolism of the kinase inhibitor. Brigatinib is metabolized in the liver predominantly by CYP 3A4 and is susceptible to drug-drug interactions with strong inhibitors or inducers of this microsomal enzyme.",
+    "raw_outcome_text": "Outcome and Management Brigatinib has been shown to cause transient serum aminotransferase elevations but has not been linked to cases of clinically apparent liver injury, acute liver failure or chronic hepatitis. The product label recommends monitoring of serum glucose, CPK and pancreatic enzymes, but not specifically routine liver tests. Serum aminotransferase elevations above 5 times the upper limit of normal (if confirmed) should lead to temporary discontinuation, which should be permanent if laboratory values do not improve significantly or resolve within a few weeks or if symptoms or jaundice arise. Drug Class: Antineoplastic Agents, Protein Kinase Inhibitors",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Brigatinib - Alunbrig®"
+    ],
+    "raw_drug_class": [
+      "Antineoplastic Agents",
+      "Protein Kinase Inhibitors"
+    ],
+    "source_nxml_file": "Brigatinib.nxml"
+  },
+  {
+    "id": 470,
+    "name_en": "Brivaracetam",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "E",
+    "grade_explanation_en": "unlikely cause of clinically apparent liver injury",
+    "rucam_score_bonus": 0,
+    "source": "LiverTox (NIDDK, NIH): Brivaracetam.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Brivaracetam/",
+    "source_review_date": "2017-10-02",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity Prospective studies reported that chronic brivaracetam therapy was not accompanied by significant elevations in serum aminotransferase levels and clinically apparent liver injury was not observed. Brivaracetam has had limited general use, but has not been linked to instances of clinically apparent liver injury. Levetiracetam, an anticonvulsant with similar structure and mechanism of action, has been linked to rare instances of acute liver injury, generally arising within 1 to 20 weeks and presenting with a hepatocellular pattern of injury without immunoallergic or autoimmune features. Whether similar cases will be linked to brivaracetam is not known. Likelihood score: E (unlikely cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury The mechanism by which brivaracetam might cause liver injury is unknown, but is likely to be hypersensitivity. Brivaracetam is metabolized by hydrolysis followed by hydroxylation that is mediated by the cytochrome P450 system, predominantly CYP 2C19. Inhibitors of CYP 2C19 (such as carbamazepine and phenytoin) may increase and CYP 2C19 inducers (such as rifampin) may decrease brivaracetam levels.",
+    "raw_outcome_text": "Outcome and Management Minor serum enzyme elevations during brivaracetam therapy rarely require dose modification or discontinuation, but elevations above 5 times the ULN should lead to dose modification and search for other possible causes. Acute liver failure, chronic hepatitis and vanishing bile duct syndrome have not been reported with brivaracetam therapy, nor has anticonvulsant hypersensitivity (DRESS) syndrome, and brivaracetam may be a reasonable alternative in patients who have developed liver injury due to an aromatic anticonvulsant such as phenytoin, carbamazepine or lamotrigine. Drug Class: Anticonvulsants",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Brivaracetam - Briviact®"
+    ],
+    "raw_drug_class": [
+      "Anticonvulsants"
+    ],
+    "source_nxml_file": "Brivaracetam.nxml"
+  },
+  {
+    "id": 471,
+    "name_en": "Brompheniramine",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "-",
+    "grade_explanation_en": "-",
+    "rucam_score_bonus": "-",
+    "source": "LiverTox (NIDDK, NIH): BrompheniramineChlor.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/BrompheniramineChlor/",
+    "source_review_date": "2017-01-16",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity Despite widespread use, the first generation antihistamines such as brompheniramine and chlorpheniramine have rarely been linked to liver test abnormalities or to clinically apparent liver injury. A single case report of clinically apparent liver injury with jaundice attributed to dexchlorpheniramine was reported from France. The time to onset was 10 days, and the clinical presentation resembled acute viral hepatitis, with marked elevations in serum aminotransferase levels and jaundice. Recovery was rapid and complete, but jaundice and hepatitis recurred within 10 days of restarting. Immunoallergic features (rash, fever, eosinophilia) were absent as were autoantibodies. Interestingly, the patient tolerated other antihistamines (cetirizine) without difficulty.",
+    "raw_mechanism_text": "Mechanism of Injury The reason for the relative safety of brompheniramine and chlorpheniramine may be due to low daily dose and limited duration of treatment. The rare instances of hepatic injury associated with dexchlorpheniramine may relate to hypersensitivity.",
+    "raw_outcome_text": "",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [
+      "Generic, Ala - Hist®",
+      "Generic, Ala - Hist IR®",
+      "Generic, Chlor - Trimeton®"
+    ],
+    "raw_drug_class": [
+      "Antihistamines"
+    ],
+    "source_nxml_file": "BrompheniramineChlor.nxml"
+  },
+  {
+    "id": 472,
+    "name_en": "Buprenorphine",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "-",
+    "grade_explanation_en": "-",
+    "rucam_score_bonus": "-",
+    "source": "LiverTox (NIDDK, NIH): Buprenorphine.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Buprenorphine/",
+    "source_review_date": "2020-11-24",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity Buprenorphine therapy has been associated with a low rate of serum enzyme elevations during treatment, although the populations studied (opioid dependent) often have coexisting chronic liver diseases which complicate such assessments. Nevertheless, rates of ALT elevations during treatment with buprenorphine (with or without naloxone) have been minimally or no greater than with comparator arms (methadone). In addition, there have been several reports and case series of acute, clinically apparent liver injury arising within 2 to 20 weeks of starting buprenorphine, usually (but not invariably) following misuse and intravenous administration of sublingual tablets. However, some cases occurred in patients who denied intravenous use and were on conventional sublingual doses. In most cases, the pattern of serum enzyme elevations was hepatocellular and the presentation resembled acute toxic hepatic necrosis. Immunoallergic features (fever, rash and eosinophilia) were not present, nor were autoantibodies detected. Almost all patients with this injury had concurrent chronic hepatitis C, and several appeared to resolve the chronic infection with the acute liver injury (Case 1). Strikingly, most patients were able to continue buprenorphine without recurrence, some of whom admitted to continued intravenous abuse. Likelihood score: B[HD] (likely rare cause of clinically apparent liver injury usually associated with overdose or misuse).",
+    "raw_mechanism_text": "Mechanism of Injury Buprenorphine undergoes extensive first pass hepatic extraction and is metabolized primarily by the cytochrome P450 system (CYP 3A4). The low doses used and rapid metabolism may account for its relative lack of hepatotoxicity when used in conventional doses. The appearance of an acute hepatic necrosis after intravenous injection of the sublingual tablets is likely due to direct toxicity of these high parenteral doses. The occurrence of this syndrome largely in patients with concurrent hepatitis C remains unexplained. Clearance of hepatitis C during this toxic injury raises the issue of whether the acute injury is actually due to an exacerbation of hepatitis C or whether the severe acute toxic injury can induce viral clearance.",
+    "raw_outcome_text": "Outcome and Management The severity of liver injury attributed to buprenorphine has ranged from mild-to-severe hepatitis, and fatal instances have been reported. Interestingly, most patients subsequently tolerated restarting buprenorphine at doses used prior to the toxic event, and some patients continued to misuse it by intravenous injection, but did not have recurrence of the liver injury. Drug Class: Substance Abuse Treatment Agents; Opioids",
+    "raw_case_report_text": "CASE REPORT Case 1. Acute liver injury attributed to buprenorphine use in a patient with chronic hepatitis C.(1) A 33 year old male injection drug user with chronic hepatitis C (HCV genotype 1a) developed jaundice, abdominal pain and fever shortly after injecting 3 to 5 crushed and dissolved tablets of buprenorphine (8 mg, meant for sublingual administration) intravenously. He was known to have chronic hepatitis C, but had never been treated for the infection which was considered mild. He had no other history of liver disease but consumed alcohol regularly. He took no other medications. On admission, laboratory tests showed a serum bilirubin of 29.6 mg/dL with marked elevations in serum aminotransferase levels (ALT 4132 U/L, AST 3947 U/L) and mild increases in alkaline phosphatase (347 U/L) and GGT (127 U/L; normal <50) (Table). The prothrombin index was 43% of control (INR 1.7). A transjugular liver biopsy showed panlobular necrosis, diffuse lobular inflammation, and marked cholestasis indicative of acute hepatic injury. In addition, there was moderate portal fibrosis and portal inflammation suggestive of an underlying chronic hepatitis C. Tests for hepatitis A and B and HIV were negative. Anti-HCV was present, but serum HCV RNA was present at very low levels (15 IU/mL). Jaundice resolved within a week and serum enzymes fell rapidly. Sublingual buprenorphine was restarted without a change in the pattern of recovery. In follow up 3 months later, serum ALT levels were normal and HCV RNA was undetectable. When seen almost a year later, he admitted to continuing to self-inject buprenorphine, yet serum ALT levels were still normal and HCV RNA was undetectable. Key Points Medication: Buprenorphine (24 mg intravenously) Pattern: Hepatocellular (R=31) Severity: 4+ (jaundice and prolongation of INR) Latency: Short, specific time not provided Recovery: Rapid, within 1-2 months Other medications: None Laboratory Values Time AfterStopping ALT(U/L) Alk P(U/L) Bilirubin(mg/dL) Other 0 4132 347 29.6 Admission 2 days 2546 288 26.9 Prothrombin time 18 sec 2 weeks 132 80 2.2 Buprenorphine restarted 4 months Normal HCV RNA negative 10 months 11 HCV RNA negative Normal <40 <104 <1.2 Comment The clinical presentation of acute hepatic necrosis shortly after intravenous abuse of buprenorphine has been reported in several case reports and single center series of as many as 7 cases. Intriguingly, virtually all patients reported with this syndrome had a preexisting chronic hepatitis C, although many were HCV RNA negative at the time of the acute illness. The current case documents the loss of HCV RNA during the acute hepatic injury attributed to buprenorphine. Two explanations are possible. First, that the acute toxic hepatic injury caused an interruption in the replication of HCV or triggered host immune responses (the innate immune system and interferon production), resulting in clearance of hepatitis C. A second explanation is that the acute illness was due to an exacerbation of the chronic HCV infection, which led to an acute hepatitis C-like clearance of virus. The role of hepatitis C in this reaction is perhaps demonstrated best by the absence of recurrence of liver injury when buprenorphine was restarted and even when abused intravenously in high doses. The combination of buprenorphine with naloxone (a full µ opioid receptor antagonist) was developed to discourage such intravenous abuse.",
+    "raw_case_report_key_points": {
+      "Medication": "Buprenorphine (24 mg intravenously)",
+      "Pattern": "Hepatocellular (R=31)",
+      "Severity": "4+ (jaundice and prolongation of INR)",
+      "Latency": "Short, specific time not provided",
+      "Recovery": "Rapid, within 1-2 months",
+      "Other medications": "None"
+    },
+    "raw_trade_names": [],
+    "raw_drug_class": [
+      "Substance Abuse Treatment Agents",
+      "Opioids"
+    ],
+    "source_nxml_file": "Buprenorphine.nxml"
+  },
+  {
+    "id": 473,
+    "name_en": "Bupropion",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "C",
+    "grade_explanation_en": "probable rare cause of clinically apparent liver injury",
+    "rucam_score_bonus": 1,
+    "source": "LiverTox (NIDDK, NIH): Bupropion.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Bupropion/",
+    "source_review_date": "2017-09-11",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity Liver test abnormalities have been reported to occur in less than 1% of patients on bupropion, and elevations are usually modest and usually do not require dose modification or discontinuation. Rare instances of acute, clinically apparent episodes of liver injury with marked liver enzyme elevations with or without jaundice have been reported in patients on bupropion (Case 1). The onset of injury is usually within 1 to 3 months and the pattern of serum enzyme elevations has been variable, from hepatocellular to cholestatic. Autoimmune (autoantibodies) are found in a proportion of cases, but in low titer. Immunoallergic features (rash, fever, eosinophilia) are uncommon. The injury is generally self-limited, but fatal cases have been reported. Likelihood score: C (probable rare cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury The mechanism by which bupropion causes liver injury is not known. Bupropion is extensively metabolized by the liver, mainly via the cytochrome P450 system (CPY2B6), and hepatotoxicity may be mediated by toxic intermediates of their metabolism.",
+    "raw_outcome_text": "Outcome and Management The serum aminotransferase elevations that occur on bupropion therapy are usually self-limited and do not require dose modification or discontinuation of therapy. Rare instances of acute liver failure and chronic hepatitis have been attributed to bupropion therapy. Persons with intolerance to bupropion may have similar reactions to other antidepressants, and careful monitoring is warranted if other such agents are used. Drug Class: Antidepressant Agents",
+    "raw_case_report_text": "CASE REPORT Case 1. Acute liver injury due to bupropion. [Modified from: Carlos Titos-Arcos J, Hallal H, Collados V, Plaza-Aniorte J. [Acute hepatitis secondary to bupropion]. Gastronterol Hepatol 2008; 31: 549. PubMed Citation] A 48 year old man with chronic alcoholism being treated with disulfiram and naltrexone for alcohol addiction developed jaundice and fatigue 4 weeks after having bupropion added to his treatment regimen. He was jaundiced but had no fever or rash. Laboratory tests showed prominent elevations in both serum aminotransferases and alkaline phosphatase and a total bilirubin of 12.1 mg/dL. Bupropion was discontinued and he began to improve (Table). Tests for hepatitis A, B and C were negative. He had low levels of antinuclear antibody (ANA 1:80) and antimitochondrial antibody (AMA 1:80), but no smooth muscle antibody. An abdominal ultrasound showed no evidence of biliary obstruction. Within 3 months of stopping bupropion, serum enzymes and bilirubin levels had returned to baseline; the continued low level abnormal values during long term follow up were attributed to alcohol use. Serum ANA and AMA were negative. Key Points Medication: Bupropion Pattern: Mixed (R=3.9) Severity: 3+ (jaundice, hospitalization) Latency: 1 month Recovery: 2-3 months Other medications: Naltrexone, disulfiram Laboratory Values Time After Starting Time After Stopping ALT (U/L) Alk P (U/L) Bilirubin (mg/dL) Other Pre Pre 86 182 0.9 Alcohol withdrawl 4 weeks 0 1405 Bupropion stopped 3 days 1075 803 12.1 5 days 889 708 6.4 5 weeks 7 days 561 324 3.6 9 days 271 317 1.3 3 months 2 months 43 184 0.4 7 months 6 months 62 185 1.0 1 year 1 year 40 190 0.7 2 years 2 years 67 178 0.8 Normal Values <40 <115 <1.2 Comment Bupropion is a commonly used antidepressant which is also used in therapy of smoking cessation. Liver enzyme elevations during bupropion therapy occur in less than 1% of patients and only rare instances of clinically apparent liver injury have been attributed to bupropion. In this instance, as with many case reports on bupropion, the patient had an underlying liver disease (suspected to be alcoholic liver disease), but the clinical presentation was unlikely due to alcoholism. The role of disulfiram was not discussed in the case report, but it is a well known cause of acute liver injury and its role in this case of an acute “mixed” hepatitis cannot be excluded.",
+    "raw_case_report_key_points": {
+      "Medication": "Bupropion",
+      "Pattern": "Mixed (R=3.9)",
+      "Severity": "3+ (jaundice, hospitalization)",
+      "Latency": "1 month",
+      "Recovery": "2-3 months",
+      "Other medications": "Naltrexone, disulfiram"
+    },
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Bupropion - Wellbutrin®"
+    ],
+    "raw_drug_class": [
+      "Antidepressant Agents"
+    ],
+    "source_nxml_file": "Bupropion.nxml"
+  },
+  {
+    "id": 474,
+    "name_en": "Buspirone",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "E",
+    "grade_explanation_en": "unlikely cause of clinically apparent liver injury",
+    "rucam_score_bonus": 0,
+    "source": "LiverTox (NIDDK, NIH): Buspirone.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Buspirone/",
+    "source_review_date": "2017-09-11",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity Buspirone has been associated with infrequent serum aminotransferase elevations, but has not been linked to instances of clinically apparent liver injury in the published literature. Indeed, buspirone is often used as a control, noncytotoxic agent in assessment of other psychotropic drugs in vitro and in vivo. Buspirone is, nevertheless, metabolized in the liver by the P450 system (CYP 3A4) and has the potential of causing drug-drug interactions. Likelihood score: E (unlikely cause of clinically apparent liver injury). Drug Class: Sedatives and Hypnotics, Miscellaneous",
+    "raw_mechanism_text": "",
+    "raw_outcome_text": "",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [],
+    "raw_drug_class": [
+      "Sedatives and Hypnotics"
+    ],
+    "source_nxml_file": "Buspirone.nxml"
+  },
+  {
+    "id": 475,
+    "name_en": "Cabazitaxel",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "E*",
+    "grade_explanation_en": "unproven, but suspected rare cause of clinically apparent liver injury",
+    "rucam_score_bonus": 0,
+    "source": "LiverTox (NIDDK, NIH): Cabazitaxel.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Cabazitaxel/",
+    "source_review_date": "2020-09-07",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity In the clinical trials and open label studies of cabazitaxel in metastatic prostate cancer, serum enzyme elevations were usually not mentioned and hepatic adverse events did not appear in lists of serious adverse events. The product label for cabazitaxel states that elevations of serum ALT and AST above 5 times ULN occur in less than 1% of treated patients. Cabazitaxel has not been linked convincingly to instances of idiosyncratic, clinically apparent liver injury with jaundice. Cabazitaxel has been linked to acute hypersensitivity reactions that typically occur with the initial infusions and rarely with subsequent administration. Acute hypersensitivity reactions occur with the other taxanes (docetaxel and paclitaxel) which can be severe and lead to acute hepatic necrosis, multiorgan failure and death. While similar reactions have not been reported with cabazitaxel, its use has been limited. Thus, cabazitaxel has not been linked to instances of idiosyncratic, clinically apparent liver injury, but has been found to cause acute hypersensitivity reactions which have the potential to lead to acute hepatic necrosis (as have docetaxel and paclitaxel). Likelihood score: E* (unproven, but suspected rare cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury The toxicities of cabazitaxel and the taxanes in general mostly affect rapidly dividing cells (bone marrow, GI tract) and the lack of liver injury may relate to the sensitivity of other cell types to its effects. Cabazitaxel is primarily metabolized in the liver through CYP 3A and is susceptible to drug-drug interactions, particularly agents that induce this microsomal enzyme such as itraconazole, clarithromycin, atazanavir and related agents. Acute hypersensitivity reactions occur with all of the taxanes and have the potential of causing acute hepatic necrosis, probably as a direct toxic effect on liver cells or indirectly by causing hypotension and ischemia.",
+    "raw_outcome_text": "Outcome and Management The rare serum aminotransferase elevations that occur on cabazitaxel therapy are usually self-limited and do not require dose modification or discontinuation of therapy. Hypersensitivity reactions are typically treated with corticosteroids which can ameliorate the symptoms of hypersensitivity but have not been shown to affect accompanying liver injury. Drug Class: Antineoplastic Agents, Taxanes Other Drugs in the Subclass, Taxanes: Docetaxel, Paclitaxel",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Cabazitaxel - Jevtana®"
+    ],
+    "raw_drug_class": [
+      "Antineoplastic Agents",
+      "Taxanes",
+      "Docetaxel",
+      "Paclitaxel"
+    ],
+    "source_nxml_file": "Cabazitaxel.nxml"
+  },
+  {
+    "id": 476,
+    "name_en": "Cabozantinib",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "E*",
+    "grade_explanation_en": "Unproven but suspected rare cause of clinically apparent liver injury",
+    "rucam_score_bonus": 0,
+    "source": "LiverTox (NIDDK, NIH): Cabozantinib.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Cabozantinib/",
+    "source_review_date": "2017-01-04",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity In large clinical trials of cabozantinib, elevations in serum aminotransferase levels were common, occurring in 16% to 97% of patients. Values greater than 5 times the upper limit of normal (ULN), however, occurred in only 2% to 8% of recipients. Serum alkaline phosphatase elevations were also common and were above 3 times ULN in 3% of patients. Despite the high rate of serum enzyme elevations, cases of clinically apparent liver injury including acute liver failure were not reported in the preregistration trials of cabozantinib. Since the approval of cabozantinib, there have been no published case reports of hepatotoxicity attributed to its use. Serum ALT, AST and alkaline phosphatase elevations are listed as adverse reactions in the product label for cabozantinib, and cholestatic hepatitis is mentioned as a rare occurrence, but monitoring of serum enzymes during treatment is not specifically recommended. Likelihood score: E* (Unproven but suspected rare cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury The mechanisms of liver injury accounting for serum enzyme elevations during cabozantinib therapy are not known, but may be a direct effect of inhibition of cellular kinases by this multi-specific tyrosine kinase inhibitor. Cabozantinib is metabolized in the liver, predominantly by the cytochrome P 450 system and especially by CYP 3A4. Cabozantinib is susceptible to drug-drug interactions and the effects of CYP 3A4 inhibitors and inducers.",
+    "raw_outcome_text": "Outcome and Management Serum aminotransferase elevations above 5 times the upper limit of normal (if confirmed) should lead to dose reduction or temporary cessation. Clinically apparent liver injury should prompt immediate interruption of cabozantinib therapy. There is little information on cross reactivity in risk for hepatic injury between cabozantinib and other protein kinase inhibitors. Drug Class: Antineoplastic Agents, Protein Kinase Inhibitors",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Cabozantinib - Cometriq®"
+    ],
+    "raw_drug_class": [
+      "Antineoplastic Agents",
+      "Protein Kinase Inhibitors"
+    ],
+    "source_nxml_file": "Cabozantinib.nxml"
+  },
+  {
+    "id": 477,
+    "name_en": "Candesartan",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "C",
+    "grade_explanation_en": "Probable cause of rare instances of clinically apparent liver injury",
+    "rucam_score_bonus": 1,
+    "source": "LiverTox (NIDDK, NIH): Candesartan.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Candesartan/",
+    "source_review_date": "2017-01-13",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity Candesartan has been associated with a low rate of serum aminotransferase elevations (<1%) that in controlled trials was no higher than with placebo therapy. These elevations were transient and rarely required dose modification. Rare instances of clinically apparent acute liver injury have been reported in association with candesartan therapy. The onset is usually within 1 to 8 weeks of starting therapy and the serum enzyme pattern can be either hepatocellular or cholestatic with an acute hepatitis- or cholestatic hepatitis-like clinical syndrome. In some instances, cholestasis can be prolonged and relapsing, but candesartan therapy has not been associated with vanishing bile duct syndrome or chronic liver injury. Immunoallergic manifestations (rash, fever, eosinophilia) are not common, nor is autoantibody formation. Likelihood score: C (Probable cause of rare instances of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury The cause of the minor serum aminotransferase elevations and the acute liver injury associated with candesartan is not known, but resembles idiosyncratic liver injury due to a hypersensitivity reaction. Candesartan has minor liver metabolism through the cytochrome P450 system (CYP 2C9) and has minimal drug-drug interactions.",
+    "raw_outcome_text": "Outcome and Management The instances of acute liver injury reported with candesartan use have been self limited and have not resulted in acute liver failure or chronic liver injury. While corticosteroids have been used in cases of severe cholestasis due to ARBs, their efficacy has not been shown and their use is best avoided. Patients with candesartan induced acute liver injury should probably avoid use of other ARBs, although cross sensitivity to liver injury among the members of this class of agents has not been shown. References on the safety and potential hepatotoxicity of candesartan are given in the Overview section on the angiotensin II receptor antagonists. Drug Class: Antihypertensive Agents, Angiotensin II Receptor Antagonists Other Drugs in the Subclass, Angiotensin II Receptor Antagonists: Azilsartan, Eprosartan, Irbesartan, Losartan, Olmesartan, Telmisartan, Valsartan",
+    "raw_case_report_text": "CASE REPORT Case 1. Severe hepatitis attributed to candesartan. [Modified from: Basile G, Villari D, Gangemi S, Ferrara T, Accetta MG, Nicita-Mauro V. Candesartan cilexetil-induced severe hepatotoxicity. J Clin Gastroenterol 2003; 36: 273-5. PubMed Citation] A 61 year old woman with hypertension started therapy with candesartan cilexetil (16 mg daily) and developed fever, anorexia, nausea, abdominal pain and jaundice approximately 4 weeks later. She had no history of liver disease, alcohol abuse, risk factors for viral hepatitis or previous serious drug reactions. On examination, she had jaundice and low grade fever (37.8 oC). Laboratory tests showed marked elevations in serum bilirubin (27.2 mg/dL) and serum aminotransferase levels (ALT 918 U/L, AST 1367 U/L) with minimal increase in alkaline phosphatase (142 U/L), LDH (700 U/L: normal <460 U/L) and GGT (49 U/L) (Table). The prothrombin index was reduced at 52% (normal 70% to 120%). Tests for hepatitis A, B and C were negative and antinuclear antibody titers were minimally increased (1:40). Ultrasound and CT of the abdomen showed mild hepatomegaly and minimal ascites without evidence of biliary obstruction. A liver biopsy showed acute hepatocellular necrosis and inflammation but also cholestasis, ductopenia and biliary epithelial injury. There was mild fibrosis. Because of rising levels of serum bilirubin (peak 46.8 mg/dL), she was treated with a seven week course of methylprednisolone (40 mg/day for 3 weeks, 20 mg/day for 2 weeks, and 8 mg/day for two weeks). There was a gradual improvement in the patient’s condition and she was discharged after 8 weeks in the hospital. One month later, all liver tests were repeated and were normal. Key Points Medication: Candesartan (16 mg daily) Pattern: Hepatocellular (R=13) Severity: 4+ (jaundice, prothrombin time prolongation and ascites) Latency: 4 weeks Recovery: 8-12 weeks Other medications: None mentioned Laboratory Values Weeks After Starting Weeks After Stopping ALT (U/L) Alk P (U/L) Bilirubin (mg/dL) Other 4 0 918 142 27.2 Admission 5 1 386 39.1 Corticosteroids started 6 2 260 405 46.8 7 3 144 97 26.2 10 5 47 176 3.8 13 8 20 93 1.2 Corticosteroids stopped Normal Values <58 <117 <1.2 Comment The patient developed an acute hepatitis-like clinical syndrome one month after starting candesartan for hypertension. No other cause of acute liver injury was identified, and a liver biopsy showed changes that were compatible with drug induced liver disease (mixed hepatocellular and biliary injury). Corticosteroids were given because of the severity of the injury and recovery, while delayed, was ultimately complete within 8 to 12 weeks of onset. Whether the corticosteroids prompted or sped recovery is uncertain, but importantly, the methylprednisone dose was quickly lowered and stopped. Clinically apparent acute liver injury from angiotensin receptor antagonists is exceedingly rare, but the timing of onset and recovery and liver biopsy findings in this case were convincing. In view of the severity of the injury and the availability of other medications to treat hypertension, rechallenge with candesartan is not warranted.",
+    "raw_case_report_key_points": {
+      "Medication": "Candesartan (16 mg daily)",
+      "Pattern": "Hepatocellular (R=13)",
+      "Severity": "4+ (jaundice, prothrombin time prolongation and ascites)",
+      "Latency": "4 weeks",
+      "Recovery": "8-12 weeks",
+      "Other medications": "None mentioned"
+    },
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Candesartan - Atacand®"
+    ],
+    "raw_drug_class": [
+      "Antihypertensive Agents",
+      "Angiotensin II Receptor Antagonists",
+      "Azilsartan",
+      "Eprosartan",
+      "Irbesartan",
+      "Losartan",
+      "Olmesartan",
+      "Telmisartan",
+      "Valsartan"
+    ],
+    "source_nxml_file": "Candesartan.nxml"
+  }
+]

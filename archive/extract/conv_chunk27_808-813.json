@@ -1,0 +1,162 @@
+[
+  {
+    "id": 808,
+    "name_en": "Zanamivir",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "E",
+    "grade_explanation_en": "unlikely cause of clinically apparent liver injury",
+    "rucam_score_bonus": 0,
+    "source": "LiverTox (NIDDK, NIH): Zanamivir.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Zanamivir/",
+    "source_review_date": "2020-06-22",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity In randomized controlled trials, 2% to 3% of zanamivir recipients developed ALT or AST elevations above twice the upper limit of the normal range, but a similar rate was found in placebo-treated patients. Despite widespread use, there is little evidence that zanamivir when used by inhalation causes liver injury, either in the form of asymptomatic serum enzyme elevations or clinically apparent liver disease. In pilot studies of intravenous zanamivir for severe influenza, serum enzyme elevations have been reported in ~10% of patients, occasionally with jaundice, but the role of zanamivir versus the underlying severe viral infection has not been defined. Likelihood score: E (unlikely cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury Zanamivir has little hepatic metabolism and does not affect cytochrome P450 (CYP) activity. The typical course of zanamivir is for 5 to 10 days only, and the brief exposure and minimal hepatic metabolism may account for its absence of hepatotoxicity when given by inhalation. Drug Class: Antiviral Agents Other Drugs in the Class for Influenza: Amantadine, Baloxavir, Oseltamivir, Peramivir, Rimantadine",
+    "raw_outcome_text": "",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Zanamivir - Relenza®"
+    ],
+    "raw_drug_class": [
+      "Antiviral Agents",
+      "Amantadine",
+      "Baloxavir",
+      "Oseltamivir",
+      "Peramivir",
+      "Rimantadine"
+    ],
+    "source_nxml_file": "Zanamivir.nxml"
+  },
+  {
+    "id": 809,
+    "name_en": "Zanubrutinib",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "E*",
+    "grade_explanation_en": "unproven but suspected cause of clinically apparent liver injury including reactivation of hepatitis B in susceptible patients",
+    "rucam_score_bonus": 0,
+    "source": "LiverTox (NIDDK, NIH): Zanubrutinib.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Zanubrutinib/",
+    "source_review_date": "2019-12-16",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity In the prelicensure clinical trials of zanubrutinib in patients with mantle cell lymphoma, liver test abnormalities were frequent although usually mild. ALT elevations arose in 28% and bilirubin levels in 24% of subjects, but were above 5 times the upper limit of normal (ULN) in less than 1%. In these trials that enrolled over 600 patients, there were no reports of clinically apparent liver injury, early discontinuations because of liver injury or liver related deaths. Nonetheless, other Bruton’s kinase inhibitors (ibrutinib, acalabrutinib) have been associated with rare cases of acute liver injury including acute liver failure. With those agents, the latency to onset of liver injury varied from several weeks to 9 months. The injury was typically hepatocellular and immunologic features were uncommon. While the pattern of injury was hepatocellular, the course was atypical of an acute hepatitis-like injury and more similar to acute hepatic necrosis with early onset of hepatic failure. Other Bruton’s kinase inhibitors have also been linked to several instances of reactivation of hepatitis B that can be severe and has been linked to fatal outcomes. Likelihood score: E* (unproven but suspected cause of clinically apparent liver injury including reactivation of hepatitis B in susceptible patients).",
+    "raw_mechanism_text": "Mechanism of Injury The cause of possible liver injury from zanubrutinib is unknown, but features of the liver injury from other Bruton’s kinase inhibitors suggest some degree of direct hepatotoxicity. In contrast, reactivation of hepatitis B from Bruton’s kinase inhibition is likely due to the profound inhibition of B cell activity as occurs with rituximab (anti-CD20) which appears to lead to increased viral replication due to immune suppression, followed by immune recovery and acute liver injury. Zanubrutinib is metabolized in the liver via the cytochrome P450 system, largely CYP 3A4 and is susceptible to drug-drug interactions with agents that inhibit or induce this enzyme reactivity.",
+    "raw_outcome_text": "Outcome and Management Serum aminotransferase elevations above 5 times the upper limit of normal (if confirmed) should lead to dose reduction or temporary cessation. In patients with clinically apparent liver injury and jaundice, restarting therapy should be done with caution. Cross sensitivity to liver injury is uncommon among the tyrosine kinase inhibitors and, in many situations, switching to another tyrosine kinase inhibitor may be appropriate. Ibrutinib and acalabrutinib have been linked to cases of reactivation of hepatitis B which can be severe. Importantly, patients who are to receive long term therapy with zanubrutinib should be screened for hepatitis B (HBsAg and anti-HBc) and, if either or both are positive, given antiviral prophylaxis against reactivation (with an oral antiviral agent with potent activity against HBV such as entecavir or tenofovir) or monitored carefully for appearance or rises in HBV DNA levels with early initiative of antiviral therapy. Drug Class: Antineoplastic Agents, Protein Kinase Inhibitors",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Zanubrutinib - Brukinsa®"
+    ],
+    "raw_drug_class": [
+      "Antineoplastic Agents",
+      "Protein Kinase Inhibitors"
+    ],
+    "source_nxml_file": "Zanubrutinib.nxml"
+  },
+  {
+    "id": 810,
+    "name_en": "Zepatier",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "C",
+    "grade_explanation_en": "probable, rare cause of liver injury, including decompensation of chronic hepatitis C and reactivation of hepatitis B",
+    "rucam_score_bonus": 1,
+    "source": "LiverTox (NIDDK, NIH): Zepatier.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Zepatier/",
+    "source_review_date": "2022-02-07",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity In large randomized controlled trials, serum aminotransferase elevations more than 5 times the upper limit of normal (ULN) occurred in 1% of Zepatier treated patients, but were infrequent in placebo recipients. The elevations were generally asymptomatic and short-lived, often arising after the first 4 weeks of therapy and resolving with or without dose modification and only rarely requiring early discontinuation. In some instances, ALT levels rose above 10 times the upper limit of normal, but these elevations were not accompanied by symptoms or jaundice and were invariably self-limited. In the many preregistration trials, Zepatier was not associated with instances of clinically apparent liver injury. However, two forms of liver injury have been associated with direct-acting antiviral agents used to treat chronic hepatitis C, and these reactions appear to occur with all regimens. The first is acute decompensation of HCV-related cirrhosis. The liver injury usually arises within 2 to 6 weeks of starting antiviral therapy, but can occur later and even after discontinuation. The injury is marked by worsening jaundice and appearance of signs of hepatic failure such as ascites or hepatic encephalopathy, often with little or no change in serum aminotransferase levels. Lactic acidosis may be present early. The course is variable but calls for prompt discontinuation of treatment despite successful suppression of HCV RNA levels. Some instances have led to death or need for emergency liver transplantation. For this reason, patients with cirrhosis undergoing antiviral therapy with potent direct acting agents, such as Zepatier, should be monitored carefully, particularly during the first few weeks of treatment. This syndrome has not been clearly linked to therapy with grazoprevir and elbasvir, but this regimen has not been evaluated in patients with advanced cirrhosis due to hepatitis C. A second, liver complication of therapy of chronic hepatitis C is reactivation of hepatitis B. This occurs most frequently in patients who have HBsAg in serum but rare instances have arisen in subjects with anti-HBc without HBsAg. The cause of the reactivation of hepatitis B during antiviral therapy of hepatitis C is unknown, but may relate to the inhibition of HBV replication during HCV replication. For this reason, patients with hepatitis C who are to receive antiviral therapy should be screened for HBsAg and anti-HBc. Those with HBsAg are best managed by concurrent treatment with an antiviral agent active against HBV, such as entecavir or tenofovir. Subjects with anti-HBc without HBsAg rarely experience reactivation and can be managed by careful monitoring for HBV DNA levels during treatment and institution of therapy for HBV if levels appear de novo or rise significantly. Reactivation of hepatitis B has been described with many regimens, although not specifically with grazoprevir and elbasvir. Likelihood score: C (probable, rare cause of liver injury, including decompensation of chronic hepatitis C and reactivation of hepatitis B).",
+    "raw_mechanism_text": "Mechanism of Injury The mechanism by which elbasvir and grazoprevir might cause liver injury is not known. Both are metabolized in the liver largely via the cytochrome P450 system, predominantly CYP 1A2, and liver injury may be due to production of a toxic or immunogenic metabolite. Zepatier is also susceptible to drug-drug interactions with strong inducers or inhibitors of CYP 3A4. Reactivation of hepatitis B during therapy of chronic hepatitis C is probably due to eradication of a competing virus for replicative space.",
+    "raw_outcome_text": "Outcome and Management While chronic therapy with grazoprevir and elbasvir can be associated with mild-to-moderate serum aminotransferase elevations, it has not been convincingly linked to cases of clinically apparent liver injury. Nevertheless, monitoring of serum aminotransferase levels monthly during the 12 weeks of therapy is recommended. Patients who develop aminotransferase elevations on therapy should be monitored more carefully, and Zepatier should be permanently discontinued if jaundice or symptoms of liver injury arise or if serum ALT or AST levels are persistently above 5 times the ULN. Patients with cirrhosis should be monitored for signs and symptoms of hepatic decompensation and therapy stopped promptly if these arise. All patients receiving antiviral therapy for hepatitis C should be screened for HBsAg and anti-HBc and either monitored carefully for evidence of reactivation or given prophylaxis with agents active against hepatitis B during therapy and for several weeks thereafter. Drug Class: Antiviral Agents, Hepatitis C Agents",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Elbasvir, Grazoprevir - Zepatier®"
+    ],
+    "raw_drug_class": [
+      "Antiviral Agents",
+      "Hepatitis C Agents"
+    ],
+    "source_nxml_file": "Zepatier.nxml"
+  },
+  {
+    "id": 811,
+    "name_en": "Ziprasidone",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "D",
+    "grade_explanation_en": "possible rare cause of clinically apparent liver injury",
+    "rucam_score_bonus": 1,
+    "source": "LiverTox (NIDDK, NIH): Ziprasidone.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Ziprasidone/",
+    "source_review_date": "2023-06-10",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity Liver test abnormalities have been reported in patients taking ziprasidone, but they have not been well characterized in the literature and the frequency of elevations appears to be similar to placebo therapy. Several instances of hypersensitivity reactions have been reported in patients taking ziprasidone, arising within 1 to 4 weeks of starting therapy and with rapid recurrence on reexposure in at least one case. In several instances, the hypersensitivity reaction qualified as DRESS syndrome with rash, eosinophilia and an accompanying liver injury either in the form of moderate serum enzymes or a mixed hepatitis with jaundice. In all instances, the symptoms, signs and laboratory abnormalities resolved rapidly with stopping ziprasidone. Thus, on rare occasions, ziprasidone can cause acute hypersensitivity reactions that can be accompanied by hepatitis, but the liver injury is usually mild and self-limited. Likelihood score: D (possible rare cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury Ziprasidone is largely excreted unchanged in the urine and its hepatic metabolism is minimal, perhaps accounting for why hepatotoxicity is rare. The liver injury caused by ziprasidone is likely due to hypersensitivity and is idiosyncratic in nature. Ziprasidone is less likely to cause weight gain than other atypical antipsychotics and has not been linked to cases of steatosis.",
+    "raw_outcome_text": "Outcome and Management The hypersensitivity reactions to ziprasidone are likely to recur with reexposure and rechallenge should be avoided. Ziprasidone has not been reported to cause acute liver failure, chronic hepatitis or vanishing bile duct syndrome in the published literature. Persons with hypersensitivity to ziprasidone are likely to tolerate other atypical antipsychotic medications, but prospective monitoring is warranted if other such agents are used. Drug Class: Antipsychotic Agents, Atypicals",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [],
+    "raw_drug_class": [
+      "Antipsychotic Agents"
+    ],
+    "source_nxml_file": "Ziprasidone.nxml"
+  },
+  {
+    "id": 812,
+    "name_en": "Zolpidem",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "E",
+    "grade_explanation_en": "unlikely cause of clinically apparent liver injury",
+    "rucam_score_bonus": 0,
+    "source": "LiverTox (NIDDK, NIH): Zolpidem.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Zolpidem/",
+    "source_review_date": "2018-02-20",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity In multiple premarketing randomized controlled trials, zolpidem was not associated with an increased rate of serum enzyme elevations in comparison to placebo therapy. A single instance of clinically apparent liver injury has been reported. The onset of injury was 2 days after a single dose of zolpidem and was accompanied by abdominal pain, but no jaundice. The pattern of liver enzyme elevations was hepatocellular and the abnormalities were self-limited, although they seemed to recur on reexposure. Zolpidem is metabolized in the liver by the cytochrome P450 system (predominantly CYP 3A4) and can cause drug-drug interactions, although such interactions are rare. Thus, zolpidem has not been linked to cases of liver injury with jaundice, but rarely may cause transient, mild-to-moderate serum enzyme elevations with or without symptoms. Likelihood score: E (unlikely cause of clinically apparent liver injury). Drug Class: Sedatives and Hypnotics Other Drugs in the Subclass, Benzodiazepine Receptor Agonists: Eszopiclone, Zaleplon",
+    "raw_mechanism_text": "",
+    "raw_outcome_text": "",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [],
+    "raw_drug_class": [
+      "Sedatives and Hypnotics",
+      "Eszopiclone",
+      "Zaleplon"
+    ],
+    "source_nxml_file": "Zolpidem.nxml"
+  },
+  {
+    "id": 813,
+    "name_en": "Zonisamide",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "D",
+    "grade_explanation_en": "possible rare cause of clinically apparent liver injury",
+    "rucam_score_bonus": 1,
+    "source": "LiverTox (NIDDK, NIH): Zonisamide.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Zonisamide/",
+    "source_review_date": "2020-07-31",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity Prospective studies suggest that chronic zonisamide therapy may be accompanied by mild increases in serum alkaline phosphatase levels, but it has not been linked to significant increases in serum aminotransferase levels during treatment. Clinically apparent hepatotoxicity from zonisamide is rare, but several case reports of hepatic injury linked to zonisamide have been published. Zonisamide is typically used in combination with other anticonvulsants and its separate role in causing liver injury is often difficult to delineate. Zonisamide has been linked to a single case report of cholestatic hepatitis associated with vanishing bile duct syndrome that ultimately resolved. More commonly, zonisamide has been linked to cases of hypersensitivity (DRESS syndrome or Stevens-Johnson syndrome) with rash, fever, eosinophilia, renal failure and/or mild liver test abnormalities. In most instances, the hepatic injury was cholestatic and arose 3 to 8 weeks after starting therapy. Autoantibodies are usually not present. Interestingly, a similar cholestatic liver injury has been described in dogs receiving zonisamide. Likelihood score: D (possible rare cause of clinically apparent liver injury). Mechanism of Injury The mechanism of zonisamide hepatotoxicity is unknown but is likely to be hypersensitivity. Cases of drug hypersensitivity to zonisamide have been linked to HLA-A*02:07 in Japanese subjects.",
+    "raw_mechanism_text": "",
+    "raw_outcome_text": "Outcome and Management A few cases of cholestatic liver injury attributed to zonisamide has been published, with complete recovery in most patients but with persistent liver test abnormalities in at least one patient. Zonisamide has not been linked to acute liver failure or chronic liver injury. Patients who develop the anticonvulsant hypersensitivity syndrome should avoid other aromatic anticonvulsants or start them only with careful monitoring. Hypersensitivity reactions to anticonvulsants including zonisamide may benefit from corticosteroid therapy, but the efficacy of such therapy in altering the outcome of liver injury has not been proven. Drug Class: Anticonvulsants",
+    "raw_case_report_text": "CASE REPORT Case 1. Cholestatic hepatitis and bile duct injury attributed to zonisamide.(1) An obese 35 year old man was being treated with phentermine and topiramate for weight loss. When switched from topiramate to zonisamide, he developed fatigue, dark urine and abdominal pain followed by jaundice and itching. After 3 weeks of symptoms, laboratory testing showed significant elevations in serum bilirubin, ALT and alkaline phosphatase levels (Table). There was no rash or fever. Tests for hepatitis A, B and C and for autoantibodies were negative. Abdominal ultrasound showed echogenicity of the liver compatible with hepatic steatosis, but no evidence of biliary obstruction. Endoscopic retrograde cholangiopancreatography was normal and a liver biopsy showed cholestasis with paucity of bile ducts. He persisted in having elevations in serum enzymes and underwent repeat liver biopsies 3 and 7 months after presentation, which showed ductular proliferation and improvement in cholestasis. Key Points Medication: Zonisamide (dose not provided) Pattern: Mixed→Cholestatic (R=2.3, initially; later R <1.0) Severity: 3+ (jaundice and hospitalization) Latency: 3 weeks Recovery: Incomplete; alkaline phosphatase still elevated one year later Other medications: Phentermine, topiramate (stopped 3 weeks earlier) Laboratory Values Time AfterStarting Time AfterStopping ALT(U/L) Alk P(U/L) Bilirubin(mg/dL) Other 3 weeks 0 531 578 7.1 4 weeks 1 week 240 490 9.0 5 weeks 2 week 270 390 9.5 Biopsy #1 6 weeks 3 week 100 320 8.2 7 weeks 4 week 80 300 7.3 11 weeks 8 week 90 320 5.6 13 weeks 10 weeks 200 420 3.0 15 weeks 12 weeks 110 510 2.0 21 weeks 18 weeks 75 340 1.7 Biopsy #2 6 months 5 months 105 440 1.2 1 year 11 months 120 640 0.9 Biopsy #3 Normal Values <50 <125 <1.2 Comment This was a well documented example of cholestatic hepatitis presenting with histological features of bile duct injury and loss which evolved into a partially reversible bile duct vanishing syndrome. The patient had persistence of serum enzyme elevations and chronic ductular injury with decrease in numbers of bile ducts that was still present almost a year after onset. The injury was attributed to zonisamide, but the patient had also received topiramate that was withdrawn shortly before onset of symptoms and may have played a role in this injury. The ultimate prognosis of vanishing bile duct syndrome is variable; some patients appear to recover, others develop chronic cholestasis and cirrhosis, requiring liver transplantation.",
+    "raw_case_report_key_points": {
+      "Medication": "Zonisamide (dose not provided)",
+      "Pattern": "Mixed→Cholestatic (R=2.3, initially; later R <1.0)",
+      "Severity": "3+ (jaundice and hospitalization)",
+      "Latency": "3 weeks",
+      "Recovery": "Incomplete; alkaline phosphatase still elevated one year later",
+      "Other medications": "Phentermine, topiramate (stopped 3 weeks earlier)"
+    },
+    "raw_trade_names": [],
+    "raw_drug_class": [
+      "Anticonvulsants"
+    ],
+    "source_nxml_file": "Zonisamide.nxml"
+  }
+]

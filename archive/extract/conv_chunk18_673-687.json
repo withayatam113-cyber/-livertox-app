@@ -1,0 +1,435 @@
+[
+  {
+    "id": 673,
+    "name_en": "Pentamidine",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "D",
+    "grade_explanation_en": "possible rare cause of clinically apparent liver injury",
+    "rucam_score_bonus": 1,
+    "source": "LiverTox (NIDDK, NIH): Pentamidine.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Pentamidine/",
+    "source_review_date": "2020-07-20",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity Pentamidine has been associated with serum aminotransferase elevations in 9% to 15% of patients receiving 2 to 3 weeks of therapy for pneumocystis pneumonia. Clinically apparent liver injury has also been reported with its use, but always in association with multiple other severe complications, such as respiratory or renal failure and pancreatitis. The onset of injury is within days of starting therapy and is characterized by acute hepatic necrosis, marked elevations in serum aminotransferase levels, rapid development of prolongation of prothrombin time and minimal or no jaundice. Recovery is typically rapid and usually complete. Likelihood score: D (possible rare cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury Pentamidine interferes with polyamine synthesis and RNA polymerase activity, which may account for its multiorgan toxicity.",
+    "raw_outcome_text": "Outcome and Management Pentamidine is not very well tolerated, but its major toxicities are not hepatic, and the predominance of these other dose limiting toxicities may be the reason that liver injury is not more common. Pentamidine has not been associated with fatal acute liver failure or chronic liver injury. Drug Class: Antifungal Agents Pentamidine is not a typical antifungal agent and has a broad spectrum of activity that does not fit neatly into any antimicrobial class. Other agents used to treat or prevent Pneumocystis jiroveci pneumonia: Sulfamethoxazole/Trimethoprim, Dapsone, Atovaquone, Primaquine, Clindamycin Drug Class: Anthelmintic Agents",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Pentamidine - NebuPent®"
+    ],
+    "raw_drug_class": [
+      "Antifungal Agents",
+      "Sulfamethoxazole/Trimethoprim",
+      "Dapsone",
+      "Atovaquone",
+      "Primaquine",
+      "Clindamycin",
+      "Anthelmintic Agents"
+    ],
+    "source_nxml_file": "Pentamidine.nxml"
+  },
+  {
+    "id": 674,
+    "name_en": "Pentazocine",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "E",
+    "grade_explanation_en": "unlikely cause of drug-induced liver injury",
+    "rucam_score_bonus": 0,
+    "source": "LiverTox (NIDDK, NIH): Pentazocine.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Pentazocine/",
+    "source_review_date": "2020-11-24",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity Therapy with pentazocine has not been linked to serum enzyme elevations or to idiosyncratic acute, clinically apparent liver injury. Likelihood score: E (unlikely cause of drug-induced liver injury). References on the safety and potential hepatotoxicity of pentazocine are given in the Overview section of the Opioids. Drug Class: Opioids",
+    "raw_mechanism_text": "",
+    "raw_outcome_text": "",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [],
+    "raw_drug_class": [
+      "Opioids"
+    ],
+    "source_nxml_file": "Pentazocine.nxml"
+  },
+  {
+    "id": 675,
+    "name_en": "Pentoxifylline",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "D",
+    "grade_explanation_en": "possible rare cause of clinically apparent liver injury",
+    "rucam_score_bonus": 1,
+    "source": "LiverTox (NIDDK, NIH): Pentoxifylline.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Pentoxifylline/",
+    "source_review_date": "2020-06-24",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity Chronic therapy with pentoxifylline has not been associated with elevations in serum enzyme levels, although the rigor with which liver test abnormalities were sought in patients taking the drug was not always clear. Despite its use for more than 3 decades, pentoxifylline has been linked to only rare and not completely convincing cases of clinically apparent liver injury. Nevertheless, adverse effects of hepatitis, jaundice, cholestasis and increased liver enzymes are listed in product labels for pentoxifylline. In reported cases, the time to onset was 3 to 4 weeks and the pattern of liver enzyme elevations was distinctly cholestatic (Case 1). Autoimmune and immunoallergic features were not present. The injury was self-limited and there have been no reports of acute liver failure, chronic hepatitis or vanishing bile duct syndrome associated with pentoxifylline therapy. In addition, pentoxifylline has been evaluated as the therapy of several liver diseases including acute alcoholic hepatitis and cirrhosis, nonalcoholic fatty liver disease and autoimmune liver conditions with varying results. In several small controlled trials in severe acute alcoholic hepatitis, pentoxifylline therapy was associated with a significant decrease in short term mortality and in the frequency of the hepatorenal syndrome. However, in large well controlled trials in alcoholic fatty liver, pentoxifylline with or without corticosteroids was found to have no effect on either short- or long-term mortality and minimal or no effect on rates of renal failure. Pentoxifylline has also been reported to improve serum aminotransferase levels and hepatic histology in adult patients with nonalcoholic steatohepatitis (NASH), but these findings have yet to be tested in larger randomized controlled trials. All studies, however, found pentoxifylline well tolerated in patients with liver disease and without evidence of hepatotoxicity. Likelihood score: D (possible rare cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury The mechanism by which pentoxifylline might cause liver injury is not known. It is metabolized extensively by red blood cells and in the liver, but it does not affect the levels of cytochrome P450 activity.",
+    "raw_outcome_text": "Outcome and Management While pentoxifylline has been reported to cause clinically apparent liver injury, most cases have been mild and self-limited. Several have occurred in patients with a history of intolerance to caffeine and xanthine derivatives. Thus, patients with xanthine hypersensitivity should avoid use of pentoxifylline. Drug Class: Cardiovascular Drugs, Intermittent Claudication Agents; Xanthine Derivatives Other Drugs in the Subclass, Intermittent Claudication Agents: Cilostazol",
+    "raw_case_report_text": "CASE REPORT Case 1. Self-limited cholestatic hepatitis due to pentoxifylline.(1) An 81 year old woman developed fatigue, nausea and dark urine followed by jaundice 3 weeks after starting pentoxifylline (1200 mg daily) for suspected peripheral vascular disease. She denied a history of liver disease, alcohol abuse and risk factors for viral hepatitis. Her other medical problems included asthma for which she had been using oral theophylline (350 mg daily) and a salbutamol inhaler for many years. She was taking no other medications or herbal products and had no history of drug allergy. On presentation, she was jaundiced but had no organomegaly or signs of chronic liver disease. Laboratory tests showed a total bilirubin of 20.1 mg/dL, ALT 577 U/L, AST 293 U/L, GGT 1361 U/L and alkaline phosphatase 1387 U/L (Table). Serum albumin was low (2.4 g/dL), but the INR was normal. Tests for hepatitis A, B and C and for EBV and CMV were negative. Autoantibodies were not present and immunoglobulin levels were normal. Abdominal ultrasound and CT scans were normal without evidence of biliary obstruction, which was verified by endoscopic retrograde cholangiography. A liver biopsy showed mild portal inflammation and centrilobular (zone 3) cholestasis. Pentoxifylline was stopped and jaundice began to resolve. Eight weeks later she was asymptomatic and all liver tests were normal. Key Points Medication: Pentoxifylline Pattern: Mixed (R=2.9) Severity: 3+ (jaundice, hospitalization) Latency: 3 weeks Recovery: Complete recovery 2 months after stopping Other medications: Theophylline, salbutamol inhalant Laboratory Values Time AfterStarting Time AfterStopping ALT(U/L) Alk P(U/L) Bilirubin(mg/dL) Other Pre Pre Normal Normal Normal [13 years earlier during evaluation for asthma] 4 weeks 0 577 1387 20.1 Pentoxifylline stopped 12 weeks 8 weeks 29 270 0.7 Asymptomatic Normal Values <40 <279 <1.2 Comment This was a reasonably convincing case of drug induced, cholestatic hepatitis arising 3 to 4 weeks after starting pentoxifylline. No other cause of jaundice was found despite extensive testing including imaging of the biliary tree by ERCP. While the patient was initially deeply jaundiced, the course was benign and all tests returned to normal within 2 months of stopping pentoxifylline. Interestingly, the patient had asthma and was also taking another xanthine derivative (theophylline) in stable daily doses. Cross sensitivity to other side effects of xanthine derivatives can occur during pentoxifylline therapy, and its combination with full doses of theophylline may have led to excessive xanthine levels and organ toxicity. Cases of hepatitis due to pentoxifylline have been reported to the sponsor, but few have been published and pentoxifylline is not listed in the many large, case series on drug induced liver injury. Thus, hepatotoxicity from pentoxifylline probably occurs, but must be quite rare.",
+    "raw_case_report_key_points": {
+      "Medication": "Pentoxifylline",
+      "Pattern": "Mixed (R=2.9)",
+      "Severity": "3+ (jaundice, hospitalization)",
+      "Latency": "3 weeks",
+      "Recovery": "Complete recovery 2 months after stopping",
+      "Other medications": "Theophylline, salbutamol inhalant"
+    },
+    "raw_trade_names": [],
+    "raw_drug_class": [
+      "Xanthine Derivatives",
+      "Cilostazol"
+    ],
+    "source_nxml_file": "Pentoxifylline.nxml"
+  },
+  {
+    "id": 676,
+    "name_en": "Perampanel",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "E",
+    "grade_explanation_en": "unlikely cause of clinically apparent liver injury",
+    "rucam_score_bonus": 0,
+    "source": "LiverTox (NIDDK, NIH): Perampanel.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Perampanel/",
+    "source_review_date": "2016-05-04",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity Limited data are available on the hepatotoxicity of perampanel. In clinical trials, therapy with perampanel was not associated with an increased frequency of serum aminotransferase elevations as compared to placebo treatment, and there were no reported instances of clinically apparent liver injury. No individual case reports of perampanel hepatotoxicity have been published since its general clinical availability. Perampanel has been implicated in rare instances of severe cutaneous hypersensitivity reactions including DRESS syndrome, which can be associated with variable degrees of liver injury. Thus, clinically apparent liver injury due to perampanel may occur, but must be very rare. Likelihood score: E (unlikely cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury The mechanism by which perampanel might cause liver injury is unknown. It is partially metabolized by the liver, largely by CYP 3A4 and is susceptible to drug interactions with agents that induce or inhibit this microsomal enzyme.",
+    "raw_outcome_text": "Outcome and Management Liver injury from perampanel is rare, if it occurs at all. There is no reason to suspect cross sensitivity to hepatotoxicity between perampanel and other anticonvulsants such as phenytoin or carbamazepine with which it shares no structural similarity. Drug Class: Anticonvulsants",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Perampanel - Fycompa®"
+    ],
+    "raw_drug_class": [
+      "Anticonvulsants"
+    ],
+    "source_nxml_file": "Perampanel.nxml"
+  },
+  {
+    "id": 677,
+    "name_en": "Perindopril",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "E*",
+    "grade_explanation_en": "unproved but suspected rare cause of clinically apparent liver injury",
+    "rucam_score_bonus": 0,
+    "source": "LiverTox (NIDDK, NIH): Perindopril.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Perindopril/",
+    "source_review_date": "2018-02-11",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity Perindopril, like other ACE inhibitors, has been associated with a low rate of serum aminotransferase elevations (<2%) that, in controlled trials, was similar to the rate with placebo therapy. These elevations were transient and rarely required dose modification. Instances of jaundice and hepatic injury are listed as potential side effects of perindopril in the product label; however, clinically apparent cases of acute liver injury due to perindopril have yet to be reported in the published literature. Other ACE inhibitors have been associated with rare instances of clinically apparent liver injury, which typically arises 2 to 12 weeks after starting therapy and is associated with a cholestatic pattern of injury which can be severe and prolonged. Immunoallergic manifestations (rash, fever, eosinophilia) are infrequent and most patients do not develop autoantibodies. In addition, rare instances of severe acute hepatocellular injury, sometimes arising 1 to 4 years after starting therapy, have been linked to selected ACE inhibitors, but not specifically to perindopril. Nevertheless, the product label mentions the possibiltiy of drug induced liver injury. Likelihood score: E* (unproved but suspected rare cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury The cause of the minor serum aminotransferase elevations associated ACE inhibitors including perindopril is not known. Perindopril is hydrolyzed in the liver to the active metabolite perindoprilat, but undergoes minimal further hepatic metabolism. Idiosyncratic liver injury due to the ACE inhibitors is likely due to a reaction to a minor metabolite.",
+    "raw_outcome_text": "Outcome and Management There have been too few instances of perindopril associated liver injury described to provide an overall description of its course and outcome. Most instances of acute liver injury reported with ACE inhibitors have been self limited, but there have been rare reports of acute liver failure due to captopril, enalapril, lisinopril and benazepril and several reports of cholestatic hepatitis due to ACE inhibitors leading to prolonged jaundice and vanishing bile duct syndrome. Patients with severe perindopril induced acute liver injury should avoid use of other ACE inhibitors, although cross sensitivity to liver injury among the members of this class of agents has not always been shown. References to the safety and potential hepatotoxicity of perindopril are given in the Overview section on the Angiotensin-Converting Enzyme (ACE) Inhibitors. Drug Class: Antihypertensive Agents, Angiotensin-Converting Enzyme Inhibitors",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [],
+    "raw_drug_class": [
+      "Antihypertensive Agents",
+      "Angiotensin-Converting Enzyme Inhibitors"
+    ],
+    "source_nxml_file": "Perindopril.nxml"
+  },
+  {
+    "id": 678,
+    "name_en": "Phentermine",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "E",
+    "grade_explanation_en": "unlikely cause of clinically apparent liver injury",
+    "rucam_score_bonus": 0,
+    "source": "LiverTox (NIDDK, NIH): Phentermine.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Phentermine/",
+    "source_review_date": "2020-06-04",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity Phentermine has not been linked to an increased rate of serum enzyme elevations during therapy; however, results of ALT monitoring during phentermine therapy have rarely been reported. Despite long term availability and wide use of phentermine, there have been no published reports linking it to clinically apparent acute liver injury. Likelihood score: E (unlikely cause of clinically apparent liver injury). Drug Class: Weight Loss Agents, see also Phentermine-Topiramate",
+    "raw_mechanism_text": "",
+    "raw_outcome_text": "",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [
+      "Generic, Adipex - P®"
+    ],
+    "raw_drug_class": [
+      "Weight Loss Agents",
+      "Phentermine-Topiramate"
+    ],
+    "source_nxml_file": "Phentermine.nxml"
+  },
+  {
+    "id": 679,
+    "name_en": "Phenyltoloxamine",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "E",
+    "grade_explanation_en": "unlikely to be a cause of clinically apparent liver injury",
+    "rucam_score_bonus": 0,
+    "source": "LiverTox (NIDDK, NIH): Phenyltoloxamine.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Phenyltoloxamine/",
+    "source_review_date": "2017-01-16",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity Like most first generation antihistamines, phenyltoloxamine has not been linked to liver test abnormalities or to clinically apparent liver injury. The reason for its safety may relate its short half-life and limited duration of use. References on the safety and potential hepatotoxicity of antihistamines are given together after the Overview section on Antihistamines. Likelihood score: E (unlikely to be a cause of clinically apparent liver injury). Drug Class: Antihistamines",
+    "raw_mechanism_text": "",
+    "raw_outcome_text": "",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Phenyltoloxamine - Dologesic®"
+    ],
+    "raw_drug_class": [
+      "Antihistamines"
+    ],
+    "source_nxml_file": "Phenyltoloxamine.nxml"
+  },
+  {
+    "id": 680,
+    "name_en": "Pioglitazone",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "C",
+    "grade_explanation_en": "probable rare cause of clinically apparent liver injury",
+    "rucam_score_bonus": 1,
+    "source": "LiverTox (NIDDK, NIH): Pioglitazone.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Pioglitazone/",
+    "source_review_date": "2018-06-06",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity In contrast to troglitazone, pioglitazone is not associated with an increased frequency of aminotransferase elevations during therapy. In clinical trials, ALT elevations above 3 times the ULN occurred in only 0.26% of patients on pioglitazone, compared to 0.25% of placebo recipients (and 1.9% of troglitazone recipients in similar studies). In addition, clinically apparent liver injury attributed to pioglitazone is very rare, fewer than a dozen cases having been described in the literature despite extensive use of this agent. The liver injury usually arises between 1 and 6 months after starting therapy and all patterns of serum enzymes elevations have been described including hepatocellular, cholestatic and mixed. Allergic phenomena are rare and autoantibodies have not been typically present. Cases of acute liver failure attributed to pioglitazone have been reported, usually in association with a hepatocellular pattern of injury. In most instances, recovery is complete within 2 to 3 months. Likelihood score: C (probable rare cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury The mechanism of liver injury due to pioglitazone is not known, but the general pattern and course differs somewhat from troglitazone and it is unlikely that the thiazolidinediones share a single mechanism for liver injury.",
+    "raw_outcome_text": "Outcome and Management The liver injury from pioglitazone is usually reversed with stopping the medication. Fatal instances of acute liver injury due to pioglitazone have been reported, but are rare. Chronic liver disease and vanishing bile duct syndrome have not been associated with pioglitazone. There exists at least some cross sensitivity to liver injury among the different thiazolidinediones, so that patients with pioglitazone hepatotoxicity should avoid use of rosiglitazone. References to safety and hepatotoxicity of pioglitazone are given together with references to rosiglitazone and troglitazone in the Overview section on the Thiazolidinediones (updated June 2018). Drug Class: Antidiabetic Agents Other Drugs in the Subclass, Thiazolidinediones: Rosiglitazone, Troglitazone",
+    "raw_case_report_text": "CASE REPORT Case 1. Acute liver injury after 6 months of pioglitazone therapy. [Modified from: May LD, Lefkowitch JH, Kram MT, Rubin DE. Mixed hepatocellular-cholestatic liver injury after pioglitazone therapy. Ann Intern Med 2002; 136: 449-52. PubMed Citation] A 49 year old man with type 2 diabetes and poor control with glyburide and metformin was started on pioglitazone, which was slowly increased in dose. Six months later he developed jaundice and was found to have elevations in serum aminotransferase and alkaline phosphatase levels (Table). There was no fever, rash or eosinophilia. He had had intermittent nausea and abdominal discomfort during pioglitazone therapy, but liver tests were previously normal. He had no history of liver disease or risk factors for hepatitis. Tests for hepatitis A, B and C were negative as were autoantibodies. A liver biopsy showed cholestasis, portal inflammation and mild bile duct damage suggestive of mixed pattern of injury due to drug hepatotoxicity. Pioglitazone was stopped on admission and he improved rapidly, all tests becoming normal within the following 6 weeks. Key Points Medication: Pioglitazone (15-45 mg daily for 6 months) Pattern: Mixed (R=2.1) Severity: 3+ (jaundice and hospitalization) Latency: 6 months Recovery: 6 weeks Other medications: Metformin, glyburide, lisinopril and omeprazole chronically (continued during admission) Laboratory Values Time After Starting Time After Stopping ALT* (U/L) Alk P* (U/L) Bilirubin* (mg/dL) Other Pre 30 30 0.6 6 months 0 218 312 5.7 Pioglitazone stopped 3 days 487 617 10.4 7 days 665 251 3.5 Liver biopsy: mixed injury 6.5 months 17 days 372 36 2.4 7 months 6 weeks 30 30 0.6 Normal Values <40 <116 < 1.2 * Values estimated from Figure 2 and converted to U/L and mg/dL. Comment Liver injury first arose after six months of therapy and was not detected early despite serum ALT monitoring. The liver injury was self-limited and recovery was rapid. Jaundice with a mixed pattern of serum aminotransferase elevations is typical of drug induced liver injury in general and occurs frequently, but not invariably, in cases of pioglitazone associated injury.",
+    "raw_case_report_key_points": {
+      "Medication": "Pioglitazone (15-45 mg daily for 6 months)",
+      "Pattern": "Mixed (R=2.1)",
+      "Severity": "3+ (jaundice and hospitalization)",
+      "Latency": "6 months",
+      "Recovery": "6 weeks",
+      "Other medications": "Metformin, glyburide, lisinopril and omeprazole chronically (continued during admission)"
+    },
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Pioglitazone - Actos®"
+    ],
+    "raw_drug_class": [
+      "Antidiabetic Agents",
+      "Thiazolidinediones",
+      "Rosiglitazone",
+      "Troglitazone"
+    ],
+    "source_nxml_file": "Pioglitazone.nxml"
+  },
+  {
+    "id": 681,
+    "name_en": "Piperacillin-Tazobactam",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "B",
+    "grade_explanation_en": "likely rare cause of clinically apparent liver injury",
+    "rucam_score_bonus": 2,
+    "source": "LiverTox (NIDDK, NIH): PiperacillinTazob.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/PiperacillinTazob/",
+    "source_review_date": "2020-10-20",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity In large clinical trials, ALT elevations were reported in 6% to 15% and bilirubin elevations in 3% to 5% of patients receiving piperacillin-tazobactam, with considerably lower rates in patients receiving comparator antibiotics (such as imipenim-cilastatin) and lower rates reported with piperacillin alone. These abnormalities were reported to resolve quickly with stopping therapy. Rare instances of idiosyncratic liver injury have been reported in persons receiving the piperacillin without tazobactam and a similar pattern of injury has been reported with the combination. The injury is typically cholestatic or mixed and arises 1 to 3 weeks after starting and often days or weeks after stopping the antibiotic. The liver injury is usually self-limited but severe cases of cholestatic hepatitis can lead to prolonged jaundice or persistence of minor alkaline phosphatase elevations for 6 to 12 months after clinical resolution. Immunoallergic features may be present but are generally mild. In addition, the combination of piperacillin and tazobactam has been implicated in more than a dozen cases of drug rash with eosinophilia and systemic symptoms (DRESS) syndrome, usually arising after 2 to 3 weeks of long term therapy initially with rash and fever followed by liver or renal dysfunction or both. The liver injury is usually mixed or cholestatic but hepatocellular instances have also been reported. In many cases the liver injury is mild and overshadowed by the systemic symptoms and rash. Piperacillin-tazobactam has also been linked to instances of Stevens Johnson syndrome, although in most cases, other drugs known to be associated with the syndrome were being taken. These forms of hypersensitivity with liver involvement have not been reported with piperacillin alone. Because piperacillin-tazobactam is used for serious infections, patients are often taking multiple medications including other antibiotics such as vancomycin, azithromycin or ciprofloxacin, making the causality assessment challenging. Likelihood score: B (likely rare cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury The cause of the liver injury associated with piperacillin use is probably hypersensitivity or allergy. Cases of reoccurrence on reexposure have been reported. The role of tazobactam in the injury is uncertain, but it appears to be important in cases of DRESS syndrome.",
+    "raw_outcome_text": "Outcome and Management In the few cases of delayed cholestatic hepatitis that have been described with piperacillin with or without tazobactam, patients have recovered within a few weeks of stopping. Cases with DRESS syndrome tend to be more prolonged and are usually treated with corticosteroids for the manifestations of fever and rash. Whether corticosteroids also improve the liver and renal involvement is not clear, but they are generally continued for at least 6 to 8 weeks. Rechallenge is usually followed by recurrence of injury which can be more severe. Patients with piperacillin induced hepatitis should avoid reexposure and should take other penicillins and cephalosporins with caution. Drug Class: Antiinfective Agents, Penicillins (Fourth Generation) Other Drugs in the Class: Piperacillin, Ticarcillin, Ticarcillin-Clavulanate",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [],
+    "raw_drug_class": [
+      "Penicillins (Fourth Generation)",
+      "Piperacillin",
+      "Ticarcillin",
+      "Ticarcillin-Clavulanate"
+    ],
+    "source_nxml_file": "PiperacillinTazob.nxml"
+  },
+  {
+    "id": 682,
+    "name_en": "Pirfenidone",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "D",
+    "grade_explanation_en": "possible rare cause of clinically apparent liver injury",
+    "rucam_score_bonus": 1,
+    "source": "LiverTox (NIDDK, NIH): Pirfenidone.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Pirfenidone/",
+    "source_review_date": "2025-04-25",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity In large randomized controlled trials, serum aminotransferase elevations more than 3 times the upper limit of normal (ULN) occurred in 4% of pirfenidone- compared to less than 1% of placebo-treated patients. The elevations were generally asymptomatic and short lived, resolving with or without dose modification and requiring drug discontinuation in approximately 1% of patients. Despite the frequency of serum enzyme elevations during therapy, clinically apparent liver injury was not reported in preregistration studies. Nevertheless, since the general availability of pirfenidone in the United States and during years of clinical use elsewhere, there have been isolated case reports of clinically apparent liver injury due to pirfenidone, some of which were severe and even fatal. The latency to onset ranged from one month to one year and the injury was usually hepatocellular or mixed. Immunoallergic features were not common. Likelihood score: D (possible rare cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury The mechanism by which pirfenidone might cause liver injury is not known. It is metabolized in the liver largely via the cytochrome P450 system, predominantly CYP 1A2, and liver injury may be due to production of a toxic or immunogenic metabolite. Pirfenidone is also susceptible to drug-drug interactions with strong inducers or inhibitors of CYP 1A2 (such as fluvoxamine).",
+    "raw_outcome_text": "Outcome and Management While chronic therapy with pirfenidone can be associated with mild-to-moderate serum aminotransferase elevations, it has only rarely been linked to cases of clinically apparent liver injury. Nevertheless, monitoring of serum aminotransferase levels monthly during the first 6 months and every 3 months thereafter is recommended. Patients who develop aminotransferase elevations on therapy should be monitored more carefully, and pirfenidone should be permanently discontinued if jaundice or symptoms of liver injury arise or if serum ALT or AST levels rise above 5 times the ULN. Drug Class: Pulmonary Fibrosis Agents Other Drugs in the Class: Nintedanib",
+    "raw_case_report_text": "CASE REPORT Case 1. Fatal, acute liver injury attributed to pirfenidone.(1) An 77 year old man with Parkinson disease and idiopathic pulmonary fibrosis developed anorexia and nausea within 2 to 3 weeks of starting pirfenidone (200 mg three times daily), which was followed in the next 1 to 2 weeks by dark urine, jaundice and altered sensorium. He had no history of liver disease, alcohol abuse or risk factors for viral hepatitis. He had been diagnosed with Parkinson disease 5 years previously and had been on a stable dose of levodopa/carbidopa for years. He denied taking other medications, over-the-counter drugs or herbal products and had no history of drug allergy. His liver test results had been normal in the past. On presentation, he was jaundiced, tachypneic, hypotensive and mildly encephalopathic. Laboratory testing showed total bilirubin of 12.8 mg/dL (direct 7.8), ALT 526 U/L, AST 1260 U/L, Alk P 434 U/L and LDH 687 U/L [R= 4.0]. The INR was 2.1 and serum ammonia 330 µmol/L. He had elevations in serum creatinine [2.1 mg/dL] and blood lactate [6.1 mmol/L] with severe acidosis [pH 7.04]. He was admitted to the intensive care unit and treated with N-acetyl cysteine. Tests for acute hepatitis A, B, C and E were negative as were markers for cytomegalovirus, Epstein Barr virus and herpes virus infection. Routine autoantibodies were undetectable and immunoglobulin levels were normal. Imaging of the liver showed no evidence of biliary obstruction. He rapidly developed multiorgan failure and died within 4 days of admission. Autopsy showed confluent and bridging necrosis, collapse and few surviving, swollen and vacuolated hepatocytes, no fibrosis and mild portal inflammation suggestive of acute liver failure due to drug induced liver injury. Key Points Medication: Pirfenidone (600 mg daily) Pattern: Hepatocellular (R=9.6) Severity: 5+ (jaundice, hospitalization, death) Latency: 3-4 weeks Recovery: None Other medications: Levodopa/carbodopa for several years Comment This was a dramatic example of acute liver failure arising in an elderly man who had recently started pirfenidone. The precipitous onset and course suggests that shock and hypoxia may have contributed to the severity of the injury and fatal outcome. While instances of serum aminotransferase elevations without jaundice have been reported with pirfenidone therapy, there have been no instances of moderate injury with jaundice and a self-limited course reported in the literature. Nevertheless, this case is somewhat convincing. No other cause of jaundice was found despite extensive testing and the autopsy was consistent with drug induced liver injury. The product label for pirfenidone states that cases of hepatitis, jaundice and fatal hepatotoxicity during pirfenidone therapy have been reported to the sponsor. Furthermore, it recommends regular monitoring of liver tests before and monthly for the first 6 months of treatment. In this case, the liver injury arose during the first month of treatment and would not have been prevented by such screening. Furthermore, the capsule size used was lower than the standard (200 mg rather than 267 mg amounts) and there was no dose escalation to 3 capsules 3 times daily as is recommended in treatment of patients with idiopathic pulmonary fibrosis.",
+    "raw_case_report_key_points": {
+      "Medication": "Pirfenidone (600 mg daily)",
+      "Pattern": "Hepatocellular (R=9.6)",
+      "Severity": "5+ (jaundice, hospitalization, death)",
+      "Latency": "3-4 weeks",
+      "Recovery": "None",
+      "Other medications": "Levodopa/carbodopa for several years"
+    },
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Pirfenidone - Esbriet®"
+    ],
+    "raw_drug_class": [
+      "Nintedanib"
+    ],
+    "source_nxml_file": "Pirfenidone.nxml"
+  },
+  {
+    "id": 683,
+    "name_en": "Pitavastatin",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "D",
+    "grade_explanation_en": "possible rare cause of clinically apparent liver injury",
+    "rucam_score_bonus": 1,
+    "source": "LiverTox (NIDDK, NIH): Pitavastatin.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Pitavastatin/",
+    "source_review_date": "2021-12-01",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity Less information is available on the potential hepatotoxicity of pitavastatin in comparison to other more widely used statins. In large clinical trials, pitavastatin therapy was associated with mild, asymptomatic and usually transient serum aminotransferase elevations in approximately 1% of patients, but levels above 3 times the upper limit of normal (ULN) were infrequent and no cases of clinically apparent hepatitis were reported from the preregistration clinical trials. Since marketing of pitavastatin, however, the sponsor has received reports of jaundice, hepatitis and hepatic failure including fatal cases. However, the clinical features and typical course of the liver injury associated with pitavastatin have not been defined in the published literature. On the other hand, the other statins have all been implicated in cases of clinically apparent acute liver injury that typically arise after 1 to 6 months of therapy with either a cholestatic or hepatocellular pattern of serum enzyme elevations. Rash, fever and eosinophilia are uncommon, but some cases have been marked by autoimmune features including autoantibodies, chronic hepatitis on liver biopsy and a clinical response to corticosteroid therapy. This pattern has yet to be shown to apply to pitavastatin. Likelihood score: D (possible rare cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury The cause of hepatic injury from pitavastatin is unknown. Pitavastatin is minimally (~10%) metabolized in the liver (via CYP 2C9). The mild, self-limited ALT elevations may be due to a toxic intermediate of drug metabolism and the reversal of these elevations due to adaptation. The idiosyncratic, clinically apparent liver injury associated with many statins is often accompanied by autoimmune features and may, therefore, be caused by immune mechanisms. The apparent lower rate of liver injury associated with pitavastatin may be due to the low doses used (<10 mg daily) which is characteristic of medications that do not cause liver injury.",
+    "raw_outcome_text": "Outcome and Management The product label for pitavastatin recommends screening for liver test abnormalities before starting therapy and repeating tests as clinically indicated. The mild ALT elevations associated with pitavastatin therapy are usually self-limited and do not require dose modification. Pitavastatin should be stopped if ALT levels rise above 10-fold the ULN, or persist in being above 5-fold elevated or are associated with symptoms. In the clinically apparent liver injury attributed to statins, recovery is usually complete within 1 to 2 months. Recurrence of injury with rechallenge has been reported and should be avoided. Whether there is cross relativity to hepatic injury with other statins is unknown. Drug Class: Antilipemic Agents Other Drugs in the Subclass, Statins: Atorvastatin, Ezetimibe [used in combination], Fluvastatin, Lovastatin, Pravastatin, Rosuvastatin, Simvastatin",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Pitavastatin - Livalo®"
+    ],
+    "raw_drug_class": [
+      "Antilipemic Agents",
+      "Statins",
+      "Atorvastatin",
+      "Ezetimibe [used in combination]",
+      "Fluvastatin",
+      "Lovastatin",
+      "Pravastatin",
+      "Rosuvastatin",
+      "Simvastatin"
+    ],
+    "source_nxml_file": "Pitavastatin.nxml"
+  },
+  {
+    "id": 684,
+    "name_en": "Plerixafor",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "E",
+    "grade_explanation_en": "unlikely cause of clinically apparent liver injury",
+    "rucam_score_bonus": 0,
+    "source": "LiverTox (NIDDK, NIH): Plerixafor.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Plerixafor/",
+    "source_review_date": "2019-04-12",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity Plerixafor has not been linked to instances of significant serum enzyme elevations during therapy nor to cases of clinically apparent liver injury. In multiple large prelicensure as well as postmarketing controlled trials, neither ALT elevations or acute liver injury were mentioned as adverse events or reasons for drop out, early discontinuation of therapy or dose modification. There have been no published reports of liver injury attributed to plerixafor, and it has been used as a possible means of treatment in animal models of acute liver failure. Thus, clinically apparent liver injury due to plerixafor must be rare, if it exists at all. Likelihood score: E (unlikely cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury The mechanism by which plerixafor might cause liver injury is not known. It is given in low total dosage for 1 to 4 days only.",
+    "raw_outcome_text": "Outcome and Management Serum aminotransferase elevations above 5 times the upper limit of normal arising de novo during hematopoietic cell mobilization should lead to discontinuation. Plerixafor has not been implicated in causing clinically apparent hepatitis, acute liver failure, chronic hepatitis or vanishing bile duct syndrome. There is no reason to suspect any degree of cross sensitivity in risk for hepatic injury among the various hematologic growth factors and other agents used to mobilize blood marrow cells. Drug Class: Hematologic Agents, Transplant Agents Other Drugs in the Class, Transplant Agents: Cyclosporine, Everolimus, Mycophenolate, Sirolimus",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Plerixafor - Mozobil®"
+    ],
+    "raw_drug_class": [
+      "Transplant Agents",
+      "Cyclosporine",
+      "Everolimus",
+      "Mycophenolate",
+      "Sirolimus"
+    ],
+    "source_nxml_file": "Plerixafor.nxml"
+  },
+  {
+    "id": 685,
+    "name_en": "Pomalidomide",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "D",
+    "grade_explanation_en": "possible cause of clinically apparent liver injury",
+    "rucam_score_bonus": 1,
+    "source": "LiverTox (NIDDK, NIH): Pomalidomide.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Pomalidomide/",
+    "source_review_date": "2022-08-30",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity Serum enzyme elevations occur in 1% to 2% of patients taking pomalidomide and are more frequent with higher doses. The enzyme abnormalities are usually mild and self-limited and rarely require drug discontinuation. In addition pomalidomide has been implicated in rare instances of clinically apparent, acute liver injury which can be severe and has been reported to lead to deaths from acute liver failure. However, few of these cases have been published and the clinical features, course and outcome of the typical case of liver injury from pomalidomide have not been defined. Both thalidomide and lenalidomide have been implicated in cases of clinically apparent acute liver injury and the presentation and course of injury is likely to be similar to that caused by pomalidomide. The latency to onset of cases of thalidomide associated liver injury is usually within 1 to 6 weeks of starting the antineoplastic agent. The clinical features vary greatly and can be hepatocellular or cholestatic. Cases of acute liver failure as well as vanishing bile duct syndrome with rapid marked cholestasis and hepatic failure have been described with thalidomide and lenalidomide. Immunoallergic features may be prominent and instances of Stevens Johnson syndrome and toxic epidermal necrolysis with and without liver injury have also been linked to therapy with thalidomide and its derivatives. In most cases, the injury resolves rapidly after therapy is stopped. Monitoring of liver tests at monthly intervals is recommended when using thalidomide and its derivatives, and stopping therapy early may play an important role in preventing severe and fatal outcomes. Pomalidomide and the thalidomide derivatives have also been implicated in causing an increased risk of graft-vs-host disease after autologous or allogeneic hematopoietic stem cell transplantation (HSCT) as well as after liver, kidney and heart transplantation. There appears to be cross reactivity to this complication among lenalidomide, pomalidomide and thalidomide. Therapy usually requires discontinuation of the antineoplastic agent as well as treatment with high doses of corticosteroids and tacrolimus or sirolimus. Furthermore, hepatic graft-vs-host disease can occasionally present with an acute hepatitis that resembles hepatocellular drug induced liver injury. Reactivation of hepatitis B has been reported in patients receiving thalidomide, lenalidomide and pomalidomide, but generally only after HSCT and the role of these agents in causing reactivation is not always clear. Indeed, in studies of large numbers of patients treated for multiple myeloma the major risk factor for hepatitis B reactivation was found to be HSCT rather than the specific antineoplastic drugs being used. Indeed, lenalidomide therapy is associated with a reduced risk of reactivation in patients with HSCT (although dexamethasone, thalidomide and bortezomib were not), perhaps because of the immune enhancement typically caused by lenalidomide. Likelihood score: D (possible cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury The mechanism of pomalidomide hepatotoxicity is not clear, but it may be related to its activity in reducing TNF-α production, a potent inflammatory cytokine that activates T cells and promotes inflammation, but is also necessary for normal liver regeneration. Alternatively, the injury may be triggered by an intermediate of its metabolism, which is largely mediated by hepatic microsomal enzymes, CYP 1A2 and 3A4.",
+    "raw_outcome_text": "Outcome and Management The severity of pomalidomide induced liver injury ranges from transient, asymptomatic elevations in serum enzymes to acute liver injury with jaundice to severe acute liver failure and death. Vanishing bile duct syndrome has been reported with use of thalidomide and lenalidomide but not specifically with pomalidomide. Regular monitoring of liver tests is recommended during pomalidomide therapy. Patients who develop liver test abnormalities should stop therapy and restart treatment only if the abnormalities are transient and not associated with symptoms or jaundice. While not proven, the various thalidomide derivatives are likely to demonstrate cross sensitivity to clinically apparent liver injury. Drug Class: Antineoplastic Agents, Miscellaneous Other Related Drugs: Lenalidomide, Thalidomide",
+    "raw_case_report_text": "CASE REPORT Case 1. Acute liver injury with jaundice due to pomalidomide.(1) A 47 year old African American man with refractory multiple myeloma, who had received multiple courses of therapy and an allogenic hematopoietic cell transplant, developed nausea and rash 3 weeks into a first course of pomalidomide (2 mg daily for 21 days) and dexamethasone (20 mg weekly). Shortly thereafter he was found to be jaundiced and was admitted for evaluation and management. He had no history of liver disease, alcohol abuse or risk factors for viral hepatitis. He had had several bouts of graft-vs-host disease after the hematopoietic cell transplant which had been managed with immunosuppression and extracorporeal photopheresis. On hospital admission, total bilirubin was 16.2 mg/dL (direct 12 mg/dL), ALT 1241 U/L, AST 552 U/L, alkaline phosphatase (Alk P) 337 U/L. The prothrombin time was 22.8 seconds. Tests for hepatitis A, B and C and for EBV and CMV infection were negative. A CT of the abdomen showed no evidence of biliary obstruction. A liver biopsy showed severe hepatocyte necrosis and portal inflammation with lymphocytes, plasma cells and eosinophils. The bile ducts showed reactive changes but no inflammation or loss, and hepatic arteries and veins were normal without endothelitis. The biopsy was considered compatible with severe drug induced liver injury and not suggestive of acute or chronic graft-vs-host disease. Over the next few weeks, liver tests improved and liver tests were only mildly abnormal when he was seen as an outpatient two weeks later. Key Points Medication: Pomalidomide (2 mg daily) Pattern: Hepatocellular (R ratio=12.4) Severity: 4+ (jaundice, hospitalization, coagulopathy) Latency: 3 weeks Recovery: Marked improvement within 2 weeks Other medications: None mentioned, except for dexamethasone. Laboratory Values Time AfterStarting Time AfterStopping ALT*(U/L) Alk P*(U/L) Bilirubin*(mg/dL) Other 3 weeks 0 Symptoms of increasing nausea and rash 4 weeks ~6 days 1241 337 16.2 Admission 8 days 900 280 14.0 9 days 820 340 18.4 10 days 640 400 17.4 5 weeks 11 days 560 380 14.2 Discharge 6 weeks 19 days 80 200 4.4 Normal Values** <40 <135 <1.2 * Most values estimated from Figure 1. ** Normal values not provided, these being standard levels Comment This man with advanced refractory multiple myeloma, who had received autologous followed by an allogenic hematopoietic cell transplants, developed jaundice approximately 3 weeks after starting a new chemotherapy regimen of pomalidomide and dexamethasone. The jaundice was initially thought to be due to graft-vs-host disease, but a liver biopsy was more compatible with a severe, acute drug induced hepatocellular injury. Other causes of acute liver injury were appropriately excluded. The time to onset, pattern of serum enzyme elevations, history of preexisting liver disease (graft-vs-host liver injury) and rapid improvement with stopping the implicated agent all resemble the features of drug induced liver injury from thalidomide and lenalidomide. It is not known whether there is cross sensitivity to liver injury among the different thalidomide derivatives. Interestingly, he had previously received thalidomide, evidently without liver injury, so that this episode might represent a reexposure.",
+    "raw_case_report_key_points": {
+      "Medication": "Pomalidomide (2 mg daily)",
+      "Pattern": "Hepatocellular (R ratio=12.4)",
+      "Severity": "4+ (jaundice, hospitalization, coagulopathy)",
+      "Latency": "3 weeks",
+      "Recovery": "Marked improvement within 2 weeks",
+      "Other medications": "None mentioned, except for dexamethasone."
+    },
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Pomalidomide - Pomalyst®"
+    ],
+    "raw_drug_class": [
+      "Antineoplastic Agents",
+      "Lenalidomide",
+      "Thalidomide"
+    ],
+    "source_nxml_file": "Pomalidomide.nxml"
+  },
+  {
+    "id": 686,
+    "name_en": "Ponatinib",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "E*",
+    "grade_explanation_en": "unproven but suspected cause of clinically apparent liver injury",
+    "rucam_score_bonus": 0,
+    "source": "LiverTox (NIDDK, NIH): Ponatinib.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Ponatinib/",
+    "source_review_date": "2020-05-10",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity In large clinical trials, elevations in serum aminotransferase levels during ponatinib therapy occurred in up to 56% of patients and were above 5 times upper limit of normal (ULN) in 8% of patients. While these abnormalities were reversible in most patients, they were prolonged or severe in some. Instances of clinically apparent liver disease and progressive hepatic failure and death were reported in clinical trials of ponatinib, although the clinical features of the liver injury have not been well described. The latency until onset can be rapid and most cases have had a hepatocellular pattern of serum enzyme elevations. Because of the potential for serious hepatotoxicity, routine monitoring of liver tests is recommended during ponatinib therapy and dose modification or discontinuation recommended for ALT or AST elevations above 3 times ULN. Thus, ponatinib therapy is associated with a high rate of transient serum aminotransferase elevations and is reported to cause rare instances of severe hepatic injury, but there have been no cases described in the literature. Reactivation of hepatitis B has been reported with imatinib and nilotinib therapy of CML, but not with ponatinib. Reactivation typically occurs in an HBsAg positive person treated with the tyrosine kinase inhibitor for 3 to 6 months, presenting with jaundice, marked serum aminotransferase elevations and an increase in HBV DNA levels. Reactivation of hepatitis B can be severe, and fatal instances have been reported after imatinib and nilotinib therapy. Screening of patients for HBsAg and anti-HBc is sometimes recommended before starting cancer chemotherapy and those with HBsAg offered prophylaxis with oral antiviral agents, such as lamivudine, tenofovir or entecavir. Whether reactivation occurs with ponatinib therapy is unknown. Likelihood score: E* (unproven but suspected cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury Ponatinib is metabolized in the liver largely through the CYP 3A4 pathway and liver injury may be related to production of a toxic intermediate. Because of this pathway of metabolism, ponatinib is susceptible to drug-drug interactions when using agents that induce or inhibit CYP 3A4. Studies of ponatinib in vitro suggest that it has direct toxicity to hepatocytes inhibiting oxidative metabolism and inducing hepatocyte apoptosis.",
+    "raw_outcome_text": "Outcome and Management Serum aminotransferase elevations above 3 times the upper limit of normal should lead to dose reduction or temporary cessation, with resumption at a lower dose once levels return to normal. In patients with clinically apparent liver injury and jaundice, ponatinib should be discontinued permanently. Ponatinib, like imatinib and nilotinib, can cause clinically apparent liver injury and has been linked to instances of acute liver failure. There does not appear to be cross reactivity with other kinase inhibitors and switching to another BCR-ABL receptor inhibitor may be appropriate. Drug Class: Antineoplastic Agents, Protein Kinase Inhibitors Other Drugs in the Subclass, Chronic Myeloid Leukemia Agents: Bosutinib, Dasatinib, Imatinib, Nilotinib, Omacetaxine",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Ponatinib - Inclusig®"
+    ],
+    "raw_drug_class": [
+      "Antineoplastic Agents",
+      "Protein Kinase Inhibitors",
+      "Bosutinib",
+      "Dasatinib",
+      "Imatinib",
+      "Nilotinib",
+      "Omacetaxine"
+    ],
+    "source_nxml_file": "Ponatinib.nxml"
+  },
+  {
+    "id": 687,
+    "name_en": "Pramipexole",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "E",
+    "grade_explanation_en": "unlikely cause of clinically apparent liver injury",
+    "rucam_score_bonus": 0,
+    "source": "LiverTox (NIDDK, NIH): Pramipexole.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Pramipexole/",
+    "source_review_date": "2017-07-20",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity Pramipexole has been reported to cause serum aminotransferase elevations in a small proportion of patients, but these abnormalities are usually mild, asymptomatic and self-limiting even without dose adjustment. Pramipexole has not been implicated in cases of clinically apparent acute liver injury which must be rare, if it occurs at all. Likelihood score: E (unlikely cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury Pramipexole is minimally metabolized by the liver and is excreted largely unchanged in the urine.",
+    "raw_outcome_text": "Outcome and Management Instances of liver injury attributed to pramipexole have been mild, asymptomatic and self-limiting. No instances of acute liver failure or chronic injury have been reported. Drug Class: Antiparkinson Agents Other Drugs in the Subclass, Dopamine Receptor Agonists: Apomorphine, Bromocriptine, Pergolide, Ropinirole, Rotigotine",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [],
+    "raw_drug_class": [
+      "Antiparkinson Agents",
+      "Apomorphine",
+      "Bromocriptine",
+      "Pergolide",
+      "Ropinirole",
+      "Rotigotine"
+    ],
+    "source_nxml_file": "Pramipexole.nxml"
+  }
+]

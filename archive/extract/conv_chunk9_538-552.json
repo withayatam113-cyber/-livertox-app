@@ -1,0 +1,405 @@
+[
+  {
+    "id": 538,
+    "name_en": "Enalapril",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "B",
+    "grade_explanation_en": "likely but rare cause of clinically apparent liver injury",
+    "rucam_score_bonus": 2,
+    "source": "LiverTox (NIDDK, NIH): Enalapril.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Enalapril/",
+    "source_review_date": "2018-02-11",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity Enalapril, like other ACE inhibitors, has been associated with a low rate of serum aminotransferase elevations (<2%) that, in controlled trials, was no higher than with placebo therapy. These elevations were transient and rarely required dose modification. In addition, more than a dozen instances of clinically apparent acute liver injury have been reported with enalapril therapy. The onset is usually within 2 to 12 weeks of starting therapy and the serum enzyme pattern is typically cholestatic. In some instances, cholestasis has been prolonged and relapsing and associated with persistent elevations in serum alkaline phosphatase, suggestive of vanishing bile duct syndrome. Immunoallergic manifestations (rash, fever, eosinophilia) are infrequent and most patients do not develop autoantibodies. There have also been striking instances of enalapril liver injury with a hepatocellular pattern. These cases typically have a long latency (one or more years), some of which have been severe and fatal. The appearance of an acute liver injury more than a year after starting a medication is distinctly unusual, but has been described for several ACE inhibitors. Likelihood score: B (likely but rare cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury The cause of the minor serum aminotransferase elevations associated with enalapril is not known. The clinically apparent cases of hepatotoxicity due to enalapril are clearly idiosyncratic and likely due to a reaction to a metabolite. The instances of enalapril associated liver injury associated with a long latency may be due to a different mechanism. Enalapril is metabolized by the liver to enalaprilat, its active form, but further hepatic metabolism is minimal and enalapril has little interaction with the cytochrome P450 system.",
+    "raw_outcome_text": "Outcome and Management Most instances of acute liver injury reported with enalapril use have been self limited, but severe and fatal instances have been reported as have cases of vanishing bile duct syndrome. Patients with severe enalapril induced acute liver injury should avoid use of other ACE inhibitors, although cross sensitivity to liver injury among the members of this class of agents has not always been shown. References to the safety and potential hepatotoxicity of enalapril are given in the Overview section on the Angiotensin-Converting Enzyme (ACE) Inhibitors (Updated February 2018). Drug Class: Antihypertensive Agents, Angiotensin-Converting Enzyme Inhibitors",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [],
+    "raw_drug_class": [
+      "Antihypertensive Agents",
+      "Angiotensin-Converting Enzyme Inhibitors"
+    ],
+    "source_nxml_file": "Enalapril.nxml"
+  },
+  {
+    "id": 539,
+    "name_en": "Encorafenib",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "E*",
+    "grade_explanation_en": "unproven but suspected rare cause of clinically apparent liver injury",
+    "rucam_score_bonus": 0,
+    "source": "LiverTox (NIDDK, NIH): EncorafenibBinimetin.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/EncorafenibBinimetin/",
+    "source_review_date": "2019-04-15",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity In large clinical trials of the combination of encorafenib and binimetinib, abnormalities in routine liver tests were common and serum ALT elevations occurred in 26% of patients. ALT and AST values greater than 5 times the upper limit of normal (ULN) occurred in 6% and led to dose modification or discontinuation in 3.6% of patients. However, the aminotransferase abnormalities were generally transient and asymptomatic and there were no reports of clinically apparent liver injury with jaundice reported from the prelicensure studies. Since its approval and more widespread use, there have been no published instances of clinically apparent hepatotoxicity attributed to this combination therapy, but the total experience with its use has been limited. Likelihood score: E* (unproven but suspected rare cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury The mechanism of injury accounting for serum enzyme elevations during encorafenib/binimetinib therapy is not known. Encorafenib is metabolized in the liver largely through the CYP 3A4 pathway and is susceptible to drug-drug interactions with agents that inhibit or induce hepatic CYP 3A4 activity. Binimetinib is metabolized largely via UGT1A1 and to a lesser extent by CYP 1A2 and 2C19. The two kinase inhibitors do not appear to affect the metabolic disposition of each other. Discontinuation of binimetinib should lead to a reduction in the dose of encorafenib (to 300 mg daily), while discontinuation of encorafenib should trigger discontinuation of binimetinib.",
+    "raw_outcome_text": "",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Encorafenib - Braftovi®",
+      "Binimetinib - Mektovi®"
+    ],
+    "raw_drug_class": [
+      "Antineoplastic Agents",
+      "Protein Kinase Inhibitors"
+    ],
+    "source_nxml_file": "EncorafenibBinimetin.nxml"
+  },
+  {
+    "id": 540,
+    "name_en": "Entrectinib",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "E*",
+    "grade_explanation_en": "unproven but suspect rare cause of clinically apparent liver injury",
+    "rucam_score_bonus": 0,
+    "source": "LiverTox (NIDDK, NIH): Entrectinib.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Entrectinib/",
+    "source_review_date": "2021-09-15",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity In the prelicensure clinical trials of entrectinib in patients with NTRK fusion gene positive solid tumors and ROS1 fusion gene positive non-small cell lung cancer, liver test abnormalities were frequent although usually mild. Some degree of ALT elevation arose in 38% of entrectinib treated patients, but were above 5 times the upper limit of normal (ULN) in only 2% to 3% (although the incidence may have been underestimated as 4.5% of patients had no post-treatment liver function tests). In these trials that enrolled approximately 355 patients, entrectinib was discontinued early due to increased AST or ALT in 0.8% of patients. Thus, in preregistration trials of entrectinib there were no instances of clinically apparent liver injury with jaundice, but therapy was associated with a high rate of serum ALT elevations and the total clinical experience with its use has been limited. The product label for entrectinib recommends monitoring for routine liver tests before, at 2 week intervals during the first month of therapy, and monthly thereafter as clinically indicated. Likelihood score: E* (unproven but suspect rare cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury The cause of liver injury from entrectinib is unknown, but the pattern of abnormalities suggests some degree of low level, direct hepatotoxicity. Entrectinib is metabolized in the liver via the cytochrome P450 system, largely CYP 3A4, and is susceptible to drug-drug interactions with agents that inhibit or induce the CYP enzyme reactivity.",
+    "raw_outcome_text": "Outcome and Management Serum aminotransferase elevations above 5 times the upper limit of normal (if confirmed) should lead to dose reduction or temporary cessation of entrectinib therapy. In patients with clinically apparent liver injury and jaundice, restarting therapy should be done with caution. Cross sensitivity to liver injury is uncommon among the tyrosine kinase inhibitors but there is no information or shared adverse event sensitivity of entrectinib with other antineoplastic protein kinase inhibitors. Drug Class: Antineoplastic Agents, Tyrosine Kinase Inhibitors",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Entrectinib - Rozlytrek®"
+    ],
+    "raw_drug_class": [
+      "Antineoplastic Agents",
+      "Tyrosine Kinase Inhibitors"
+    ],
+    "source_nxml_file": "Entrectinib.nxml"
+  },
+  {
+    "id": 541,
+    "name_en": "Enzalutamide",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "E",
+    "grade_explanation_en": "unlikely cause of clinically apparent liver injury",
+    "rucam_score_bonus": 0,
+    "source": "LiverTox (NIDDK, NIH): Enzalutamide.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Enzalutamide/",
+    "source_review_date": "2023-03-15",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity In preregistration controlled trials, serum aminotransferase elevations occurred in up to 10% patients treated with enzalutamide, but similar somewhat high rates occurred in patients receiving placebo (~9%). The liver test abnormalities were generally mild, transient and not associated with symptoms or jaundice. ALT elevations above 5 times the ULN were rare (0.2%) and also no more frequent than with placebo therapy. In addition, clinically apparent liver injury with jaundice was not reported in the preregistration trials of enzalutamide, and clinically apparent liver injury and hepatitis are not mentioned in the product label. Since the approval and more wide scale use of enzalutamide, there have been no publications or descriptions of the clinical features of hepatotoxicity with jaundice associated with its use. Thus, clinically apparent liver injury due to enzalutamide must be rare, if it occurs at all. Likelihood score: E (unlikely cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury The cause of the liver enzyme elevations that occur during enzalutamide therapy is unknown. Enzalutamide is extensively metabolized in the liver predominantly by CYP 3A4 and 2D6 and is a strong inducer of CYP 3A4 and a moderate inducer of 2D6. Enzalutamide is susceptible to drug-drug interactions with inhibitors, inducers or substrates of these microsomal enzymes.",
+    "raw_outcome_text": "Outcome and Management The liver injury linked to enzalutamide therapy has been generally mild, consisting of transient and asymptomatic elevations in serum aminotransferase levels. Enzalutamide has not been linked to cases of acute liver failure, chronic hepatitis or vanishing bile duct syndrome. There is no information on cross sensitivity to hepatic injury between enzalutamide and other antiandrogens, such as flutamide, bicalutamide, or abiraterone. Drug Class: Antineoplastic Agents, Antiandrogens",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Enzalutamide - Xtandi®"
+    ],
+    "raw_drug_class": [
+      "Antineoplastic Agents",
+      "Antiandrogens"
+    ],
+    "source_nxml_file": "Enzalutamide.nxml"
+  },
+  {
+    "id": 542,
+    "name_en": "Eplerenone",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "E*",
+    "grade_explanation_en": "unproven but suspect rare cause of clinically apparent liver injury",
+    "rucam_score_bonus": 0,
+    "source": "LiverTox (NIDDK, NIH): Eplerenone.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Eplerenone/",
+    "source_review_date": "2021-10-13",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity Eplerenone therapy has been associated with a low rate of serum aminotransferase elevations which are typically mild and transient. ALT elevations of greater than 3 times the ULN occurred in 0.7% and greater than 5 times in 0.2% of eplerenone treated compared to 0.3% and 0.3% of placebo treated subjects. Idiosyncratic, clinically apparent liver injury from eplerenone has yet to be reported. The similarity in structure to spironolactone suggests that it may share susceptibility to the acute liver injury reported rarely with that agent. Likelihood score: E* (unproven but suspect rare cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury Eplerenone is metabolized in the liver by the cytochrome P450 system (CYP 3A4) and hepatic reactions may be generated by intermediates in its metabolism.",
+    "raw_outcome_text": "Outcome and Management The mild serum aminotransferase elevations that have been reported with eplerenone resolved rapidly on discontinuation and in some instances resolved even with drug continuation. While yet unproven, cross reactivity to the liver injury that can occur with spironolactone should be assumed. Drug Class: Diuretics, Potassium-Sparing Diuretics Other Drugs in the Subclass: Amiloride, Spironolactone, Triamterene",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [],
+    "raw_drug_class": [
+      "Diuretics",
+      "Amiloride",
+      "Spironolactone",
+      "Triamterene"
+    ],
+    "source_nxml_file": "Eplerenone.nxml"
+  },
+  {
+    "id": 543,
+    "name_en": "Eribulin",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "E*",
+    "grade_explanation_en": "unproven but suspected cause of liver injury",
+    "rucam_score_bonus": 0,
+    "source": "LiverTox (NIDDK, NIH): Eribulin.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Eribulin/",
+    "source_review_date": "2018-02-20",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity Eribulin is a cytotoxic chemotherapeutic agent and serum aminotransferase and alkaline phosphatase elevations are common during cyclic therapy of breast cancer and liposarcoma. The reported rates of ALT elevations have ranged from 8% to 83% with values above 5 times the upper limit or normal (ULN) in 2% to 5%. Isolated mention of “toxic hepatitis” have been made in reports of clinical trials of eribulin but no details of the onset, clinical features and course have been published and the role of eribulin in these outcomes is uncertain. Nevertheless, despite high rates of serum enzyme elevations during treatment, cases of clinically apparent liver injury have not been reported in detail and must be rare. Likelihood score: E* (unproven but suspected cause of liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury Eribulin causes mitotic arrest in rapidly dividing cells and likely causes similar changes in some hepatocytes, perhaps accounting for the frequent occurrence of mild serum aminotransferase elevations during therapy. Eribulin undergoes minimal hepatic metabolism and is mostly excreted unchanged. It also has little or no effect on drug metabolism and minimal drug-drug interactions.",
+    "raw_outcome_text": "Outcome and Management Serum enzyme elevations are frequent during cancer chemotherapy with eribulin, but are rarely dose limiting. Serum aminotransferase elevations above 5 times ULN should lead to dose interuption or modification. Serum ALT or AST elevations above ten times ULN or any elevations accompanied by symptoms of liver disease or jaundice should lead to discontinuation of eribulin therapy, but should also trigger a search for other causes. Drug Class: Antineoplastic Agents, Miscellaneous, Microtubule Inhibitors",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Eribulin - Halaven®"
+    ],
+    "raw_drug_class": [
+      "Antineoplastic Agents"
+    ],
+    "source_nxml_file": "Eribulin.nxml"
+  },
+  {
+    "id": 544,
+    "name_en": "Eslicarbazepine",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "D",
+    "grade_explanation_en": "possible rare cause of clinically apparent liver injury",
+    "rucam_score_bonus": 1,
+    "source": "LiverTox (NIDDK, NIH): Eslicarbazepine.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Eslicarbazepine/",
+    "source_review_date": "2018-02-14",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity In prelicensure clinical trials, addition of eslicarbazepine to standard anticonvulsant therapy was reported to be associated with ALT elevations above 3 times the upper limit of normal (ULN) in a small proportion of patients (<1.0%). A single case of hepatitis with jaundice during eslicarbazepine therapy was also reported. Since approval, there have been rare isolated reports of clinically apparent liver injury associated with eslicarbazepine used, but the clinical features suggested that hepatic ischemia or other anticonvulsants combined with eslicarbazepine may have been responsible. The onset was within a few days to several months after starting the anticonvulsant, and the presentation was characterized by a hepatocellular pattern of serum enzyme elevations, one case being asymptomatic and mild and the other severe. In both instances there was rapid recovery. Likelihood score: D (possible rare cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury Eslicarbazepine is metabolized by the liver, largely by CYP 2C19, but has not been reported to have significant drug interactions. The mechanism of hepatic injury from eslicarbazepine is not known, but may relate to a toxic or immunogenic metabolite.",
+    "raw_outcome_text": "Outcome and Management Most instances of liver injury associated with eslicarbazepine have been transient and mild but more severe cases have been reported. The product label recommends baseline evaluation of liver tests and prompt discontinuation if jaundice or symptoms of liver disease arise. There is no information on the possible cross sensitivity to hepatotoxicity between eslicarbazepine and other anticonvulsants, but its structure would suggest that it would havel cross sensitivity to hypersensitivity reactions with oxcarbazepine and possibly partial cross sensitivity to other aromatic anticonvulsants such as phenytoin, carbamazepine and lamotrigine. Drug Class: Anticonvulsants",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Eslicarbazepine - Aptiom®"
+    ],
+    "raw_drug_class": [
+      "Anticonvulsants"
+    ],
+    "source_nxml_file": "Eslicarbazepine.nxml"
+  },
+  {
+    "id": 545,
+    "name_en": "Esmolol",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "E",
+    "grade_explanation_en": "unlikely cause of clinically apparent liver injury",
+    "rucam_score_bonus": 0,
+    "source": "LiverTox (NIDDK, NIH): Esmolol.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Esmolol/",
+    "source_review_date": "2017-01-15",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity Esmolol therapy has not been clearly associated with serum aminotransferase elevations or with clinically apparent, acute liver injury. It is often used in critically patients and generally for a short period only. Thus, hepatotoxicity due to esmolol must be very rare, if it occurs at all. Most commonly used beta-blockers have been linked to rare instances of clinically apparent liver injury, typically with onset within 2 to 12 weeks, a hepatocellular pattern of liver enzyme elevations, rapid recovery upon withdrawal, and little evidence of hypersensitivity (rash, fever, eosinophilia) or autoantibody formation. Similar instances have not been reported after esmolol use. Likelihood score: E (unlikely cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury The mechanism of drug induced liver injury from beta-blockers such as esmolol is not known. Esmolol undergoes rapid hydrolysis by plasma esterases and is rapidly excreted by the kidneys as inactive metabolites. The rare case of liver injury from beta-blockers is likely to be due to an idiosyncratic reaction.",
+    "raw_outcome_text": "Outcome and Management The severity of liver injury due to beta-blockers ranges from mild serum aminotransferase elevations to acute hepatitis with jaundice. In large case series of drug induced liver injury and acute liver failure due to medications, esmolol has not been listed as a potential cause. There is little information about cross reactivity among the beta-blockers to hepatic injury. Switching from a beta-blocker that has caused acute liver injury to another should be done with caution and active monitoring. References to the safety and potential hepatotoxicity of esmolol are provided in the overview on Beta-Adrenergic Receptor Antagonists, last updated in June 2019. Drug Class: Beta-Adrenergic Receptor Antagonists",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [],
+    "raw_drug_class": [
+      "Beta-Adrenergic Receptor Antagonists"
+    ],
+    "source_nxml_file": "Esmolol.nxml"
+  },
+  {
+    "id": 546,
+    "name_en": "Estazolam",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "E",
+    "grade_explanation_en": "Unlikely cause of clinically apparent liver injury",
+    "rucam_score_bonus": 0,
+    "source": "LiverTox (NIDDK, NIH): Estazolam.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Estazolam/",
+    "source_review_date": "2023-06-22",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity Estazolam, as with other benzodiazepines, is rarely associated with serum ALT elevations, and clinically apparent liver injury from estazolam is extremely rare, if it occurs at all. There have been no published case reports of symptomatic, acute liver injury from estazolam. Isolated cases of clinically apparent hepatitis have been reported with other benzodiazepines including alprazolam, chlordiazepoxide, clonazepam, diazepam, flurazepam, lorazepam, and triazolam. The clinical pattern of acute liver injury from benzodiazepines is typically cholestatic and mild-to-moderate in severity with a latency of 1 to 6 months and full recovery within 1 to 2 months. Fever and rash have not been described nor has autoantibody formation. Likelihood score: E (Unlikely cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury Estazolam is metabolized by the liver to inactive metabolites and excreted in the urine. Liver injury from benzodiazepines is probably due to the toxic effects of a rarely produced intermediate metabolite.",
+    "raw_outcome_text": "Outcome and Management The case reports of hepatic injury due to benzodiazepines were followed by prompt and complete recovery upon stopping the medication, without evidence of residual or chronic injury. No cases of acute liver failure or chronic liver injury due to estazolam have been described. There is no information about cross reactivity with other benzodiazepines, but some degree of cross sensitivity may occur. Drug Class: Sedatives and Hypnotics, Benzodiazepines",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [],
+    "raw_drug_class": [
+      "Sedatives and Hypnotics",
+      "Benzodiazepines"
+    ],
+    "source_nxml_file": "Estazolam.nxml"
+  },
+  {
+    "id": 547,
+    "name_en": "Eszopiclone",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "E",
+    "grade_explanation_en": "unlikely cause of clinically apparent liver injury",
+    "rucam_score_bonus": 0,
+    "source": "LiverTox (NIDDK, NIH): Eszopiclone.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Eszopiclone/",
+    "source_review_date": "2018-02-20",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity In multiple premarketing randomized controlled trials, eszopiclone was not associated with an increased rate of serum enzyme elevations in comparison to placebo therapy, and no instance of clinically apparent liver injury was reported. Since its approval and widescale use, eszopiclone has not been implicated in causing clinically apparent liver disease, although hepatitis and liver injury are listed as a rare adverse reactions in the product label. Eszopiclone is metabolized in the liver by the cytochrome P450 system (predominantly CYP 3A4 and 2E1). Nevertheless, drug-drug interactions appear to be uncommon. Thus, eszopiclone induced liver injury must be rare, if it occurs at all. Likelihood score: E (unlikely cause of clinically apparent liver injury). Drug Class: Sedatives and Hypnotics Other Drugs in the Subclass, Benzodiazepine Receptor Agonists: Zaleplon, Zolpidem",
+    "raw_mechanism_text": "",
+    "raw_outcome_text": "",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [],
+    "raw_drug_class": [
+      "Sedatives and Hypnotics",
+      "Zaleplon",
+      "Zolpidem"
+    ],
+    "source_nxml_file": "Eszopiclone.nxml"
+  },
+  {
+    "id": 548,
+    "name_en": "Ethambutol",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "C",
+    "grade_explanation_en": "probable cause of clinically apparent liver injury often in the context of DRESS syndrome",
+    "rucam_score_bonus": 1,
+    "source": "LiverTox (NIDDK, NIH): Ethambutol.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Ethambutol/",
+    "source_review_date": "2020-12-24",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity Because ethambutol is almost always used in combination with isoniazid, rifampin or other antituberculosis agents, the frequency of serum aminotransferase elevations attributable to ethambutol alone cannot be estimated with any confidence. The addition of ethambutol to isoniazid, rifampin or pyrazinamide does not appear to increase the rate of transient ALT elevations during therapy. In addition, ethambutol is a rare cause of acute, symptomatic liver injury. Despite 50 years of use, ethambutol has been linked to clinically apparent liver injury in only a few case reports. In the best described instance (Case 1), the onset of symptoms was 2 months after starting combination antituberculosis therapy and, in contrast to liver injury due to isoniazid or pyrazinamide, the pattern of serum enzymes was distinctly cholestatic. The recurrence of liver injury upon rechallenge with ethambutol but not isoniazid made the attribution convincing. Other case reports have described liver injury occurring in the context of DRESS syndrome, arising within 2 to 6 weeks of starting antituberculosis therapy with fever, rash, eosinophilia and other organ involvement such as liver, kidney and lung. Several published instances have described recurrence of injury after rechallenge with ethambutol. Likelihood score: C (probable cause of clinically apparent liver injury often in the context of DRESS syndrome).",
+    "raw_mechanism_text": "Mechanism of Injury The cause of liver injury due to ethambutol is not known, but is likely due to hypersensitivity.",
+    "raw_outcome_text": "Outcome and Management Ethambutol is one of the few antituberculosis medications that is generally safe in the setting of liver disease. In the unlikely event of clinically apparent liver injury or allergic reaction to ethambutol, rechallenge, if necessary, should be done with caution. There does not appear to be cross sensitivity to liver injury with other antituberculosis medications. [First line medications used in the therapy of tuberculosis in the US include ethambutol, isoniazid, pyrazinamide, rifabutin, rifampin, and rifapentine. Second line medications include streptomycin, capreomycin, cycloserine, ethionamide, bedaquiline, pretomanid, fluoroquinolones such as levofloxacin and moxifloxacin, aminoglycosides such as amikacin, and para-aminosalicylic acid (PAS).] Drug Class: Antituberculosis Agents Other Drugs in the Class: Bedaquiline, Capreomycin, Cycloserine, Ethionamide, Isoniazid, Pretomanid, Pyrazinamide, Rifabutin, Rifampin, Rifapentine, Streptomycin",
+    "raw_case_report_text": "CASE REPORT Case 1. Cholestatic hepatitis caused by ethambutol.(1) A 76 year old woman with pulmonary tuberculosis developed jaundice without abdominal pain or nausea two months after starting a course of isoniazid, streptomycin and ethambutol. She had no history of liver disease or excessive alcohol use. Liver tests were reported to be normal before starting therapy. Laboratory results showed a total serum bilirubin of 11.8 mg/dL with marked elevations in alkaline phosphatase [976 U/L] and gamma glutamyl transpeptidase [616 U/L] (Table). Tests for hepatitis A and B and for autoantibodies were negative. Ultrasound examination of the abdomen showed no evidence of biliary obstruction, and a liver biopsy showed intrahepatic cholestasis. On first presentation with jaundice, all medications were stopped and she began to improve. The initial diagnosis was isoniazid induced liver injury. Accordingly, therapy was reinstituted using ethambutol alone. Within 6 days, serum AST and alkaline phosphatase levels increased (Table). Ethambutol was stopped for 11 days and again restarted; however, serum alkaline phosphatase levels again rose, and ethambutol was permanently discontinued. After further improvements, isoniazid and streptomycin were restarted and subsequent treatment was well tolerated without recurrence of evidence of liver injury. Key Points Medication: Ethambutol (750 mg daily) Pattern: Cholestatic (R=0.9) Severity: 3+ (jaundice, hospitalization) Latency: 2 months Recovery: Interrupted by rechallenge, ultimately complete Other medications: Isoniazid, streptomycin Laboratory Values Time AfterStarting Time AfterStopping AST*(U/L) Alk P*(U/L) Bilirubin(mg/dL) Other 8 weeks 0 264 976 11.8 Therapy stopped 9 weeks 1 week 144 767 Ethambutol restarted for 6 days 10 weeks 0 356 1225 2 days 280 1050 4 days 300 1020 11 weeks 7 days 260 950 10 days 76 812 Ethambutol restarted for 4 days 12 weeks 0 228 1128 3 days 120 1020 6 days 110 1000 13 weeks 10 days 105 700 Normal Values <40 <130 <1.2 * Some values estimated from Figure 1. Comment The role of ethambutol was defined by the response to rechallenge on two occasions during recovery and the later tolerance of isoniazid without worsening of blood test results. Also suggestive was the cholestatic pattern which is rare with isoniazid as well as the lack of viral hepatitis-like symptoms of nausea, abdominal pain and fatigue. Cholestatic hepatitis is marked by slow improvements in liver tests. The laboratory results were said to have “…slowly returned to normal…” but were not provided.",
+    "raw_case_report_key_points": {
+      "Medication": "Ethambutol (750 mg daily)",
+      "Pattern": "Cholestatic (R=0.9)",
+      "Severity": "3+ (jaundice, hospitalization)",
+      "Latency": "2 months",
+      "Recovery": "Interrupted by rechallenge, ultimately complete",
+      "Other medications": "Isoniazid, streptomycin"
+    },
+    "raw_trade_names": [],
+    "raw_drug_class": [
+      "Antituberculosis Agents",
+      "Bedaquiline",
+      "Capreomycin",
+      "Cycloserine",
+      "Ethionamide",
+      "Isoniazid",
+      "Pretomanid",
+      "Pyrazinamide",
+      "Rifabutin",
+      "Rifampin",
+      "Rifapentine",
+      "Streptomycin"
+    ],
+    "source_nxml_file": "Ethambutol.nxml"
+  },
+  {
+    "id": 549,
+    "name_en": "Ethosuximide",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "E*",
+    "grade_explanation_en": "suspected but unproven cause of clinically apparent liver injury",
+    "rucam_score_bonus": 0,
+    "source": "LiverTox (NIDDK, NIH): Ethosuximide.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Ethosuximide/",
+    "source_review_date": "2018-02-19",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity Prospective studies suggest that chronic ethosuximide therapy is not accompanied by significant elevations in serum aminotransferase levels, but can increase gamma glutamyltranspeptidase levels. Clinically apparent hepatotoxicity from ethosuximide is very rare with few case reports published despite use of this agent for half a century. Futhermore, the liver injury in reported cases was usually mild and asymptomatic and a part of a generalized hypersensitivity syndrome with fever, rash, facial edema, lymphadenopathy, and eosinophilia or atypical lymphocytosis. The usual latency to onset of the hypersensitivity syndrome is 2 to 8 weeks. The typical serum enzyme elevations are a mixed-cholestatic-hepatocellular pattern and reported cases have not been jaundiced. While the product labeling for ethosuximide warns of hepatic dysfunction and recommends periodic monitoring of liver tests, clinically apparent liver injury with jaundice from ethosuximide is rare. Likelihood score: E* (suspected but unproven cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury Ethosuximide is metabolized to inactive intermediates in the liver via the cytochrome P450 system (CYP 3A4). The mechanism of ethosuximide hepatotoxicity is unknown but is likely to be hypersensitivity to an metabolic intermediate.",
+    "raw_outcome_text": "Outcome and Management Reported instances of liver injury from ethosuximide have consisted of transient, asymptomatic serum enzyme elevations or mild liver injury accompanying skin rash and systemic hypersensivity reactions. Ethosuximide has not been linked to cases of chronic hepatitis, vanishing bile duct syndrome or acute liver failure. The liver injury resolves rapidly with discontinuation of ethosuximide and typically recurs rapidly with reexposure, which should be avoided. There does not appear to be cross reactivity to hypersensitivity reactions or liver injury between ethosuximide and other antiseizure medications including the aromatic anticonvulsants, but caution and careful monitoring should be used in switching to another anticonvulsant after a hypersensitivity reaction to ethosuximide. Drug Class: Anticonvulsants",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Ethosuximide - Zarontin®"
+    ],
+    "raw_drug_class": [
+      "Anticonvulsants"
+    ],
+    "source_nxml_file": "Ethosuximide.nxml"
+  },
+  {
+    "id": 550,
+    "name_en": "Etodolac",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "C",
+    "grade_explanation_en": "probable rare cause clinically apparent liver injury",
+    "rucam_score_bonus": 1,
+    "source": "LiverTox (NIDDK, NIH): Etodolac.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Etodolac/",
+    "source_review_date": "2025-07-20",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity Prospective studies show that 1% to 2% of patients taking etodolac experience at least transient serum aminotransferase elevations. These may resolve even with drug continuation. Marked aminotransferase elevations (greater than 3 fold elevated) occur in less than 1% of patients. Clinically apparent liver injury with jaundice from etodolac is rare but several convincing cases have been published. The latency to onset ranged a few days to several months and the pattern of enzyme elevations has been described as cholestatic, hepatocellular, and mixed. Perhaps the most typical presentation is with jaundice 3 to 6 months after starting etodolac with a mixed or hepatocellular pattern of injury, and fairly rapid recovery on stopping. Immunoallergic and autoimmune features are uncommon. These features are also typical of the hepatotoxicity of diclofenac which like etodolac is an acetic acid derivative. Several cases of fatal acute liver failure in patients taking etodolac have been described, some of which demonstrate a pattern of hyperacute hepatic necrosis resembling acetaminophen overdose or acute hepatic ischemia. Interestingly, etodolac causes a false positive reaction on dipstick testing for bilirubin in urine. Likelihood score: C (probable rare cause clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury The mechanism of etodolac hepatotoxicity is not known, but likely to be due to an idiosyncratic reaction to an intermediate of its metabolism. Etodolac is extensively metabolized by the liver.",
+    "raw_outcome_text": "Outcome and Management Severity ranges from asymptomatic elevations in serum aminotransferase levels, to symptomatic hepatitis with or without jaundice. Fatal cases have been described. Patients with etodolac induced clinically apparent liver injury should avoid other acetic acid derivatives such as sulindac, diclofenac, ketorolac, tolmetin and indomethacin. Drug Class: Nonsteroidal Antiinflammatory Drugs",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [],
+    "raw_drug_class": [
+      "Nonsteroidal Antiinflammatory Drugs"
+    ],
+    "source_nxml_file": "Etodolac.nxml"
+  },
+  {
+    "id": 551,
+    "name_en": "Etoposide",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "-",
+    "grade_explanation_en": "-",
+    "rucam_score_bonus": "-",
+    "source": "LiverTox (NIDDK, NIH): EtoposideTeniposide.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/EtoposideTeniposide/",
+    "source_review_date": "2018-02-25",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity Chemotherapy with etoposide or teniposide in combination with other agents is associated with serum enzyme elevations in 5% to more than 50% of patients, depending upon the dose and other agents used. The ALT elevations are usually asymptomatic and transient and may resolve without dose modification. In many instances, it is difficult to attribute the liver test abnormalities to etoposide or teniposide because of the exposure to other potentially hepatotoxic agents. Rare instances of clinically apparent liver injury have been reported in patients receiving etoposide, but the time to onset and pattern of injury has varied greatly. Onset can be as short as 1 to as long as 5 months after initiation of therapy. Some published cases of liver injury after regimens of chemotherapy that have included etoposide appear to represent sinusoidal obstruction syndrome. These cases have usually followed etoposide therapy in combination with an alkylating agent or total body irradiation. In addition, etoposide has been linked to cases of acute hepatitis arising after 1 to 5 months of treatment, which have generally been self-limiting, but occasionally severe. The role of etoposide in causing injury was not always clear. The pattern of serum enzyme elevation in reported cases has been hepatocellular. Immunoallergic features (rash, fever, eosinophilia) and autoantibodies were absent. The liver histology of etoposide hepatotoxicity has not been well characterized. The hepatotoxicity of teniposide has been less well defined than that of etoposide, probably because it has had limited use. Likelihood score, etoposide: C (probable cause of clinically apparent liver injury). Likelihood score, teniposide: E* (unproven but suspected cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury Etoposide is metabolized by the microsomal P450 drug metabolizing enzymes and inhibits the function of CYP 3A and 2D6, and injury may be the result of its activation to a toxic intermediate. Rapid recurrence with rechallenge is typical, but features of hypersensitivity are uncommon. In high doses, etoposide and teniposide may have direct hepatotoxic effects.",
+    "raw_outcome_text": "",
+    "raw_case_report_text": "CASE REPORT Case 1. Acute hepatitis attributed to etoposide therapy. [Modified from Case 1 in: Tran A, Housset C, Boboc B, Tourani JM, Carnot F, Berthelot P. Etoposide (VP 16-213) induced hepatitis. Report of three cases following standard-dose treatments. J Hepatol 1991; 12: 36-9. PubMed Citation] A 52 old year man with metastatic small cell lung cancer developed jaundice at the start of a third course of chemotherapy. His liver tests were known to have been normal when he was initially diagnosed with lung cancer with cerebral metastases. He was started on combination chemotherapy with vindesin (a vinca alkaloid), cis-platinum, cyclophosphamide, adriamycin, methylprednisolone and etoposide (308 mg/m2). His liver tests were still normal two weeks later, but were mildly abnormal when he started a second course (Table). A third course was started one month later, but he was found to be jaundiced the following day, blood tests showing a total bilirubin of 12.5 mg/dL, ALT 2270 U/L, AST 1680 U/L and alkaline phosphatase 181 U/L. He drank alcohol but not to excess and had no previous history of liver disease. During the first two courses of chemotherapy, he had received 4 units of red blood cells. Serological testing showed the presence of anti-HBc without HBsAg or IgM anti-HBc and absence of IgM anti-HAV, anti-CMV and anti-EBV. Tests for hepatitis C were not available (before 1991). A liver biopsy showed acute hepatitis with numerous eosinophils and areas of focal necrosis. Chemotherapy was discontinued. Jaundice resolved spontaneously and all liver tests returned to normal during the following 10 weeks. A fourth course of chemotherapy was given without etoposide. His serum aminotransferase levels remained normal. Key Points Medication: Etoposide Pattern: Hepatocellular (R=28.3) Severity: 3+ (jaundice and hospitalization) Latency: 3 months Recovery: 10 weeks Other medications: Vindesin, cis-platinum, cyclophosphamide, adriamycin, methylprednisolone Laboratory Values Time After Starting Time After Stopping ALT (U/L) Alk P (U/L) Bilirubin (mg/dL) Other Pre Pre Normal Normal Normal 2 weeks Pre 49 48 0.8 At end of 1st course 1 month Pre 155 126 Before 2nd course 2 months 0 2270 181 13.0 4 months 10 weeks Normal Normal Normal Normal Values <40 <90 <1.2 Comment This was one of three cases of acute hepatitis attributed to etoposide therapy. All three had a similar signature of an acute hepatitis arising after 2 to 5 months of cyclic chemotherapy, including use of intravenous, standard dose etoposide. The difficulty is that other diagnoses were possible for each of the three cases. Thus, the hepatitis C virus was first described in 1989 and serological tests were not available until 1991, well after these three patients had acute hepatitis. Furthermore, molecular tests for hepatitis B were not particularly sensitive (polymerase chain reaction tests were not available until the mid-1990s). Thus, the cases may have represented acute hepatitis C or reactivation of chronic hepatitis B, both of which this patient may have had (blood transfusions, preexisting anti-HBc reactivity). Other cases of an acute hepatitis-like syndrome have not been reported with etoposide, the majority of examples of hepatotoxicity being serum enzyme or bilirubin elevations or sinusoidal obstruction syndrome.",
+    "raw_case_report_key_points": {
+      "Medication": "Etoposide",
+      "Pattern": "Hepatocellular (R=28.3)",
+      "Severity": "3+ (jaundice and hospitalization)",
+      "Latency": "3 months",
+      "Recovery": "10 weeks",
+      "Other medications": "Vindesin, cis-platinum, cyclophosphamide, adriamycin, methylprednisolone"
+    },
+    "raw_trade_names": [],
+    "raw_drug_class": [
+      "Antineoplastic Agents",
+      "Topoisomerase Inhibitors",
+      "Irinotecan",
+      "Topotecan"
+    ],
+    "source_nxml_file": "EtoposideTeniposide.nxml"
+  },
+  {
+    "id": 552,
+    "name_en": "Etravirine",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "D",
+    "grade_explanation_en": "possible cause of clinically apparent liver injury",
+    "rucam_score_bonus": 1,
+    "source": "LiverTox (NIDDK, NIH): Etravirine.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Etravirine/",
+    "source_review_date": "2018-02-20",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity Serum aminotransferase elevations occur in a high proportion of patients on etravirine therapy, but increases above 5 times the upper limit of normal occur in only 2% to 3% of patients; this rate may be higher in patients who have hepatitis C coinfection. In most studies, the rate of liver enzyme elevations was no different in etravirine treated than among in comparator arms. In large clinical trials as well as open access studies, there were no reported instances of clinically apparent liver injury attributed to etravirine. Skin rashes occur in 10% to 20% of patients on etravirine usually during the first 2 to 6 weeks of therapy, and this rate is higher than with other antiretroviral regimens or comparator arms and is the major reason for discontinuation of etravirine because of adverse events. The skin rash during etravirine therapy can be accompanied by other signs of hypersensitivity including Stevens Johnson Syndrome and immunoallergic hepatitis. Clinically apparent hepatotoxicity is rare, but cases of hepatitis accompanying rash and signs of hypersensitivity have been reported to the sponsor, some of which have resulted in fatalities. The clinical features of these cases have not been described in detail. Most cases of hypersensitivity hepatitis due to nonnucleoside reverse transcriptase inhibitors arise during the first 6 weeks of therapy and are accompanied by immunoallergic manifestations such as rash, fever, lymphadenopathy and eosinophilia. Recovery is usually prompt after discontinuation, but progressive fatal instances of liver injury can occur. Likelihood score: D (possible cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury Etravirine is extensively metabolized in the liver via the P450 system (CYP 2C19, 3A4, and 2C9) and hepatotoxicity from etravirine is likely due to a hypersensitivity reaction to an immunogenic intermediate of its metabolism.",
+    "raw_outcome_text": "Outcome and Management The severity of the liver injury reported with etravirine has ranged from mild and transient enzyme elevations to clinically apparent liver injury and acute liver failure. Chronic hepatitis and vanishing bile duct syndrome have not been reported. If hypersensitivity hepatic injury does occur, rechallenge should be avoided. However, there is unlikely to be cross sensitivity to the hepatic injury between etravirine and other nonnucleoside reverse transcriptase inhibitors. Drug Class: Antiviral Agents, Antiretroviral Agents Other Drugs in the Subclass, Nonnucleoside Reverse Transcriptase Inhibitors: Delavirdine, Doravirine, Efavirenz, Nevirapine, Rilpivirine",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Etravirine - Intelence®"
+    ],
+    "raw_drug_class": [
+      "Antiviral Agents",
+      "Delavirdine",
+      "Doravirine",
+      "Efavirenz",
+      "Nevirapine",
+      "Rilpivirine"
+    ],
+    "source_nxml_file": "Etravirine.nxml"
+  }
+]

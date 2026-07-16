@@ -1,0 +1,386 @@
+[
+  {
+    "id": 613,
+    "name_en": "Lubiprostone",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "E",
+    "grade_explanation_en": "unlikely cause of clinically apparent liver injury",
+    "rucam_score_bonus": 0,
+    "source": "LiverTox (NIDDK, NIH): Lubiprostone.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Lubiprostone/",
+    "source_review_date": "2019-04-25",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity In clinical trials, lubiprostone therapy was not associated with significant changes in serum enzyme levels or episodes of clinically apparent liver injury. Since its approval and marketing, isolated case reports of serum aminotransferase elevations have been reported to the sponsor, but there have been no published reports of clinically apparent liver injury attributable to lubiprostone. Thus, liver injury from lubiprostone must be extremely rare, if it occurs at all. Likelihood score: E (unlikely cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury Lubiprostone is largely active on the epithelial cells in the intestinal tract and has minimal absorption. The lack of systemic absorption of lubiprostone and the low daily doses used (in micrograms rather than milligrams) probably account for its lack of causing liver injury. Drug Class: Gastrointestinal Agents, Drugs for Constipation, Irritable Bowel Syndrome Agents",
+    "raw_outcome_text": "",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Lubiprostone - Amitiza®"
+    ],
+    "raw_drug_class": [
+      "Gastrointestinal Agents"
+    ],
+    "source_nxml_file": "Lubiprostone.nxml"
+  },
+  {
+    "id": 614,
+    "name_en": "Lurasidone",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "E",
+    "grade_explanation_en": "unlikely cause of clinically apparent liver injury",
+    "rucam_score_bonus": 0,
+    "source": "LiverTox (NIDDK, NIH): Lurasidone.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Lurasidone/",
+    "source_review_date": "2023-06-10",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity Liver test abnormalities occur in 1% to 3% of patients on long term therapy with lurasidone, but similar rates have been reported with placebo therapy and with comparator agents. The ALT elevations are usually mild, transient and often resolve even without dose modification or drug discontinuation. There have been no published reports of clinically apparent liver injury with symptoms or jaundice attributed to lurasidone therapy. Likelihood score: E (unlikely cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury The mechanism by which lurasidone might cause serum ALT elevations or liver injury is not known. Lurasidone is extensively metabolized by the cytochrome P450 system (CYP 3A4) to its active metabolite and is susceptible to drug-drug interactions with agents that inhibit or induce CYP 3A4.",
+    "raw_outcome_text": "Outcome and Management The serum aminotransferase elevations that occur on lurasidone therapy are usually self-limited and often do not require dose modification or discontinuation. No instances of acute liver failure, chronic hepatitis or vanishing bile duct syndrome have been attributed to lurasidone. Cross sensitivity to liver related or other hypersensitivity reactions between lurasidone and structurally related antipsychotic agents (such as iloperidone, paliperidone, risperidone and ziprasidone) have not been demonstrated, but may well occur. Drug Class: Antipsychotic Agents, Atypicals",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [],
+    "raw_drug_class": [
+      "Antipsychotic Agents"
+    ],
+    "source_nxml_file": "Lurasidone.nxml"
+  },
+  {
+    "id": 615,
+    "name_en": "Macitentan",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "E*",
+    "grade_explanation_en": "unlikely but suspected cause of clinically apparent liver injury",
+    "rucam_score_bonus": 0,
+    "source": "LiverTox (NIDDK, NIH): Macitentan.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Macitentan/",
+    "source_review_date": "2017-09-30",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity Macitentan is associated with a low rate of serum aminotransferase elevations (0% to 4%) that, in clinical trials, was similar to the rate among placebo recipients. These elevations were usually mild, transient and not associated with symptoms, but were above 8 times the ULN in 2% of subjects (vs 0.4% of controls) in at least one long term study. For these reasons, the product label recommends that patients have serum enzymes tested before starting therapy and be alerted to the possibility and symptoms of liver injury during therapy. While there have been no published reports of clinically apparent liver injury with jaundice associated with macitentan, it has had limited general use. Other endothelin receptor antagonists (bosentan, sitaxentan) have been linked to several instances of acute liver injury, some of which have been severe. The onset of illness was usually within 1 to 6 months of starting bosentan and the enzyme pattern was typically hepatocellular or mixed. Immunoallergic features were not present and autoantibodies absent or present in low titer. Macitentan and ambrisentan have not been linked to similar cases. Likelihood score: E* (unlikely but suspected cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury The mechanism by which macitentan might cause liver injury is not known. Macitentan is metabolized by the cytochrome P450 system (CYP 2C9 and 3A4), which may lead to production of a toxic intermediate and can also cause drug-drug interactions, particularly with strong inducers or inhibitors of CYP 3A4. One possible reason for why macitentan is associated with a relatively low rate of ALT elevations and hepatotoxicity is its higher potency and lower daily dose (10 mg) in comparison to bosentan (125 to 250 mg).",
+    "raw_outcome_text": "Outcome and Management The serum enzyme elevations associated with macitentan use have been mild-to-moderate and self-limited in course, often resolving despite drug continuation. There is no information on cross sensitivity to hepatic injury among the various endothelin receptor antagonists. Drug Class: Pulmonary Arterial Hypertension Agents Other Drugs in the Class: Endothelin Receptor Antagonists: Ambrisentan, Bosentan",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Macitentan - Opsumit®"
+    ],
+    "raw_drug_class": [
+      "Pulmonary Arterial Hypertension Agents",
+      "Endothelin Receptor Antagonists",
+      "Bosentan"
+    ],
+    "source_nxml_file": "Macitentan.nxml"
+  },
+  {
+    "id": 616,
+    "name_en": "Mavyret",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "C",
+    "grade_explanation_en": "rare cause of clinically apparent liver injury due to transient hepatic decompensation or reactivation of hepatitis B",
+    "rucam_score_bonus": 1,
+    "source": "LiverTox (NIDDK, NIH): Mavyret.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Mavyret/",
+    "source_review_date": "2022-02-07",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity In large randomized controlled trials, serum aminotransferase levels decreased rapidly during Mavyret therapy and there were only rare instances of late, de novo elevations in ALT or AST that were usually mild-to-moderate in degree and rising to more than 5 times ULN in less than 1% of treated subjects. In addition, Mavyret has been linked to only rare instances of hepatic decompensation during treatment of patients with preexisting cirrhosis (<1%) and possibly with instances of reactivation of hepatitis B, two rare but potentially serious complications that have been linked to other oral regimens to treat chronic hepatitis C. Episodes of decompensation typically arise after 2 to 6 weeks of treatment and are marked by symptoms of fatigue, pruritus and jaundice with marked elevations in serum bilirubin, but minimal increase in serum aminotransferase and alkaline phosphatase levels. Mavyret is not approved for use in patients with advanced cirrhosis (Child Class B or C). The product label for Mavyret has a boxed warning for reactivation of hepatitis B, and screening for HBsAg and anti-HBc is recommended before starting therapy, with careful monitoring during treatment if these markers are present. Likelihood score: C (rare cause of clinically apparent liver injury due to transient hepatic decompensation or reactivation of hepatitis B).",
+    "raw_mechanism_text": "Mechanism of Injury The mechanism by which glecaprevir and pibrentasvir might cause liver injury is not known. Both are metabolized in the liver largely via the cytochrome P450 system, predominantly CYP 1A2, and liver injury may be due to production of a toxic or immunogenic metabolite. Mavyret is also susceptible to drug-drug interactions with strong inducers or inhibitors of CYP 3A4.",
+    "raw_outcome_text": "Outcome and Management While 8 to 16 weeks of therapy with Mavyret can be associated with transient mild-to-moderate serum aminotransferase elevations, it has not been convincingly linked to cases of clinically apparent idiosyncratic liver injury. Nevertheless, Mavyret is labelled as having the potential of causing decompensation of preexisting cirrhosis and reactivation of hepatitis B in susceptible patients. Assessment of patients for cirrhosis and screening for HBsAg and anti-HBc is recommended before treatment with Mavyret. Patients with markers of ongoing (HBsAg) or previous (anti-HBc) hepatitis B virus infection should be monitored for HBV DNA levels before and at 4 week intervals during therapy. Initiation of oral antiviral therapy for hepatitis B is warranted if levels of HBV DNA rise significantly. In addition, Mavyret should be permanently discontinued if jaundice or symptoms of liver injury arise, or if serum ALT or AST levels are persistently above 5 times the ULN. Drug Class: Antiviral Agents, Hepatitis C Agents",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Glecaprevir, Pibrentasvir - Mavyret®"
+    ],
+    "raw_drug_class": [
+      "Antiviral Agents",
+      "Hepatitis C Agents"
+    ],
+    "source_nxml_file": "Mavyret.nxml"
+  },
+  {
+    "id": 617,
+    "name_en": "Meclizine",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "E",
+    "grade_explanation_en": "unlikely to be a cause of clinically apparent liver injury",
+    "rucam_score_bonus": 0,
+    "source": "LiverTox (NIDDK, NIH): Meclizine.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Meclizine/",
+    "source_review_date": "2017-01-16",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity Despite widespread use, meclizine has not been linked to liver test abnormalities or to clinically apparent liver injury. The reason for its safety may relate to low daily dose and limited duration of use. Likelihood score: E (unlikely to be a cause of clinically apparent liver injury). References on the safety and potential hepatotoxicity of antihistamines are given together after the Overview section on Antihistamines. Drug Class: Antihistamines",
+    "raw_mechanism_text": "",
+    "raw_outcome_text": "",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [],
+    "raw_drug_class": [
+      "Antihistamines"
+    ],
+    "source_nxml_file": "Meclizine.nxml"
+  },
+  {
+    "id": 618,
+    "name_en": "Mefenamic Acid",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "D",
+    "grade_explanation_en": "possible rare cause of clinically apparent liver injury",
+    "rucam_score_bonus": 1,
+    "source": "LiverTox (NIDDK, NIH): MefenamicAcid.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/MefenamicAcid/",
+    "source_review_date": "2025-08-10",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity In prospective studies less than 5% of patients taking mefenamic acid experienced transient serum aminotransferase elevations. The abnormalities usually resolved even while continuing the drug and without dose modification. Marked aminotransferase elevations (>3 fold elevated) occurred in <1% of patients. There have been isolated, rare cases of mefenamic acid induced liver injury published, but mefenamic acid is not mentioned as an etiologic agent in large case series on drug induced liver injury or acute liver failure. In some published cases, the liver injury arose as a part of a severe hypersensitivity reaction to mefenamic acid, such as Stevens Johnson syndrome or anaphylaxis. The latency to onset was short (less than one month and often within a few days) and the pattern injury variable from cholestatic to hepatocellular. The paucity of cases makes it difficult to characterize a typical clinical pattern of injury. Only a few rare instances of clinically apparent liver injury due to mefenamic acid have been reported. Likelihood score: D (possible rare cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury The mechanism of mefenamic acid hepatotoxicity is not known, but is likely to be idiosyncratic hypersensitivity. The absence of reports of liver injury from mefenamic acid may be due, in part, to the infrequency of its use and limited duration of treatment (for seven days or less).",
+    "raw_outcome_text": "Outcome and Management The asymptomatic elevations in serum aminotransferase levels during mefenamic acid therapy are usually self-limited and resolve even with continuing mefenamic acid. Severe cases of mefenamic acid hepatotoxicity, but not fatal cases or cases leading to chronic liver injury, have been described. Cross reactivity to hepatic injury among various classes of NSAIDs has not been well characterized; however, after clinically apparent injury attributable to mefenamic acid, it would be prudent to avoid other anthranilic acid derivatives (fenamates generally not available in the United States, such as tolfenamic acid and flufenamic acid), and patients who are switched to other NSAIDs should be monitored carefully. Drug Class: Nonsteroidal Antiinflammatory Drugs",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Mefenamic Acid - Ponstel®"
+    ],
+    "raw_drug_class": [
+      "Nonsteroidal Antiinflammatory Drugs"
+    ],
+    "source_nxml_file": "MefenamicAcid.nxml"
+  },
+  {
+    "id": 619,
+    "name_en": "Mefloquine",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "D",
+    "grade_explanation_en": "possible rare cause of clinically apparent liver injury",
+    "rucam_score_bonus": 1,
+    "source": "LiverTox (NIDDK, NIH): Mefloquine.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Mefloquine/",
+    "source_review_date": "2017-02-07",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity Chronic therapy with mefloquine is associated with asymptomatic, transient serum enzyme elevations in up to 18% of patients. These elevations are usually mild and resolve without dose modifications. Despite widespread use, mefloquine has rarely been linked to clinically apparent acute liver injury and too few reports are available to characterize the clinical features of such injury. Instances of acute hepatocellular injury as well as cholestatic hepatitis have been linked to use of mefloquine. Allergic manifestations (rash, fever, eosinophilia) and autoantibody formation are rare. Likelihood score: D (possible rare cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury The cause of the hepatic injury from mefloquine is unknown, but may relate to a metabolic intermediate with direct toxicity or ability to induce an immune mediated hepatotoxicity. Mefloquine undergoes extensive hepatic metabolism to an inactive metabolite that is excreted in the urine.",
+    "raw_outcome_text": "Outcome and Management There does not seem to be cross reactivity to hepatic injury among the various antimalarial agents and switching to other drug can be done. Drug Class: Antimalarial Agents",
+    "raw_case_report_text": "CASE REPORT Case 1. Acute hepatitis due to mefloquine prophylaxis of malaria. [Modified from: Bruguera M, Herrera S. [Acute hepatitis associated with mefloquine therapy]. Gastroenterol Hepatol 2007; 30: 102-3. Spanish. PubMed Citation] A 35 year old woman working in health care in Liberia developed nausea, poor appetite and pruritus 2 months after starting malarial prophylaxis with mefloquine (250 mg weekly). She had no history of liver disease, alcohol abuse or risk factors for viral hepatitis. She denied fever. On examination, she was jaundiced and had a desquamating erythematous rash over the hands and palms. She had stopped the mefloquine when she first began to feel ill. Laboratory testing showed marked elevations in serum aminotransferase and alkaline phosphatase levels (Table) with a total serum bilirubin of 7.1 mg/dL. The prothombin time was normal. Tests for hepatitis A, B and C were negative. Ultrasound of the abdomen showed no evidence of biliary obstruction. Over the next few days she began to improve. In follow up 5 weeks later, serum liver tests had returned to near normal levels. Key Points Medication: Mefloquine (250 mg once weekly) Pattern: Hepatocellular (R=10.8) Severity: 3+ (jaundice, hospitalization) Latency: 2 months Recovery: 6 weeks Other medications: None Laboratory Values Time After Starting Time After Stopping ALT (U/L) Alk P (U/L) Bilirubin (mg/dL) Other 8 weeks 7 days 2411 614 7.1 Rash 8 days 2369 452 8.2 14 weeks 6 weeks 66 168 1.2 Normal Values <42 <115 <1.2 Comment Despite the frequency of serum aminotransferase elevations during mefloquine therapy, there have been few reports of clinically apparent liver disease with jaundice. The current report described a self limited acute hepatitis-like syndrome arising 2 months after starting a prophylactic regimen of mefloquine. Although the height of the serum aminotransferase levels were indicative of a hepatocellular pattern of injury, the high alkaline phosphatase levels and early presentation with pruritus suggests that the hepatic injury was at least partially cholestatic. This “mixed” pattern is typical of drug induced liver injury.",
+    "raw_case_report_key_points": {
+      "Medication": "Mefloquine (250 mg once weekly)",
+      "Pattern": "Hepatocellular (R=10.8)",
+      "Severity": "3+ (jaundice, hospitalization)",
+      "Latency": "2 months",
+      "Recovery": "6 weeks",
+      "Other medications": "None"
+    },
+    "raw_trade_names": [],
+    "raw_drug_class": [
+      "Antimalarial Agents"
+    ],
+    "source_nxml_file": "Mefloquine.nxml"
+  },
+  {
+    "id": 620,
+    "name_en": "Meloxicam",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "B",
+    "grade_explanation_en": "likely rare cause of clinical apparent liver injury",
+    "rucam_score_bonus": 2,
+    "source": "LiverTox (NIDDK, NIH): Meloxicam.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Meloxicam/",
+    "source_review_date": "2025-07-30",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity In prospective studies, up to 7% of patients taking meloxicam experienced at least transient serum aminotransferase elevations. These were usually mild and resolved even while continuing the drug and without dose modification. Aminotransferase elevations above 3 times the upper limit of normal (ULN) occurred in 1% of patients. Clinically apparent liver injury with jaundice from meloxicam is rare and only individual case reports have been published. The latency to onset in reported cases was short (1 to 5 weeks) and both cholestatic and hepatocellular patterns of enzyme elevations were described. Immunoallergic features were usually not prominent and autoantibodies were rare, although a single case report of autoimmune hepatitis apparently triggered by meloxicam therapy has been published. Recovery is typically rapid once meloxicam is stopped. Meloxicam is rarely mentioned as an etiologic agent in large case series on drug induced liver injury and acute liver failure. While at least a dozen cases of meloxicam induced liver injury have been published, it is a commonly prescribed NSAID, and the incidence of hepatotoxicity with its use is probably less than 1 in 50,000 persons. Likelihood score: B (likely rare cause of clinical apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury The mechanism of meloxicam hepatotoxicity is not known. It is metabolized in the liver, largely by CYP 2C9 and to a lesser extent by CYP 3A4, and liver injury may be due to production of a toxic or immunogenic metabolite.",
+    "raw_outcome_text": "Outcome and Management The severity of liver injury from meloxicam ranges from asymptomatic elevations in serum aminotransferase levels, to symptomatic hepatitis with or without jaundice. Fatal and chronic cases have not been described. Although cross sensitivity has not been shown, patients with clinically apparent meloxicam induced liver injury should probably avoid other oxicam NSAIDs such as piroxicam. Drug Class: Nonsteroidal Antiinflammatory Drugs, see also Piroxicam",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [],
+    "raw_drug_class": [
+      "Nonsteroidal Antiinflammatory Drugs",
+      "Piroxicam"
+    ],
+    "source_nxml_file": "Meloxicam.nxml"
+  },
+  {
+    "id": 621,
+    "name_en": "Memantine",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "D",
+    "grade_explanation_en": "possible rare cause of clinically apparent liver injury",
+    "rucam_score_bonus": 1,
+    "source": "LiverTox (NIDDK, NIH): Memantine.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Memantine/",
+    "source_review_date": "2020-01-28",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity In large placebo controlled trials, the rate of serum enzyme elevations during memantine therapy was similar to that in patients on placebo and no instances of clinically apparent liver injury were reported. Nevertheless, since its introduction into clinical use, memantine has been implicated in at least one report of clinically apparent hepatotoxicity. The time to onset was 3 weeks and the clinical syndrome was that of an acute cholestatic hepatitis which was mild-to-moderate in severity and rapidly reversible upon drug discontinuation (Case 1). Immunoallergic and autoimmune features were not present. Likelihood score: D (possible rare cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury Memantine is minimally metabolized by the liver and excreted mainly in the urine. The mechanism by which it might cause hepatotoxicity is not known.",
+    "raw_outcome_text": "Outcome and Management Cases of hepatotoxicity from memantine have been too few to characterize clinically. There have been no published reports of acute liver failure, chronic hepatitis or vanishing bile duct syndrome attributed to memantine. There is no information on the possible cross sensitivity to liver injury of memantine with the acetylcholinesterase inhibitors or other NMDA antagonists such as amantadine. References regarding the safety and potential hepatotoxicity of the drugs used for Alzheimer disease are provided together after the Overview section of Alzheimer Disease Agents. Drug Class: Alzheimer Disease Agents",
+    "raw_case_report_text": "CASE REPORT Case 1. Cholestatic hepatitis due to memantine.(1) A 92 year old woman with dementia developed pruritus, dark urine and jaundice 16 days after starting memantine (5 mg daily for 8 days followed by 10 mg daily). She had no history of liver disease, risk factors for viral hepatitis or alcohol use. Her other medications included digoxin, lisinopril, tiapride, alprazolam and promazine which she had taken chronically. She had no history of drug allergies. She had no fever or rash. Liver tests showed serum bilirubin of 4.3 mg/dL (2.5 mg/dL direct), ALT 132 U/L, AST 74 U/L, alkaline phosphatase 912 U/L and GGT 155 U/L. Serum immunoglobulins were normal and AMA was negative as were tests for hepatitis A, B and C. Ultrasound of the abdomen showed no evidence of biliary obstruction. Memantine was discontinued and laboratory results began to improve (Table). Her other medications were continued. All liver tests were normal 20 days after stopping memantine. Key Points Medication: Memantine (10 mg daily) Pattern: Cholestatic (R=0.3) Severity: 2+ (jaundice, no mention of hospitalization) Latency: 16 days Recovery: Within 20 days Other medications: Digoxin, lisinopril, tiapride, alprazolam and promazine Laboratory Values TimeAfter Starting TimeAfter Stopping ALT(U/L) Alk P(U/L) Bilirubin(mg/dL) Other 0 Memantine started (5 mg/d for 8 days, then 10 mg/d) 16 days 1 day 132 912 4.3 Memantine stopped 20 days 5 days 71 1013 1.8 Normal ultrasound 35 days 20 days 50 110 1.7 Normal Values <56 <126 <1.2 Comment An elderly woman developed a mild cholestatic hepatitis within 2 to 3 weeks of starting memantine and recovered promptly with its discontinuation. The major differential diagnosis is biliary obstruction from gallstones or malignancy which was effectively excluded on the basis of the normal ultrasound, absence of fever and abdominal pain and full recovery on stopping the implicated medication. Memantine is generally well tolerated and liver injury from its use is very rare.",
+    "raw_case_report_key_points": {
+      "Medication": "Memantine (10 mg daily)",
+      "Pattern": "Cholestatic (R=0.3)",
+      "Severity": "2+ (jaundice, no mention of hospitalization)",
+      "Latency": "16 days",
+      "Recovery": "Within 20 days",
+      "Other medications": "Digoxin, lisinopril, tiapride, alprazolam and promazine"
+    },
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Memantine - Namenda®"
+    ],
+    "raw_drug_class": [
+      "Alzheimer Disease Agents"
+    ],
+    "source_nxml_file": "Memantine.nxml"
+  },
+  {
+    "id": 622,
+    "name_en": "Meperidine",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "-",
+    "grade_explanation_en": "-",
+    "rucam_score_bonus": "-",
+    "source": "LiverTox (NIDDK, NIH): Meperidine.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Meperidine/",
+    "source_review_date": "2019-04-25",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity Therapy with meperidine has not been linked to serum enzyme elevations. There have been no convincing cases of idiosyncratic acute, clinically apparent liver injury attributed to meperidine. References on the safety and potential hepatotoxicity of meperidine are given in the Overview section of the Opioids. Drug Class: Opioids",
+    "raw_mechanism_text": "",
+    "raw_outcome_text": "",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [],
+    "raw_drug_class": [
+      "Opioids"
+    ],
+    "source_nxml_file": "Meperidine.nxml"
+  },
+  {
+    "id": 623,
+    "name_en": "Metamizole [Dipyrone]",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "A",
+    "grade_explanation_en": "well described although rare cause of clinically apparent liver injury",
+    "rucam_score_bonus": 2,
+    "source": "LiverTox (NIDDK, NIH): Metamizole.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Metamizole/",
+    "source_review_date": "2025-08-10",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity Cases of liver injury from metamizole were rarely reported before 2019 when two case series of liver injury from its use including fatalities were reported from Germany. Reassessments were conducted by the European Medicines Agency based upon accumulation of more than 40 cases. Within a year or two, reviews of more than 50 cases of clinically apparent liver injury due to metamizole were described. The clinical features of metamizole-associated liver injury have varied greatly, some being hyper-acute with rapid onset of fever, rash, and jaundice after the initial or first several doses. These cases may represent hypersensitivity reactions such as hepatic involvement in DRESS syndrome, toxic epidermal necrolysis, or Stevens-Johnson syndrome. In other instances, metamizole induced liver injury arose during more prolonged therapy after a latency of 2 to 16 weeks, manifested by the gradual onset of fatigue, nausea, anorexia, and right upper quadrant discomfort followed by dark urine and jaundice. Serum enzyme elevations were typically hepatocellular and, less commonly, mixed and even cholestatic. Recovery was usually rapid once metamizole was stopped and rarely required immunosuppressive therapy. In a proportion of patients, however, serum aminotransferase levels can be quite high at onset with minimal increases in alkaline phosphatase and with continued rises serum bilirubin levels, rapid onset of liver failure, and need for emergency liver transplantation or death. Many of these cases are “autoimmune hepatitis-like” and autoantibodies including ANA and AMA are frequently detected. A distinctive immune marker known as liver kidney microsomal antibody (anti-LKM) has been found in a high proportion of cases, at least when tested by immunofluorescence. Serum IgG levels are usually normal or only mildly elevated, and liver histology does not resemble typical spontaneous autoimmune hepatitis. As might be expected, the fatality rate appears to be at least 10% in cases with hepatocellular injury and jaundice. There have been multiple reports of fatalities and need for liver transplants due to liver injury caused by metamizole. Recurrence upon re-exposure is usually abrupt in onset and more severe in course than the initial episode. The incidence of clinically apparent liver injury from metamizole is not known but be as high as 1 per 1000 persons. Likelihood score: A (well described although rare cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury The causes of the liver injuries from metamizole are likely to be immune mediated and the two patterns of injury suggest an immediate hypersensitivity reaction and a more delayed adaptive immune mediated injury. Metamizole can cause hypersensitivity reactions with no or only very mild liver injury including urticaria and rash, Stevens-Johnson syndrome, and toxic epidermal necrolysis. Patients who develop agranulocytosis due to metamizole frequently have accompanying liver injury that is generally mild and overshadowed by the hematologic events.",
+    "raw_outcome_text": "Outcome and Management Metamizole should be discontinued immediately in any patient presenting with acute liver injury and held until the diagnosis is clear. While metamizole is not available in the United States, immigrants from areas of the world where it is used may bring or order metamizole (frequently called dipyrone) from their countries of origin and may not report its use to physicians because it is considered a common, safe, over-the-counter medication. There is little evidence that immunosuppressive therapy is beneficial, although it is often used when improvement does not occur rapidly upon withdrawal of metamizole. The drug should not be restarted in anyone with suspected metamizole liver injury. Furthermore, patients taking the drug should be encouraged to discontinue it because of its propensity to cause serious side effects. Drug Class: Nonsteroidal Antiinflammatory Drugs (NSAIDs)",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [],
+    "raw_drug_class": [
+      "Nonsteroidal Antiinflammatory Drugs",
+      "(NSAIDs)"
+    ],
+    "source_nxml_file": "Metamizole.nxml"
+  },
+  {
+    "id": 624,
+    "name_en": "Methadone",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "-",
+    "grade_explanation_en": "-",
+    "rucam_score_bonus": "-",
+    "source": "LiverTox (NIDDK, NIH): Methadone.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Methadone/",
+    "source_review_date": "2019-04-25",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity Therapy with methadone has not been linked to serum enzyme elevations or to idiosyncratic acute, clinically apparent liver injury. However, chronic hepatitis B and C are common among persons on methadone maintenance. There is no evidence that methadone maintenance worsens the course of chronic viral hepatitis. In prospective studies, transient serum enzyme elevations were not uncommon in patients on methadone maintenance; however, almost all of the abnormalities occurred in patients with underlying chronic hepatitis B or C and no clinically apparent liver injury arose anew during therapy. References on the safety and potential hepatotoxicity of methadone are given in the Overview section of the Opioids. Drug Class: Opioids",
+    "raw_mechanism_text": "",
+    "raw_outcome_text": "",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [],
+    "raw_drug_class": [
+      "Opioids"
+    ],
+    "source_nxml_file": "Methadone.nxml"
+  },
+  {
+    "id": 625,
+    "name_en": "Methenamine",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "E",
+    "grade_explanation_en": "unlikely cause of clinically apparent liver injury",
+    "rucam_score_bonus": 0,
+    "source": "LiverTox (NIDDK, NIH): Methenamine.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Methenamine/",
+    "source_review_date": "2021-01-22",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity In prospective controlled trials, methenamine was generally well tolerated at conventional doses and no episodes of serum aminotransferase elevations or clinically apparent liver injury were reported. Since its approval and in over 100 years of general use, there have been no reports of clinically apparent liver injury attributable to methenamine. Thus, clinically apparent liver injury from methenamine must be rare if it occurs at all. Likelihood score: E (unlikely cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury The reason why methenamine rarely causes liver injury is probably due to its lack of hepatic metabolism and rapid unchanged urinary excretion. Drug Class: Antiinfective Agents, Urinary Tract Infection Agents Other Drugs in the Subclass: Fosfomycin, Nitrofurantoin, Sulfamethoxazole-Trimethoprim",
+    "raw_outcome_text": "",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [],
+    "raw_drug_class": [
+      "Antiinfective Agents",
+      "Fosfomycin",
+      "Nitrofurantoin",
+      "Sulfamethoxazole-Trimethoprim"
+    ],
+    "source_nxml_file": "Methenamine.nxml"
+  },
+  {
+    "id": 626,
+    "name_en": "Methocarbamol",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "E",
+    "grade_explanation_en": "Unlikely cause of clinically apparent liver injury",
+    "rucam_score_bonus": 0,
+    "source": "LiverTox (NIDDK, NIH): Methocarbamol.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Methocarbamol/",
+    "source_review_date": "2017-01-30",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity While the product label for methocarbamol states that it can cause jaundice (including cholestatic jaundice), there is little published evidence to suggest that methocarbamol is a cause of hepatic injury or clinically apparent drug induced liver disease. During clinical trials of methocarbamol, some patients had to stop treatment because of nausea, dizziness, or other nonspecific complaints, but no serum aminotransferase levels or other laboratory results were reported. Methocarbamol appears to be well tolerated, but the lack of monitoring of serum aminotransferase levels during clinical trials with methocarbamol makes it impossible to rule out the possibility of mild liver injury occurring with treatment. Likelihood score: E (Unlikely cause of clinically apparent liver injury). Drug Class: Muscle Relaxants",
+    "raw_mechanism_text": "",
+    "raw_outcome_text": "",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [],
+    "raw_drug_class": [
+      "Muscle Relaxants"
+    ],
+    "source_nxml_file": "Methocarbamol.nxml"
+  },
+  {
+    "id": 627,
+    "name_en": "Metoprolol",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "D",
+    "grade_explanation_en": "possible rare cause of clinically apparent liver injury",
+    "rucam_score_bonus": 1,
+    "source": "LiverTox (NIDDK, NIH): Metoprolol.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Metoprolol/",
+    "source_review_date": "2017-01-15",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity Metoprolol therapy has been associated with a low rate of mild-to-moderate elevations of serum aminotransferase levels which are usually asymptomatic and transient and resolve even with continuation of therapy. A few instances of clinically apparent, acute liver injury attributable to metoprolol have been reported. In view of its wide scale use, metoprolol induced liver injury is exceedingly rare. The typical liver injury associated with beta-blockers has a latency to onset of 2 to 12 weeks and a hepatocellular pattern of liver enzyme. Symptoms of hypersensitivity (rash, fever, eosinophilia) and autoantibody formation have not been reported. Reported cases due to metoprolol have included cases of acute liver failure, but ultimately all were self-limiting and resolved fairly rapidly once once drug was stopped. Likelihood score: D (possible rare cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury The mechanism of drug induced liver injury from metoprolol is not known. The agent is metabolized in the liver via the cytochrome P450 (largely CYP 2D6). The rare instances of liver injury due to beta-blockers are likely to be idiosyncratic.",
+    "raw_outcome_text": "Outcome and Management The severity of liver injury due to metoprolol ranges from mild serum aminotransferase elevations to mild acute hepatitis with jaundice. In large case series of acute liver failure due to medications, metoprolol has not been listed as a cause. Rechallenge has been reported to result in recurrence of injury and should be avoided. There is little information about cross reactivity among the beta-blockers to hepatic injury. Switching to another beta-blocker after metoprolol related acute liver injury should be done with caution and prospective monitoring. References to the safety and potential hepatotoxicity of metoprolol are provided in the overview on Beta-Adrenergic Receptor Antagonists, last updated in June 2019. Drug Class: Beta-Adrenergic Receptor Antagonists",
+    "raw_case_report_text": "CASE REPORT Case 1. Metoprolol induced acute liver injury. [Modified from: Larrey D, Henrion J, Heller F, Babany G, Degott C, Pessayre D, Benhamou JP. Metoprolol-induced hepatitis: rechallenge and drug oxidation phenotyping. Ann Intern Med 1988; 108:67-8. PubMed Citation] A 56 year old woman developed fatigue and abdominal pains 2 weeks after starting metoprolol (50 mg daily) for migraine headaches. She had no previous history of liver disease, jaundice, alcohol abuse or risk factors for viral hepatitis. She had been treated with doxycycline, aspirin and a cough suppressant two weeks earlier for an acute bronchitis. She had no jaundice, fever or rash. Laboratory testing showed marked elevations in serum aminotransferase with minimal increase in alkaline phosphatase levels and normal serum bilirubin (Table). All liver tests had been normal in the past. Tests for hepatitis A and B and for autoantibodies were negative. An abdominal ultrasound was normal. A liver biopsy showed moderate steatosis and occasional ballooned hepatocyte without inflammation or fibrosis. Metoprolol was discontinued and she rapidly improved symptomatically. Within 3 weeks, liver tests were normal. Rechallenge led to a recurrence of liver injury. Key Points Medication: Metoprolol (200 mg daily) Pattern: Hepatocellular (R=19) Severity: 1+ (enzyme elevations and symptoms without jaundice) Latency: 3 weeks Recovery: 3 weeks Other medications: Doxycycline, aspirin and cough suppressant 3 weeks previously Laboratory Values Time After Starting Weeks After Stopping ALT* (U/L) Alk P* (U/L) GGT* (mg/dL) Other Pre 26 72 20 Metoprolol (50 mg daily) given for 3 weeks 3 weeks 0 1140 168 244 Bilirubin 0.7 mg/dL 2 days 409 132 154 4 weeks 5 days 171 108 110 6 weeks 3 weeks 34 84 34 Metoprolol (50 mg daily) restarted for 5 days 5 days 0 66 144 Not done 7 weeks 6 weeks 24 126 26 Normal Values <40 <110 <50 * Converted from μKat/L. Comment This patient developed an anicteric acute hepatitis-like clinical picture three weeks after starting metoprolol. A history of exposure to doxycycline raised the issue of whether the acute injury was due to metoprolol or to a delayed reaction to doxycycline, and a rechallenge was performed a few weeks after recovery. Within a week, serum ALT and alkaline phosphatase levels had increased and metoprolol was stopped. The short latency period, mild acute hepatocellular injury and rapid recovery are typical of the liver injury reported with beta-blockers.",
+    "raw_case_report_key_points": {
+      "Medication": "Metoprolol (200 mg daily)",
+      "Pattern": "Hepatocellular (R=19)",
+      "Severity": "1+ (enzyme elevations and symptoms without jaundice)",
+      "Latency": "3 weeks",
+      "Recovery": "3 weeks",
+      "Other medications": "Doxycycline, aspirin and cough suppressant 3 weeks previously"
+    },
+    "raw_trade_names": [],
+    "raw_drug_class": [
+      "Beta-Adrenergic Receptor Antagonists"
+    ],
+    "source_nxml_file": "Metoprolol.nxml"
+  }
+]

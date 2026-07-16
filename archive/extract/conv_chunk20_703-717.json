@@ -1,0 +1,415 @@
+[
+  {
+    "id": 703,
+    "name_en": "Quetiapine",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "B",
+    "grade_explanation_en": "likely but rare cause of clinically apparent liver injury",
+    "rucam_score_bonus": 2,
+    "source": "LiverTox (NIDDK, NIH): Quetiapine.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Quetiapine/",
+    "source_review_date": "2023-06-05",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity Liver test abnormalities may occur in up to 30% of patients on long term therapy with quetiapine, but elevations are uncommonly above 3 times the upper limit of normal. The aminotransferase abnormalities are usually mild, asymptomatic and transient, reversing even with continuation of medication. Instances of clinically apparent acute liver injury have been reported due to quetiapine, but they are rare. The onset of jaundice is within 1 to 4 weeks of starting the drug, and the pattern of serum enzyme elevations is typically hepatocellular. Signs of immunoallergic manifestations (fever, rash and eosinophilia) are rare, as are autoantibodies. Most cases are mild-to-moderate in severity and self-limited in course. Instances of DRESS syndrome and acute liver failure have been reported but not vanishing bile duct syndrome or chronic liver injury. Likelihood score: B (likely but rare cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury The mechanism by which quetiapine causes serum aminotransferase elevations is not known, but is likely due to production of a toxic intermediate by its metabolism. Quetiapine is extensively metabolized by the liver via sulfoxidation and oxidation, partially via CYP 3A4. Some instances of serum aminotransferase elevations occurring on quetiapine therapy may be due to nonalcoholic fatty liver disease caused by weight gain that occurs in at least one-quarter of treated patients, generally during the first 1 to 2 years of therapy.",
+    "raw_outcome_text": "Outcome and Management The serum aminotransferase elevations that occur on quetiapine therapy are usually self-limited and usually do not require dose modification or discontinuation of therapy. Cases of clinically apparent liver injury are usually mild to moderate in severity and self-limited course. Rare instances of acute liver failure due to quetiapine have been reported, but it has not been implicated in cases of chronic liver disease or vanishing bile duct syndrome. Patients with quetiapine induced liver injury may have cross sensitivity to other atypical antipsychotics (risperidone) but usually tolerate switching to others. Drug Class: Antipsychotic Agents, Atypicals",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [],
+    "raw_drug_class": [
+      "Antipsychotic Agents"
+    ],
+    "source_nxml_file": "Quetiapine.nxml"
+  },
+  {
+    "id": 704,
+    "name_en": "Quinapril",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "E*",
+    "grade_explanation_en": "unproven but suspected rare cause of clinically apparent liver injury",
+    "rucam_score_bonus": 0,
+    "source": "LiverTox (NIDDK, NIH): Quinapril.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Quinapril/",
+    "source_review_date": "2018-02-11",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity Quinapril, like other ACE inhibitors, has been associated with a low rate of serum aminotransferase elevations (<2%) that, in controlled trials, was no higher than with placebo therapy. These elevations were transient and rarely required dose modification. Clinically apparent cases of acute liver injury due to quinapril have yet to be published. However, most ACE inhibitors have been associated with rare instances of clinically apparent liver injury, which typically arises 2 to 12 weeks after starting therapy and is associated with a cholestatic pattern of injury which can be severe and prolonged. Immunoallergic manifestations (rash, fever, eosinophilia) are infrequent and most patients do not develop autoantibodies. Rare instances of severe acute hepatocellular injury, sometimes arising 1 to 4 years after starting ACE inhibitors, have been described. The product label for quinapril mentions the possibiltiy of drug induced liver injury. Likelihood score: E* (unproven but suspected rare cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury The cause of the minor serum aminotransferase elevations associated ACE inhibitors including quinapril is not known. Quinapril is hydrolyzed in the liver to the active metabolite quinaprilat, but undergoes minimal further hepatic metabolism which may explain why it rarely causes clinically apparent hepatotoxicity.",
+    "raw_outcome_text": "Outcome and Management There have been no instances of quinapril associated liver injury described to provide an overall description of its course and outcome. Most instances of acute liver injury reported with ACE inhibitors have been self limited, but there have been rare reports of acute liver failure due to captopril, enalapril, lisinopril and benazepril and several reports of cholestatic hepatitis due to ACE inhibitors leading to prolonged jaundice and vanishing bile duct syndrome. Patients with severe quinapril induced acute liver injury should avoid use of other ACE inhibitors, although cross sensitivity to liver injury among the members of this class of agents has not always been shown. References to the safety and potential hepatotoxicity of quinapril are given in the Overview section on the Angiotensin-Converting Enzyme (ACE) Inhibitors. Drug Class: Antihypertensive Agents, Angiotensin-Converting Enzyme Inhibitors",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [],
+    "raw_drug_class": [
+      "Antihypertensive Agents",
+      "Angiotensin-Converting Enzyme Inhibitors"
+    ],
+    "source_nxml_file": "Quinapril.nxml"
+  },
+  {
+    "id": 705,
+    "name_en": "Quinidine",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "A",
+    "grade_explanation_en": "well established cause of clinically apparent liver injury",
+    "rucam_score_bonus": 2,
+    "source": "LiverTox (NIDDK, NIH): Quinidine.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Quinidine/",
+    "source_review_date": "2018-05-10",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity Chronic therapy with quinidine is associated with a low rate of serum enzyme elevations, which are usually mild, asymptomatic and self limited even without alteration in dose. In addition, there have been many reports of acute hypersensitivity reactions to quinidine that include hepatic involvement. The reactions usually arise after 1 to 2 weeks of therapy, but can appear within 24 hours of restarting quinidine or with rechallenge. The clinical features are marked by fatigue, nausea, vomiting, diffuse muscle aches, arthralgias and high fever. Blood testing at an early stage shows increases in serum aminotransferase and alkaline phosphatase levels as well as mild jaundice, which can deepen for a few days even after stopping quinidine. The pattern of serum enzymes elevations is typically cholestatic or mixed. Rash is uncommon and eosinophilia is not typical, despite the presence of other signs of hypersensitivity (fever, arthralgias). Autoantibodies are not typically found. Liver biopsies usually show mild injury and small epithelioid granulomas, as are often found in many organs during systemic hypersensitivity reactions. A similar clinical signature of liver injury occurs with quinine, an optical isomer of quinidine that is used predominantly as an antimalarial agent. In recent years, there have been few reports of liver injury attributed to quinidine, probably because it is now rarely used. Likelihood score: A (well established cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury The hepatotoxicity of quinidine is clearly due to a hypersensitivity reaction and there is no evidence for a direct hepatotoxic effect of the drug. There is likely to be a genetic predisposition to this hypersensitivity.",
+    "raw_outcome_text": "Outcome and Management The hepatotoxicity of quinidine is clearly a part of a hypersensitivity reaction and is usually mild, resolving within 1 to 4 weeks of stopping. In many instances, jaundice and liver test abnormalities may worsen for a few days after stopping, but fatalities have not been reported and recovery is usually rapid. Because of the rapidity of recovery, therapy with corticosteroids is usually best avoided. There is cross reactivity to quinine (the optical isomer of quinidine which is used as an antimalarial agent) and other exposures to quinidine should be avoided. Drug Class: Antiarrhythmic Agents See also: Quinine",
+    "raw_case_report_text": "CASE REPORT Case 1. Acute hypersensitivity and cholestatic liver injury due to quinidine. [Modified from: Koch MJ, Seeff LB, Crumley CE, Rabin L, Burns WA. Quinidine hepatitis: a report of a case and review of the literature. Gastroenterology 1976; 70: 1136-40. PubMed Citation] A 47 year old man developed nausea, fever and right upper quadrant pain 10 days after starting quinidine for supraventricular tachycardias. He had a history of cardiac disease and was treated with furosemide, digoxin and nitroglycerin tablets chronically. He had no history of liver disease, alcohol abuse, risk factors for liver hepatitis or previous history of drug-allergies. Physical examination revealed a temperature of 101.6 oF, but normal white blood cell count and differential. Quinidine was continued and he continued to have fever. While serum bilirubin levels remained normal, ALT, AST and alkaline phosphatase levels were elevated starting a few days after the onset of fever (Table). Oral and intravenous cholangiograms were negative as were tests for hepatitis B. A liver biopsy was done which showed centrizonal hepatocellular necrosis and inflammation with prominent eosinophils suggestive of drug induced liver injury. Quinidine was stopped and the fevers and liver test abnormalities rapidly resolved. Because of recurrent arrhythmias despite use of procainamide, the patient was readmitted for a monitored rechallenge with quinidine. A day after taking four doses of quinidine (200 mg every 6 hours), he developed nausea and fever. Serum ALT levels rose from 18 to 52 U/L, while eosinophil counts, alkaline phosphatase levels and bilirubin values remained normal. Symptoms and ALT elevations resolved within two days. Key Points Medication: Quinidine (200 mg every 6 hours) Pattern: Cholestatic-mixed-hepatocellular (R=1.4→12.0) Severity: 1+ (symptoms and enzyme elevations without jaundice) Latency: 10 days to symptoms Recovery: 1-2 weeks Other medications: Digoxin, furosemide, nitroglycerin Laboratory Values Days After Starting Days After Stopping ALT* (U/L) Alk P* (U/L) Bilirubin* (mg/dL) Other Pre 26 81 0.4 Admission 10 0 40 90 Normal Fever and nausea 14 0 110 225 20 0 150 150 24 0 370 100 Liver biopsy 30 0 680 190 Normal Quinidine stopped 32 2 925 170 36 6 345 38 8 270 110 Two months later rechallenged with quinidine 200 mg every 6 hours 1 0 11 2 1 18 3 2 52 Normal Normal Fever and nausea 5 4 20 Normal Values <40 <103 <1.2 * Some values estimated from Figure 1. Comment This patient developed signs of hypersensitivity to quinidine (fever) which resolved rapidly with stopping therapy. With continuation of the medication, liver test abnormalities arose that were initially cholestatic but eventually hepatocellular. The injury was mild in that there was no jaundice or hepatic synthetic dysfunction. Reexposure led to a more rapid onset of symptoms and liver test abnormalities, but they were still mild and rapidly reversible.",
+    "raw_case_report_key_points": {
+      "Medication": "Quinidine (200 mg every 6 hours)",
+      "Pattern": "Cholestatic-mixed-hepatocellular (R=1.4→12.0)",
+      "Severity": "1+ (symptoms and enzyme elevations without jaundice)",
+      "Latency": "10 days to symptoms",
+      "Recovery": "1-2 weeks",
+      "Other medications": "Digoxin, furosemide, nitroglycerin"
+    },
+    "raw_trade_names": [],
+    "raw_drug_class": [
+      "Antiarrhythmic Agents",
+      "Quinine"
+    ],
+    "source_nxml_file": "Quinidine.nxml"
+  },
+  {
+    "id": 706,
+    "name_en": "Rabeprazole",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "D",
+    "grade_explanation_en": "possible rare cause of clinically apparent liver injury",
+    "rucam_score_bonus": 1,
+    "source": "LiverTox (NIDDK, NIH): Rabeprazole.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Rabeprazole/",
+    "source_review_date": "2019-04-15",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity Despite its wide use, rabeprazole has only rarely been associated with hepatic injury. In large scale, long term trials of rabeprazole, serum ALT elevations occurred in less than 1% of patients and at rates similar to those with placebo or comparator drugs. In large case series of drug induced liver injury, rabeprazole has accounted for few instances of symptomatic acute liver injury. Only a few cases of clinically apparent liver disease due to rabeprazole have been published and the characteristics of the injury have not been well defined, but appear to be similar to the features of hepatic injury associated with other proton pump inibitors. Clinically apparent liver injury due to proton pump inhibitors typically arises within the first 4 weeks of treatment with symptoms of jaundice, nausea and fatigue and a hepatocellular or mixed pattern of serum enzyme elevations. Recovery is typically rapid upon withdrawal of the agent. Rash, fever and eosinophilia are rare, as is autoantibody formation. Instances of recurrence on rechallenge have been reported. Likelihood score: D (possible rare cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury The acute onset and rapid recurrence of hepatic injury with proton pump inhibitors suggests a hypersensitivity reaction, but may merely reflect altered metabolism or acute toxicity of a metabolic byproduct. Rabeprazole is metabolized predominantly by the CYP 2C19 microsomal drug-metabolizing enzyme and may interfere with clearance of other agents metabolized in a similar fashion.",
+    "raw_outcome_text": "Outcome and Management The mild and asymptomatic elevations in serum aminotransferase that have been observed during rabeprazole therapy are usually transient and may resolve even without dose modification. Clinically apparent liver injury due to rabeprazole is rare, but calls for prompt withdrawal of the agent. Cases of acute liver failure due to proton pump inhibitor use have been described, but not specifically with rabeprazole. Recurrence of acute liver injury on rechallenge after an initial episode of clinically apparent liver injury with rabeprazole has been reported. There is no information about cross reactivity among the various PPIs after rabeprazole hepatotoxicity, but the PPIs all share a benzimidazole structure, and caution should be used in attempting to reintroduce another PPI after clinically apparent PPI associated hepatic injury. Drug Class: Antiulcer Agents Other Drugs in the Subclass, Proton Pump Inhibitors: Dexlansoprazole, Esomeprazole, Lansoprazole, Omeprazole, Pantoprazole",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [],
+    "raw_drug_class": [
+      "Antiulcer Agents",
+      "Proton Pump Inhibitors",
+      "Dexlansoprazole",
+      "Esomeprazole",
+      "Lansoprazole",
+      "Omeprazole",
+      "Pantoprazole"
+    ],
+    "source_nxml_file": "Rabeprazole.nxml"
+  },
+  {
+    "id": 707,
+    "name_en": "Raltegravir",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "E*",
+    "grade_explanation_en": "unproven but suspected cause of clinically apparent liver injury",
+    "rucam_score_bonus": 0,
+    "source": "LiverTox (NIDDK, NIH): Raltegravir.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Raltegravir/",
+    "source_review_date": "2018-01-30",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity In large clinical trials, therapy with raltegravir was associated with alanine aminotransferase (ALT) elevations in up to 10% and elevations of greater than 5 times the upper limit of normal (ULN) in 3% to 4% of patients, but these rates were similar to those in comparator groups receiving matched background optimized antiretroviral therapy without raltegravir. These elevations were not associated with clinical symptoms and generally did not require dose modification. There have been no published reports of clinically apparent cases of liver injury attributed to raltegravir. Nevertheless, the product label for raltegravir mentions hepatitis and hepatic failure as a potential adverse reactions, but without specific details. Raltegravir has also been linked to instances of Stevens Johnson syndrome and drug hypersensitivity reactions, which can be accompanied by hepatic involvement. Finally, initiation of antiretroviral therapy with raltegravir can result in the immune reconstitution syndrome which may cause a worsening or flare of an accompanying chronic hepatitis B or C in coinfected individuals. Likelihood score: E* (unproven but suspected cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury Raltegravir is metabolized by the liver and undergoes glucuronidation as a part of its metabolic clearance. It does not have an effect on the CYP 450 system.",
+    "raw_outcome_text": "Outcome and Management Serum enzyme elevations during raltegravir therapy are not uncommon but are generally mild to moderate in severity and often are attributable to other agents taken in combination with raltegravir. Nevertheless, aminotransaferase elevations above 5 times the ULN, if confirmed, warrant dose interruption and evaluation for other causes of acute liver injury. There is no information about the cross sensitivity to liver injury among the various HIV integrase inhibitors, but some degree of cross reactivity should be expected. Drug Class: Antiviral Agents Other Drugs in the Subclass, Integrase Strand Transfer Inhibitors: Bictegravir, Cabotegravir, Dolutegravir, Elvitegravir",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Raltegravir - Isentress®"
+    ],
+    "raw_drug_class": [
+      "Antiviral Agents",
+      "Bictegravir",
+      "Cabotegravir",
+      "Dolutegravir",
+      "Elvitegravir"
+    ],
+    "source_nxml_file": "Raltegravir.nxml"
+  },
+  {
+    "id": 708,
+    "name_en": "Ramelteon",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "E*",
+    "grade_explanation_en": "unproven but suspected rare cause of clinically apparent liver injury",
+    "rucam_score_bonus": 0,
+    "source": "LiverTox (NIDDK, NIH): Ramelteon.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Ramelteon/",
+    "source_review_date": "2018-05-21",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity In several clinical trials, ramelteon was found to be well tolerated and not associated with serum enzyme elevations or evidence of liver injury. Despite, wide scale use, it has not been convincingly linked to instances of clinically apparent liver injury. A single report of worsening liver disease with jaundice, ascites, bacterial peritonitis and death in a patient with alcoholic liver disease who had started ramelteon therapy a month before has been reported. Ramelteon is not recommended in patients with impaired hepatic function. Likelihood score: E* (unproven but suspected rare cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury Rameltoeon is a synthetic melatonin receptor agonist and is unrelated to melatonin structurally. It is unclear how ramelteon might cause liver injury, but it undergoes extensive first pass uptake by the liver and is metabolized by the cytochrome P450 system (largely CYP 1A2). For these reasons, its metabolism might be altered in persons with liver disease or alcoholism as well as by strong inducers or inhibitors of CYP enzymes.",
+    "raw_outcome_text": "Outcome and Management Ramelteon has not been convincingly associated with serum enzyme elevations during therapy or with clinically apparent liver injury. However, persons with preexisting liver disease should either avoid use of ramelteon or be monitored for worsening of liver test results during therapy. Drug Class: Sedatives and Hypnotics Other Drugs in the Subclass, Melatonin and its Analogues: Melatonin, Tasimelteon",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Ramelteon - Rozerem®"
+    ],
+    "raw_drug_class": [
+      "Sedatives and Hypnotics",
+      "Melatonin",
+      "Tasimelteon"
+    ],
+    "source_nxml_file": "Ramelteon.nxml"
+  },
+  {
+    "id": 709,
+    "name_en": "Ramipril",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "C",
+    "grade_explanation_en": "probable rare cause of clinically apparent liver injury",
+    "rucam_score_bonus": 1,
+    "source": "LiverTox (NIDDK, NIH): Ramipril.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Ramipril/",
+    "source_review_date": "2018-02-11",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity Ramipril, like other ACE inhibitors, has been associated with a low rate of serum aminotransferase elevations (<2%) that, in controlled trials, was no higher than with placebo therapy. These elevations were transient and rarely required dose modification. Rare instances of clinically apparent acute liver injury have been reported with ramipril therapy. The onset is usually within 2 to 12 weeks of starting therapy and the serum enzyme pattern is typically cholestatic (Case 1). In some instances, cholestasis has been prolonged and relapsing and associated with persistent elevations in serum alkaline phosphatase, suggestive of vanishing bile duct syndrome. Immunoallergic manifestations (rash, fever, eosinophilia) are infrequent and most patients do not develop autoantibodies. Rare instances of ramipril injury with a hepatocellular pattern and cases with a long latency (one or more years) have been described as well. Likelihood score: Likelihood score: C (probable rare cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury The cause of the minor serum aminotransferase elevations associated with ramipril therapy is not known. The clinically apparent acute liver injury due to ramipril is idiosyncratic and is likely due to a reaction to a minor metabolite. Ramipril is hydrolyzed in the liver to its active carboxylic metabolite ramiprilat, but undergoes little further hepatic metabolism.",
+    "raw_outcome_text": "Outcome and Management Only a few cases of ramipril associated liver injury have been reported, but the rare instances that have been published have resembled typical ACE inhibitor related hepatic injury. Most instances of acute liver injury related to ACE inhibitors have been self limited, but severe cases of cholestatic hepatitis can result in prolonged jaundice and vanishing bile duct syndrome. Patients with severe ramipril induced acute liver injury or hypersensitivity should avoid use of other ACE inhibitors, although cross sensitivity to liver injury among the members of this class of agents has not always been shown. References to the safety and potential hepatotoxicity of ramipril are given in the Overview section on the Angiotensin-Converting Enzyme (ACE) Inhibitors. Drug Class: Antihypertensive Agents, Angiotensin-Converting Enzyme Inhibitors",
+    "raw_case_report_text": "CASE REPORT Case 1. Acute hepatitis due to ramipril. [Modified from: Yeung E, Wong FS, Wanless IR, Shiota K, Guindi M, Joshi S, Gardiner G. Ramipril-associated hepatotoxicity. Arch Pathol Lab Med 2003; 127: 1493-7. PubMed Citation] A 51 year old Jamaican born man was started on ramipril and atorvastatin after an acute myocardial infarction and 2 weeks later developed anorexia, jaundice and pruritus. He had a history of tuberculosis, recurrent kidney stones and parotid gland infections, and type 2 diabetes. His only other medications at the time were insulin and aspirin, and he specifically denied use of over-the-counter and herbal preparations. He had no history of liver disease, alcohol abuse or risk factors for viral hepatitis. Laboratory testing showed a total bilirubin of 8.4 mg/dL and alkaline phosphatase of 112 U/L (Table). Both atorvastatin and ramipril were discontinued, but he did not improve and subsequently developed diarrhea and weight loss. Three months after onset he was reevaluated. Tests for hepatitis A, B and C were negative as were autoantibodies. Endoscopic retrograde cholangiopancreatography showed no evidence of biliary obstruction. A liver biopsy showed marked cholestasis, bile duct injury and increased fibrosis compatible with early cirrhosis. He was treated with ursodiol but continued to have jaundice. A year after onset of injury, he was found to have ascites and esophageal varices. Two years later he was still jaundiced. He was listed for liver transplantation but returned to his country of origin and was lost to follow up. Key Points Medication: Ramipril (2.5 mg daily) Pattern: Cholestatic Severity: 4+ (prolonged jaundice) Latency: 4 weeks Recovery: None Other medications: Atorvastatin, insulin, aspirin Laboratory Values Months After Starting Months After Stopping ALT (U/L) Alk P (U/L) Bilirubin (mg/dL) Other 1 0 112 8.4 Anorexia, pruritus 4 2.5 103 957 15.5 INR=1.22, liver biopsy 15 4 71 939 11.8 INR=1.3 Normal Values <45 <125 <1.2 Comment Case 1 from a published series of 3 patients with suspected ramipril induced liver injury from an experienced group of hepatologists from Toronto. The latency period of 4 weeks and general clinical presentation as cholestatic hepatitis is typical of ACE inhibitor related drug induced liver injury. While few cases have been linked to ramipril, the lack of other explanations for the liver injury in the three cases and improvements on stopping ramipril in the other two cases were highly suggestive of its role. Patient 1 had persistence of jaundice after the initial episode and a subsequent course that was suggestive of vanishing bile duct syndrome.",
+    "raw_case_report_key_points": {
+      "Medication": "Ramipril (2.5 mg daily)",
+      "Pattern": "Cholestatic",
+      "Severity": "4+ (prolonged jaundice)",
+      "Latency": "4 weeks",
+      "Recovery": "None",
+      "Other medications": "Atorvastatin, insulin, aspirin"
+    },
+    "raw_trade_names": [],
+    "raw_drug_class": [
+      "Antihypertensive Agents",
+      "Angiotensin-Converting Enzyme Inhibitors"
+    ],
+    "source_nxml_file": "Ramipril.nxml"
+  },
+  {
+    "id": 710,
+    "name_en": "Ranolazine",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "D",
+    "grade_explanation_en": "possible rare cause of clinically apparent liver injury",
+    "rucam_score_bonus": 1,
+    "source": "LiverTox (NIDDK, NIH): Ranolazine.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Ranolazine/",
+    "source_review_date": "2018-05-20",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity In large preregistration clinical trials, ranolazine was not associated with serum aminotransferase and alkaline phosphatase elevations during treatment and no instances of symptomatic acute liver injury were reported. Since its approval and more wide spread use, ranolazine has been linked to a single instance of mildly symptomatic, rapidly reversible, anicteric liver injury (Case 1). Immunoallergic and autoimmune features were not present. Recovery was rapid once ranolazine was discontinued. Likelihood score: D (possible rare cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "",
+    "raw_outcome_text": "Outcome and Management The hepatic injury reported to be caused by ranolazine has been mild and rapidly reversible upon withdrawal of the agent. Ranolazine has not been linked to cases of acute liver failure, chronic hepatitis or vanishing bile duct syndrome. There is no evidence that there is cross sensitivity to hepatic injury between ranolazine and other oral antiangina or antiarrhythmic agents. Drug Class: Antiangina Agents",
+    "raw_case_report_text": "CASE REPORT Case 1. Mild anicteric hepatitis attributed to ranolazine. [Modified from: Sancho-del-Val L, Barrio-Andrés J, Herranz-Bachiller MT, Alcaide-Suárez N. Hepatotoxicity and insomnia secondary to ranolazine. Rev Esp Enferm Dig 2013; 105: 304-5. PubMed Citation] A 63 year old woman with hypertension and angina pectoris developed fatigue and insomnia 3 months after starting ranolazine (375 mg every 8 hours). She had no history of liver disease, risk factors for viral hepatitis or history of alcohol abuse. Her other medications included bisoprolol, amlodipine and atorvastatin. Initially, her serum bilirubin was 0.6 mg/dL, ALT 201 U/L, AST 97 U/L, GGT 213 U/L and alkaline phosphatase 150 U/L. Tests for hepatitis B and C were negative as were routine autoantibodies. An abdominal ultrasound was normal. Ranolazine was stopped and liver tests were normal when tested two months later. Key Points Medication: Ranolazine (375 mg every 12 hours) Pattern: Mixed (R=4.5) Severity: 1+ (no jaundice, mild symptoms) Latency: 3 months Recovery: Within 2 months Other medications: Bisoprolol, amlodipine, atorvastatin Laboratory Values Time After Starting Time After Stopping ALT (U/L) Alk P (U/L) Bilirubin (mg/dL) Other 3 months 0 201 150 0.6 Fatigue, insomnia 5 months 2 months 46 75 Normal Values <35 <120 <1.2 Comment A woman with unstable angina developed fatigue 3 months after starting ranolazine and was found to have mild elevations in serum aminotransferase and alkaline phosphatase levels. These were normal or near normal two months after stopping the ranolazine. She has also taking other antiangina and cholesterol lowering agents, but these were evidently continued. Fatigue is a not uncommon side effect of ranolazine and attribution of fatigue to the liver enzyme elevations cannot be made with complete assurance. The case report was somewhat sparsely documented, but suggests that ranolazine can cause mild liver enzyme elevations that may be accompanied by constitutional symptoms. The injury was, however, quite mild and resolved rapidly upon stopping ranolazine.",
+    "raw_case_report_key_points": {
+      "Medication": "Ranolazine (375 mg every 12 hours)",
+      "Pattern": "Mixed (R=4.5)",
+      "Severity": "1+ (no jaundice, mild symptoms)",
+      "Latency": "3 months",
+      "Recovery": "Within 2 months",
+      "Other medications": "Bisoprolol, amlodipine, atorvastatin"
+    },
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Ranolazine - Ranexa®"
+    ],
+    "raw_drug_class": [],
+    "source_nxml_file": "Ranolazine.nxml"
+  },
+  {
+    "id": 711,
+    "name_en": "Rasagiline",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "E",
+    "grade_explanation_en": "unlikely cause of clinically apparent liver injury",
+    "rucam_score_bonus": 0,
+    "source": "LiverTox (NIDDK, NIH): Rasagiline.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Rasagiline/",
+    "source_review_date": "2017-07-21",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity Rasagiline has been reported to cause serum enzyme elevations in a small proportion of patients treated long term, although the abnormalities were usually mild and self-limiting. Rasagiline has not been implicated in cases of acute liver injury, but such instances have been reported with other less specific MAO inhibitors. Likelihood score: E (unlikely cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury Rasagiline is extensively metabolized by the hepatic cytochrome P450 system (CYP 1A2) to inactive metabolites.",
+    "raw_outcome_text": "Outcome and Management Instances of hepatotoxicity attributed to rasagiline have been mild and self-limiting elevations in serum enzymes. No instances of severe liver injury, acute liver failure, chronic hepatitis or vanishing bile duct syndrome have been linked to rasagiline use. Drug Class: Antiparkinson Agents Other Drugs in the Subclass, Selective MAO-B Inhibitors: Safinamide, Selegiline",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [],
+    "raw_drug_class": [
+      "Antiparkinson Agents",
+      "Safinamide",
+      "Selegiline"
+    ],
+    "source_nxml_file": "Rasagiline.nxml"
+  },
+  {
+    "id": 712,
+    "name_en": "Regorafenib",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "B",
+    "grade_explanation_en": "highly likely cause of clinically apparent liver injury",
+    "rucam_score_bonus": 2,
+    "source": "LiverTox (NIDDK, NIH): Regorafenib.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Regorafenib/",
+    "source_review_date": "2018-06-06",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity In large clinical trials of regorafenib, elevations in serum aminotransferase levels were common, occurring in 39% to 45% of patients, and were greater than 5 times the upper limit of normal (ULN) in 3% to 6%. In addition, there have been several reports of clinically apparent liver injury arising during regorafenib therapy which was often severe and occasionally fatal, estimated to occur in 0.3% of treated subjects. For these reasons, routine monitoring of liver enzymes is recommended. Regorafenib induced liver injury can present in several different patterns or phenotypes. Some patients present within a few days of starting regorafenib with acute hepatic necrosis, high levels of serum aminotransferase and lactic dehydrogenase with mild jaundice, but prolongation of INR and signs of hepatic failure. The injury can be severe but is generally self-limited and recovery is rapid and complete. Other patients present with an acute viral hepatitis like pattern, hepatocelllar (or mixed) serum enzyme elevations and jaundice that can be prolonged and has been fatal in several instances. Autoimmune and immunoallergic features are uncommon. In addition, rare instances of regorafenib associated liver injury have presented with a sinusoidal obstruction-like syndrome or pseudocirrhosis, with marked hepatic nodularity and ascites that eventually improves or resolves. Finally, regorafenib, like other multi-kinase inhibitors [sunitinib, imatinib, sorafenib], has also been associated with episodes of hyperammonemic coma generally arising within a few days or weeks of starting and with rapid reversal upon stopping treatment. Likelihood score: B (highly likely cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury The cause of serum enzyme elevations and liver injury during regorafenib therapy is not known. Regorafenib is metabolized in the liver largely through the CYP 3A4 pathway and liver injury may be related to production of a toxic intermediate. Because regorafenib inhibits multiple kinases, it may interfere with normal hepatocyte pathways involved in cell metabolism, injury and repair making the cell injury multifactorial. In addition, because regorafenib is metabolized by CYP 3A4, it is susceptible to drug-drug interactions with agents that inhibit or induce this hepatic microsomal enzyme.",
+    "raw_outcome_text": "Outcome and Management Routine monitoring of liver tests before and every two weeks during the first 2 months of treatment as well as regularly thereafter is recommended for patients receiving regorafenib. Serum aminotransferase elevations above 5 times the upper limit of normal (if confirmed) should lead to at least temporary cessation, and elevations accompanied by jaundice or symptoms to permanent discontinuation. It is not clear whether such monitoring is effective in preventing regorafenib liver injury, but early discontinuation is likely to be helpful in limiting the severity and consequences of the injury. Regorafenib has been implicated in cases of acute liver failure, but not in instances of chronic hepatitis or vanishing bile duct syndrome. There does not appear to be cross reactivity in risk for hepatic injury between regorafenib and other multi-kinase inhibitors such axitinib, sorafenib and sunitinib, but caution and careful monitoring should be used in regarding a kinase inhibitor after clinically apparent liver injury from regorafenib. Drug Class: Antineoplastic Agents, Protein Kinase Inhibitors",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Regorafenib - Stivarga®"
+    ],
+    "raw_drug_class": [
+      "Antineoplastic Agents",
+      "Protein Kinase Inhibitors"
+    ],
+    "source_nxml_file": "Regorafenib.nxml"
+  },
+  {
+    "id": 713,
+    "name_en": "Relugolix",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "E",
+    "grade_explanation_en": "unlikely cause of clinically apparent liver injury",
+    "rucam_score_bonus": 0,
+    "source": "LiverTox (NIDDK, NIH): Relugolix.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Relugolix/",
+    "source_review_date": "2023-05-28",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity Relugolix therapy has been associated with serum aminotransferase elevations above 3 times the upper limit of normal (ULN) in 1% to 3% of patients and in similar proportions of patients receiving comparator agents such as leuprolide or degarelix. The serum enzyme elevations are generally mild and self-limited, resolving even without dose adjustment. ALT values above 5 times the ULN occur in less than 1% of patients, and episodes of ALT elevations with symptoms or jaundice were not observed in preregistration clinical trials of relugolix alone or in combination with estradiol and norethindrone. Since its approval and more widescale use, there have been no published reports of clinically apparent liver injury attributed to relugolix. Likelihood score: E (unlikely cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury The mechanism by which relugolix might cause liver injury is unknown. It is a synthetic small molecule that is metabolized in the liver by the cytochrome P450 system (predominantly CYP 3A4] and is a substrate for P glycoprotein. Strong inhibitors of CYP 3A4 and P glycoprotein can increase serum levels and the risk of toxicity, while inducers can result in suboptimal drug levels.",
+    "raw_outcome_text": "Outcome and Management The serum aminotransferase elevations that arise in 1% to 3% of patients during relugolix therapy are generally transient, mild, and not accompanied by symptoms or jaundice, and the elevations rarely require dose adjustment or drug discontinuation. Routine monitoring of liver tests is not recommended except in patients with known, preexisting liver disease. There is no evidence of cross sensitivity to liver injury among the various GnRH analogues. Drug Class: Antineoplastic Agents, GnRH Analogues Other Drugs in the Subclass, GnRH Analogues: Degarelix, Goserelin, Histrelin, Leuprolide, Triptorelin",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Relugolix - Orgovyk®"
+    ],
+    "raw_drug_class": [
+      "Antineoplastic Agents",
+      "GnRH Analogues",
+      "Degarelix",
+      "Goserelin",
+      "Histrelin",
+      "Leuprolide",
+      "Triptorelin"
+    ],
+    "source_nxml_file": "Relugolix.nxml"
+  },
+  {
+    "id": 714,
+    "name_en": "Remdesivir",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "D",
+    "grade_explanation_en": "possible uncommon cause of clinically apparent liver injury",
+    "rucam_score_bonus": 1,
+    "source": "LiverTox (NIDDK, NIH): Remdesivir.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Remdesivir/",
+    "source_review_date": "2022-02-03",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity In human volunteer studies, remdesivir therapy given for 7 to 14 days was associated with minor serum aminotransferase elevations (less than 5 times ULN) but without other evidence of hepatic injury. In controlled trials of remdesivir in patients hospitalized with COVID-19, rates of serum ALT elevations were similar or lower in patients receiving remdesivir than in those on placebo. Nevertheless, in most uncontrolled studies and case series, between 10% and 50% of patients treated with remdesivir developed transient, mild-to-moderate serum ALT and AST elevations within 1 to 5 days of starting therapy without changes in serum bilirubin or alkaline phosphatase levels. Elevations above 5 times ULN were reported in up to 9% of patients in several clinical trials, but the abnormalities resolved with discontinuation and were not associated with clinically apparent injury. With more widespread use of remdesivir for COVID-19, rare instances of marked ALT elevations with jaundice have been reported, but largely in patients who were critically ill with multi-organ failure or sepsis, or who had received other potentially hepatotoxic agents such as intravenous amiodarone (Case 2). Confounding the issue is that serum aminotransferase elevations are common during symptomatic SARS-CoV-2 infection (Case 1), present in up to 60% of patients and being more frequent in patients with severe disease and in those with the known risk factors for COVID-19 severity such as male sex, older age, higher body mass index and diabetes. Thus, serum aminotransferase elevations are common during remdesivir therapy but are generally asymptomatic, fully reversible and not associated with jaundice. With more widespread use of this antiviral in patients without severe or critical illness and with longer courses of therapy, features of hepatotoxicity may become more evident. Likelihood score: D (possible uncommon cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury Serum aminotransferase elevations are not uncommon with parenterally administered remdesivir and may be caused by direct toxicity possibly due to inhibition of mitochondrial RNA polymerase. On the other hand, idiosyncratic injury due to remdesivir has not been clearly shown. SARS-CoV-2 virus may infect the liver and has been identified in hepatocytes by molecular techniques and electron microscopy, but the associated liver injury in these cases was mild. The receptor for SARS-CoV-2, the angiotensin-converting enzyme 2 (ACE2), is found on the surface of hepatocytes, although it is present in higher density on cholangiocytes. In the liver, remdesivir is metabolized by and is a substrate for CYP 3A4. It is also a substrate of the hepatocyte transporters p-glycoprotein and OATP1B1 and thus may be susceptible to drug-drug interactions with agents that inhibit or induce these enzymes and transporters.",
+    "raw_outcome_text": "Outcome and Management The ALT and AST elevations associated with initiation of remdesivir therapy in patients with SARS-CoV-2 infection are generally mild-to-moderate in severity and self-limited in course without jaundice or symptoms. Careful monitoring of liver tests is recommended before and frequently during treatment. However, this recommendation is difficult in outpatient situations when the drug is given for 3 days only. Nevertheless, it is recommended that de novo elevations in ALT or AST above 10 times the upper limit of normal should lead to consideration of early discontinuation of the infusions. Furthermore, development of symptoms of hepatitis or jaundice should lead to immediate discontinuation. Restarting treatment can be considered once enzyme levels fall sufficiently, if there is no jaundice or symptoms and with careful monitoring. Use of other known hepatotoxins or potent inhibitors of p-glycoprotein should be avoided during remdesivir therapy. Drug Class: Antiviral Agents; Nucleoside Analogues",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Remdesivir - Veklury ®"
+    ],
+    "raw_drug_class": [
+      "Antiviral Agents",
+      "Nucleoside Analogues"
+    ],
+    "source_nxml_file": "Remdesivir.nxml"
+  },
+  {
+    "id": 715,
+    "name_en": "Remimazolam",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "E",
+    "grade_explanation_en": "unlikely cause of clinically apparent liver injury",
+    "rucam_score_bonus": 0,
+    "source": "LiverTox (NIDDK, NIH): Remimazolam.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Remimazolam/",
+    "source_review_date": "2023-06-22",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity Remimazolam, like other intravenously administered benzodiazepines, has not been associated with serum ALT elevations and no instances of clinically apparent liver injury from remimazolam have been reported. Rare cases of clinically apparent liver injury have been reported with oral benzodiazepines including alprazolam, chlordiazepoxide, clonazepam, diazepam, flurazepam and triazolam. The clinical pattern of acute liver injury from benzodiazepines usually arises only after 1 to 6 months of continuous or intermittent therapy and the pattern of injury is typically cholestatic. The injury from benzodiazepine is usually mild-to-moderate in severity. Fever and rash are uncommon as is autoantibody formation. Likelihood score: E (unlikely cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury Remimazolam has a carboxylic ester in its chemical structure that is rapidly cleaved by tissue esterases resulting in a short half-life. As a consequence it has minimal hepatic metabolism and no effect on CYP enzymes. Remimazolam does not appear to have clinically significant drug-drug interactions. The absence of liver injury is perhaps due to its rapid, non-hepatic metabolism and the short duration of therapy and low doses used.",
+    "raw_outcome_text": "Outcome and Management The case reports of hepatic injury due to benzodiazepines were followed by prompt and complete recovery upon stopping the medication, without evidence of residual or chronic injury. No cases of acute liver injury, cholestatic hepatitis, acute liver failure or chronic liver injury due to remimazolam have been described in the literature. There is no information about cross sensitivity to hepatic injury with other benzodiazepines, but such cross sensitivity is unlikely. Drug Class: Sedatives and Hypnotics, Benzodiazepines",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Remimazolam - Byfavo®"
+    ],
+    "raw_drug_class": [
+      "Sedatives and Hypnotics",
+      "Benzodiazepines"
+    ],
+    "source_nxml_file": "Remimazolam.nxml"
+  },
+  {
+    "id": 716,
+    "name_en": "Repotrectinib",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "E*",
+    "grade_explanation_en": "unproven but suspected rare cause of clinically apparent liver injury",
+    "rucam_score_bonus": 0,
+    "source": "LiverTox (NIDDK, NIH): Repotrectinib.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Repotrectinib/",
+    "source_review_date": "2025-04-07",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity In the prelicensure trials of repotrectinib as therapy of ROS1-positive NSCLC, liver test abnormalities were frequent but usually mild-to-moderate in severity and self-limited in duration. ALT elevations arose in 34% and AST in 40% and were above 5 times the ULN in 3.1% and 1.9% of the 264 patients treated in the major registration trial. The median time to onset of aminotransferase elevations was 15 days (range 1 day to 1 year). Dose interruptions for ALT abnormalities were done in 1.1% of patients but permanent discontinuations were rare. There were no enzyme elevations with jaundice or symptoms and no life threatening or fatal instances of liver injury. Since approval and clinically availability of repotrectinib, there have been no published case reports of clinically apparent liver injury with jaundice, but clinical experience with its use has been limited. Likelihood score: E* (unproven but suspected rare cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury The causes of serum enzyme elevations or liver injury from repotrectinib therapy are possibly due to direct toxicity of the ROS1 pathway inhibition, but some are likely related to hepatic metastases from the underlying advanced lung cancer. Repotrectinib is metabolized in the liver largely via CYP 3A4 and is susceptible to drug-drug interactions. Repotrectinib is a CYP 3A inducer that can alter the metabolism of CYP 3A substrates. Furthermore, concomitant use of agents that induce or inhibit CYP 3A4 activity should be avoided during therapy with repotrectinib.",
+    "raw_outcome_text": "Outcome and Management The product label for repotrectinib recommends monitoring of liver tests before therapy, every 2 weeks during the first month, and every month thereafter and as clinically indicated. Serum aminotransferase elevations above 5 times the upper limit of normal (if confirmed) or any elevations accompanied by jaundice or symptoms should lead to discontinuation until levels fall to less than twice ULN. There is little information on cross reactivity in risk for adverse events, hypersensitivity, or hepatic injury between repotrectinib and other ROS1 inhibitors such as crizotinib and entrectinib. Switching to those agents should be done with caution and with close monitoring. Drug Class: Antineoplastic Agents, Protein Kinase Inhibitors Other ROS1 Inhibitors: Crizotinib, Entrectinib",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Repotrectinib - Augtyro®"
+    ],
+    "raw_drug_class": [
+      "Antineoplastic Agents",
+      "Protein Kinase Inhibitors",
+      "Crizotinib",
+      "Entrectinib"
+    ],
+    "source_nxml_file": "Repotrectinib.nxml"
+  },
+  {
+    "id": 717,
+    "name_en": "Ribociclib",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "C",
+    "grade_explanation_en": "probable cause of clinically apparent liver injury",
+    "rucam_score_bonus": 1,
+    "source": "LiverTox (NIDDK, NIH): Ribociclib.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Ribociclib/",
+    "source_review_date": "2018-05-08",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity In the large clinical trials, adverse events were common and led to dose reductions in 45% of patients and discontinuation in 7%. In preregistration clinical trials, ALT elevations occurred in 46% of ribociclib vs 36% of control subjects and elevations above 5 times the ULN in 10% vs 1%. In one study, 1% of recipients developed clinically apparent liver injury with jaundice, but all recovered. The liver injury arose after 3 to 5 cycles and presented with asymptomatic elevations in serum ALT followed by symptoms and jaundice. Immunoallergic and autoimmune features were not present, although liver histology sometimes showed autoimmune hepatitis-like features. Recovery was slow (3 to 5 months), but ultimately complete. Restarting ribociclib resulted in more rapid and severe recurrence. Thus, experience with ribociclib is limited, but it appears to be capable of causing significant liver injury. Likelihood score: C (probable cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury The causes of serum enzyme elevations and liver injury from ribociclib therapy are not known. Ribociclib is extensively metabolized in the liver largely through the CYP 3A4 pathway and liver injury might be caused by production of a toxic or immunogenic intermediate. On the other hand, inhibition of cyclin-dependent kinases 4 and 6 may also affect hepatocytes and have direct toxicity. Because it is a substrate for CYP 3A4, ribociclib is susceptible to drug-drug interactions with agents that inhibit or induce this specific hepatic microsomal activity.",
+    "raw_outcome_text": "Outcome and Management The product label for ribociclib recommends prospective monitoring of liver tests during therapy, with values obtained before starting, at 2 week intervals during the first two cycles and at the beginning of the ensuing 4 cycles, and “as clinically indicated” thereafter. The product label also provides careful recommendations for dose interruption, reduction or discontinuation based upon toxicities (neutropenia, liver injury, QTc prolongation), with dose interruption until recovery for aminotransferase elevations above 3 times ULN, interruption until normal and subsequent dose reduction if above 5 times ULN, and permanent discontinuation if above 20 times ULN or in the presence of ALT elevations and jaundice. There is no information regarding cross reactivity in risk for adverse events, hypersensitivity or hepatic injury between ribociclib and palbociclib or other cyclin-dependent kinase inhibitors. Drug Class: Antineoplastic Agents, Protein Kinase Inhibitors Other Cyclin-Dependent Kinase Inhibitor Drugs: Palbociclib",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Ribociclib - Kisqali®"
+    ],
+    "raw_drug_class": [
+      "Antineoplastic Agents",
+      "Protein Kinase Inhibitors",
+      "Palbociclib"
+    ],
+    "source_nxml_file": "Ribociclib.nxml"
+  }
+]

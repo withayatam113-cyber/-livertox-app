@@ -1,0 +1,410 @@
+[
+  {
+    "id": 733,
+    "name_en": "Saxagliptin",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "E*",
+    "grade_explanation_en": "unproven but suspected rare cause of clinically apparent liver injury",
+    "rucam_score_bonus": 0,
+    "source": "LiverTox (NIDDK, NIH): Saxagliptin.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Saxagliptin/",
+    "source_review_date": "2018-01-03",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity In large clinical trials, rates of serum enzyme elevations were similar with saxagliptin therapy (<1%) as with placebo, and no instances of clinically apparent liver injury were reported. Nevertheless, postmarketing experience suggests that some DPP-4 inhibitors can cause hepatic enzyme elevations and rare instances of clinically apparent acute liver injury. However, instances of hepatotoxicity due to saxagliptin have yet to be published. Likelihood score: E* (unproven but suspected rare cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury The cause of possible liver injury during saxagliptin therapy is not known. The drug is metabolized by the liver, largely by the cytochrome P450 system (CYP 3A4), and a toxic or immunogenic intermediate of metabolism might be produced that could cause liver injury.",
+    "raw_outcome_text": "Outcome and Management The instances of liver injury associated with the DPP-4 inhibitors have been rare and self-limited, and have resolved rapidly and completely with stopping the medication. The similarity in activity among the DPP-4 inhibitors suggests that there may be cross sensitivity to hepatic injury among the different agents, but this has not been reported. However, the other common antidiabetic medications in use should be tolerated without increased risk of liver injury. References regarding the hepatotoxicity and safety of the DPP-4 inhibitors are given in the Overview section of DPP-4 Inhibitors (updated 03 January 2018). Drug Class: Antidiabetic Agents, Incretin-Based Drugs Other Drugs in the Subclass, Dipeptidyl Peptidase-4 (DPP-4) Inhibitors: Alogliptin, Linagliptin, Sitagliptin",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Saxagliptin - Onglyza®"
+    ],
+    "raw_drug_class": [
+      "Antidiabetic Agents",
+      "Incretin-Based Drugs",
+      "Dipeptidyl Peptidase-4 (DPP-4) Inhibitors",
+      "Alogliptin",
+      "Linagliptin",
+      "Sitagliptin"
+    ],
+    "source_nxml_file": "Saxagliptin.nxml"
+  },
+  {
+    "id": 734,
+    "name_en": "Scopolamine",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "-",
+    "grade_explanation_en": "-",
+    "rucam_score_bonus": "-",
+    "source": "LiverTox (NIDDK, NIH): ScopolamineMethscop.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/ScopolamineMethscop/",
+    "source_review_date": "2017-07-07",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity Despite widespread use over many decades, neither scopolamine nor methscopolamine have been linked to episodes of liver enzyme elevations or clinically apparent liver injury. Scopolamine is metabolized by the liver, but is usually given in low doses (<1 mg) for short periods only. References on the safety and potential hepatotoxicity of anticholinergics are given together after the Overview section on Anticholinergic Agents. Drug Class: Gastrointestinal Agents; Anticholinergic Agents",
+    "raw_mechanism_text": "",
+    "raw_outcome_text": "",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [],
+    "raw_drug_class": [
+      "Gastrointestinal Agents",
+      "Anticholinergic Agents"
+    ],
+    "source_nxml_file": "ScopolamineMethscop.nxml"
+  },
+  {
+    "id": 735,
+    "name_en": "Secnidazole",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "E",
+    "grade_explanation_en": "unlikely cause of clinically apparent liver injury",
+    "rucam_score_bonus": 0,
+    "source": "LiverTox (NIDDK, NIH): Secnidazole.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Secnidazole/",
+    "source_review_date": "2020-02-25",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity Secnidazole is typically given as a single oral dose and, in follow up, de novo serum enzyme elevations occur rarely, overall rates being less than 0.5% of participants. In prelicensure studies, there were no reported cases of clinically apparent liver injury. Furthermore, despite considerable use worldwide, secnidazole has not been linked convincingly to instances of clinically apparent liver injury with jaundice. Likelihood score: E (unlikely cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury The cause of rare instances of serum enzyme elevations with secnidazole therapy is unknown. Its lack of hepatotoxicity probably relates to being given in a single dose. Other nitroimidazoles such as ornidazole and metronidazole have been implicated in cases of acute liver injury with jaundice, but generally with more prolonged use. Secnidazole is metabolized in the liver but has not been found to affect cytochrome P450 enzymes and has no known significant drug-drug interactions. Drug Class: Antiinfective Agents; Gastrointestinal Agents Other Drugs in the Subclass, Nitroimidazoles: Benznidazole, Metronidazole, Tinidazole",
+    "raw_outcome_text": "",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [],
+    "raw_drug_class": [
+      "Antiinfective Agents",
+      "Benznidazole",
+      "Metronidazole",
+      "Tinidazole"
+    ],
+    "source_nxml_file": "Secnidazole.nxml"
+  },
+  {
+    "id": 736,
+    "name_en": "Seladelpar",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "E*",
+    "grade_explanation_en": "unproven but suspected rare cause of clinically apparent liver injury",
+    "rucam_score_bonus": 0,
+    "source": "LiverTox (NIDDK, NIH): Seladelpar.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Seladelpar/",
+    "source_review_date": "2024-09-18",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity In preregistration clinical trials, seladelpar was found to decrease both serum aminotransferase and alkaline phosphatase elevations in a high proportion of patients with PBC. However, in preliminary dose-finding studies in patients with PBC, transient elevations of ALT and AST levels above 5 times the upper limit of normal (ULN) occurred in 3 of 25 subjects exposed to doses of 50 and 200 mg daily but in no placebo-treated patients. The elevations occurred during the few months of therapy and resolved rapidly upon drug discontinuation. Interestingly, alkaline phosphatase levels decreased markedly during the ALT elevations and rose to pretreatment levels soon after discontinuation. In contrast, in subsequent clinical trials of seladelpar in doses of 10 mg daily in patients with PBC, ALT elevations above 5 times ULN were rare, occurred randomly, and were usually attributable to other causes. In the major preregistration randomized placebo-controlled trial, drug discontinuations because of liver test abnormalities arose in 2 of 128 patients [1.6%] receiving seladelpar vs 2 of 65 [3.1%] on placebo. In multiple small clinical trials, there were no episodes of clinically apparent liver injury that were considered due to seladelpar. However, the total clinical experience with seladelpar has been limited, and rare instances of drug induced liver injury are known to occur with other PPAR agonists, such as fenofibrate, bezafibrate, pioglitazone and rosiglitazone. In long term extension studies, decompensation and jaundice arose in a small number of patients taking seladelpar, but in all instances these outcomes arose in patients with preexisting cirrhosis and were interpreted as due to disease progression independent of therapy. Nevertheless, seladelpar and other PPAR agonists are not recommended for patients with advanced or decompensated cirrhosis, and routine monitoring of liver tests is recommended during therapy. Likelihood score: E* (unproven but suspected rare cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "",
+    "raw_outcome_text": "Outcome and Management The product label for seladelpar has a warning about drug induced liver injury and recommends assessing symptoms, signs, and laboratory features of liver disease before starting therapy and monitoring thereafter, with interruption if liver tests worsen or signs and symptoms of acute liver injury arise. If liver tests improve upon stopping but recur with restarting seladelpar, therapy should be permanently discontinued. There is little or no information on cross sensitivity to liver injury or adverse events between seladelpar and other therapies for PBC such as ursodiol, obeticholic acid, elafibranor, and fenofibrate. Drug Class: Liver Disease Agents; Obeticholic Acid, Ursodiol Other PPAR Agonists: Bezafibrate, Elafibranor, Fenofibrate, Pioglitazone, Rosiglitazone",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Seladelpar - Livdelzi®"
+    ],
+    "raw_drug_class": [
+      "Obeticholic Acid",
+      "Ursodiol",
+      "Elafibranor",
+      "Fenofibrate",
+      "Pioglitazone",
+      "Rosiglitazone"
+    ],
+    "source_nxml_file": "Seladelpar.nxml"
+  },
+  {
+    "id": 737,
+    "name_en": "Selegiline",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "E",
+    "grade_explanation_en": "unlikely cause of clinically apparent liver injury",
+    "rucam_score_bonus": 0,
+    "source": "LiverTox (NIDDK, NIH): Selegiline.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Selegiline/",
+    "source_review_date": "2017-07-21",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity Selegiline has been reported to cause serum enzyme elevations in up to 40% of patients treated long term. Although the abnormalities were usually mild and self-limiting, they were persistent with continuation of treatment in some patients, ultimately requiring drug discointuation. Selegiline has not been implicated in cases of clinically apparent acute liver injury, but such instances have been reported with other less specific MAO inhibitors. Likelihood score: E (unlikely cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury Selegiline is extensively removed from the blood by the liver (first pass metabolism) and undergoes hepatic conjugation and elimination. The pathways of selegiline metabolism have not been well defined.",
+    "raw_outcome_text": "Outcome and Management The only liver abnormalities that have attributed to selegiline have been mild and self-limiting elevations in serum enzymes. No instances of acute hepatitis, acute liver failure, chronic hepatitis or vanishing bile duct syndrome have been linked to selegiline use. Drug Class: Antiparkinson Agents Other Drugs in the Subclass, Selective MAO-B Inhibitors: Rasagiline, Safinamide",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [],
+    "raw_drug_class": [
+      "Antiparkinson Agents",
+      "Rasagiline",
+      "Safinamide"
+    ],
+    "source_nxml_file": "Selegiline.nxml"
+  },
+  {
+    "id": 738,
+    "name_en": "Selexipag",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "E",
+    "grade_explanation_en": "unlikely cause of clinically apparent liver injury",
+    "rucam_score_bonus": 0,
+    "source": "LiverTox (NIDDK, NIH): Selexipag.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Selexipag/",
+    "source_review_date": "2016-11-10",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity Selexipag is associated with a low rate of serum aminotransferase elevations (0% to 3%) that in clinical trials was similar to the rate among placebo recipients. These elevations were usually mild (rarely above 3 times ULN), transient and not associated with symptoms. There were no cases of serum enzyme elevations with jaundice in these preregistration clinical trials. Since licensure and more wide scale use, there have been no published reports of clinically apparent liver injury with jaundice associated with selexipag, but it has had limited general use. Likelihood score: E (unlikely cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury The mechanism by which selexipag might cause liver injury is not known. Selexipag is metabolized by the cytochrome P450 system (CYP 2C9 and 3A4), which may lead to production of a toxic intermediate and can also cause drug-drug interactions, particularly with cyclosporine A. One reason for its lack of hepatotoxicity may be that selexipag is administered in relatively low doses of 0.4 to 3.2 mg daily.",
+    "raw_outcome_text": "Outcome and Management The serum enzyme elevations associated with selexipag use have been mild-to-moderate and self-limited in course, often resolving despite drug continuation. There is no reason to believe that there is cross sensitivity to liver injury among the various therapies for PAH. Drug Class: Pulmonary Arterial Hypertension Agents Other Drugs in the Class: Ambrisentan, Bosentan, Riociguat, Macitentan; Prostacyclin Analogs, Epoprostenol, Iloprost, Treprostinil",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Selexipag - Uptravi®"
+    ],
+    "raw_drug_class": [
+      "Pulmonary Arterial Hypertension Agents",
+      "Bosentan",
+      "Riociguat",
+      "Macitentan",
+      "Prostacyclin Analogs",
+      "Epoprostenol",
+      "Iloprost",
+      "Treprostinil"
+    ],
+    "source_nxml_file": "Selexipag.nxml"
+  },
+  {
+    "id": 739,
+    "name_en": "Silodosin",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "E*",
+    "grade_explanation_en": "unproven but suspected rare cause of clinically apparent liver injury",
+    "rucam_score_bonus": 0,
+    "source": "LiverTox (NIDDK, NIH): Silodosin.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Silodosin/",
+    "source_review_date": "2018-01-08",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity Silodosin has been associated with a low rate of serum aminotransferase elevations (<2%) that in controlled trials was no higher than with placebo or comparative agent therapy. These elevations were transient and did not require dose modification. No instances of clinically apparent acute liver injury due to silodosin have been published in the literature, but reports of jaundice with serum enzyme elevations have been received by the sponsor. Among the alpha adrenergic receptor antagonists, the most frequently implicated agent in causing liver injury has been alfuzosin with only single, and not well documented cases linked to other alpha blockers. Thus, acute symptomatic liver injury due to silodosin is quite rare, if it occurs at all. Likelihood score: E* (unproven but suspected rare cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury The cause of the serum aminotransferase elevations and rare instances of acute liver injury associated with the alpha-1a adrenergic antagonists is not known. Silodosin is partially metabolized by the liver by the cytochrome P450 enzymes (predominantly CYP 3A4) and generation of a mildly toxic intermediate is a possible explanation.",
+    "raw_outcome_text": "Outcome and Management No instances of acute liver failure or chronic liver injury have been reported in association with the alpha-1 adrenergic blockers. There is no information on cross reactivity of the liver injury among the various adrenergic receptor antagonists, but similarity of chemical structure suggests that cross sensitivity may be present. References to the safety and potential hepatotoxicity of alfuzosin are given in the Overview on the Alpha-1 Adrenergic Receptor Antagonists. Drug Class: Benign Prostatic Hypertrophy Agents Other Drugs in the Class: Alpha-1 Adrenergic Receptor Antagonists Alfuzosin, Doxazosin, Tamsulosin, Terazosin 5-Alpha Reductase Inhibitors Dutasteride, Finasteride",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Silodosin - Rapaflo®"
+    ],
+    "raw_drug_class": [
+      "Benign Prostatic Hypertrophy Agents",
+      "Alpha-1 Adrenergic Receptor Antagonists",
+      "Alfuzosin",
+      "Doxazosin",
+      "Tamsulosin",
+      "Terazosin",
+      "5-Alpha Reductase Inhibitors",
+      "Dutasteride",
+      "Finasteride"
+    ],
+    "source_nxml_file": "Silodosin.nxml"
+  },
+  {
+    "id": 740,
+    "name_en": "Sitagliptin",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "D",
+    "grade_explanation_en": "possible rare cause of clinically apparent liver injury",
+    "rucam_score_bonus": 1,
+    "source": "LiverTox (NIDDK, NIH): Sitagliptin.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Sitagliptin/",
+    "source_review_date": "2018-01-03",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity Liver injury due to sitagliptin is rare. In large clinical trials, serum enzyme elevations were no more common with sitagliptin therapy (0.5%) than with placebo (0.4%), and no instances of clinically apparent liver injury were reported. Since licensure, instances of serum enzyme elevations attributed to sitagliptin have been reported to the FDA and the sponsor. A single case report of clinically apparent liver injury has been published, but in a patient who also had hepatitis C. The pattern of serum enzyme elevations was hepatocellular and peak serum bilirubin was 9.4 mg/dL, with a rapid recovery upon stopping sitagliptin. Immunoallergic features and autoantibodies were absent. Likelihood score: D (possible rare cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury The cause of liver injury during sitagliptin therapy is not known. The drug is mostly excreted unchanged and only a small proportion (~15%) is metabolized in the liver, largely by the cytochrome P450 system (CYP 3A4 and 2C8).",
+    "raw_outcome_text": "Outcome and Management The instances of liver injury associated with the DPP-4 inhibitors have been self-limited and resolved rapidly upon stopping the medication. The similarity in chemical structure among the DPP-4 inhibitors suggests that there may be cross sensitivity to hepatic injury among the different agents, but this has not been reported. However, the other common antidiabetic medications in use should be tolerated without increased risk of liver injury. References regarding the hepatotoxicity and safety of the DPP-4 inhibitors are given in the Overview section of DPP-4 Inhibitors (updated 03 January 2018). Drug Class: Antidiabetic Agents, Incretin-Based Drugs Other Drugs in the Subclass, Dipeptidyl Peptidase-4 (DPP-4) Inhibitors: Alogliptin, Linagliptin, Saxagliptin",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Sitagliptin - Januvia®"
+    ],
+    "raw_drug_class": [
+      "Antidiabetic Agents",
+      "Incretin-Based Drugs",
+      "Dipeptidyl Peptidase-4 (DPP-4) Inhibitors",
+      "Alogliptin",
+      "Linagliptin",
+      "Saxagliptin"
+    ],
+    "source_nxml_file": "Sitagliptin.nxml"
+  },
+  {
+    "id": 741,
+    "name_en": "Trimethoprim-Sulfamethoxazole",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "A",
+    "grade_explanation_en": "well established cause of clinically apparent acute liver injury",
+    "rucam_score_bonus": 2,
+    "source": "LiverTox (NIDDK, NIH): SMZ-TMP.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/SMZ-TMP/",
+    "source_review_date": "2026-01-15",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity TMP-SMZ is a well-known cause of acute drug-induced liver injury and typically has features suggestive of hypersensitivity much like other sulfonamides. In most recent case series from the United States and Europe, TMP-SMZ ranked among the top 5 causes of drug-induced idiosyncratic liver injury. The estimated incidence of liver injury after TMP-SMZ use ranges from 1 per 2,000 to 1 per 5,000 treated patients. The typical latency to onset is 2 to 8 weeks. Cases with shorter latencies are likely due to re-challenge after minor or forgotten toxicity with the previous exposures. At least half of cases are accompanied by signs and symptoms of hypersensitivity such as fever, rash, facial edema, lymphadenopathy, and peripheral eosinophilia (Case 1). Liver injury can be an accompanying finding in patients with DRESS syndrome, or more rarely, Stevens Johnson syndrome (SJS) or toxic epidermal necrosis (TEN). The most frequent pattern of initial enzyme elevations is mixed, but markedly cholestatic and markedly hepatocellular patterns occur. For unknown reasons, injury in children and young adults is more often hepatocellular, while cholestatic cases occur more frequently in the elderly. The course of the liver injury may be short-lived with rapid recovery or complicated and prolonged. Cases with cholestatic TMP-SMZ related liver injury are often prolonged and some are accompanied by varying degrees of bile duct injury and loss leading to vanishing bile duct syndrome and chronic cholestasis which, if severe, can lead to biliary cirrhosis, chronic liver failure, and death or need for liver transplantation. However, most cases of vanishing bile duct syndrome usually improve spontaneously over time, with gradual resolution of jaundice and symptoms, leaving minor alkaline phosphatase and GGT elevations that may persist for years. As with other sulfonamides, TMP-SMZ can also cause acute hepatocellular injury that ranges in severity from mild (Case #2) to severe and can lead to acute liver failure and death (Case #3). Hepatocellular injury with jaundice is associated with a high mortality rate, and in large case series, TMP-SMZ ranks within the top 10 causes of drug induced, idiosyncratic fulminant hepatic failure. However, most hepatocellular injury cases resolve rapidly upon stopping the drug, usually within 2 to 4 weeks. TMP-SMZ can also cause mild to moderate elevations in ALT levels without jaundice and symptoms. TMP-SMZ liver injury with prominent symptoms or signs of hypersensitivity may be accompanied by hepatic granulomas on liver biopsy. Clearly TMP-SMZ related liver injury presents in a wide spectrum of clinical phenotypes. Perhaps most characteristic is the sudden development of fever and rash followed a few days later by jaundice within a few weeks of starting the medication. Latencies longer than 8 weeks are rare even with chronic prophylactic use of TMP-SMZ. Trimethoprim by itself is also capable of causing idiosyncratic, clinically apparent acute liver injury. The injury usually arises after 2 to 12 weeks of therapy and the typical pattern of serum enzyme elevations is mixed or cholestatic. Immunoallergic features are not common, which separates the typical hepatotoxicity of trimethoprim from that of sulfamethoxazole, the sulfonamide component of TMP-SMZ. In several instances, patients who have developed clinically apparent liver injury due to TMP-SMZ, have re-developed symptoms and laboratory abnormalities when treated with trimethoprim alone. Retreatment of patients after recovery with TMP-SMZ or with another sulfonamide should not be done, as several severe and fulminant cases of recurrence have been described after re-challenge. Likelihood score: A (well established cause of clinically apparent acute liver injury)",
+    "raw_mechanism_text": "Mechanism of Injury The clinical pattern of injury with TMP-SMZ suggests a drug-allergy or hypersensitivity mechanism, perhaps through its metabolism to a toxic, reactive or antigenic metabolite. Adverse hypersensitivity-like reactions to TMP-SMZ are particularly common in HIV-infected individuals, toxicity requiring discontinuation developing in up to 75% of patients, with hepatic enzyme abnormalities in 20%. TMP-SMZ liver injury may be more frequent in persons of African ancestry in whom the HLA-B*35:01 allele appears to be a risk factor. In studies from the United States, African Americans appear to have a higher rate of immunoallergic forms of drug-induced liver injury and are at higher risk for liver injury from sulfonamides, allopurinol, phenytoin, carbamazepine, and lamotrigine than Americans of European ancestry.",
+    "raw_outcome_text": "Outcome and Management TMP-SMZ induced liver injury varies greatly in severity, from mild, anicteric and self-limited liver enzyme elevations, to acute symptomatic hepatitis, to a prolonged cholestatic syndrome, and to acute liver failure. Most cases are self-limited and resolve rapidly with discontinuation of drug, with full recovery within 2 to 8 weeks. Severe cholestatic injury may be prolonged and rare cases of chronic liver injury with vanishing bile duct syndrome have been reported. The hepatic injury may be part of a systemic hypersensitivity reaction and categorized as DRESS syndrome. Rechallenge should not be done, and patients should be told that they are allergic to sulfonamides (“sulfa-drugs”) and not receive other drugs in this class. Trimethoprim by itself can also cause acute liver injury and some patients have re-developed injury when switched from TMP-SMZ to trimethoprim alone. However, in most instances, the sulfonamide component of TMP-SMZ is the culprit. Prednisone has been used with variable success but may be helpful and speed clinical improvement in the allergic features of TMP-SMZ injury (rash, fever, eosinophilia), but has not been shown to ameliorate or shorten the degree of hepatic injury. Corticosteroids do not appear to benefit sulfonamide-induced cholestatic injury without allergic or hypersensitivity manifestations and demonstrate no evidence of benefit for the vanishing bile duct syndrome. Drug Class: Antiinfective Agents, Sulfonamides",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [],
+    "raw_drug_class": [
+      "Antiinfective Agents",
+      "Sulfonamides"
+    ],
+    "source_nxml_file": "SMZ-TMP.nxml"
+  },
+  {
+    "id": 742,
+    "name_en": "Solifenacin",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "D",
+    "grade_explanation_en": "possible, very rare cause of clinically apparent liver injury",
+    "rucam_score_bonus": 1,
+    "source": "LiverTox (NIDDK, NIH): Solifenacin.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Solifenacin/",
+    "source_review_date": "2023-07-15",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity Like most anticholinergic agents, solifenacin has not been linked to liver enzyme elevations during therapy or to instances of clinically apparent liver injury with jaundice. In multiple prospective clinical trials of solifenacin in patients with overactive bladder syndrome, ALT elevations were reported in less than 1% of treated subjects, rates similar to that of placebo-recipients. Despite widespread clinical use for almost two decades, there has been only a single published case report of possible liver injury due to darifenacin use. An elderly woman with end stage liver injury developed transient elevations of serum aminotransferases and alkaline phosphatase without jaundice two weeks after starting solifenacin. Thus, liver injury due to solifenacin must be rare if it occurs at all. Likelihood score: D (possible, very rare cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury The mechanism by which solifenacin might cause liver injury unknown. It is metabolized in the liver by microsomal P450 enzymes, predominantly CYP 3A4 and 2D6. Despite this, drug-drug interactions are uncommon. A major reason for its safety may relate to the low daily dose. Drug Class: Anticholinergic Agents",
+    "raw_outcome_text": "",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [],
+    "raw_drug_class": [
+      "Anticholinergic Agents"
+    ],
+    "source_nxml_file": "Solifenacin.nxml"
+  },
+  {
+    "id": 743,
+    "name_en": "Sorafenib",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "B",
+    "grade_explanation_en": "likely cause of clinically apparent liver injury",
+    "rucam_score_bonus": 2,
+    "source": "LiverTox (NIDDK, NIH): Sorafenib.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Sorafenib/",
+    "source_review_date": "2018-06-22",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity In large clinical trials of sorafenib, elevations in serum aminotransferase levels were common, occurring in up to half of patients, but values greater than 5 times the upper limit of normal (ULN) occurred in only 1% to 3% of treated subjects. In addition, there have been several single case reports of clinically apparent liver injury arising during sorafenib therapy which was often severe and occasionally fatal. The onset of acute liver injury ranged from a few days to 8 weeks of starting sorafenib, and the pattern of injury was typically hepatocellular with marked elevations in serum aminotransferase levels. Immunoallergic and autoimmune features were absent. Recovery was usually rapid once sorafenib was stopped, but some cases were associated with progressive liver injury and hepatic failure. Most of the reports of severe liver injury occurred in patients being treated for hepatocellular carcinoma who also had cirrhosis or in patients receiving other potentially hepatotoxic drugs31. Likelihood score: B (likely cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury The mechanism of injury accounting for serum enzyme elevations during sorafenib therapy is not known. Sorafenib is metabolized in the liver largely through the CYP 3A4 pathway and liver injury may be related to production of a toxic intermediate. Sorafenib is susceptible to drug-drug interactions with agents that inhibit or induce hepatic CYP 3A4 activity. Sorafenib, like many tyrosine kinase inhibitors can inhibit UDP glucuronosyltransferase activity which can result in mild indirect hyperbilirubinemia and may predispose to acetaminophen toxicity.",
+    "raw_outcome_text": "Outcome and Management Monitoring of routine liver tests is recommended during sorafenib therapy. Serum aminotransferase elevations above 5 times the upper limit of normal (if confirmed) or any elevations accompanied by jaundice or symptoms should lead to dose reduction or temporary cessation. Sorafenib has been implicated in cases of acute liver failure, but not in instances of chronic hepatitis or vanishing bile duct syndrome. There does not appear to be cross reactivity in risk for hepatic injury between sorafenib and other kinase inhibitors including the angiogenesis inhibitors such axitinib and sunitinib. Drug Class: Antineoplastic Agents, Protein Kinase Inhibitors",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Sorafenib - Nexavar®"
+    ],
+    "raw_drug_class": [
+      "Antineoplastic Agents",
+      "Protein Kinase Inhibitors"
+    ],
+    "source_nxml_file": "Sorafenib.nxml"
+  },
+  {
+    "id": 744,
+    "name_en": "Sotalol",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "E",
+    "grade_explanation_en": "unlikely cause of clinically apparent liver injury",
+    "rucam_score_bonus": 0,
+    "source": "LiverTox (NIDDK, NIH): Sotalol.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Sotalol/",
+    "source_review_date": "2017-01-15",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity Mild-to-moderate elevations in serum aminotransferase levels occur in less than 2% of patients on sotalol and are usually transient and asymptomatic, resolving even with continuation of therapy. Sotalol has been linked to a single case of clinically apparent liver injury, with onset of an acute hepatitis-like syndrome with prolonged jaundice 12 weeks after sotalol was initiated. The injury improved but did not resolve with discontinuation of sotalol. In large case series of drug induced liver disease and acute liver failure, sotalol has not been listed as a cause. Other beta-blockers have been linked to rare instances of acute clinically apparent liver injury with a latency to onset ranging from 4 to 24 weeks, a hepatocellular pattern of serum enzyme elevations and a mild, self-limiting course without evidence of hypersensitivity or autoimmune reactions. Likelihood score: E (unlikely cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury Sotalol undergoes minimal metabolism by the liver and is excreted largely unchanged in the urine. The reason why sotalol might cause liver injury is unknown. The acute liver injury attributed to other beta-blockers is likely to be idiosyncratic. References to the safety and potential hepatotoxicity of sotalol are provided in the overview on Beta-Adrenergic Receptor Antagonists, last updated in June 2019. Drug Class: Beta-Adrenergic Receptor Antagonists",
+    "raw_outcome_text": "",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [],
+    "raw_drug_class": [
+      "Beta-Adrenergic Receptor Antagonists"
+    ],
+    "source_nxml_file": "Sotalol.nxml"
+  },
+  {
+    "id": 745,
+    "name_en": "Sotorasib",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "D",
+    "grade_explanation_en": "possible but infrequent cause of clinically apparent liver injury",
+    "rucam_score_bonus": 1,
+    "source": "LiverTox (NIDDK, NIH): Sotorasib.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Sotorasib/",
+    "source_review_date": "2023-09-02",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity In the prelicensure clinical trials of sotorasib in patients with solid tumors harboring KRAS G12C mutations, liver test abnormalities were frequent although usually self-limited and mild. Some degree of ALT elevations arose in 38% of sotorasib treated patients and were above 5 times the upper limit of normal (ULN) in 6% to 7%. In these trials that enrolled approximately 427 patients, sotorasib was discontinued early due to increased AST or ALT in 8% of patients. In addition, a small proportion of patients developed significant hepatotoxicity requiring sotorasib discontinuation and treatment with corticosteroids. The liver test abnormalities had a median onset of 9 weeks after initiation of therapy. While serum aminotransferase elevations were occasionally quite high (5 to 20 times upper limit of normal), there was no accompanying elevations in serum bilirubin and no patient developed clinically apparent liver injury with jaundice. The product label for sotorasib recommends monitoring for routine liver tests before, at 3 week intervals during the first 3 months of therapy, and monthly thereafter as clinically indicated. Strikingly, the more severe elevations of serum aminotransferase levels during therapy with sotorasib occurred among patients who had recently received checkpoint inhibitor therapy (usually anti-PD-L1) in the 1 to 3 months before starting sotorasib. Furthermore, the elevations tended to respond quickly to corticosteroid therapy and sometimes did not recur when sotorasib was restarted several months later. These findings suggest that the aminotransferase elevations during sotorasib therapy are due to a delayed immune-mediated hepatotoxicity triggered by the previous checkpoint inhibitor therapy. Likelihood score: D (possible but infrequent cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury The cause of serum aminotransferase elevations from sotorasib is unknown, but the pattern of abnormalities suggests immune-mediated liver injury. Several retrospective analyses have found that significant ALT and AST elevations arise most frequently in patients who had received checkpoint inhibitor therapy (usually anti-PD-L1) within 3 months of starting sotorasib. Furthermore, the histologic and clinical features of liver injury from sotorasib resemble that of checkpoint inhibitors and a limited course of corticosteroids is often found to be beneficial. Sotorasib is metabolized in the liver via the cytochrome P450 system, largely CYP 3A4, and is susceptible to drug-drug interactions with agents that inhibit or induce the CYP enzyme reactivity. Because of its known toxicity, drugs that inhibit CYP 3A4 activity should be avoided or the dose of sotorasib adjusted according.",
+    "raw_outcome_text": "Outcome and Management The product label for sotorasib recommends monitoring for routine liver tests before starting treatment, at 3 week intervals during the first 3 months of treatment and monthly thereafter as clinically indicated. Serum aminotransferase elevations above 5 times the upper limit of normal should lead to dose reduction or temporary cessation of sotorasib therapy and careful monitoring. If serum aminotransferase levels remain high, a limited course of corticosteroids may be appropriate, particularly if there is a history of prior check point inhibitor therapy or accompanying signs of hypersensitivity are present. Furthermore, restarting therapy in a reduced dose can be done with caution and continued monitoring. In patients with jaundice or symptoms of liver injury accompanying the serum aminotransferase elevations, sotorasib should be promptly discontinued. Cross sensitivity to liver injury is uncommon among the antineoplastic, small molecule enzyme and receptor inhibitors, but there is no information on shared adverse event sensitivity of sotorasib with other antineoplastic small molecule inhibitors. Drug Class: Antineoplastic Agents, Protein Kinase Inhibitors",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Sotorasib - Lumakras®"
+    ],
+    "raw_drug_class": [
+      "Antineoplastic Agents",
+      "Protein Kinase Inhibitors"
+    ],
+    "source_nxml_file": "Sotorasib.nxml"
+  },
+  {
+    "id": 746,
+    "name_en": "Sulindac",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "A",
+    "grade_explanation_en": "well established, although rare cause of clinically apparent liver injury",
+    "rucam_score_bonus": 2,
+    "source": "LiverTox (NIDDK, NIH): Sulindac.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Sulindac/",
+    "source_review_date": "2025-07-20",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity Chronic therapy with sulindac is associated with a low rate of serum aminotransferase elevations, which are rarely severe and usually self-limited. Clinically apparent acute liver injury from sulindac is well known, but rare; estimated to occur in approximately 1:8000 new users. Sulindac hepatotoxicity typically presents with fever, rash, nausea and vomiting and abdominal pain arising within a few days or weeks of starting the medication and followed shortly thereafter by jaundice. Occasionally, the onset may be delayed, particularly if therapy is intermittent. The clinical pattern suggests an allergic hepatitis and is somewhat similar to the hepatotoxicity of the sulfonamides. The pattern of serum enzyme elevations is usually hepatocellular or mixed at the onset, but may then become cholestatic. However, recovery is usually rapid once sulindac is stopped. Histology is consistent with an allergic hepatitis with spotty necrosis and marked inflammatory cell infiltration with prominence of eosinophils. In many instances, the features of hypersensitivity (such as facial swelling, desquamating rash, pharyngitis, stomatitis, lymphadenopathy, and hypotension) overshadow the liver injury and are more commonly the cause of death. Sulindac can also cause acute liver injury with a more delayed latency with few or no features of hypersensitivity. These cases are usually cholestatic and can be prolonged and lead to vanishing bile duct syndrome. Likelihood score: A (well established, although rare cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury The mechanism of sulindac hepatotoxicity appears to be hypersensitivity, since features of immunoallergic hepatitis are common, occurring in at least half of patients. Cases not accompanied by hallmarks of hypersensitivity tend to appear after longer periods of exposure and suggest a possible metabolic, rather than immunologic idiosyncrasy.",
+    "raw_outcome_text": "Outcome and Management The minor aminotransferase elevations that occur in a small proportion of patients during chronic therapy with sulindac are usually subclinical and not progressive. The clinically apparent liver injury from sulindac ranges in severity from mild, self-limited immunoallergic hepatitis, to a prolonged and severe cholestasis to acute liver failure and death. Prognosis may relate, at least in part, to whether sulindac is discontinued promptly and to whether other organs are involved in a hypersensitivity reaction. If hypersensitivity features are prominent or liver injury is severe, corticosteroid therapy may be appropriate, although such intervention has not been proven to be beneficial. Complete recovery with normalization of laboratory abnormalities usually occurs within 1 to 2 months, but can take up to half a year after stopping sulindac. In cases of cholestatic liver injury arising later during sulindac therapy, recovery is often more delayed and instances of vanishing bile duct syndrome have been reported. After immunoallergic liver injury, reexposure to sulindac usually results in rapid recurrence of liver injury and allergic features which can be severe. Thus, rechallenge with sulindac should be avoided. There is rarely cross reactivity in liver injury between sulindac and NSAIDs of other classes, but there may be cross reactivity to allergic reactions to indomethacin and the sulfonamides. Drug Class: Nonsteroidal Antiinflammatory Drugs",
+    "raw_case_report_text": "CASE REPORT Case 1. Severe immunoallergic hepatitis attributed to sulindac.(1) A 51 year old woman with a chronic myeloproliferative disorder developed nausea, fatigue and fever within 24 hours of starting sulindac for back pain. She had no history of liver disease, had no risk factors for viral hepatitis, did not drink alcohol, and was taking no other medications. Physical examination revealed mild jaundice and fever; there was no mention of rash. Initial laboratory tests showed bilirubin of 3.7 mg/dL and 10-fold elevations of ALT with minimal increases in alkaline phosphatase (Table). Tests for hepatitis B and autoantibodies were negative. Ultrasound showed hepatosplenomegaly without biliary tract abnormalities. She recovered rapidly and was well during follow up until she inadvertently restarted sulindac and redeveloped symptoms of fatigue, fever and jaundice within 24 hours. On readmission, she was markedly jaundiced and serum ALT levels were 100-fold elevated. A liver biopsy taken 2 to 3 weeks later showed evidence of hepatocellular necrosis, cholestasis and drug induced liver disease. She recovered rapidly and laboratory tests were near normal within 8 weeks. Key Points Medication: Sulindac (150 mg orally taken twice daily for one day) Pattern: Hepatocellular (R=9 initially; >100 on rechallenge, later falling to cholestatic range, with R=2.6 and <1.0) Severity: 4+ (hospitalized, jaundiced, prolongation of prothrombin time) Latency: 1 day to symptoms, 3 days to jaundice Recovery: 4 to 8 weeks Other medications: None Laboratory Values Time AfterStarting Time AfterStopping ALT(U/L) Alk P(U/L) Bilirubin(mg/dL) Comments 0 Two doses of sulindac (200 mg) taken 1 day 0 317 275 3.7 4 days 3 days 307 687 2.7 9 days 8 days 180 562 1.4 19 days 18 days 23 14 1.3 Time After Restarting Time After Restopping 5 months later, two doses of sulindac taken 5 days 4 days 4060 8 days 7 days 835 276 21.0 Protime=18.3 sec 11 days 10 days 395 18.0 16 days 15 days 71 407 11.0 19 days 18 days 39 508 6.0 4 weeks 4 weeks 30 499 3.0 Liver biopsy 10 weeks 10 weeks 29 290 1.2 Normal Values <35 <275 <1.2 Comment This patient developed an acute immunoallergic hepatitis that was attributed to sulindac, and the inadvertent rechallenge made the association definite. Upon initial presentation, the pattern of enzyme elevations was hepatocellular, but the pattern rapidly became cholestatic over the course of the illness and a liver biopsy was described as showing a cholestatic hepatitis. The patient reported allergy to house dust and pollen, but there was no history of previous drug-allergy. In patients with hypersensitivity reactions to sulindac, it is best to avoid other indene acetic acid NSAIDs such as indomethacin and possibly appropriate to avoid use of sulfonamides. The case history is a strong reminder that patients with drug induced liver disease should be told to discard any remaining pills of the implicated medication.",
+    "raw_case_report_key_points": {
+      "Medication": "Sulindac (150 mg orally taken twice daily for one day)",
+      "Pattern": "Hepatocellular (R=9 initially; >100 on rechallenge, later falling to cholestatic range, with R=2.6 and <1.0)",
+      "Severity": "4+ (hospitalized, jaundiced, prolongation of prothrombin time)",
+      "Latency": "1 day to symptoms, 3 days to jaundice",
+      "Recovery": "4 to 8 weeks",
+      "Other medications": "None"
+    },
+    "raw_trade_names": [],
+    "raw_drug_class": [
+      "Nonsteroidal Antiinflammatory Drugs"
+    ],
+    "source_nxml_file": "Sulindac.nxml"
+  },
+  {
+    "id": 747,
+    "name_en": "Sunitinib",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "B",
+    "grade_explanation_en": "highly likely cause of clinically apparent liver injury, including hyperammonemic syndrome",
+    "rucam_score_bonus": 2,
+    "source": "LiverTox (NIDDK, NIH): Sunitinib.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Sunitinib/",
+    "source_review_date": "2018-06-27",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity In large clinical trials of sunitinib, elevations in serum aminotransferase levels were common, occurring in 39% of sunitinib vs 23% of placebo recipients. Values greater than 5 times the upper limit of normal (ULN) occurred in only 2% to 3% of sunitinib recipients (and 1% of controls). These abnormalities were usually asymptomatic. Dose adjustment or temporary discontinuation and restarting at a lower dose is recommended if enzyme levels are markedly elevated (ALT or AST persistently greater than 5 times ULN or bilirubin more than 3 times ULN). Sunitinib therapy is also associated with a high rate of serum bilirubin elevations, generally in the mild-to-moderate range and not in association with ALT or AST elevations. These changes are probably due to interaction with hepatic UDP-glucuronyltransferase, the enzyme that is also responsible for bilirubin excretion. More importantly, there have been several case reports of clinically apparent liver injury attributed to sunitinib therapy. The time to onset was after several cycles of therapy. The pattern of serum enzyme elevations was typically hepatocellular and the clinical presentation resembled acute hepatic necrosis. In some instances, the injury may have been due to hypotension, shock or ischemia rather than direct hepatotoxicity (Case 1). Regardless, the injury can be severe and several instances of acute liver failure and death have been reported. Immunoallergic features (rash, fever and eosinophilia) are not common. Finally, sunitinib has also been reported to cause hyperammonemia and encephalopathy in rare patients with cancer treated with conventional or even low oral doses (Case 2). The time to onset was within 1 to 3 weeks, presenting with confusion and irritability with minimal elevations in serum enzymes and bilirubin and marked increases (4-10 times the ULN) in serum ammonia. Recovery is rapid once sunitinib is stopped and the syndrome can recur with re-exposure. Interesting, there appears to be little cross-reactivity to this complication with other tyrosine kinase inhibitors. Likelihood score: B (highly likely cause of clinically apparent liver injury, including hyperammonemic syndrome).",
+    "raw_mechanism_text": "Mechanism of Injury The clinical features of cases of severe acute liver injury due to sunitinib have suggested ischemic damage that may be related to hypotension and anoxia, rather than direct hepatic injury. Sunitinib is metabolized in the liver largely through the CYP 3A4 pathway and liver injury may be related to production of a toxic intermediate. The cause of hyperammonemia due to sunitinib is unknown, but it appears to be idiosyncratic and may relate to inhibition of urea cycle enzymes by sunitinib.",
+    "raw_outcome_text": "Outcome and Management Serum aminotransferase elevations above 5 times the upper limit of normal (if confirmed) should lead to dose reduction or temporary cessation. In some situations, therapy can be restarted particularly with concurrent prednisone (10-20 mg daily). In patients with clinically apparent liver injury and jaundice, restarting therapy should be done with caution. There does not appear to be cross reactivity in risk for hepatic injury between sunitinib and other tyrosine kinase inhibitors and, in some situations, switching to another tyrosine kinase receptor inhibitor may be appropriate. Cases of acute liver failure have occurred in patients receiving sunitinib. In using this medication, other potentially hepatotoxic agents should be avoided. Drug Class: Antineoplastic Agents, Protein Kinase Inhibitors",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Sunitinib - Sutent®"
+    ],
+    "raw_drug_class": [
+      "Antineoplastic Agents",
+      "Protein Kinase Inhibitors"
+    ],
+    "source_nxml_file": "Sunitinib.nxml"
+  }
+]

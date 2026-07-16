@@ -1,0 +1,342 @@
+[
+  {
+    "id": 406,
+    "name_en": "Pembrolizumab",
+    "type": "ยาชีวภาพ",
+    "thai_herb_source": null,
+    "livertox_grade": "A",
+    "grade_explanation_en": "well known cause of clinically apparent liver injury and likely cause of reactivation of hepatitis B",
+    "rucam_score_bonus": 2,
+    "source": "LiverTox (NIDDK, NIH): Pembrolizumab.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Pembrolizumab/",
+    "source_review_date": "2022-06-23",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity Mild-to-moderate serum aminotransferase elevations are not uncommon (20% to 30%) during pembrolizumab therapy, but are usually self-limited and resolve even with continuing cyclic therapy. These rates of serum enzyme elevations are similar to those with other forms of chemotherapy for advanced malignancies. Serum ALT elevations above 5 times the upper limit of normal (ULN) occur in 1% to 4% of patients and generally lead to temporary discontinuation. Importantly, in 1% to 2% of patients the serum enzyme elevations evolve into an immune mediated liver injury that can be clinically apparent and can be severe. The onset of injury is usually after 2 to 4 cycles or 1 to 3 months after starting treatment. The pattern of enzyme elevation is usually hepatocellular but can be mixed or even cholestatic. Liver histology typically demonstrates a panlobular hepatitis with focal or confluent necrosis and prominent lymphocytic infiltrates of activated T cells, compatible with an immune mediated hepatic injury. More severe forms of hepatitis may demonstrate centrilobular (zone 3) necrosis. Despite features of immune mediated liver injury, autoantibodies are usually not present and immunoglobulin levels are normal. Because of the serious nature of the liver injury, monitoring with routine liver tests (including alkaline phosphatase) is recommended for patients who receive checkpoint inhibitor therapy. Treatment with corticosteroids generally results in a rapid improvement, allowing for their discontinuation within 1 to 2 months. In some instances, however, the clinical and biochemical response is inadequate, calling for addition of a second immunosuppressive agent such as azathioprine or mycophenolate mofetil. Restarting pembrolizumab or another checkpoint inhibitor after resolution of the hepatic injury is sometimes possible, but can result in recurrence of injury and has not been shown to improve outcome of the cancer chemotherapy. A proportion of patients receiving pembrolizumab develop cholestatic rather than hepatocellular liver injury. Cholestatic forms of immune mediated liver injury generally arise later than the hepatocellular forms (after 3 to 10 cycles) and are often accompanied by abdominal pain and jaundice. Alkaline phosphatase levels are markedly elevated while aminotransferase levels are only modestly increased. Imaging studies may show irregular dilatation of the intra- and/or extra-hepatic bile ducts and thickening of the gall bladder and bile duct wall but without evidence of frank obstruction. Liver biopsy shows portal inflammation and bile duct injury, and endoscopic biopsy of bile duct epithelium shows inflammation and scarring. The general features suggest a secondary form of sclerosing cholangitis referred to as checkpoint inhibitor cholangiopathy. Therapy with immunosuppression may improve alkaline phosphatase and bilirubin levels but rarely leads to complete recovery, and long term cholestasis and hepatic failure can occur. Some patients with a cholestatic form of immune related liver injury do not manifest the large bile duct changes but demonstrate loss and paucity of the smaller intrahepatic bile ducts resulting in a vanishing bile duct syndrome similar to primary biliary cholangitis (PBC). The effects of PD-1 inhibition on chronic hepatitis B are not well defined, but convincing examples of reactivation of hepatitis B have been described due to pembrolizumab and other checkpoint inhibitors. Most cases have occurred in patients with preexisting HBsAg, but rare instances were reported in individuals suspected of having with anti-HBc without HBsAg. Thus, screening patients for HBsAg, anti-HBc and anti-HBs is appropriate before initiating immunotherapy with checkpoint inhibitors. Patients with HBsAg should be considered for prophylaxis with an antiviral agent with potent activity against HBV such as entecavir or tenofovir. In patients with anti-HBc without HBsAg, monitoring and close attention to liver test abnormalities is probably adequate if antiviral therapy can be introduced rapidly for early evidence of reactivation. There has not been adequate experience with pembrolizumab in regard to the risk of reactivation of hepatitis B to provide rates of reactivation with and without antiviral prophylaxis. Likelihood score: A (well known cause of clinically apparent liver injury and likely cause of reactivation of hepatitis B).",
+    "raw_mechanism_text": "Mechanism of Injury The mechanism of liver injury due to pembrolizumab is likely to be immunologically mediated and is usually at least partially responsive to corticosteroid or immunosuppressive therapy. Liver biopsies in cases of hepatocellular injury and bile duct epithelial cell biopsies in cholangiopathic injury demonstrate necrosis and inflammatory cell infiltration with cytotoxic CD8+ T cells, suggesting that the checkpoint inhibition allowed for activation of T cells directed at hepatocyte or cholangiocyte cell surface antigens.",
+    "raw_outcome_text": "Outcome and Management Guidelines for management of patients receiving pembrolizumab recommend monitoring of liver tests and interrupting therapy for patients who develop serum aminotransferase elevations above 3 times the upper limit of normal (ULN), and discontinuing treatment for values above 8 times the ULN in patients without preexisting abnormalities or tumor involvement of the liver (in whom elevations of 5 and 10 times the ULN are used). Corticosteroid therapy can be considered for patients with high or persistent ALT elevations or if symptoms or jaundice arise, initiating therapy with high dose intravenous methylprednisolone and switching to oral prednisone after 1 to 2 days, continuing tapering doses for at least 30 days. Most cases of hepatitis due to pembrolizumab resolve with prompt institution of immunosuppressive therapy which can be discontinued in 1 to 3 months. In some more protracted and resistant instances, corticosteroids have only a limited effect and adding a second agent is needed. Mycophenolate mofetil or azathioprine are most commonly recommended. Other immunosuppressive agents that have been reported to be beneficial include antithymocyte globulin, tacrolimus, infliximab and cycloserine. In refractory cases, immunosuppressive therapy may be needed long term. The few fatal cases due to checkpoint inhibitors have typically occurred in patients who have cholestatic forms of liver injury or have other severe immune related adverse events (Stevens Johnson syndrome, capillary leak syndrome). Restarting pembrolizumab after severe liver injury requiring corticosteroid therapy can be followed by recurrence of liver injury and is not recommended. Switching to other checkpoint inhibitors (ipilimumab or anti-PD-L1 inhibitors) is more likely to be tolerated. Interestingly, survival rates do not seem to be improved by re-introduction of checkpoint inhibitor therapy after severe immune related adverse events. Thus, restarting therapy should be undertaken only after careful evaluation of the residual cancer status. Drug Class: Antineoplastic Agents, Monoclonal Antibodies, Checkpoint Inhibitors",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Pembrolizumab - Keytruda®"
+    ],
+    "raw_drug_class": [
+      "Antineoplastic Agents",
+      "Monoclonal Antibodies"
+    ],
+    "source_nxml_file": "Pembrolizumab.nxml"
+  },
+  {
+    "id": 407,
+    "name_en": "Pertuzumab",
+    "type": "ยาชีวภาพ",
+    "thai_herb_source": null,
+    "livertox_grade": "E",
+    "grade_explanation_en": "unlikely cause of clinically apparent acute liver injury",
+    "rucam_score_bonus": 0,
+    "source": "LiverTox (NIDDK, NIH): Pertuzumab.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Pertuzumab/",
+    "source_review_date": "2020-04-15",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity In large registration trials of pertuzumab for breast and other cancers, rates of serum enzyme elevations were usually not reported. In the FDA summary review the incidence of hepatic disorders was similar with pertuzumab as with placebo when added to standard breast cancer chemotherapy (9.6% vs 10.1%) as were rates of ALT elevations (3.0% vs 3.7%). Rare instances of ALT elevations above 5 times the ULN have been reported in studies of pertuzumab combined with carboplatin, docetaxel and trastuzumab or with trastuzumab emtansine. A single instance of acute liver failure was reported in a patient who received pertuzumab, trastuzumab and docetaxel in a clinical trial, but few details were given, and the injury was attributed to docetaxel. In all of these situations, the role of pertuzumab as opposed to the other antineoplastic agents being used was uncertain. Since its approval and wider scale use, there have been no reports of clinically apparent, acute liver injury with jaundice attributed to pertuzumab. Likelihood score: E (unlikely cause of clinically apparent acute liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury Pertuzumab is a human monoclonal antibody and is unlikely to have intrinsic hepatotoxicity, but it may interact with endothelial growth factor receptors present on normal cells and cause injury by its direct cellular effects on epithelial growth factor pathways.",
+    "raw_outcome_text": "Outcome and Management The liver injury attributed to pertuzumab has not been well characterized and there is no information on possible cross sensitivity to the injury among different monoclonal antibodies or therapies directed at epidermal growth factor receptors. Pertuzumab is usually used in combination with trastuzumab and other antineoplastic agents which are generally considered more likely causes of liver injury. Drug Class: Antineoplastic Agents, Monoclonal Antibodies",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Pertuzumab - Perjeta®"
+    ],
+    "raw_drug_class": [
+      "Antineoplastic Agents",
+      "Monoclonal Antibodies"
+    ],
+    "source_nxml_file": "Pertuzumab.nxml"
+  },
+  {
+    "id": 408,
+    "name_en": "Ramucirumab",
+    "type": "ยาชีวภาพ",
+    "thai_herb_source": null,
+    "livertox_grade": "E*",
+    "grade_explanation_en": "unproven but suspected cause of acute liver injury",
+    "rucam_score_bonus": 0,
+    "source": "LiverTox (NIDDK, NIH): Ramucirumab.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Ramucirumab/",
+    "source_review_date": "2017-05-29",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity In large clinical trials, serum aminotransferase elevations were no more frequent in patients receiving ramucirumab than in those on placebo and receiving other antineoplastic agents (such as capecitabine, docetaxel or paclitaxel). Subsequent to its approval and more general use, there have been no publications describing clinically apparent liver injury attributable to ramucirumab. Ramucirumab is generally given with other potent antineoplastic agents, and it is often difficult to attribute serum enzyme elevations or clinically apparent liver injury to a specific agent being used. In trials of ramucirumab in patients with hepatocellular carcinoma and advanced liver disease, worsening of liver failure was more frequent with the monoclonal antibody therapy than with placebo; that may have been due to its other, non-hepatic adverse effects, such as edema, hypertension and proteinuria. Likelihood score: E* (unproven but suspected cause of acute liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury The mechanism by which ramucirumab might cause liver injury is not known. Like other monoclonal antibodies, ramucirumab is unlikely to have intrinsic hepatotoxicity, is metabolized to smaller peptides or amino acids by many cells and does not affect the hepatic drug metabolizing enzymes or transporting molecules.",
+    "raw_outcome_text": "Outcome and Management The liver injury attributed to ramucirumab has invariably been self-limited and not associated with symptoms or jaundice. Its effects on fluid balance may adversely affect patients with advanced cirrhosis, in whom it should be avoided. Drug Class: Antineoplastic Agents, Monoclonal Antibodies",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Ramucirumab - Cyramza®"
+    ],
+    "raw_drug_class": [
+      "Antineoplastic Agents",
+      "Monoclonal Antibodies"
+    ],
+    "source_nxml_file": "Ramucirumab.nxml"
+  },
+  {
+    "id": 409,
+    "name_en": "Rasburicase",
+    "type": "ยาชีวภาพ",
+    "thai_herb_source": null,
+    "livertox_grade": "D",
+    "grade_explanation_en": "possible cause of clinically apparent liver injury accompanying hypersensitivity reactions",
+    "rucam_score_bonus": 1,
+    "source": "LiverTox (NIDDK, NIH): Rasburicase.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Rasburicase/",
+    "source_review_date": "2018-05-21",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity In prelicensure clinical trials, serum enzyme elevations were not uncommon (4% to 24%) and were occasionally above 5 times ULN (<1%) during rasburicase therapy. These elevations generally resolved rapidly once rasburicase was discontinued. Because patients receiving rasburicase were typically receiving cancer chemotherapy and other drugs for hyperuricemia such as allopurinol, the liver enzyme elevations observed could not always be attributed to rasburicase. Subsequent to its approval and more wide scale use, rasburicase has been linked to hypersensivity reactions that may be accompanied by marked serum ALT and AST elevations with mild jaundice. In at least one instance, these abnormalities recurred upon re-exposure to rasburicase. These reactions generally arise within hours of administration of rasburicase and resolve rapidly with its discontinuation with or without the use of corticosteroids. Rasburicase has not been linked to instances of acute liver failure or chronic liver injury. Thus, rasburicase is a well-known cause of hypersensivity reactions, some of which may be accompanied by hepatic injury. Likelihood score: D (possible cause of clinically apparent liver injury accompanying hypersensitivity reactions).",
+    "raw_mechanism_text": "Mechanism of Injury Rasburicase is a recombinant protein and is metabolized to amino acids by serum and tissue proteases, and is unlikely to have any direct hepatotoxic potential. The marked liver test abnormalities noted in some patients treated with rasburicase were associated with other features of hypersensitivity.",
+    "raw_outcome_text": "Outcome and Management The serum enzyme elevations during rasburicase therapy are usually mild-to-moderate in severity and rarely require dose modification. Hypersensitivity reactions to rasburicase can be accompanied by mild-to-moderate liver injury. Therapy should be directed at the signs and symptoms of hypersensitivity rather than liver injury itself. Drug Class: Antigout Agents",
+    "raw_case_report_text": "CASE REPORT Case 1. Hypersensitivity reaction with hepatic involvement caused by rasburicase. [Modified from: Viel S, Pescarmona R, Belot A, Nosbaum A, Lombard C, Walzer T, Bérard F. A case of type 2 hypersensitivity to rasburicase diagnosed with a natural killer cell activation assay. Front Immunol 2018; 9: 110. PubMed Citation] A 62 year old man with leukemia developed fever and liver test abnormalities during his fourth course of chemotherapy with pentostatin and tumor lysis syndrome prophylaxis using allopurinol and rasburicase. His white blood cell counts were elevated and he was admitted for therapy of suspected sepsis. His medications were stopped. He had no previous history of liver disease, alcohol abuse or risk factors for viral hepatitis. Laboratory testing showed marked elevations in serum aminotransferase levels (ALT 1102 U/L, AST 773 U/L and LDH 1339 U/L with mild hyperbilirubinemia (3.3 mg/dL) and decrease in the prothrombin index (46%) (Table). His condition improved rapidly and he was discharged. Two months later he was evaluated for hypersensitivity to rasburicase with skin tests. An hour after the single dose of rasburicase (5.5 mg), he developed fever (39.5 oC) and liver tests were again raised. Key Points Medication: Rasburicase Pattern: Hepatocellular Severity: 3+ (jaundice, hospitalization) Latency: 4 months Recovery: Within 2 months Other medications: Allopurinol, pentostatin Laboratory Values Time After Starting Time After Stopping ALT (U/L) GGT (U/L) Bilirubin (mg/dL) Other 4 months 0 1102 307 3.3 Fever and leukocytosis 2 days 863 225 5.9 Prothrombin ratio [PR] 46% Discharged, chemotherapy withheld 6 months 2 months 43 22 0.4 PR 98% Skin tested with rasburicase 3 hours 73 99 1.0 PR 90% 6 hours 257 202 1.5 PR 77% 24 hours 220 171 PR 54% Normal Values <55 <64 <1.2 Comment This patient presented with a hypersensitivity reaction with hepatic involvement resulting in mild jaundice, but a self-limited course. He was later evaluated with skin testing for drug allergy in an attempt to show whether the reaction was due to rasburicase versus allopurinol or pentostatin. After a single intradermal injection of rasburicase, he developed fever followed by elevations in serum aminotransferase levels and total bilirubin. Thus, the role of rasburicase in the reaction was fairly convincingly documented.",
+    "raw_case_report_key_points": {
+      "Medication": "Rasburicase",
+      "Pattern": "Hepatocellular",
+      "Severity": "3+ (jaundice, hospitalization)",
+      "Latency": "4 months",
+      "Recovery": "Within 2 months",
+      "Other medications": "Allopurinol, pentostatin"
+    },
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Rasburicase - Elitek®"
+    ],
+    "raw_drug_class": [
+      "Antigout Agents"
+    ],
+    "source_nxml_file": "Rasburicase.nxml"
+  },
+  {
+    "id": 410,
+    "name_en": "Risankizumab",
+    "type": "ยาชีวภาพ",
+    "thai_herb_source": null,
+    "livertox_grade": "E",
+    "grade_explanation_en": "unlikely cause of clinically apparent acute liver injury",
+    "rucam_score_bonus": 0,
+    "source": "LiverTox (NIDDK, NIH): Risankizumab.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Risankizumab/",
+    "source_review_date": "2021-06-09",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity Mild-to-moderate serum aminotransferase elevations arise in up to 10% of patients treated with risankizumab, but the abnormalities are generally transient and asymptomatic, rarely necessitating drug discontinuation. In large, preregistration trials there were no instances clinically apparent liver injury or severe hepatic adverse events attributed to risankizumab. Since its approval and more general use, there have been no reports of clinically significant liver injury attributed to risankizumab. Likelihood score: E (unlikely cause of clinically apparent acute liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury The possible mechanisms of liver injury due to risankizumab are unclear. Monoclonal antibodies and immunoglobulins are generally taken up and metabolized intracellularly to short peptides and amino acids. There is no evidence to suggest that inhibition of IL23 signaling would trigger liver injury or autoimmune liver conditions. Drug Class: Monoclonal Antibodies, Psoriasis Agents",
+    "raw_outcome_text": "",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Risankizumab - Skyrizi®"
+    ],
+    "raw_drug_class": [
+      "Monoclonal Antibodies",
+      "Psoriasis Agents"
+    ],
+    "source_nxml_file": "Risankizumab.nxml"
+  },
+  {
+    "id": 411,
+    "name_en": "Romosozumab",
+    "type": "ยาชีวภาพ",
+    "thai_herb_source": null,
+    "livertox_grade": "E",
+    "grade_explanation_en": "unlikely cause of clinically apparent acute liver injury",
+    "rucam_score_bonus": 0,
+    "source": "LiverTox (NIDDK, NIH): Romosozumab.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Romosozumab/",
+    "source_review_date": "2021-06-07",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity Mild-to-moderate serum aminotransferase elevations arise a small percentage of treated patients, but are generally asymptomatic and transient and rarely necessitate discontinuation of romosozumab injections. In registration trials of romosozumab there were no instances clinically apparent liver injury or severe hepatic adverse events. Since approval and more general use of romosozumab there have been no reports of clinically significant liver injury attributed to its use. Likelihood score: E (unlikely cause of clinically apparent acute liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury The possible mechanisms of liver injury due to romosozumab are unclear. Monoclonal antibodies and immunoglobulins are generally taken up and metabolized intracellularly to short peptides and amino acids. Drug Class: Monoclonal Antibodies, Osteoporosis Agents",
+    "raw_outcome_text": "",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Romosozumab - Evenity®"
+    ],
+    "raw_drug_class": [
+      "Monoclonal Antibodies"
+    ],
+    "source_nxml_file": "Romosozumab.nxml"
+  },
+  {
+    "id": 412,
+    "name_en": "Semaglutide",
+    "type": "ยาชีวภาพ",
+    "thai_herb_source": null,
+    "livertox_grade": "D",
+    "grade_explanation_en": "possible cause of clinically apparent liver injury",
+    "rucam_score_bonus": 1,
+    "source": "LiverTox (NIDDK, NIH): Semaglutide.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Semaglutide/",
+    "source_review_date": "2025-06-20",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity In large clinical trials, serum enzyme elevations were no more common with semaglutide therapy than with placebo or comparator agents, and no instances of clinically apparent liver injury were reported. Indeed, treatment with semaglutide and other GLP-1 analogues was usually associated with improvements in serum aminotransferase levels (and hepatic steatosis) making them possible treatments for nonalcoholic fatty liver. Since licensure, there have been rare, published case reports of hepatotoxicity attributed to oral and parenteral semaglutide with a prolonged cholestatic course. At least ten cases of hepatic injury attributable to semaglutide have been reported to the FDAs Adverse Event Reporting System (FAES). The FAES database has many instances of hepatobiliary complications attributed to GLP-1 agonists. Most of these reports, however, relate to gallstones and complications of cholecystitis and choledocholithiasis rather than hepatic injury. Furthermore, the increased rate of gallstone complications is probably due to the weight loss caused by the drug rather than a direct effect of the GLP-1 agonist on the biliary system. The product label for semaglutide does not list liver injury as an adverse event. Thus, liver injury due to semaglutide may occur but is very rare. Likelihood score: D (possible cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury The cause of the rare cases of hepatic injury attributed to semaglutide is unknown. Semaglutide is a polypeptide and is metabolized to amino acids by serum and tissue proteases and is unlikely to have any direct hepatotoxic potential. One possibility is that acute hepatic injury on semaglutide therapy represents acute onset of biliary obstruction from a gallstone as it passes through the common bile duct. The initial serum enzyme pattern from acute biliary obstruction can be hepatocellular, but within days transitions to a mixed or cholestatic pattern. Semaglutide acts through the incretin pathway to affect glucose metabolism and, thus, is often grouped with other incretin-based antidiabetic mediations such as the DPP-4 inhibitors such as sitagliptin and other GLP-1 analogues such as exenatide.",
+    "raw_outcome_text": "Outcome and Management The product label for semaglutide does not recommend routine monitoring of liver tests during therapy. Because of the reports of acute liver injury with its use, however, semaglutide should be at least temporarily discontinued if serum aminotransferase levels are found to rise above 5 times the ULN or for any ALT elevations accompanied by symptoms of liver disease or jaundice. Patients presenting with new onset hepatic or hepatobiliary injury should have careful assessment of the biliary tree by ultrasound or magnetic resonance imaging with contrast. Drug Class: Antidiabetic Agents, Weight Loss Agents Other Drugs in the Subclass, Incretin-Based Drugs, Glucagon-Like Peptide-1 (GLP-1) Analogues: Albiglutide, Dulaglutide, Exenatide, Liraglutide, Lixisenatide, Tirzepatide",
+    "raw_case_report_text": "CASE REPORT Case 1. Progressive cholestatic hepatitis causing cirrhosis attributed to semaglutide.(1) A 51 year old Asian American man with diabetes, chronic renal disease, hypertension, hyperlipidemia, and nonalcoholic fatty liver disease with mild serum ALT and AST elevations was treated with oral semaglutide for his type 2 diabetes. One month after starting, he was found to have a rise in serum alkaline phosphatase (Alk P: 431 U/L) without symptoms and with no change in serum aminotransferase or bilirubin levels (Table). He had no history of hepatitis or jaundice, did not drink alcohol, and had no risk factors for viral hepatitis. His other medications included pitavastatin and ibuproben, which with semaglutide were stopped. The INR was normal. Serum creatinine was 2.9 mg/dL. Tests for hepatitis A, B, C, and COVID 19 were negative, as were autoantibodies including ANA, SMA and ANA. Abdominal magnetic resonance imaging with cholangiogram were normal without evidence of biliary obstruction or gallstones. In follow up he remained jaundiced with prominent elevations in Alk P and mild to moderate elevations in ALT and AST. Repeat imaging with ERCP was normal. He underwent two liver biopsies both of which showed marked bile duct injury, mild cholestasis, and damage to interlobular bile ducts, but no bile duct loss. His renal disease worsened, and required hemodialysis. Two years after onset of the liver disease he underwent successful combined liver and kidney transplantation. Key Points Medication: Oral Semaglutide (7 mg daily) Pattern: Cholestatic (R = 0.5) Severity: 3+ (jaundice, hospitalization) Latency: 6 months Recovery: Incomplete, chronicity Other medications: Insulin, Pitavastatin, Ibuprofen, multivitamins Laboratory Values Time AfterStarting Time AfterStopping ALT(U/L) Alk P(U/L) Bilirubin(mg/dL) Other Pre 0 68 159 1.1 27 days 0 69 431 0.8 190 days 0 137 688 2.6 Semaglutide stopped 202 days 2 weeks 123 763 4.2 INR 1.0, Liver biopsy 210 days 1 month 67 609 3.0 259 days 2 months 95 653 2.9 INR 1.0 294 days 4 months 101 714 7.1 INR 1.16 380 days 6 months 42 603 3.9 496 days 10 months 51 491 1.8 559 days 12 months 45 500 1.8 612 days 14 months 66 693 5.0 643 days 15 months 31 489 3.2 707 days 17 months 73 545 6.4 Liver & Renal Transplant Upper Limit of Normal 45 125 1.2 Comment A middle aged man with diabetes and nonalcoholic fatty liver disease, who had pre-existing mild liver test abnormalities, developed jaundice 6 months after starting oral semaglutide which persisted despite prompt stopping of the drug. No other cause of the acute cholestatic hepatitis was identified which evolved into chronic cholestatic injury which was also was unexplained. There was neither bile duct loss nor evidence of chronic biliary obstruction. Nevertheless, the chronic injury eventually led to liver transplantation. Progressive unexplained cholestasis after an acute drug-induced cholestatic hepatitis can occur but is very rare. Most cases with these clinical manifestations are due to vanishing bile duct syndrome. In this case follow up liver biopsies demonstrated persistent bile duct inflammation and injury without duct loss. On expert adjudication this case was scored as “probable” with a possible alternative diagnosis of small duct sclerosing cholangitis.",
+    "raw_case_report_key_points": {
+      "Medication": "Oral Semaglutide (7 mg daily)",
+      "Pattern": "Cholestatic (R = 0.5)",
+      "Severity": "3+ (jaundice, hospitalization)",
+      "Latency": "6 months",
+      "Recovery": "Incomplete, chronicity",
+      "Other medications": "Insulin, Pitavastatin, Ibuprofen, multivitamins"
+    },
+    "raw_trade_names": [
+      " - Ozempic®",
+      " - Wegovy®"
+    ],
+    "raw_drug_class": [
+      "Antidiabetic Agents",
+      "Weight Loss Agents",
+      "Incretin-Based Drugs",
+      "Glucagon-Like Peptide-1 (GLP-1) Analogues",
+      "Albiglutide",
+      "Dulaglutide",
+      "Exenatide",
+      "Liraglutide",
+      "Lixisenatide",
+      "Tirzepatide"
+    ],
+    "source_nxml_file": "Semaglutide.nxml"
+  },
+  {
+    "id": 413,
+    "name_en": "Teriparatide",
+    "type": "ยาชีวภาพ",
+    "thai_herb_source": null,
+    "livertox_grade": "E",
+    "grade_explanation_en": "unlikely cause of clinically apparent liver injury",
+    "rucam_score_bonus": 0,
+    "source": "LiverTox (NIDDK, NIH): Teriparatide.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Teriparatide/",
+    "source_review_date": "2016-03-31",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity In large clinical trials, teriparatide was not associated with changes in serum aminotransferase levels during therapy, and no cases of clinically apparent liver injury were reported. Despite availability of teriparatide for many years, there have been no published reports of clinically apparent acute liver injury attributed to its use. Thus, significant liver injury from teriparatide must be very rare, if it occurs at all. Likelihood score: E (unlikely cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury Teriparatide is a recombinant polypeptide that matches the first 34 amino acids of human parathyroid hormone and, as such, is unlikely to be hepatotoxic. Polypeptide hormones are typically metabolized by the cells on or in which they act. While recombinant proteins can be metabolized by the liver, the metabolism leads largely to small peptides and amino acids which may be reused to synthesize proteins and are unlikely to be toxic or immunogenic. Drug Class: Osteoporosis Agents, Hormonal Agents",
+    "raw_outcome_text": "",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Teriparatide - Forteo®"
+    ],
+    "raw_drug_class": [],
+    "source_nxml_file": "Teriparatide.nxml"
+  },
+  {
+    "id": 414,
+    "name_en": "Tirzepatide",
+    "type": "ยาชีวภาพ",
+    "thai_herb_source": null,
+    "livertox_grade": "C",
+    "grade_explanation_en": "probable rare cause of clinically apparent liver injury",
+    "rucam_score_bonus": 1,
+    "source": "LiverTox (NIDDK, NIH): Tirzepatide.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Tirzepatide/",
+    "source_review_date": "2025-06-27",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity In preregistration clinical trials, serum aminotransferase elevations of greater than 3 times the upper limit of normal (ULN) arose in less than 1% of patients during therapy with tirzepatide and similar rates occurred in placebo recipients and in comparator arm groups. In studies of more than 5,000 patients, there were no reports of severe liver test abnormalities or clinically apparent liver injury attributable to tirzepatide. Indeed, tirzepatide therapy is often associated with improvements in serum aminotransferase levels probably as a result of weight loss. On the other hand, tirzepatide has been associated with a slightly higher rate of acute gallbladder disease (cholelithiasis, biliary cholic and cholecystectomy) reported in 0.6% of treated patients vs none of placebo-treated patients. Gallbladder conditions are mentioned in the warning section of the product label for tirzepatide. Subsequent to its approval and more widespread use, there have been isolated case reports of acute liver injury in patients taking tirzepatide. Reported cases have been marked by a latency of 1 to 4 months, hepatocellular pattern of liver enzyme elevations, mild jaundice, and a benign, self-limited course. One patient had worsening of liver enzyme elevations on restarting, and others have later tolerated switching to a GLP-1 agonist without recurrence of liver injury. The risk for clinically apparent liver injury with long-term tirzepatide use is unknown but is likely to be very rare. Likelihood score: C (probable rare cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury The mechanism by which tirzepatide might cause liver injury is unknown. It is a modified polypeptide and is metabolized to individual amino acids in multiple tissues and cell types including the liver. Because it causes weight loss, it can be accompanied by improvements in serum aminotransferase levels in patients with preexisting nonalcoholic fatty liver. The increased risk of acute gallbladder disease such as cholecystitis is probably related to the rapid weight loss that occurs with treatment.",
+    "raw_outcome_text": "Outcome and Management The product label for tirzepatide does not recommend routine monitoring of liver tests during therapy. Because of the reports of acute liver injury with its use, however, tirzepatide should be at least temporarily discontinued if serum aminotransferase levels are found to rise above 5 times the ULN or for any ALT elevations accompanied by symptoms of liver disease or jaundice. Patients with intolerance to tirzepatide may be able to tolerate GLP-1 agonists such as semaglutide or liraglutide. Drug Class: Antidiabetic Agents, Weight Loss Agents Other Related Drugs: Incretin-Based Drugs, Glucagon-Like Peptide-1 (GLP-1) Analogues, Liraglutide, Semaglutide",
+    "raw_case_report_text": "CASE REPORT Case 1. Acute liver injury attributed to tirzepatide.(1) A 65 year old white male with type 2 diabetes, on metformin for 4 years and empagliflozin for 2 years, was started on weekly subcutaneous (sc) injections of tirzepatide to improve his glycemic control. Six weeks later he developed fever, abdominal pain, and nausea followed by jaundice. On presentation, he had abdominal tenderness over the liver and had scleral icterus. He had no history of hepatitis or jaundice, did not drink alcohol, and had no risk factors for viral hepatitis. His other medications included rosuvastatin for hypercholesterolemia and ramipril and hydrochlorothiazide for hypertension (all of which he had taken for at least 10 years). Blood tests showed a total bilirubin of 5.8 mg/dL, ALT 1093 U/L, AST 629 U/L, and alkaline phosphatase 176 U/L (R = 17.9). The INR was 1.2 and albumin 4.4 g/dL. Tirzepatide, metformin, empagliflozin, and rosuvastatin were discontinued, and he was admitted for monitoring and management. Tests for hepatitis A, B, and C (including HCV RNA) were negative as were routine autoantibodies (ANA, SMA, AMA). Liver ultrasound and computerized tomography (CT) were normal. Abdominal MRI showed abnormal inflammatory enhancement in the liver parenchyma and sludge within the gallbladder without biliary dilatation. Serial liver tests demonstrated a rise in bilirubin to 7.5 mg/dL accompanied by rapid decreases in serum aminotransferase levels and increases in alkaline phosphatase levels (Table). The changes in serum enzymes resulted in cholestatic R values within 4 days of onset. A liver biopsy showed swollen injured hepatocytes around the central vein without steatosis or lobular inflammation, mild canaclicular cholestasis, and periportal bile ductural reaction. He was discharged on ramipril, hydrochlorothiazide, insulin and fish oil. He did well and was asymptomatic and had normal liver tests in follow up at 4 and 7 months after onset, but had gained 20 pounds after stopping tirzepatide and starting insulin. Key Points Medication: Tirzepatide (2 mg sc weekly) Pattern: Initially hepatocellular (R=17.9), then cholestatic (R< 2.0) Severity: 3+ (jaundice, hospitalization) Latency: 6 weeks Recovery: Complete within 1-2 months Other medications: Rosuvastatin, ramipril, hydrochlorothiazide, metformin, empagliflozin, multivitamins with calcium and iron, aspirin. Laboratory Values Time AfterStarting Time AfterStopping ALT(U/L) Alk P(U/L) Bilirubin(mg/dL) Other 6 weeks 0 1093 176 5.8 R = 17.9, Admission 1 744 165 5.8 US & CT Scan normal 2 427 210 5.5 R = 5.8, INR 1.0 3 298 300 6.4 R = 2.8 4 227 369 7.5 R = 1.8, MRI 6 298 466 4.3 R = 1.5, INR 1.0 8 239 360 2.1 9 246 389 2.3 Liver biopsy 10 210 365 1.9 R = 1.4, Discharged 2 months 13 122 299 1.5 23 48 166 1.0 3 months 5 weeks 39 117 0.7 5 months 4 months 23 80 0.1 Normal values 8 months 7 months 23 93 0.6 Normal, INR 1.0 Upper Limits of Normal 45 125 1.2 Comment A middle aged man with diabetes, hypertension, and hypercholesterolemia, developed jaundice 6 weeks after starting weekly subcutaneous injections of tirzepatide to improve glycemic control. Tirzepatide was promptly discontinued but so were rosuvastatin and empagliflozin, important agents that he had been receiving for years without problems. The initial presentation was with acute hepatocellular injury. The liver injury improved with only mild increases in serum bilirubin for 4 days accompanied by a rapid drop in aminotransferase but concomitant rise in alkaline phosphatase levels. Other causes of liver disease were excluded, but imaging demonstrated the presence of biliary sludge. Actually, the clinical features were compatible with acute biliary obstruction from a common bile duct gallstone that was then rapidly passed. On expert review, this case was adjudicated as probable drug-induced liver injury from tirzepatide. Acute and transient biliary obstruction from gallstones was judged to be only possibly the cause of the liver injury. Rechallenge with tirzepatide might have been tried if it had been considered necessary. Certainly, rechallenge with rosuvastatin or empagliflozin would have been warranted if needed and a different GLP-1 tried with careful monitoring. PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Tirzepatide – Mounjaro®, Zepbound® DRUG CLASS Antidiabetic Agents, Weight Loss Agents COMPLETE LABELING Product labeling at DailyMed, National Library of Medicine, NIH",
+    "raw_case_report_key_points": {
+      "Medication": "Tirzepatide (2 mg sc weekly)",
+      "Pattern": "Initially hepatocellular (R=17.9), then cholestatic (R< 2.0)",
+      "Severity": "3+ (jaundice, hospitalization)",
+      "Latency": "6 weeks",
+      "Recovery": "Complete within 1-2 months",
+      "Other medications": "Rosuvastatin, ramipril, hydrochlorothiazide, metformin, empagliflozin, multivitamins with calcium and iron, aspirin."
+    },
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Tirzepatide - Mounjaro®"
+    ],
+    "raw_drug_class": [
+      "Antidiabetic Agents",
+      "Weight Loss Agents",
+      "Incretin-Based Drugs",
+      "Glucagon-Like Peptide-1 (GLP-1) Analogues",
+      "Liraglutide",
+      "Semaglutide"
+    ],
+    "source_nxml_file": "Tirzepatide.nxml"
+  },
+  {
+    "id": 415,
+    "name_en": "Trastuzumab Deruxtecan",
+    "type": "ยาชีวภาพ",
+    "thai_herb_source": null,
+    "livertox_grade": "E*",
+    "grade_explanation_en": "suspected but unproven cause of clinically apparent liver injury",
+    "rucam_score_bonus": 0,
+    "source": "LiverTox (NIDDK, NIH): TrastuzumabDeruxtecam.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/TrastuzumabDeruxtecam/",
+    "source_review_date": "2024-01-30",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity In large registration trials, therapy with trastuzumab deruxtecan was linked to serum aminotransferase elevations in 34% to 53% of patients, but in most studies levels rose to above 5 times the upper limit of normal (ULN) in only 1% to 2% of treated participants. Furthermore, no instances of acute liver injury or deaths from hepatic failure were reported. Since its initial approval and more expanded indications and widespread use, trastuzumab deruxtecan has continued to be linked to appreciable rates of serum aminotransferase elevations during therapy, but has not been convincingly linked to cases of clinically apparent liver injury. Likelihood score: E* (suspected but unproven cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "",
+    "raw_outcome_text": "",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [],
+    "raw_drug_class": [
+      "Antineoplastic Agents",
+      "Monoclonal Antibodies"
+    ],
+    "source_nxml_file": "TrastuzumabDeruxtecam.nxml"
+  },
+  {
+    "id": 416,
+    "name_en": "Trastuzumab Emtansine",
+    "type": "ยาชีวภาพ",
+    "thai_herb_source": null,
+    "livertox_grade": "B",
+    "grade_explanation_en": "likely cause of clinically apparent liver injury",
+    "rucam_score_bonus": 2,
+    "source": "LiverTox (NIDDK, NIH): TrastuzumabEmtansine.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/TrastuzumabEmtansine/",
+    "source_review_date": "2024-01-30",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity In large registration trials of trastuzumab emtansine for breast and other cancers, serum enzyme elevations occurred in 20% to 80% of patients and levels rose to above 5 times the upper limit of normal (ULN) in at least 5%. Some aminotransferase elevations were accompanied by serum bilirubin elevations. Subsequent to its approval and more widespread use, instances of acute liver injury including deaths from hepatic failure were reported with trastuzumab emtansine treatment, and it received a boxed warning about hepatotoxicity with recommendations for prospective monitoring of liver tests. Some cases appeared to represent acute sinusoidal obstruction syndrome and in other cases acute, direct hepatotoxic injury. More recently, cases of noncirrhotic portal hypertension have been described in patients on long term trastuzumab emtansine. The typical presentation is with signs and symptoms of portal hypertension after months or years of therapy and usually with only modest increases in serum aminotransferase elevations and bilirubin. Strikingly, in patients who undergo liver biopsy, cirrhosis is not present, although mild-to-moderate fibrosis is present in some. This phenotype of injury is classified as noncirrhotic portal hypertension, but the underlying liver condition is usually nodular regenerative hyperplasia with elements of sinusoidal obstruction. Hepatic imaging shows a nodular and somewhat shrunken liver and prominent splenomegaly and varices. Typically, patients improve clinically once trastuzumab emtansine is dose-reduced or discontinued, although without chemotherapy the malignancy may return and progress. Another syndrome with somewhat similar clinical features associated with long term trastuzumab emtansine therapy is a disordered, nodular liver cause by shrinkage of necrotic hepatic metastases, sometimes referred to as “pseudocirrhosis.” These patients generally do not have symptoms of liver disease, and the diagnosis is made by hepatic imaging often done as a part of routine follow up of the metastatic liver disease. Likelihood score: B (likely cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury The cause of the serum enzyme elevations during trastuzumab emtansine therapy is not known, but appears to be dose related and may be a mild direct toxicity of the infusions. The mechanism of the hepatotoxicity may be direct injury to endothelial cells and vasculature, possibly by their take up of the conjugate or the released microtubule inhibitor from other cells. Several instances of liver injury in patients taking trastuzumab emtansine have been attributed to sinusoidal obstruction syndrome, and mild forms of it may explain the frequent serum enzyme and bilirubin elevations during trastuzumab emtansine therapy. In other instances the underlying condition appears to be nodular regenerative hyperplasia, which is likely the result of acute or chronic vascular injury or both.",
+    "raw_outcome_text": "",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Trastuzumab Emtansine - Kadcyla®"
+    ],
+    "raw_drug_class": [
+      "Antineoplastic Agents",
+      "Monoclonal Antibodies"
+    ],
+    "source_nxml_file": "TrastuzumabEmtansine.nxml"
+  },
+  {
+    "id": 417,
+    "name_en": "Ustekinumab",
+    "type": "ยาชีวภาพ",
+    "thai_herb_source": null,
+    "livertox_grade": "E*",
+    "grade_explanation_en": "unproven but suspected rare cause of clinically apparent liver injury, possibly reactivation of hepatitis B",
+    "rucam_score_bonus": 0,
+    "source": "LiverTox (NIDDK, NIH): Ustekinumab.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Ustekinumab/",
+    "source_review_date": "2020-04-20",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity Mild-to-moderate serum aminotransferase elevations were reported to occur in 0.5% to 1.4% of patients during ustekinumab therapy. The elevations, however, were self-limited and resolved even with continuing cyclic therapy and were no more frequent than occurred with placebo. Neither during premarketing evaluation nor subsequently have there been case reports of clinically apparent, acute liver injury with symptoms or jaundice linked to ustekinumab therapy, but experience with its use has been limited. Ustekinumab has immunosuppressive activity and it has been linked to rare instances of reactivation of hepatitis B. HBV reactivation typically occurs in patients with preexisting HBsAg and relatively inactive disease. Reactivation causes acute hepatocellular injury that can be severe and lead to acute liver failure and death or need for emergency liver transplantation. Cases of reactivation attributed to ustekinumab, however, have generally been mild, self-limited and not associated with symptoms or even ALT elevations. Screening for hepatitis B before starting ustekinumab is not recommended in the product label, but screening has been considered to be “advisable” by academic societies in published guidelines on psoriasis therapy. Ustekinumab has not been linked convincingly to worsening of chronic hepatitis C in patients with psoriasis or to hepatic decompensation in patients with pre-existing cirrhosis. For these reasons, chronic liver disease and concurrent HCV infection are not considered contraindications to therapy. Likelihood score: E* (unproven but suspected rare cause of clinically apparent liver injury, possibly reactivation of hepatitis B).",
+    "raw_mechanism_text": "Mechanism of Injury The mechanism of liver injury in reactivation of hepatitis B appears to be a brisk immunological response to newly expressed viral antigens. Injury generally arises between courses of immunosuppressive therapy, which for ustekinumab is given every 8 or 12 weeks after induction (at 0 and 4 weeks).",
+    "raw_outcome_text": "Outcome and Management Ustekinumab is a rare cause of liver injury, but has been linked to occasional cases of reactivation of hepatitis B. The product label for ustekinumab does not recommend routine screening for hepatitis B before initiation of therapy. However, guidelines for management of patients who are to receive ustekinumab prepared by some academic societies have recommended routine screening before starting treatment. Screening should include tests for HBsAg and anti-HBc (and perhaps also anti-HBs as this may help in management). Prophylaxis with a potent oral, antiviral agent effective against hepatitis B is recommended for persons who have HBsAg in serum. An alternative approach, which is perhaps more appropriate for ustekinumab and particularly for patients with anti-HBc without HBsAg in serum, is careful monitoring for HBV DNA during therapy and early institution of antiviral therapy if levels rise. Drug Class: Dermatological Agents, Psoriasis Agents; Antirheumatic Agents; Monoclonal Antibodies",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Ustekinumab - Stelara®"
+    ],
+    "raw_drug_class": [
+      "Psoriasis Agents",
+      "Antirheumatic Agents",
+      "Monoclonal Antibodies"
+    ],
+    "source_nxml_file": "Ustekinumab.nxml"
+  }
+]

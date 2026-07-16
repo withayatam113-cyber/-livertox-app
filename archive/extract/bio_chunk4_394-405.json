@@ -1,0 +1,332 @@
+[
+  {
+    "id": 394,
+    "name_en": "Lanreotide",
+    "type": "ยาชีวภาพ",
+    "thai_herb_source": null,
+    "livertox_grade": "E*",
+    "grade_explanation_en": "unproven but suspected rare cause of clinically apparent hepatobiliary injury",
+    "rucam_score_bonus": 0,
+    "source": "LiverTox (NIDDK, NIH): Lanreotide.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Lanreotide/",
+    "source_review_date": "2017-04-11",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity In preregistration studies of lanreotide, serum enzyme levels did not change appreciably and there were no reports of clinically apparent acute liver injury. Pooled analyses reported that there were no overall changes in serum ALT, AST or alkaline phosphatase levels during therapy or instances of clinically meaningful elevations with treatment. Prolonged therapy with lanreotide, as with other somatostatin analogues, was associated with a high rate of biliary sludge and cholelithiasis, probably due to inhibition of gall bladder contractility and decrease in bile secretion. In long term studies, cholelithiasis developed in 20% to 33% of lanreotide treated patients. In some instances, symptomatic cholecystitis occurred which can be accompanied by mild-to-moderate elevations in serum enzymes and bilirubin. However, most lanreotide associated gallstones were asymptomatic. Unlike octreotide, lanreotide and other long acting somatostatin analogues have not been liked to cases of clinically apparent liver injury, independent of cholelithiasis or biliary sludge, although they have had more limited use and have not been used in many of the clinical situations that were treated with octreotide (portal hypertension, variceal hemorrhage and infants with congenital hyperinsulinemia). Likelihood score: E* (unproven but suspected rare cause of clinically apparent hepatobiliary injury).",
+    "raw_mechanism_text": "Mechanism of Injury Lanreotide, like somatostatin, decreases cholecystokinin secretion, gall bladder contractility and bile secretion, perhaps accounting for the high rate of gall bladder sludge and stone formation with long term use. How lanreotide might cause acute liver injury independent of its effect on bile flow and gall bladder function is uncertain. Lanreotide is a polypeptide and, as such, should not have direct or even indirect hepatic toxicity. On the other hand, lanreotide has multiple effects on the gastrointestinal tract, including effects on gastrointestinal hormone levels, motility, transit time, bacterial flora, and bile acid concentrations, all of which may have indirect effects on the liver.",
+    "raw_outcome_text": "Outcome and Management The liver injury due to the lanreotide is generally due to its effects on the gallbladder and bile flow. Patients with hepatobiliary complications of lanreotide therapy are likely to have recurrence with restarting and have similar response to other somatostatin analogues such as octreotide and pasireotide. Drug Class: Hormonal Agents; Antineoplastic Agents; Gastrointestinal Agents Other Drugs in the Subclass, Hormonal Agents, Somatostatin Analogues: Octreotide, Pasireotide",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Lanreotide - Somatuline Depot®"
+    ],
+    "raw_drug_class": [
+      "Antineoplastic Agents",
+      "Gastrointestinal Agents",
+      "Octreotide",
+      "Pasireotide"
+    ],
+    "source_nxml_file": "Lanreotide.nxml"
+  },
+  {
+    "id": 395,
+    "name_en": "Leuprolide",
+    "type": "ยาชีวภาพ",
+    "thai_herb_source": null,
+    "livertox_grade": "E",
+    "grade_explanation_en": "unlikely cause of clinically apparent liver injury",
+    "rucam_score_bonus": 0,
+    "source": "LiverTox (NIDDK, NIH): Leuprolide.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Leuprolide/",
+    "source_review_date": "2023-05-28",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity Leuprolide has been associated with mild serum enzyme elevations during therapy in 3% to 5% of patients, but values above 3 times the upper limit of normal are rare, being reported in less than 1% of recipients. The serum enzyme elevations during leuprolide therapy have generally been transient and asymptomatic, resolving even with drug continuation and rarely requiring dose modification or discontinuation. Despite use for several decades, leuprolide has not been linked to convincing cases of clinically apparent liver injury. Routine monitoring of patients for liver test abnormalities is not recommended. Likelihood score: E (unlikely cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury The cause of liver test abnormalities during leuprolide therapy is not known. Leuprolide is a short polypeptide and is metabolized locally in many tissues. It is not metabolized by the hepatic cytochrome P450 system and has not been associated with significant drug-drug interactions. Some serum enzyme elevations may be caused by nonalcoholic fatty liver, arising because of weight gain or metabolic changes caused by the androgen deprivation state induced by the GnRH agonist.",
+    "raw_outcome_text": "Outcome and Management The serum enzyme elevations that occur on leuprolide therapy usually do not require dose adjustment or drug discontinuation, but should lead to a search for other causes of liver disease. There is no evidence to indicate that there is cross sensitivity to liver injury among the various GnRH analogues. Drug Class: Antineoplastic Agents, GnRH Analogues Other Drugs in the Subclass, GnRH Analogues: Degarelix, Goserelin, Histrelin, Relugolix, Triptorelin",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [],
+    "raw_drug_class": [
+      "Antineoplastic Agents",
+      "GnRH Analogues",
+      "Degarelix",
+      "Goserelin",
+      "Histrelin",
+      "Relugolix",
+      "Triptorelin"
+    ],
+    "source_nxml_file": "Leuprolide.nxml"
+  },
+  {
+    "id": 396,
+    "name_en": "Linaclotide",
+    "type": "ยาชีวภาพ",
+    "thai_herb_source": null,
+    "livertox_grade": "E",
+    "grade_explanation_en": "unlikely cause of clinically apparent liver injury",
+    "rucam_score_bonus": 0,
+    "source": "LiverTox (NIDDK, NIH): Linaclotide.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Linaclotide/",
+    "source_review_date": "2019-05-13",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity In clinical trials, linaclotide therapy was not associated with significant changes in serum enzyme levels or episodes of clinically apparent liver injury. Minor transient ALT elevations arose in <1% of persons receiving long-term linaclotide therapy for constipation. Since its approval and marketing, there have been no reports of symptomatic serum aminotransferase elevations or clinically apparent liver injury with jaundice attributable to linaclotide. Thus, liver injury from linaclotide must be rare if it occurs at all. Likelihood score: E (unlikely cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury Linaclotide is largely active on the epithelial cells in the intestinal tract and has minimal absorption. The lack of systemic absorption and the low doses used (in microgram amounts) may account for its lack of liver injury. Drug Class: Gastrointestinal Agents, Drugs for Constipation, Irritable Bowel Syndrome Agents",
+    "raw_outcome_text": "",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [],
+    "raw_drug_class": [
+      "Gastrointestinal Agents"
+    ],
+    "source_nxml_file": "Linaclotide.nxml"
+  },
+  {
+    "id": 397,
+    "name_en": "Liraglutide",
+    "type": "ยาชีวภาพ",
+    "thai_herb_source": null,
+    "livertox_grade": "-",
+    "grade_explanation_en": "-",
+    "rucam_score_bonus": "-",
+    "source": "LiverTox (NIDDK, NIH): Liraglutide.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Liraglutide/",
+    "source_review_date": "2019-04-10",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity In large clinical trials, serum enzyme elevations were no more common with liraglutide therapy than with placebo or comparator agents, and no instances of clinically apparent liver injury were reported. Since licensure, there has been a single case report of autoimmune hepatitis arising in a patient taking liraglutide. She did not improve with stopping liraglutide and ultimately required long term corticosteroid therapy, suggesting that the autoimmune hepatitis was independent of the drug therapy or that liraglutide triggered an underlying condition. Other cases of hepatotoxicity due to liraglutide have not been published and the product label does not list liver injury as an adverse event. Thus, liver injury due to liraglutide must be quite rare.",
+    "raw_mechanism_text": "Mechanism of Injury Liraglutide is a polypeptide and is metabolized to amino acids by serum and tissue proteases, and is unlikely to have any direct hepatotoxic potential. Liraglutide acts through the incretin pathway to affect glucose metabolism and, thus, is often grouped with other incretin-based antidiabetic mediations such as the DPP-4 inhibitors, sitagliptin, saxagliptin and linagliptin, and other GLP-1 analogues such as exenatide, which are also discussed in LiverTox. References regarding the hepatotoxicity and safety of liraglutide are given with the Overview section of the GLP-1 Analogues. Drug Class: Antidiabetic Agents Other Drugs in the Subclass, Incretin-Based Drugs, Glucagon-Like Peptide-1 (GLP-1) Analogues: Albiglutide, Dulaglutide, Exenatide, Lixisenatide, Semaglutide",
+    "raw_outcome_text": "",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Liraglutide - Victoza®"
+    ],
+    "raw_drug_class": [
+      "Antidiabetic Agents",
+      "Incretin-Based Drugs",
+      "Glucagon-Like Peptide-1 (GLP-1) Analogues",
+      "Albiglutide",
+      "Dulaglutide",
+      "Exenatide",
+      "Lixisenatide",
+      "Semaglutide"
+    ],
+    "source_nxml_file": "Liraglutide.nxml"
+  },
+  {
+    "id": 398,
+    "name_en": "Mepolizumab",
+    "type": "ยาชีวภาพ",
+    "thai_herb_source": null,
+    "livertox_grade": "E",
+    "grade_explanation_en": "unlikely cause of clinically apparent liver injury",
+    "rucam_score_bonus": 0,
+    "source": "LiverTox (NIDDK, NIH): Mepolizumab.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Mepolizumab/",
+    "source_review_date": "2016-04-11",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity In large clinical trials, mepolizumab was not associated with changes in serum aminotransferase levels during therapy, and rates of most adverse reactions were similar in patients who received placebo injections or standard care. There have been no published reports of clinically apparent acute liver injury attributed to mepolizumab therapy. Thus, liver injury from mepolizumab must be very rare, if it occurs at all. Likelihood score: E (unlikely cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury Mepolizumab is a humanized monoclonal antibody and is unlikely to be inherently hepatotoxic. Recombinant proteins are often metabolized in the cells on which they act but are also metabolized in the liver, largely to small peptides and amino acids which may be reused to synthesize proteins and are unlikely to be toxic or immunogenic. Mepolizumab lowers serum eosinophil counts, which seems to have no adverse effects on the liver and does not result in significant immunosuppression. Drug Class: Antiasthmatic Agents, Monoclonal Antibodies",
+    "raw_outcome_text": "",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Mepolizumab - Nucala®"
+    ],
+    "raw_drug_class": [
+      "Antiasthmatic Agents",
+      "Monoclonal Antibodies"
+    ],
+    "source_nxml_file": "Mepolizumab.nxml"
+  },
+  {
+    "id": 399,
+    "name_en": "Natalizumab",
+    "type": "ยาชีวภาพ",
+    "thai_herb_source": null,
+    "livertox_grade": "B",
+    "grade_explanation_en": "likely cause of clinically apparent liver injury",
+    "rucam_score_bonus": 2,
+    "source": "LiverTox (NIDDK, NIH): Natalizumab.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Natalizumab/",
+    "source_review_date": "2025-09-20",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity In large clinical trials, serum aminotransferase elevations occurred in an average of 5% of patients on natalizumab therapy and in a slightly lower, although similar proportion (~3%) of those who received placebo. While there were no individual case reports of liver injury attributed to natalizumab therapy, at least 59 instances of hepatic injury were reported to the Adverse Event Reporting System maintained by the FDA within 4 years of its initial approval. In a report summarizing six clinically apparent cases of liver injury attributable to natalizumab, all were associated with jaundice and all occurred in patients receiving natalizumab for multiple sclerosis. The onset of injury followed the initial infusion of natalizumab in 4 patients, and after 5 and 12 courses of treatment in the other two reported cases. The pattern of liver injury was hepatocellular in 5 cases and cholestatic in one. Several cases were accompanied by autoantibodies and were treated with corticosteroids (Case 1), but autoimmune features were not prominent and immunoallergic features (fever, rash, eosinophilia) were not reported. The clinical cases were moderate in severity and no patient developed acute liver failure or progressed to chronic liver injury or vanishing bile duct syndrome. Since that initial summary, several more case reports of clinically apparent liver injury attributable to natalizumab have appeared, many of which have features of autoimmunity and all arising in patients with multiple sclerosis. Many of the reported cases could be attributed to other therapies being given including isoniazid, beta interferon and high-dose pulse methylprednisolone therapy. Natalizumab can cause immune suppression and has been linked to bacterial and viral infections, but interestingly has not been reported to cause reactivation of tuberculosis or hepatitis B. Likelihood score: B (likely cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury The mechanism of liver injury caused by natalizumab is probably immunologically mediated, perhaps as a result of its effects on leukocyte function. Direct hepatotoxicity is unlikely because it is a monoclonal antibody and like other proteins it is taken up by cells by endocytosis and is metabolized into amino acids.",
+    "raw_outcome_text": "Outcome and Management The hepatotoxicity of natalizumab is usually moderate in severity and reversible with discontinuation of infusions. Recurrence of injury with a shorter latency and more severe course has been reported. In cases with persistent injury, the addition of prednisone has appeared to hasten recovery, but in most instances, corticosteroid therapy can ultimately be discontinued. There is little information about cross sensitivity to liver injury with other monoclonal antibodies or immune modulating agents, but in most instances other disease modifying agents have been tolerated without recurrence of injury, although many of these are capable of causing liver injury on their own. Drug Class: Gastrointestinal Agents, Inflammatory Bowel Disease Agents; Monoclonal Antibodies, Multiple Sclerosis Agents",
+    "raw_case_report_text": "CASE REPORT Case 1. Acute hepatocellular injury due to natalizumab.(1) A 43 year old man with multiple sclerosis developed fatigue, fever and back pain 8 days after the fifth monthly dose of natalizumab. On hospital admission, he was found to have elevations in serum enzymes but was not jaundiced. Serum ALT was 410 U/L, AST 134 U/L, INR 1.17 and bilirubin 0.4 mg/dL. Over the next several days, his liver tests worsened, serum bilirubin peaking at 3.0 mg/dL. A liver biopsy showed acute lobular and portal hepatitis with mild fibrosis. Recovery was slow and prednisone was given. Natalizumab was not continued. Over the next 6 months liver tests returned to normal, whereupon natalizumab was restarted. After the second monthly infusion, however, he redeveloped fatigue and jaundice and liver tests were again abnormal: ALT 3494 U/L, AST 1259 U/L and bilirubin 13.4 mg/dL. The antinuclear antibody, which was negative during the first episode, was positive in titers >1:320. Natalizumab was again stopped and prednisone was given with subsequent improvement. Key Points Medication: Natalizumab (300 mg infusions monthly for 5 months) Pattern: Hepatocellular (R=21.5) Severity: 3+ (jaundice, hospitalization) Latency: 11 days after 5th monthly infusion initially; shortly after second monthly infusion on rechallenge 6 months later Recovery: 6 months initially, unknown upon rechallenge Other medications: Spirulina (food supplement), multivitamins, prednisone Comment This patient developed clinically apparent acute hepatocellular injury within 2 weeks of receiving his fifth monthly infusion of natalizumab for relapsing multiple sclerosis. The injury was moderate in severity, but slow to resolve. Liver histological features suggested an element of autoimmunity, and he was treated with prednisone but tolerated its withdrawal and had normal liver tests six months later. Upon reexposure, he redeveloped the liver injury with a shorter latency and with a more severe course. At this point, he was found to have high titers of ANA and prednisone was restarted. Although compatible with spontaneous autoimmune hepatitis (which has been reported in patients with multiple sclerosis), the timing of onset and recurrence of similar injury upon reexposure is reasonably convincing evidence that it was due to natalizumab, perhaps an autoimmune hepatitis that was triggered by the immunomodulatory therapy. This example was case 2 from the six case series reported by the FDA, which were based upon review of spontaneous adverse event reports during the first 4 years of general availability of natalizumab. The six cases were selected as the clinically apparent examples among a total of 59 separate reports of liver injury. The authors estimated the frequency of idiosyncratic clinically apparent liver injury from natalizumab to be 17 per 100,000 (~1 per 6000) exposed patients. Events occurring at this low rate are unlikely to be detected in premarketing studies. Interestingly, virtually all of the published cases of natalizumab-hepatotoxicity have occurred in patients with multiple sclerosis, an autoimmune condition in which spontaneous autoimmune hepatitis is not infrequent.",
+    "raw_case_report_key_points": {
+      "Medication": "Natalizumab (300 mg infusions monthly for 5 months)",
+      "Pattern": "Hepatocellular (R=21.5)",
+      "Severity": "3+ (jaundice, hospitalization)",
+      "Latency": "11 days after 5th monthly infusion initially; shortly after second monthly infusion on rechallenge 6 months later",
+      "Recovery": "6 months initially, unknown upon rechallenge",
+      "Other medications": "Spirulina (food supplement), multivitamins, prednisone"
+    },
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Natalizumab - Tysabri®"
+    ],
+    "raw_drug_class": [
+      "Gastrointestinal Agents",
+      "Monoclonal Antibodies",
+      "Multiple Sclerosis Agents"
+    ],
+    "source_nxml_file": "Natalizumab.nxml"
+  },
+  {
+    "id": 400,
+    "name_en": "Nivolumab",
+    "type": "ยาชีวภาพ",
+    "thai_herb_source": null,
+    "livertox_grade": "A",
+    "grade_explanation_en": "well known cause of immune mediated liver injury and likely cause of reactivation of hepatitis B",
+    "rucam_score_bonus": 2,
+    "source": "LiverTox (NIDDK, NIH): Nivolumab.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Nivolumab/",
+    "source_review_date": "2022-06-23",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity Mild-to-moderate serum aminotransferase elevations are not uncommon (20% to 30%) during nivolumab therapy, but are usually self-limited and resolve even with continuing cyclic therapy. These rates of serum enzyme elevations are similar to those with other forms of chemotherapy for advanced malignancies. Serum ALT elevations above 5 times the upper limit of normal (ULN) occur in 1% to 4% of patients and generally lead to temporary discontinuation. Importantly, in 1% to 2% of patients serum enzyme elevations evolve into an immune mediated liver injury that can be clinically apparent and can be severe. The onset of injury is usually after 2 to 4 cycles or 1 to 3 months after starting treatment. The pattern of enzyme elevation is usually hepatocellular but can be mixed or even cholestatic. Liver histology typically demonstrates a panlobular hepatitis with focal or confluent necrosis and prominent lymphocytic infiltrates of activated T cells, compatible with an immune mediated hepatic injury. More severe forms of hepatitis may demonstrate centrilobular (zone 3) necrosis. Despite features of immune related liver injury, autoantibodies are generally not present and immunoglobulin levels are normal. Because of the serious nature of the liver injury, monitoring with routine liver tests (including alkaline phosphatase) is recommended for patients who receive checkpoint inhibitor therapy. Treatment with corticosteroids generally results in a rapid improvement and allows their discontinuation within 1 to 2 months. In some instances, however, the clinical and biochemical response is inadequate, calling for addition of a second immunosuppressive agent such as azathioprine, mycophenolate mofetil, tacrolimus, infliximab or antithymocyte globulin. Restarting nivolumab or another checkpoint inhibitor after resolution of the hepatic injury is sometimes possible, but can result in recurrence of injury and has not been shown to improve outcome of the cancer chemotherapy. A proportion of patients receiving nivolumab develop cholestatic rather than hepatocellular liver injury. Cholestatic forms of immune mediated liver injury generally arise later than the hepatocellular forms, (after 3 to 10 cycles) and are often accompanied by abdominal pain and jaundice. Alkaline phosphatase levels are markedly elevated while aminotransferase levels are only modestly increased. Imaging studies may show irregular dilatation of the intra- and/or extra-hepatic bile ducts and thickening of the gall bladder and bile duct walls, but without evidence of frank obstruction. Liver biopsy shows portal inflammation and bile duct injury and endoscopic biopsy of the bile duct epithelium shows inflammation and scarring. The general features suggest a secondary form of sclerosing cholangitis referred to as checkpoint inhibitor cholangiopathy. Therapy with corticosteroids may improve alkaline phosphatase and bilirubin levels but rarely leads to complete recovery, and long term cholestasis and hepatic failure can occur. Some patients with a cholestatic form of immune related hepatitis do not manifest the large bile duct changes but demonstrate loss and paucity of the smaller, intrahepatic portal bile ducts resulting in a vanishing bile duct syndrome similar to primary biliary cholangitis (PBC). The effects of PD-1 inhibition on chronic hepatitis B are not well defined but convincing examples of reactivation of hepatitis B have been described with nivolumab. Most cases have occurred in patients with preexisting HBsAg, but rare instances were reported in individuals suspected of having with anti-HBc without HBsAg. Thus, screening patients for HBsAg, anti-HBc and anti-HBs is appropriate before initiating immunotherapy with checkpoint inhibitors. Patients with HBsAg should be considered for prophylaxis with an antiviral agent with potent activity against HBV such as entecavir or tenofovir. In patients with anti-HBc without HBsAg, monitoring and close attention to liver test abnormalities is probably adequate if antiviral therapy can be introduced rapidly for early evidence of reactivation. There has not been adequate experience with nivolumab in regard to the risk of reactivation of hepatitis B to provide rates of reactivation with and without antiviral prophylaxis. Likelihood score: A (well known cause of immune mediated liver injury and likely cause of reactivation of hepatitis B).",
+    "raw_mechanism_text": "Mechanism of Injury The mechanism of liver injury due to nivolumab is likely to be immunologically mediated and is usually at least partially responsive to corticosteroid or immunosuppressive therapy. Liver biopsies in cases of hepatocellular injury and bile duct epithelial cell biopsies in cholangiopathic injury demonstrate necrosis and inflammatory cell infiltration with cytotoxic CD8+ T cells, suggesting that the checkpoint inhibition allowed for activation of T cells directed at hepatocyte or cholangiocyte cell surface antigens.",
+    "raw_outcome_text": "Outcome and Management Guidelines for management of patients receiving nivolumab recommend monitoring of liver tests and interrupting therapy for patients who develop serum aminotransferase elevations above 3 times the upper limit of normal (ULN) and discontinuing treatment for values above 8 times the ULN in patients without preexisting abnormalities or tumor involvement of the liver (in whom elevations of 5 and 10 times the ULN are used). Corticosteroid therapy can be considered for patients with high or persistent ALT elevations or if symptoms or jaundice arise, initiating therapy with high dose intravenous methylprednisolone and switching to oral prednisone after 1 to 2 days, continuing tapering doses for at least 30 days. Most cases of liver injury due to nivolumab resolve with discontinuation and prompt institution of immunosuppressive therapy which can be discontinued in 1 to 3 months. In some more protracted and resistant instances, corticosteroids have only a limited effect and adding a second agent is needed. Mycophenolate mofetil or azathioprine are most commonly recommended. Other immunosuppressive agents that have been reported to be beneficial include antithymocyte globulin, tacrolimus, infliximab and cycloserine. In refractory cases, immunosuppressive therapy may be needed long term. The few fatal cases due to checkpoint inhibitors have typically occurred in patients who have cholestatic forms of liver injury or have other severe immune-related adverse events (Stevens Johnson syndrome, capillary leak syndrome). Restarting nivolumab after severe liver injury requiring corticosteroid therapy can be followed by recurrence of liver injury and is not recommended. Switching to other checkpoint inhibitors (ipilimumab or anti-PD-L1 inhibitors) is more likely to be tolerated. Interestingly, survival rates do not seem to be improved by re-introduction of checkpoint inhibitor therapy after severe immune related adverse events. Thus, restarting therapy should be undertaken only after careful evaluation of the residual cancer status. Drug Class: Antineoplastic Agents, Monoclonal Antibodies, Checkpoint Inhibitors",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Nivolumab - Opdivo®"
+    ],
+    "raw_drug_class": [
+      "Antineoplastic Agents",
+      "Monoclonal Antibodies"
+    ],
+    "source_nxml_file": "Nivolumab.nxml"
+  },
+  {
+    "id": 401,
+    "name_en": "Ocrelizumab",
+    "type": "ยาชีวภาพ",
+    "thai_herb_source": null,
+    "livertox_grade": "C",
+    "grade_explanation_en": "rare cause of clinically apparent liver injury, sometimes due to reactivation of hepatitis B",
+    "rucam_score_bonus": 1,
+    "source": "LiverTox (NIDDK, NIH): Ocrelizumab.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Ocrelizumab/",
+    "source_review_date": "2025-09-30",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity Mild-to-moderate serum aminotransferase elevations were reported to occur in 1% to 2% of patients during ocrelizumab therapy. The elevations, however, were self-limited and resolved even with continuing cyclic therapy and were no more frequent than occurred with placebo. During premarketing evaluation of ocrelizumab, clinically apparent, acute liver injury with symptoms or jaundice were not reported, but fewer than 2 thousand patients had received the agent. Since its approval and more wide-scale use, ocrelizumab has been implicated in a small number of cases. The injury arose within a few weeks to several months after the initial infusion and was typically hepatocellular. Some cases were severe and fatalities have been reported. The reported cases often arose in patients who received other potential hepatotoxic medications most frequent high-dose methylprednisolone, which can also cause acute hepatocellular injury with or without jaundice. The clinical presentation of injury resembles an immune mediated injury and is often treated with corticosteroids and further immune suppression which can result in complications in these patients with B cell depletion from the ocrelizumab therapy. Monoclonal antibodies against CD20 similar to ocrelizumab such as rituximab and ofatumumab have been implicated in cases of reactivation of hepatitis B some of which have been severe and even fatal. HBV reactivation typically occurs in patients with preexisting HBsAg and relatively inactive disease, but in some instances, it occurs in patients with anti-HBc without HBsAg. Reactivation causes acute hepatocellular injury that can be severe and lead to acute liver failure and death or need for emergency liver transplantation. Since the approval and more widespread use of ocrelizumab, isolated instances of reactivation of hepatitis B have been reported, both in patients with preexisting HBsAg in serum (HBsAg carriers) and those with anti-HBc without HBsAg (serologic pattern associated with recovery from HBV infection). For these reasons, patients who are to receive ocrelizumab should be screened for HBsAg and anti-HBc before starting therapy. Those with markers of HBV infection should either be given prophylaxis against (using oral antiviral agents with activity against HBV) or monitored carefully for HBV DNA in serum and initiated on antiviral therapy if levels become detectable or rise significantly. Likelihood score: C (rare cause of clinically apparent liver injury, sometimes due to reactivation of hepatitis B).",
+    "raw_mechanism_text": "",
+    "raw_outcome_text": "Outcome and Management Guidelines for management of patients who are to receive ocrelizumab recommend routine screening for hepatitis B before starting treatment. Screening should include tests for HBsAg and anti-HBc (and perhaps also anti-HBs as this may help in management). Prophylaxis with a potent oral, antiviral agent effective against hepatitis B is recommended for persons who have HBsAg in serum and is suggested for those with anti-HBc without HBsAg. An alternative approach which is perhaps more appropriate for ocrelizumab is careful monitoring for HBV DNA during therapy and early institution of antiviral therapy if levels rise. At present, hepatitis B is considered a relative contraindication to the use of ocrelizumab in multiple sclerosis. Drug Class: Multiple Sclerosis Agents; Monoclonal Antibodies",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Ocrelizumab - Ocrevus®"
+    ],
+    "raw_drug_class": [
+      "Multiple Sclerosis Agents",
+      "Monoclonal Antibodies"
+    ],
+    "source_nxml_file": "Ocrelizumab.nxml"
+  },
+  {
+    "id": 402,
+    "name_en": "Octreotide",
+    "type": "ยาชีวภาพ",
+    "thai_herb_source": null,
+    "livertox_grade": "C",
+    "grade_explanation_en": "probable cause of clinically apparent liver injury",
+    "rucam_score_bonus": 1,
+    "source": "LiverTox (NIDDK, NIH): Octreotide.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Octreotide/",
+    "source_review_date": "2016-03-30",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity Mild, transient, asymptomatic elevations in serum aminotransferase levels occur in a small proportion of patients receiving octreotide, and in some individuals the elevations are persistent and worsen over time and may require drug discontinuation. In addition, several instances of acute, clinically apparent liver injury attributable to octreotide have been described. The onset is generally within 1 to 6 months of starting therapy and injury may be more frequent with higher doses. Most cases of liver injury associated with octreotide therapy have been asymptomatic and anicteric, and marked by prominent elevations in serum ALT and AST with normal or near normal serum alkaline phosphatase, GGT and bilirubin. In some instances, however, jaundice has arisen, particularly with rechallenge. There have been no instances of acute liver failure or vanishing bile duct syndrome associated with octreotide, and a characteristic feature of the injury is the rapidity of improvement upon stopping the injections or infusions. Several instances of marked aminotransferase elevations with rapid improvements on stopping have been reported in newborns and infants with congenital hyperinsulinemia who were treated with continuous infusions of high doses of octreotide. Octreotide causes inhibition of gall bladder contractility and decrease in bile secretion, and long term therapy is associated with a high rate of cholesterol gallstone formation. In prospective studies, between 25% and 65% of patients with acromegaly treated with maintenance octreotide developed gallstones detected by ultrasonography and a proportion developed symptomatic cholelithiasis requiring hospitalization and cholecystectomy. Even after cholecystectomy, cholesterol stones may form in the common bile duct and intrahepatic ducts causing symptoms, episodes of sepsis and need for partial hepatic resection. Therapy with ursodiol does not appear to prevent gallstone formation during octreotide therapy, although it may help. Octreotide has also been associated with acute pancreatitis, which may be due to its inhibitory effect on gastrointestinal hormone release, although other cases may be secondary to passage of gall bladder stones and pancreatic duct obstruction. Likelihood score: C (probable cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury Octreotide, like somatostatin, decreases cholecystokinin secretion, gall bladder contractility and bile secretion, perhaps accounting for the high rate of gall bladder sludge and stone formation with long term use. How infusions of octreotide cause acute liver injury independent of its effect on bile flow and gall bladder function is uncertain. Octreotide is a polypeptide and, as such, should not have direct or even indirect hepatic toxicity. Thus, the liver injury, like the gall bladder effects, is likely caused by what octreotide does, rather than by its chemical structure or what it is. Octreotide has multiple effects on gastrointestinal motility and changes bowel transient, bacterial composition in the intestines and bile acid levels. In addition, glycogenosis caused by changes in insulin and glucagon is a possible cause of the serum ALT and AST elevations that occur with high doses of octreotide and would account for the rapidity of improvement upon stopping.",
+    "raw_outcome_text": "Outcome and Management The liver injury due to the octreotide generally resolves rapidly with stopping therapy. It also usually recurs upon restarting and may be more severe. For these reasons, patients that are restarted on treatment after an episode of liver injury should be monitored carefully for possible recurrence. Drug Class: Hormonal Agents; Antineoplastic Agents, Peptide Hormones; Gastrointestinal Agents, Antidiarrheals Other Drugs in the Subclass, Hormonal Agents, Somatostatin Analogues: Lanreotide, Pasireotide",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [],
+    "raw_drug_class": [
+      "Antineoplastic Agents",
+      "Gastrointestinal Agents",
+      "Lanreotide",
+      "Pasireotide"
+    ],
+    "source_nxml_file": "Octreotide.nxml"
+  },
+  {
+    "id": 403,
+    "name_en": "Omalizumab",
+    "type": "ยาชีวภาพ",
+    "thai_herb_source": null,
+    "livertox_grade": "E",
+    "grade_explanation_en": "unlikely cause of clinically apparent liver injury",
+    "rucam_score_bonus": 0,
+    "source": "LiverTox (NIDDK, NIH): Omalizumab.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Omalizumab/",
+    "source_review_date": "2020-12-28",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity In large clinical trials, omalizumab was not associated with changes in serum aminotransferase levels during therapy, and rates of most adverse reactions were similar in patients who received omalizumab or placebo. There have been no published reports of clinically apparent acute liver injury attributed to omalizumab therapy. Thus, liver injury from omalizumab must be rare, if it occurs at all. Likelihood score: E (unlikely cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury Omalizumab is a human monoclonal antibody and is unlikely to be inherently hepatotoxic. While most recombinant proteins are metabolized by the liver, the metabolism leads largely to small peptides and amino acids which may be reused to synthesize proteins and are unlikely to be toxic or immunogenic. Omalizumab lowers serum levels of IgE, which seems to have no adverse effects on the liver and does not result in significant immunosuppression. Drug Class: Antiasthmatic Agents, Monoclonal Antibodies",
+    "raw_outcome_text": "",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Omalizumab - Xolair®"
+    ],
+    "raw_drug_class": [
+      "Antiasthmatic Agents",
+      "Monoclonal Antibodies"
+    ],
+    "source_nxml_file": "Omalizumab.nxml"
+  },
+  {
+    "id": 404,
+    "name_en": "Panitumumab",
+    "type": "ยาชีวภาพ",
+    "thai_herb_source": null,
+    "livertox_grade": "E",
+    "grade_explanation_en": "unlikely cause of clinically apparent liver injury",
+    "rucam_score_bonus": 0,
+    "source": "LiverTox (NIDDK, NIH): Panitumumab.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Panitumumab/",
+    "source_review_date": "2020-04-15",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity The rates of serum aminotransferase elevations during panitumumab therapy have not been reported in any detail from clinical trials, but nor has the absence of such elevations. In the FDA review of panitumumab, ALT elevations above 5 times the upper limit of normal (ULN) were reported to be 6% and not greater than with placebo (5%) and there were no early discontinuations because of liver test abnormalities or hepatic serious adverse events. If present, serum aminotransferase elevations must have been self-limited and resolved even with continuing cyclic therapy. No individual case reports of clinically apparent, acute liver injury with symptoms or jaundice attributed to panitumumab have been published and the product label does not discuss hepatotoxicity. Likelihood score: E (unlikely cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury The cause of the transient enzyme elevations during monoclonal antibody therapies is generally unknown, but may relate to direct effects of the antibody reactivity to cell surface markers that may be over-expressed on cancer cells, but are also present in lower density on normal epithelial cells. Drug Class: Antineoplastic Agents, Monoclonal Antibodies",
+    "raw_outcome_text": "",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Panitumumab - Vectibix®"
+    ],
+    "raw_drug_class": [
+      "Antineoplastic Agents",
+      "Monoclonal Antibodies"
+    ],
+    "source_nxml_file": "Panitumumab.nxml"
+  },
+  {
+    "id": 405,
+    "name_en": "Pasireotide",
+    "type": "ยาชีวภาพ",
+    "thai_herb_source": null,
+    "livertox_grade": "E*",
+    "grade_explanation_en": "unproven but suspected rare cause of clinically apparent hepatobiliary injury",
+    "rucam_score_bonus": 0,
+    "source": "LiverTox (NIDDK, NIH): Pasireotide.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Pasireotide/",
+    "source_review_date": "2017-04-20",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity Mild, transient, asymptomatic elevations in serum aminotransferase levels occur in up to 29% of patients receiving pasireotide LAR, but elevations above 5 times the upper limit of normal are rare (<1%) and no case of clinically apparent liver injury with jaundice was reported in the preregistration trials of pasireotide in acromegaly. In some instances, the serum enzyme elevations appeared to reflect cholelithiasis and cholecystitis rather than hepatic injury and in all cases the abnormalities resolved, usually without dose modification or discontinuation. Similar or greater rates of liver test abnormalities were observed with octreotide LAR therapy. Since its approval and more widescale use, there have been no published reports of liver injury or hepatitis attributed to pasireotide. The product label for pasireotide mentions that hepatic serum enzyme elevations can occur on therapy and recommends monitoring “prior to and during therapy.” Pasireotide causes inhibition of gall bladder contractility and a decrease in bile secretion, and long term therapy is associated with a high rate of cholesterol gallstone formation. In prospective studies, between 20% and 30% of patients with acromegaly treated with maintenance pasireotide for one to two years developed gallstones detected by ultrasonography and a proportion developed symptomatic cholelithiasis requiring hospitalization and cholecystectomy. Even after cholecystectomy, cholesterol stones may form in the common bile duct and intrahepatic ducts during somatostatin analogue therapy which can cause symptoms and liver test abnormalities. Therapy with ursodiol does not appear to prevent gallstone formation related to somatostatin analogue therapy, although it may help. Likelihood score: E* (unproven but suspected rare cause of clinically apparent hepatobiliary injury).",
+    "raw_mechanism_text": "Mechanism of Injury Pasireotide, like somatostatin, decreases cholecystokinin secretion, gall bladder contractility and bile secretion, perhaps accounting for the high rate of gall bladder sludge and stone formation with long term use. How infusions of pasireotide might cause acute liver injury independent of its effect on bile flow and gall bladder function is uncertain. Pasireotide is a polypeptide and, as such, should not have direct or even indirect hepatic toxicity. Thus, the liver injury, like the gall bladder effects, is likely caused by what pasireotide does, rather than by its chemical structure or what it is. Pasireotide has multiple effects on the gastrointestinal tract, including effects on gastrointestinal hormone levels, motility, transit time, bacterial flora, and bile acid concentrations.",
+    "raw_outcome_text": "Outcome and Management The product label for pasireotide recommends evaluation of “liver enzyme test prior to and during treatment.” The liver test abnormalities during pasireotide therapy generally resolve rapidly with stopping therapy, but may resolve even with drug continuation. Patients should be monitored if pasireotide is restarted after liver test abnormalities resolve. Nevertheless, in many instances, pasireotide has been restarted without recurrence. There is little information on cross sensitivity to liver injury among the different somatostatin analogues, but liver injury has been reported most frequently with octreotide. Drug Class: Hormonal Agents; Antineoplastic Agents; Gastrointestinal Agents Other Drugs in the Subclass, Hormonal Agents, Somatostatin Analogues: Lanreotide, Octreotide",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Pasireotide - Signifor®"
+    ],
+    "raw_drug_class": [
+      "Antineoplastic Agents",
+      "Gastrointestinal Agents",
+      "Lanreotide",
+      "Octreotide"
+    ],
+    "source_nxml_file": "Pasireotide.nxml"
+  }
+]

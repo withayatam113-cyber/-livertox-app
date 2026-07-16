@@ -1,0 +1,329 @@
+[
+  {
+    "id": 370,
+    "name_en": "Cetuximab",
+    "type": "ยาชีวภาพ",
+    "thai_herb_source": null,
+    "livertox_grade": "E",
+    "grade_explanation_en": "unlikely cause of clinically apparent liver injury",
+    "rucam_score_bonus": 0,
+    "source": "LiverTox (NIDDK, NIH): Cetuximab.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Cetuximab/",
+    "source_review_date": "2017-10-03",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity Publications on the large scale trials of cetuximab, rates of ALT elevations and clinically apparent liver injury were usually not mentioned. In a study of squamous cell carcinoma of the head and neck, some degree of ALT elevation was reported in 45% of persons receiving cetuximab and radiation therapy versus 22% of those receiving radiation alone, but elevations above 5 times the ULN were rare (2% vs 1%). During the initial clinical trials and subsequent to its approval and more wide scale use, there have been no published reports of cetuximab hepatotoxicity. Likelihood score: E (unlikely cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury The cause of the serum enzyme elevations during cetuximab therapy is not known. However, the human EGF receptor is present on many cells and some of the adverse events, including mild liver injury, may be due to a direct effect of the monoclonal antibody on cells that express EGF receptors.",
+    "raw_outcome_text": "Outcome and Management The serum aminotransferase elevations that occur on cetuximab therapy are generally transient, mild and asymptomatic and do not require dose modification or delay in therapy. Elevations above 5 times the upper limit of normal should lead to more careful monitoring and discontinuation or delay in therapy until levels return to normal or near normal levels. There is no information on cross reactivity of liver injury among the different monoclonal antibodies. Panitumumab is another monoclonal antibody to EGFR that is approved for use in the United States for metastatic colorectal cancer. Panitumumab is a human monoclonal IgG2 antibody and has a similar profile of side effects to cetuximab, except for a lower rate of infusion reactions. Drug Class: Antineoplastic Agents, Monoclonal Antibodies",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Cetuximab - Erbitux®"
+    ],
+    "raw_drug_class": [
+      "Antineoplastic Agents",
+      "Monoclonal Antibodies"
+    ],
+    "source_nxml_file": "Cetuximab.nxml"
+  },
+  {
+    "id": 371,
+    "name_en": "Daratumumab",
+    "type": "ยาชีวภาพ",
+    "thai_herb_source": null,
+    "livertox_grade": "E",
+    "grade_explanation_en": "unlikely cause of clinically apparent liver injury",
+    "rucam_score_bonus": 0,
+    "source": "LiverTox (NIDDK, NIH): Daratumumab.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Daratumumab/",
+    "source_review_date": "2017-05-25",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity In summary analyses of the registration trials of daratumumab for multiple myeloma, 15% of patients developed elevations in ALT during therapy, 13% alkaline phosphatase and 7% bilirubin. The abnormalities were generally mild-to-moderate, transient and asymptomatic. ALT elevations above 5 times the upper limit of normal occurred in less than 1% of patients. In these studies, daratumumab was given with lenalidomide and dexamethasone, and similar rates of liver enzyme elevations occurred with those agents alone without the monoclonal antibody. There were no instances of clinically apparent liver injury with jaundice attributable to daratumumab in these trials and no patient stopped therapy because of hepatic adverse events. Since its approval and more general use, there have been no published reports of clinically apparent liver injury due to daratumumab, and its product label does not list hepatotoxicity as an adverse event. Likelihood score: E (unlikely cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury The mechanism by which daratumumab might cause liver injury is not known. There is no evidence that CD38 is expressed on hepatocytes. Like other monoclonal antibodies, daratumumab is unlikely to have intrinsic hepatotoxicity, is metabolized to smaller peptides or amino acids by many cells, and does not affect the hepatic drug metabolizing enzymes or transporting molecules.",
+    "raw_outcome_text": "Outcome and Management The liver injury attributed to daratumumab has invariably been self-limited and not associated with symptoms or jaundice. There is no information on possible cross sensitivity to the injury among different monoclonal antibodies or therapies directed at epidermal growth factor receptors. Drug Class: Antineoplastic Agents, Monoclonal Antibodies",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Daratumumab - Darzalex®"
+    ],
+    "raw_drug_class": [
+      "Antineoplastic Agents",
+      "Monoclonal Antibodies"
+    ],
+    "source_nxml_file": "Daratumumab.nxml"
+  },
+  {
+    "id": 372,
+    "name_en": "Defibrotide",
+    "type": "ยาชีวภาพ",
+    "thai_herb_source": null,
+    "livertox_grade": "E",
+    "grade_explanation_en": "unlikely cause of clinically apparent acute liver injury",
+    "rucam_score_bonus": 0,
+    "source": "LiverTox (NIDDK, NIH): Defibrotide.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Defibrotide/",
+    "source_review_date": "2017-12-27",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity Defibrotide therapy has not been linked to serum aminotransferase elevations or with instances of clinically apparent liver injury separate from the features of SOS for which it is given. In a trial of defibrotide as prophylaxis against SOS conducted in 356 children undergoing HCT, rates of severe adverse events such as hemorrhage, gastrointestinal complaints and liver injury were similar in those receiving defibrotide as in untreated children. Likelihood score: E (unlikely cause of clinically apparent acute liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury Defibrotide consists of a mixture of porcine polydeoxyribonucleotides which are unlikely to have a direct toxic effect on the liver and also unlikely to cause idiosyncratic metabolic or immunoallergic injury.",
+    "raw_outcome_text": "Outcome and Management No convincing instances of clinically apparent or severe acute liver injury have been linked to defibrotide in the published literature, and worsening of the underlying liver injury during therapy is generally considered due to the severity of the sinusoidal obstruction rather than drug induced injury. The appearance of excessive hemorrhage, however, is often a reason for early discontinuation of defibrotide. Drug Class: Antithrombotic Agents",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Defibrotide - Defitelio®"
+    ],
+    "raw_drug_class": [
+      "Antithrombotic Agents"
+    ],
+    "source_nxml_file": "Defibrotide.nxml"
+  },
+  {
+    "id": 373,
+    "name_en": "Degarelix",
+    "type": "ยาชีวภาพ",
+    "thai_herb_source": null,
+    "livertox_grade": "E",
+    "grade_explanation_en": "unlikely cause of clinically apparent liver injury",
+    "rucam_score_bonus": 0,
+    "source": "LiverTox (NIDDK, NIH): Degarelix.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Degarelix/",
+    "source_review_date": "2023-05-28",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity Degarelix therapy has been associated with serum enzyme elevations in up to one-third of patients. The elevations, however, are generally mild and self-limited, resolving even without dose adjustment. ALT values above 3 times the ULN occur in less than 1% of patients. Occasional patients require drug discontinuation because of serum enzyme elevations, but no instances of liver injury with jaundice or clinically apparent acute liver injury were reported in the initial clinical trials of degarelix. Since its approval and more widescale use, there have been no published reports of clinically apparent liver injury attributed to degarelix, although its general use has been limited. Likelihood score: E (unlikely cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury The mechanism by which degarelix might cause liver injury is unknown. It is a decapeptide and is metabolized by many tissues to individual amino acids. It has no effect on cytochrome P450 activity and has not been implicated in drug-drug interactions.",
+    "raw_outcome_text": "Outcome and Management While serum aminotransferase elevations during degarelix therapy are common, they rarely require dose adjustment or drug discontinuation. Routine monitoring of liver tests is not recommended except in patients with known, preexisting liver disease. There is no evidence of cross sensitivity to liver injury among the various GnRH analogues. Drug Class: Antineoplastic Agents, GnRH Analogues Other Drugs in the Subclass, GnRH Analogues: Goserelin, Histrelin, Leuprolide, Relugolix, Triptorelin",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Degarelix - Firmagon®"
+    ],
+    "raw_drug_class": [
+      "Antineoplastic Agents",
+      "GnRH Analogues",
+      "Goserelin",
+      "Histrelin",
+      "Leuprolide",
+      "Relugolix",
+      "Triptorelin"
+    ],
+    "source_nxml_file": "Degarelix.nxml"
+  },
+  {
+    "id": 374,
+    "name_en": "Denosumab",
+    "type": "ยาชีวภาพ",
+    "thai_herb_source": null,
+    "livertox_grade": "E*",
+    "grade_explanation_en": "unproven but suspected rare cause of clinically apparent liver injury",
+    "rucam_score_bonus": 0,
+    "source": "LiverTox (NIDDK, NIH): Denosumab.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Denosumab/",
+    "source_review_date": "2017-12-28",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity In large clinical trials, denosumab was not associated with changes in serum aminotransferase levels during therapy and rates of most adverse reactions were similar in patients who received denosumab as placebo. Since its approval and more wide-scale use, it has been implicated in only one instance of clinically apparent acute liver injury which resulted in chronic injury that was responsive to corticosteroid therapy and likely represented an unrelated onset of autoimmune liver disease. Thus, significant liver injury from denosumab must be very rare, if it occurs at all. Likelihood score: E* (unproven but suspected rare cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury Denosumab is a human monoclonal antibody and is unlikely to be inherently hepatotoxic. While most recombinant proteins are metabolized by the liver, the metabolism leads largely to small peptides and amino acids which may be reused to synthesize proteins and are unlikely to be toxic or immunogenic. The RANK ligand pathways are important in bone turnover and formation. RANK is found on the surface of marrow stromal cells and on activated T cells, but its engagement by ligand has no recognized effect on the liver. However, its engagement of immunocytes suggests that it might lead to a self-perpetuating autoimmune condition such as autoimmune hepatitis. Drug Class: Osteoporosis Agents; Monoclonal Antibodies",
+    "raw_outcome_text": "",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Denosumab - Prolia®"
+    ],
+    "raw_drug_class": [
+      "Monoclonal Antibodies"
+    ],
+    "source_nxml_file": "Denosumab.nxml"
+  },
+  {
+    "id": 375,
+    "name_en": "Desirudin",
+    "type": "ยาชีวภาพ",
+    "thai_herb_source": null,
+    "livertox_grade": "E",
+    "grade_explanation_en": "unlikely cause of clinically apparent liver injury",
+    "rucam_score_bonus": 0,
+    "source": "LiverTox (NIDDK, NIH): Desirudin.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Desirudin/",
+    "source_review_date": "2018-01-03",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity In the large prelicensure clinical trials of desirudin, serum aminotransferase and alkaline phosphatase elevations were not reported. Furthermore, there have been no case reports of clinically apparent liver injury attributable to desirudin therapy. There have been reports of hypersensitivity reactions to desirudin therapy and hepatic involvement often occurs during severe drug induced hypersensitivity reactions. Likelihood score: E (unlikely cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury Desirudin is a recombinant protein and is unlikely to have intrinsic hepatotoxicity. Liver injury during desirudin therapy is clearly rare, if it occurs at all, and would most likely be part of an immunologic reaction to the foreign protein.",
+    "raw_outcome_text": "Outcome and Management There appears to be cross sensitivity to allergic reactions to various preparations of recombinant hirudins and retreatment with desirudin should be avoided. Drug Class: Antithrombotic Agents, Anticoagulants Other Drugs in the Subclass, Anticoagulants, Thrombin Inhibitors: Dabigatran",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Desirudin - Iprivask®"
+    ],
+    "raw_drug_class": [
+      "Antithrombotic Agents",
+      "Anticoagulants",
+      "Dabigatran"
+    ],
+    "source_nxml_file": "Desirudin.nxml"
+  },
+  {
+    "id": 376,
+    "name_en": "Dinutuximab",
+    "type": "ยาชีวภาพ",
+    "thai_herb_source": null,
+    "livertox_grade": "E*",
+    "grade_explanation_en": "unproven but suspected cause of clinically apparent acute liver injury",
+    "rucam_score_bonus": 0,
+    "source": "LiverTox (NIDDK, NIH): Dinutuximab.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Dinutuximab/",
+    "source_review_date": "2018-01-03",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity Serum aminotransferase elevations are common during dinutuximab therapy occurring in at least 50% of patients, but the abnormalities are usually transient and asymptomatic, resolving spontaneously before the time for the next cycle of infusions. ALT elevations above 5 times the upper limit of normal occurred in 8% to 23% of patients in preregistration trials. However, clinically apparent liver injury with jaundice has not been described in clinical trials or case series on the use of dinutuximab in children with neuroblastoma. Likelihood score: E* (unproven but suspected cause of clinically apparent acute liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury The mechanism of liver injury caused by dinutuximab is not known. It is a recombinant protein and unlikely to be inherently hepatoxic, but may trigger liver injury by engagement of low levels of GD2 on hepatocytes or sinusoidal cells, triggering cell injury. The aminotransferase elevations with dinutuximab do not appear to be related to the frequent hypersensitivity infusion reactions, which may be due in part to reactions to the chimeric antibody.",
+    "raw_outcome_text": "Outcome and Management Patients with neuroblastoma receiving dinutuximab therapy require careful monitoring of both hematologic and clinical chemistry test results. Serum aminotransferase elevations that persist or rise above 5 times ULN should lead to delay in subsequent infusions until the abnormalities resolve. The appearance of symptoms of liver injury or jaundice should lead to discontinuation. Drug Class: Antineoplastic Agents, Monoclonal Antibodies",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Dinutuximab - Unituxin®"
+    ],
+    "raw_drug_class": [
+      "Antineoplastic Agents",
+      "Monoclonal Antibodies"
+    ],
+    "source_nxml_file": "Dinutuximab.nxml"
+  },
+  {
+    "id": 377,
+    "name_en": "Dulaglutide",
+    "type": "ยาชีวภาพ",
+    "thai_herb_source": null,
+    "livertox_grade": "-",
+    "grade_explanation_en": "-",
+    "rucam_score_bonus": "-",
+    "source": "LiverTox (NIDDK, NIH): Dulaglutide.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Dulaglutide/",
+    "source_review_date": "2019-04-10",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity In large clinical trials, serum enzyme elevations were no more common with dulaglutide therapy than with placebo or comparator agents, and no instances of clinically apparent liver injury were reported. Since licensure, there have been no published case reports of hepatotoxicity due to dulaglutide and the product label does not list liver injury as an adverse event. Thus, liver injury due to dulaglutide must be rare, if it occurs at all.",
+    "raw_mechanism_text": "Mechanism of Injury Dulaglutide is a polypeptide and is metabolized to amino acids by serum and tissue proteases, and is unlikely to have any direct hepatotoxic potential. Dulaglutide acts through the incretin pathway to affect glucose metabolism and, thus, is often grouped with other incretin-based antidiabetic mediations such as the DPP-4 inhibitors, sitagliptin, saxagliptin and linagliptin, and other GLP-1 analogues such as exenatide, liraglutide and albiglutide which are also discussed in LiverTox. References regarding the hepatotoxicity and safety of dulaglutide are given with the Overview section of the GLP-1 Analogues. Drug Class: Antidiabetic Agents Other Drugs in the Subclass, Incretin-Based Drugs, Glucagon-Like Peptide-1 (GLP-1) Analogues: Albiglutide, Exenatide, Liraglutide, Lixisenatide, Semaglutide",
+    "raw_outcome_text": "",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Dulaglutide - Trulicity®"
+    ],
+    "raw_drug_class": [
+      "Antidiabetic Agents",
+      "Incretin-Based Drugs",
+      "Glucagon-Like Peptide-1 (GLP-1) Analogues",
+      "Albiglutide",
+      "Exenatide",
+      "Liraglutide",
+      "Lixisenatide",
+      "Semaglutide"
+    ],
+    "source_nxml_file": "Dulaglutide.nxml"
+  },
+  {
+    "id": 378,
+    "name_en": "Dupilumab",
+    "type": "ยาชีวภาพ",
+    "thai_herb_source": null,
+    "livertox_grade": "E",
+    "grade_explanation_en": "unlikely cause of clinically apparent liver injury",
+    "rucam_score_bonus": 0,
+    "source": "LiverTox (NIDDK, NIH): Dupilumab.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Dupilumab/",
+    "source_review_date": "2018-08-01",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity In several large randomized, placebo controlled trials, serum enzyme and bilirubin levels did not change during dupilumab therapy and there were no reported liver related serious adverse events or causes for early discontinuation. There have been no published reports of clinically apparent acute liver injury attributed to dupilumab therapy, but it has had limited general clinical use. Thus, liver injury from dupilumab must be rare, if it occurs at all. Likelihood score: E (unlikely cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "",
+    "raw_outcome_text": "",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Dupilumab - Dupixent®"
+    ],
+    "raw_drug_class": [
+      "Monoclonal Antibodies"
+    ],
+    "source_nxml_file": "Dupilumab.nxml"
+  },
+  {
+    "id": 379,
+    "name_en": "Durvalumab",
+    "type": "ยาชีวภาพ",
+    "thai_herb_source": null,
+    "livertox_grade": "B",
+    "grade_explanation_en": "likely cause of clinically apparent, immune mediated liver injury and probable cause of reactivation of hepatitis",
+    "rucam_score_bonus": 2,
+    "source": "LiverTox (NIDDK, NIH): Durvalumab.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Durvalumab/",
+    "source_review_date": "2022-06-23",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity Mild-to-moderate serum aminotransferase elevations are not uncommon (20% to 30%) during durvalumab therapy, but are usually self-limited and resolve even with continuing cyclic therapy. These rates of serum enzyme elevations are similar to those with other forms of chemotherapy for advanced malignancies. Serum ALT elevations above 5 times the upper limit of normal (ULN) occur in 1% to 4% of patients and generally lead to temporary or permanent discontinuation. Importantly, in 1% to 2% of treated patients the serum enzyme elevations evolve into an immune mediated liver injury that can be clinically apparent and can be severe. The onset of injury is typically after 2 to 4 cycles or 1 to 3 months after starting treatment. The pattern of enzyme elevation is usually hepatocellular but can be mixed or even cholestatic. Liver histology demonstrates a pan-lobular hepatitis with focal or confluent necrosis and prominent lymphocytic infiltrates of activated T cells, compatible with an immune mediated hepatic injury. More severe forms of hepatitis may demonstrate centrilobular (zone 3) necrosis. Despite features of immune mediated liver injury, autoantibodies are usually not present and immunoglobulin levels are typically normal. Because of the serious nature of the liver injury, monitoring with routine liver tests (including alkaline phosphatase) is recommended for patients who receive checkpoint inhibitor therapy. Treatment with corticosteroids generally results in a rapid improvement, allowing for their discontinuation within 1 to 2 months. In some instances, however, the clinical and biochemical response is inadequate, calling for addition of a second immunosuppressive agent such as azathioprine or mycophenolate mofetil. Restarting durvalumab or another checkpoint inhibitor after resolution of the hepatic injury is sometimes possible but can result in recurrence of injury and has not been shown to improve outcome of the cancer chemotherapy. A proportion of patients receiving durvalumab develop cholestatic rather than hepatocellular liver injury. Cholestatic forms of immune mediated liver injury generally arise later than the hepatocellular forms (after 3 to 10 cycles) and are often accompanied by abdominal pain and jaundice. Alkaline phosphatase levels are markedly elevated while aminotransferase levels are only modestly increased. Imaging studies may show irregular dilatation of the intra- and/or extrahepatic bile ducts and thickening of the gall bladder and bile duct wall, but without evidence of frank obstruction. Liver biopsy shows portal inflammation and bile duct injury and endoscopic biopsy of the bile duct epithelium shows inflammation and scarring. The general features suggest a secondary form of sclerosing cholangitis or cholangiopathy. Therapy with immunosuppression may improve alkaline phosphatase and bilirubin levels but rarely leads to complete recovery, and long term cholestasis and hepatic failure can occur. Some patients with a cholestatic form of immune related hepatitis do not manifest the large bile duct changes but demonstrate loss and paucity of smaller intrahepatic bile ducts compatible with vanishing bile duct syndrome and similar to primary biliary cholangitis (PBC). The effects of PD-L1 inhibition on chronic hepatitis B are not well defined but convincing examples of reactivation of hepatitis B have been described due to other checkpoint inhibitors. Most cases have occurred in patients with preexisting HBsAg, but rare instances were reported in individuals suspected of having with anti-HBc without HBsAg. Thus, screening patients for HBsAg, anti-HBc and anti-HBs is appropriate before initiating immunotherapy with checkpoint inhibitors. Patients with HBsAg should be considered for prophylaxis with an antiviral agent with potent activity against HBV such as entecavir or tenofovir. In patients with anti-HBc without HBsAg, monitoring and close attention to liver test abnormalities is probably adequate if antiviral therapy can be introduced rapidly for early evidence of reactivation. There has not been adequate experience with durvalumab in regard to the risk of reactivation of hepatitis B to provide rates of reactivation with and without antiviral prophylaxis. Likelihood score: B (likely cause of clinically apparent, immune mediated liver injury and probable cause of reactivation of hepatitis).",
+    "raw_mechanism_text": "Mechanism of Injury The liver injury due to durvalumab is likely immunologically mediated and is usually at least partially responsive to corticosteroid or immunosuppressive therapy. Liver biopsies in cases of hepatocellular injury and bile duct epithelial cell biopsies in cholangiopathic injury demonstrate necrosis and inflammatory cell infiltration with cytotoxic CD8+ T cells, suggesting that the checkpoint inhibition allowed for activation of T cells directed at hepatocyte or cholangiocyte cell surface antigens.",
+    "raw_outcome_text": "Outcome and Management Guidelines for management of patients receiving durvalumab recommend monitoring of liver tests and interrupting therapy for patients who develop serum aminotransferase elevations above 3 times the ULN and discontinuing treatment for values above 8 times the ULN in patients without pre-existing abnormalities or tumor involvement of the liver [in whom elevations of 5 and 10 times the ULN are used]. Corticosteroid therapy can be considered for patients with high or persistent ALT elevations or if symptoms or jaundice arise, initiating therapy with high dose intravenous methylprednisolone and switching to oral prednisone after 1 to 2 days, continuing tapering doses for at least 30 days. Most cases of hepatitis due to checkpoint inhibitors resolve with prompt institution of immunosuppressive therapy which can be discontinued in 1 to 3 months. In some cases, adding a second agent (such as mycophenolate mofetil, azathioprine, antithymocyte globulin, infliximab or tacrolimus) and prolonged immunosuppression may be necessary. The few fatal cases that have been reported during immunotherapy with checkpoint inhibitors occurred in patients who had other severe immune related adverse events (Stevens Johnson syndrome, capillary leak syndrome) or who had an immune-related cholangiopathy or severe acute hepatitis resistant to immunosuppressive therapy. Restarting durvalumab after severe liver injury requiring corticosteroid therapy can be followed by recurrence of liver injury and is not recommended. Switching to other checkpoint inhibitors (ipilimumab or anti-PD-1 inhibitors) is more likely to be tolerated. However, survival rates do not seem to be improved by re-introduction of checkpoint inhibitor therapy after severe immune related adverse events. Thus, restarting therapy should be undertaken only after careful evaluation of the residual cancer status. Drug Class: Antineoplastic Agents, Monoclonal Antibodies, Checkpoint Inhibitors",
+    "raw_case_report_text": "CASE REPORT Case 1. Acute mixed liver injury due to durvalumab.(1) A 77 year old woman with metastatic breast cancer developed elevations in serum enzymes after starting durvalumab therapy. She had no history of liver disease, and liver tests were normal before starting checkpoint inhibitor therapy. With the initial two infusions of durvalumab she was found to have mild to moderate serum ALT elevations (3 to 5 times ULN) one week later which resolved by the time of the next planned infusion (Table). The degree of aminotransferase elevations after infusions appeared to decline with the third and fourth infusions. At the time of the 6th planned cycle, however, her aminotransferase and alkaline phosphatase levels were both markedly elevated (Table). Serum total bilirubin levels and INR were normal. Tests for hepatitis A, B and C were negative. Antinuclear and smooth muscle antibodies were negative. Abdominal ultrasound and CT scans showed no evidence of bile duct dilation or abnormalities. Liver biopsy was not done. She was started on high dose oral prednisone (1 mg/kg daily), which was followed by a slow improvement in enzymes, but worsening when prednisone doses were lowered. She was also found to be hypothyroid and was started on levothyroxine. After 3 months of corticosteroid therapy, azathioprine was added which allowed for discontinuation of prednisone. Six months after onset her liver tests were normal while on azathioprine alone. Checkpoint inhibitor therapy was not restarted. Subsequently, azathioprine was stopped and liver tests remained normal. She was treated with capecitabine and doxorubicin, but died of complications of advanced breast cancer 6 months later. Key Points Medication: Durvalumab (1120 mg iv every 3 weeks) Pattern: Mixed initially (R=2.3), cholestatic thereafter (R=0.6 to 1.6) Severity: 1+ (liver enzyme elevations without jaundice) Latency: 4 months Recovery: 4-6 months Other medications: None mentioned Laboratory Values Days AfterStarting Days AfterStopping ALT(U/L) Alk P(U/L) Bilirubin(mg/dL) Comment -21 32 129 0.2 0 (1st dose) 30 125 0.3 Durvalumab started 7 190 107 0.4 21 (2nd dose) 38 120 0.4 28 112 114 0.3 42 (3rd dose) 25 99 0.4 49 43 86 0.3 63 (4th dose) 17 98 0.3 70 41 109 0.4 84 (5th dose) 26 105 0.4 91 33 89 0.4 105 (dose held) 0 417 511 0.6 Prednisone (1 mg/kg) 114 9 86 293 0.4 Prednisone taper 119 14 54 245 0.4 126 21 70 244 0.4 133 28 165 312 0.4 140 35 267 713 0.3 Prednisone dose increase 162 57 67 499 0.6 176 71 34 109 1.2 Azathioprine added 232 127 51 61 1.4 Prednisone stopped 301 196 39 72 0.7 Normal Values <45 <130 <1.2 Comment The mild-to-moderate and transient elevations of ALT after initial infusions of durvalumab represent the well known frequent ALT elevations that occur during checkpoint inhibitor therapy. Following 5 cycles, however, more substantial and persistent elevations of both ALT and alkaline phosphatase occurred and immunosuppressive therapy with corticosteroids was started. The liver injury was cholestatic but there was no evidence of bile duct dilation or cholangiopathy. Ultimately, prednisone was stopped and she was maintained on azathioprine alone. While checkpoint inhibitor liver injury has been described as usually hepatocellular and monitoring for ALT and AST are recommended, cholestatic cases with prominent elevations in alkaline phosphatase such as in this case occur and are typically more resistant to immunosuppressive therapy.",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Durvalumab - Imfinzi®"
+    ],
+    "raw_drug_class": [
+      "Antineoplastic Agents",
+      "Monoclonal Antibodies"
+    ],
+    "source_nxml_file": "Durvalumab.nxml"
+  },
+  {
+    "id": 380,
+    "name_en": "Eculizumab",
+    "type": "ยาชีวภาพ",
+    "thai_herb_source": null,
+    "livertox_grade": "D",
+    "grade_explanation_en": "possible cause of clinically apparent liver injury",
+    "rucam_score_bonus": 1,
+    "source": "LiverTox (NIDDK, NIH): Eculizumab.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Eculizumab/",
+    "source_review_date": "2017-03-25",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity In clinical trials of eculizumab in patients with PNH and atypical HUS, serum enzyme levels were rarely mentioned and laboratory test results were described as being stable or unremarkable. In preregistration studies of eculizumab there were no reports of clinically apparent liver injury with jaundice. Indeed, in many studies, a steady improvement in ALT and AST values during treatment was described, perhaps reflecting the decrease in intravascular hemolysis that occurred. After approval and more widespread use of eculizumab, however, a case series of eculizumab therapy in 11 children with atypical HUS, reported that 5 children developed marked serum enzyme elevations during therapy that was accompanied by jaundice in three cases and led to discontinuation of treatment in one patient after development of symptoms and jaundice (Case 1). The onset of injury was within the first 4 doses of eculizumab and tended to recur with subsequent doses, but to a lesser extent. Indeed, 4 children were able to continue eculizumab therapy without recurrence. The pattern of serum enzyme elevations was mixed. There was no mention of immunoallergic symptoms or autoantibody formation. Similar cases have not been reported in other case series or clinical trials. Thus, liver injury may occur with eculizumab therapy but it is typically mild, asymptomatic and self-limited in course, not requiring dose modification or discontinuation. There have been no reports of acute liver failure, chronic hepatitis or vanishing bile duct syndrome associated with eculizumab therapy. Likelihood score: D (possible cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury The mechanism by which eculizumab might cause liver injury is unknown. Eculizumab is a monoclonal antibody and, like other proteins, is metabolized into amino acids and is unlikely to have intrinsic toxicity. Because it blocks the activation of complement, it might predispose to conditions that depend on complement activation for resolution (such as meningococcemia), but it is not clear whether this applies to any liver diseases.",
+    "raw_outcome_text": "Outcome and Management Eculizumab therapy has been linked to rare instances of mild, transient serum enzyme elevations during therapy, typically arising 1 to 3 weeks after an initial or early infusion of the monoclonal antibody. Instances of jaundice and symptoms from liver injury with eculizumab therapy are rare and not well described, but there have been no reports of acute liver failure, chronic hepatitis, cirrhosis or vanishing bile duct syndrome associated with it use. In patients who develop persistent elevations of serum ALT or alkaline phosphatase or who develop jaundice and symptoms, therapy should be interrupted. Drug Class: Hematologic Agents, Monoclonal Antibodies",
+    "raw_case_report_text": "CASE REPORT Case 1. Mixed hepatocellular-cholestatic liver injury during eculizumab therapy. [Modified from Case 1 in: Hayes W, Tschumi S, Ling SC, Feber J, Kirschfink M, Licht C. Eculizumab hepatotoxicity in pediatric aHUS. Pediatr Nephrol 2015; 30: 775-81. PubMed Citation] A 9 year old boy with atypical hemolytic uremic syndrome was found to have marked elevations in serum aminotransferase and alkaline phosphatase levels 3 days after a second dose of eculizumab. All liver tests had been normal before treatment, and ALT values were normal on several occasions in the week after the initial dose and at the time of the second. The values fluctuated widely rising to a peak ALT of 908 U/L, AST 1107 U/L and alkaline phosphatase 1023 U/L. He had mild symptoms of right upper quadrant pain and liver tenderness, but serum albumin and INR remained normal (bilirubin not mentioned). Tests for viral hepatitis and autoimmune markers were negative and liver ultrasound showed hepatomegaly and an heterogenous liver texture, but no evidence of biliary obstruction. A liver biopsy showed minimal changes with mild hepatocellular cytoplasmic swelling and clearing, mild Kupffer cell hemosiderosis, mild pericentral sinusoidal dilation and fibrosis. Serum enzyme elevations soon fell into the normal range and he received a third infusion 3 weeks after the second. Three days later, his serum enzymes were again elevated and he was jaundiced with a direct bilirubin of 9.9 mg/dL (previously 0.0). Therapy was suspended and liver tests began to improve and were reportedly normal 4 weeks later. Key Points Medication: Eculizumab (900 mg infusions) Pattern: Mixed (R=2.6 from peak values) Severity: 3+ (jaundice, hospitalization) Latency: 11 days Recovery: 4 weeks Other medications: None mentioned Comment In a small case series, 5 of 11 children with atypical HUS treated with eculizumab developed evidence of liver injury after 1 to 4 doses of the monoclonal antibody. All five were known to have had normal serum enzymes before starting treatment and in several instances the elevations recurred with a subsequent infusion. Nevertheless, all except the case described here recovered and were able to tolerate further doses of eculizumab without recurrence of liver injury. This article is the only description of liver injury from this monoclonal antibody and came as a surprise, because of the lack of hepatotoxicity noted in previous publications despite careful descriptions of several hundred patients with either HUS or PND who received eculizumab. The pattern of injury was \"mixed\" with marked elevations in aminotransferase as well as alkaline phosphatase and GGT levels. Also striking was the rapidity of onset and rapidity of resolution suggesting a direct effect on hepatic function rather than hepatocellular damage. A liver biopsy was performed, but at a time when the abnormalities had almost resolved. The biopsy showed hepatocellular swelling rather than necrosis and cell loss. Thus, the liver injury attributed to eculizumab is unusual and suggestive of a direct effect of the monoclonal antibody on hepatocyte pathways rather than direct cell damage.",
+    "raw_case_report_key_points": {
+      "Medication": "Eculizumab (900 mg infusions)",
+      "Pattern": "Mixed (R=2.6 from peak values)",
+      "Severity": "3+ (jaundice, hospitalization)",
+      "Latency": "11 days",
+      "Recovery": "4 weeks",
+      "Other medications": "None mentioned"
+    },
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Eculizumab - Soliris®"
+    ],
+    "raw_drug_class": [
+      "Monoclonal Antibodies"
+    ],
+    "source_nxml_file": "Eculizumab.nxml"
+  },
+  {
+    "id": 381,
+    "name_en": "Erenumab",
+    "type": "ยาชีวภาพ",
+    "thai_herb_source": null,
+    "livertox_grade": "E",
+    "grade_explanation_en": "unlikely cause of clinically apparent liver injury",
+    "rucam_score_bonus": 0,
+    "source": "LiverTox (NIDDK, NIH): Erenumab.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Erenumab/",
+    "source_review_date": "2018-08-08",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity In large clinical trials, erenumab was not associated with changes in serum aminotransferase levels during therapy and rates of most adverse reactions were similar to those in patients who received placebo. There have been no published reports of clinically apparent acute liver injury attributed to erenumab therapy. Thus, significant liver injury from erenumab must be very rare if it occurs at all. Likelihood score: E (unlikely cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "",
+    "raw_outcome_text": "",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Erenumab - Aimovig®"
+    ],
+    "raw_drug_class": [
+      "Migraine Headache Agents",
+      "Monoclonal Antibodies"
+    ],
+    "source_nxml_file": "Erenumab.nxml"
+  }
+]

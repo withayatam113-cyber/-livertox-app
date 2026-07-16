@@ -1,0 +1,356 @@
+[
+  {
+    "id": 382,
+    "name_en": "Etanercept",
+    "type": "ยาชีวภาพ",
+    "thai_herb_source": null,
+    "livertox_grade": "B",
+    "grade_explanation_en": "likely cause of clinically apparent liver injury",
+    "rucam_score_bonus": 2,
+    "source": "LiverTox (NIDDK, NIH): Etanercept.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Etanercept/",
+    "source_review_date": "2026-02-21",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity Etanercept has been associated with low rates of serum ALT elevations during therapy that are generally asymptomatic, transient, and do not require dose modifications. There have been isolated reports of clinically apparent liver injury during etanercept therapy, but the frequency has been far less than with infliximab, and most cases are mild and anicteric. Etanercept therapy can be associated with induction of autoantibodies, including antinuclear antibody (ANA) and cases of autoimmune hepatitis, induced or exacerbated by etanercept therapy have been reported. The latency to onset has ranged greatly, from as short as 2 weeks to as long as several years. The pattern of serum enzyme elevations has also varied, both cholestatic and hepatocellular injury being reported, the hepatocellular pattern being most frequent. Immunoallergic manifestations such as fever, rash and eosinophilia are rare. Autoantibodies are not infrequent (and may be due to the underlying rheumatologic condition) and the injury is usually responsive to corticosteroid therapy. How frequently the disease recurs after corticosteroids are discontinued has not been carefully assessed. Importantly, patients with etanercept induced liver injury are often able to tolerate infliximab or other monoclonal anti-TNF agents without recurrence of liver injury. The reverse is also true - that patients with infliximab or adalimumab-related liver injury, once it resolves spontaneously or with corticosteroids, often tolerate therapy with etanercept. Etanercept has been linked to rare cases of reactivation of hepatitis B, although less frequently than infliximab. Reactivation occurs in patients who are inactive HBsAg carriers, with normal serum aminotransferase levels and no or only low levels of HBV DNA in serum. The immune suppression caused by the immunomodulatory agent leads to an increase in HBV replication and rise in serum HBV DNA levels. With stopping immune suppression (or between cycles of therapy), restoration of immune function leads to an acute immunological response to the heightened viral replication and a flare of hepatitis, that can be severe and can result in hepatic failure and death. Reactivation in patients with anti-HBc without HBsAg (serologic pattern of previous HBV infection) has not been reported in patients treated with etanercept, but has been reported after therapy with other TNFα antagonists and more commonly with rituximab and after bone marrow transplantation. The anti-TNF inhibitors have little or no effect on hepatitis C virus levels and have been used safely in patients with chronic hepatitis C. Likelihood score: B (likely cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury The liver injury caused by etanercept is likely due to induction of autoimmunity. While a high proportion of patients develop autoantibodies either de novo or in rising titer, only rarely do persons develop clinically apparent autoimmune conditions, such as a lupus-like syndrome or autoimmune hepatitis.",
+    "raw_outcome_text": "Outcome and Management The hepatotoxicity of etanercept has largely been mild and self-limiting, although sometimes requiring corticosteroid therapy. No instances of chronic hepatitis or vanishing bile duct syndrome have been reported. Patients who develop mild serum aminotransferase elevations without symptoms or jaundice may recover despite continuing therapy or with temporary discontinuation or modification of the dose. But careful monitoring should be maintained to ensure recovery and lack of relapse. Patients who develop an autoimmune hepatitis-like syndrome during etanercept therapy may not recover promptly with stopping the drug and may require corticosteroid therapy which often is followed by improvement in liver tests. In this event, the dose of the corticosteroid should be kept to a minimum to control the disease and, ultimately, attempts made to withdraw immune suppression (or decrease to levels used before administration of etanercept). Most but not all patients with hepatotoxicity due to etanercept can be safely treated with a monoclonal antibody based TNFα antagonist (such as infliximab, adalimumab, certolizumab, or golimumab); if such therapy is planned, it should be done with caution and with laboratory monitoring for liver injury. Patients who are to start etanercept therapy should be screened for evidence of hepatitis B, and those with preexisting HBsAg should be offered prophylaxis with a potent, oral antiviral agent such as tenofovir or entecavir. Drug Class: Antirheumatic Agents; Dermatologic Agents Other Drugs in the Subclass, Tumor Necrosis Factor Antagonists: Adalimumab, Certolizumab pegol, Golimumab, Infliximab",
+    "raw_case_report_text": "CASE REPORT Case 1. Autoimmune hepatitis arising during etanercept therapy.(1) A 9 year old girl with juvenile idiopathic (rheumatoid) arthritis was treated with etanercept and hydroxychloroquine after she had failed to respond to a regimen of methotrexate, low dose prednisone and nonsteroidal antiinflammatory agents. Her dose of etanercept was increased to 50 mg weekly, which was followed by clinical improvement and allowed for lowering of the prednisone dose. Ten months after starting etanercept, she developed fatigue, abdominal discomfort and jaundice. Examination showed jaundice without fever, rash or signs of chronic liver disease. Laboratory results showed elevations in serum bilirubin (12 mg/dL) and aminotransferase levels (ALT 354 U/L, AST 486 U/L) with normal alkaline phosphatase levels. Tests for hepatitis A, B and C and Epstein-Barr virus were negative. Serum ANA was positive at 1:640 and SMA at 1:80, while antibodies to dsDNA and liver-kidney microsomal antigen were negative. Serum IgG levels were markedly increased (3637 mg/dL: normal <1600 mg/dL). Abdominal ultrasound was normal except for mild splenomegaly. A liver biopsy was consistent with autoimmune hepatitis with interface hepatitis and lobular necrosis with inflammation. Etanercept and hydroxychloroquine were discontinued, the dose of prednisone was increased to 2 mg/kg/day, and azathioprine was added. Her jaundice resolved, serum aminotransferase levels fell into the normal range, and autoantibodies became negative within 8 months of stopping etanercept. Key Points Medication: Etanercept (50 mg once weekly) Pattern: Hepatocellular Severity: 3+ (jaundice, hospitalization) Latency: 10 months Recovery: Within 8 months (on prednisone) Other medications: Hydroxychloroquine, prednisone (5 mg daily), naproxen Comment A child with juvenile idiopathic arthritis (formerly known as juvenile rheumatoid arthritis) developed clinically apparent autoimmune hepatitis after 10 months of etanercept therapy. While it seems clear that the clinical syndrome was due to an autoimmune-like hepatitis, it is not certain whether the hepatitis was caused by etanercept directly or was a preexisting diathesis that was triggered or merely worsened by the immunomodulatory therapy and reduction in dose of prednisone. The child improved upon stopping etanercept, but the improvement may have been due to the concurrent increase in prednisone dose and addition of azathioprine. Information on long term follow up and whether azathioprine or prednisone could be discontinued (or lowered to previous low levels) might help to resolve these issues. However, many cases of autoimmune hepatitis associated with anti-TNF therapies (and other biologic agents such as the interferons) have appeared to be a triggering of autoimmune hepatitis in a susceptible patient, rather than the de novo induction of an autoimmune hepatitis-like liver injury that then resolves entirely with stopping therapy (as is typical of nitrofurantoin, minocycline, or methyldopa). These different interpretations have important implications for the long term management of such patients; i.e. whether long term immune suppression will be required.",
+    "raw_case_report_key_points": {
+      "Medication": "Etanercept (50 mg once weekly)",
+      "Pattern": "Hepatocellular",
+      "Severity": "3+ (jaundice, hospitalization)",
+      "Latency": "10 months",
+      "Recovery": "Within 8 months (on prednisone)",
+      "Other medications": "Hydroxychloroquine, prednisone (5 mg daily), naproxen"
+    },
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Etanercept - Enbrel®"
+    ],
+    "raw_drug_class": [
+      "Antirheumatic Agents",
+      "Tumor Necrosis Factor Antagonists",
+      "Adalimumab",
+      "Certolizumab",
+      "Golimumab",
+      "Infliximab"
+    ],
+    "source_nxml_file": "Etanercept.nxml"
+  },
+  {
+    "id": 383,
+    "name_en": "Evolocumab",
+    "type": "ยาชีวภาพ",
+    "thai_herb_source": null,
+    "livertox_grade": "E",
+    "grade_explanation_en": "unlikely cause of clinically apparent liver injury",
+    "rucam_score_bonus": 0,
+    "source": "LiverTox (NIDDK, NIH): Evolocumab.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Evolocumab/",
+    "source_review_date": "2018-02-19",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity In premarketing studies, liver test abnormalities were uncommon in patients taking evolocumab and occurred at rates similar to those in patients receiving placebo injections or standard of care. Serum ALT or AST values greater than 3 times the upper limit of normal (ULN) occurred in 0.4% to 1.8% of persons on evolocumab vs 0.6% to 1.6% of those on placebo. No instances of acute, clinically apparent liver injury attributed to evolocumab were reported. However, evolocumab has had limited use and has been available commercially for a short time only. Likelihood score: E (unlikely cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury Evolocumab is a human monoclonal antibody and is metabolized in many tissues to polypeptides and amino acids which are unlikely to be toxic. Monoclonal antibody therapy sometimes causes immune mediated liver injury, but such events have not been described in evolocumab. There appears to be no adverse consequences of inhibition of PCSK9 signalling in the liver.",
+    "raw_outcome_text": "Outcome and Management Therapy with evolocumab and other monoclonal antibodies to PCSK9 have been well tolerated with rates of adverse events similar to those with placebo or comparator treatments. Local injection site reactions occur with these agents, but are generally mild and improve with continued therapy. Monoclonal antibodies to PCSK9 has not been linked to significant elevations in serum enzymes or bilirubin or to clinically apparent liver injury. Patients who develop serum aminotransferase elevations above 3 times the upper limit of normal should be evaluated for other causes of liver injury including drug-induced injury from another antilipemic agent. Drug Class: Antilipemic Agents; Monoclonal Antibodies, Anti-PCSK9 Other Drugs in the Class: Alirocumab",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Evolocumab - Repatha®"
+    ],
+    "raw_drug_class": [
+      "Antilipemic Agents",
+      "Monoclonal Antibodies",
+      "Alirocumab"
+    ],
+    "source_nxml_file": "Evolocumab.nxml"
+  },
+  {
+    "id": 384,
+    "name_en": "Exenatide",
+    "type": "ยาชีวภาพ",
+    "thai_herb_source": null,
+    "livertox_grade": "-",
+    "grade_explanation_en": "-",
+    "rucam_score_bonus": "-",
+    "source": "LiverTox (NIDDK, NIH): Exenatide.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Exenatide/",
+    "source_review_date": "2019-04-10",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity Liver injury due to exenatide must be rare, if it occurs at all. In large clinical trials, serum enzyme elevations were no more common with exenatide therapy than with placebo or comparator agents, and no instances of clinically apparent liver injury were reported. Since licensure, there have been no published case reports of hepatotoxicity due to exenatide and the product label does not list liver injury as an adverse event. Exenatide has been linked to rare instances of acute pancreatitis, but even this complication is usually not associated with elevations in serum bilirubin and aminotransferase levels.",
+    "raw_mechanism_text": "Mechanism of Injury Exenatide is a hormone-like polypeptide and is metabolized to amino acids by serum and tissue proteases, and is unlikely to have any direct hepatotoxic potential. Exenatide acts through the incretin pathway to affect glucose metabolism and, thus, is often grouped with other incretin-based antidiabetic mediations such as the DPP-4 inhibitors, sitagliptin, saxagliptin and linagliptin and other GLP-1 analogues such as liraglutide, which are also discussed in LiverTox. References regarding the safety and potential hepatotoxicity of exenatide are given with the Overview section of the GLP-1 Analogues. Drug Class: Antidiabetic Agents Other Drugs in the Subclass, Incretin-Based Drugs, Glucagon-Like Peptide-1 (GLP-1) Analogues: Albiglutide, Dulaglutide, Liraglutide, Lixisenatide, Semaglutide",
+    "raw_outcome_text": "",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Exenatide - Byetta®"
+    ],
+    "raw_drug_class": [
+      "Antidiabetic Agents",
+      "Incretin-Based Drugs",
+      "Glucagon-Like Peptide-1 (GLP-1) Analogues",
+      "Albiglutide",
+      "Dulaglutide",
+      "Liraglutide",
+      "Lixisenatide",
+      "Semaglutide"
+    ],
+    "source_nxml_file": "Exenatide.nxml"
+  },
+  {
+    "id": 385,
+    "name_en": "Gemtuzumab Ozogamicin",
+    "type": "ยาชีวภาพ",
+    "thai_herb_source": null,
+    "livertox_grade": "A",
+    "grade_explanation_en": "well known cause of clinically significant liver injury, typically the result of sinusoidal obstruction syndrome",
+    "rucam_score_bonus": 2,
+    "source": "LiverTox (NIDDK, NIH): GemtuzumabOzogamicin.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/GemtuzumabOzogamicin/",
+    "source_review_date": "2023-11-30",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity In initial publications on trials of gemtuzumab ozogamicin, up to half of patients had serum ALT or AST elevations during therapy that were greater than 5 times the upper limit of normal (ULN) in 10% to 16%. Hyperbilirubinemia was also common during gemtuzumab therapy. More importantly, a variable proportion (ranging from 2% to 35%) of patients developed clinically apparent sinusoidal obstruction syndrome (SOS). Symptoms of nausea, right upper quadrant pain, weight gain and abdominal distension (from ascites) arose within 5 to 20 days of the infusion and were followed by progressive rise in serum bilirubin, aminotransferase and alkaline phosphatase levels. Recent studies using lower and fractionated regimens of administration of gemtuzumab ozogamicin have reported rates of sinusoidal obstruction syndrome of 1% to 5% compared to <1% with standard chemotherapy. In general, SOS that is severe enough to cause clinical symptoms and signs has an extremely poor prognosis, with a mortality rate as high as 70%, most patients dying of multiorgan failure. Risk factors for developing SOS after gemtuzumab ozogamicin therapy include allogenic hematopoietic cell transplantation, use of other antineoplastic agents, and presence of preexisting liver disease. There are no proven means of prevention or treatment of SOS due to gemtuzumab ozogamicin, although pretreatment with ursodiol and acute management with defibrotide are often employed. Likelihood score: A (well known cause of clinically significant liver injury, typically the result of sinusoidal obstruction syndrome).",
+    "raw_mechanism_text": "Mechanism of Injury The cause of the serum enzyme elevations during gemtuzumab ozogamicin therapy is not known, but it is likely due to direct toxicity of the conjugated ozogamicin. The propensity of gemtuzumab ozogamicin to cause sinusoidal obstruction syndrome is perhaps due to the fact that hepatic sinusoidal endothelial cells express CD33 on the cell surface and the antibody conjugate may be taken up by these cells, resulting in their damage and release of apoptotic fragments into sinusoids causing pro-inflammatory and pro-fibrotic reactions and sinusoidal obstruction.",
+    "raw_outcome_text": "Outcome and Management The product label of gemtuzumab includes a boxed warning of hepatic injury and sinusoidal obstruction syndrome and recommends monitoring of serum enzymes and bilirubin before each dose as well as clinical monitoring for signs and symptoms of sinusoid obstruction syndrome during therapy. The serum aminotransferase elevations that occur during low dose, fractionated gemtuzumab ozogamicin therapy are usually transient, mild and asymptomatic and do not require dose modification or delay in therapy. Serum aminotransferase elevations above 5 times the upper limit of normal or elevations in serum bilirubin should lead to more careful monitoring and suspension of further infusions, at least until levels return to normal or near normal levels. If patients develop symptoms, signs, or laboratory evidence of sinusoidal obstruction syndrome, therapy should be discontinued and patients carefully monitored. Drug Class: Antineoplastic Agents, Monoclonal Antibodies Other Monoclonal Antibody Conjugates: Ado-Trastuzumab Emtansine, Benlantamab Mafodotin, Brentuximab Vedotin, Enfortumab Vedotin, Inotuzumab Ozogamicin, Polatuzumab Vedotin, Sacituzumab Govitecan, Tisotumab Vedotin, Trastuzumab Deruxtecan",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Gemtuzumab Ozogamicin - Mylotarg®"
+    ],
+    "raw_drug_class": [
+      "Antineoplastic Agents",
+      "Monoclonal Antibodies"
+    ],
+    "source_nxml_file": "GemtuzumabOzogamicin.nxml"
+  },
+  {
+    "id": 386,
+    "name_en": "Glatiramer Acetate",
+    "type": "ยาชีวภาพ",
+    "thai_herb_source": null,
+    "livertox_grade": "B",
+    "grade_explanation_en": "likely cause of clinically apparent liver injury",
+    "rucam_score_bonus": 2,
+    "source": "LiverTox (NIDDK, NIH): GlatiramerAcetate.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/GlatiramerAcetate/",
+    "source_review_date": "2025-09-20",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity In large randomized controlled trials of glatiramer acetate in patients with multiple sclerosis, serum ALT elevations above 3 times ULN were reported in 7% of glatiramer compared to 3% of placebo recipients. The enzyme elevations were usually transient and not associated with symptoms or jaundice, requiring drug discontinuation in less than 1% of patients. No cases of acute hepatitis or clinically apparent liver injury were reported in the preregistration trials of glatiramer. Subsequent to the approval and more wide spread use of glatiramer, however, more than a dozen instances of clinically apparent liver injury with jaundice have been reported. The onset has been within 1 to 3 months of starting therapy, and the typical presentation has been with a hepatocellular pattern of serum enzyme elevations sometimes with autoantibodies (ANA, SMA), but without hyperglobulinemia or histologic features of autoimmune hepatitis. Reported cases have been self-limited with recovery within 1 to 3 months of stopping treatment. Autoantibodies also resolve with resolution of the liver injury. Some patients have later presented with spontaneous autoimmune hepatitis, which has been described in patients with multiple sclerosis not on disease modifying agents. Likelihood score: B (likely cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury The mechanism by which glatiramer might cause liver injury is not known, but is likely due to a triggering of an underlying predisposition to autoimmune hepatitis. The synthetic polypeptides are metabolized in multiple cells and the amino acids are probably reused in protein synthesis. Thus, the polypeptides are more likely to trigger an autoimmune reaction rather than cause direct hepatic injury or provide an immunogenic metabolic break-down product.",
+    "raw_outcome_text": "Outcome and Management While chronic therapy with glatiramer acetate can be associated with mild-to-moderate serum aminotransferase elevations, these elevations are usually transient and asymptomatic and rarely require dose interruption. Rare instances of acute liver injury with jaundice have resolved with discontinuation. Corticosteroid therapy should be considered in instances with severe or persistent liver injury, but the dose and duration of therapy should be kept to a minimum. There is little evidence for cross sensitivity to liver injury among the various disease modifying drugs for multiple sclerosis such as methyl fumarate, fingolimod, teriflunomide and interferon beta. However, in several instances, the pattern of injury is similar and autoimmunity a likely mechanism. Drug Class: Multiple Sclerosis Agents",
+    "raw_case_report_text": "CASE REPORT Case 1. Acute self-limited hepatitis attributed to glatiramer acetate therapy.(1) A 31 year old woman with relapsing multiple sclerosis developed fatigue, anorexia and jaundice five weeks after starting glatiramer acetate (20 mg subcutaneously once daily). Her multiple sclerosis had been recently diagnosed and she had not received previous disease modifying therapy. She had no history of liver disease, drank alcohol sparingly and denied having risk factors for viral hepatitis. She had a melanoma removed surgically 5 years previously, but did not receive systemic chemotherapy and had no evidence of recurrence. Her only other medication was thyroxine for hypothyroidism. She had a history of depression, but was not receiving antidepressants. She had no history of drug allergies and was not taking over-the-counter or herbal medications. Examination revealed jaundice, but no other evidence for acute or chronic liver disease. Laboratory testing showed a serum bilirubin of 6.4 mg/dL, ALT 1056 U/L, AST 276 U/L, alkaline phosphatase 143 U/L and GGT 341 U/L. Values had been normal when tested before glatiramer therapy (Table). Serum albumin was 3.7 g/dL, globulins 2.9 g/dL and prothrombin time 21 seconds. Tests for hepatitis A, B and C and for EBV and CMV infections were negative. While antinuclear and liver-kidney membrane antibodies were negative, smooth muscle antibodies (SMA) were present (1:320). Ultrasonography showed increased echogenicity of the liver without evidence of biliary obstruction or masses. A liver biopsy showed acute hepatitis with bridging hepatic necrosis, which was considered more likely due to a toxic than autoimmune process. Glatiramer was stopped, and she began to improve rapidly. Two months and eight months later her symptoms had resolved, SMA was no longer positive and all liver tests were normal. Key Points Medication: Glatiramer acetate (20 mg subcutaneously once daily) Pattern: Hepatocellular (R=~20) Severity: 3+ (jaundice, hospitalization) Latency: 5 weeks Recovery: Within two months Other medications: Thyroxine Laboratory Values Time AfterStarting Time AfterStopping ALT(U/L) Alk P(U/L) Bilirubin(mg/dL) Other Pre 0 18 56 0.5 Routine 5 weeks 0 1056 143 6.4 Jaundice, admission 13 weeks 8 weeks 40 79 1.2 Follow-up 1 year 8 months Normal Normal Normal SMA negative Normal Values <55 <110 <1.2 Comment A young woman with new onset multiple sclerosis developed jaundice within 5 weeks of starting subcutaneous injections of glatiramer acetate. She had no other risk factors for liver disease and laboratory testing and hepatic imaging excluded other common causes of jaundice. The disease resolved rapidly once glatiramer was stopped. This case is fairly typical of the clinically apparent acute liver injury reported with glatiramer, with onset between 1 and 3 months of starting, a hepatocellular pattern of liver injury, occasional autoantibody formation (which can also accompany multiple sclerosis), and rapid improvement upon stopping. The cause of the injury is unclear as it is unlikely that small polypeptides could be hepatotoxic. Thus, a more likely possibility is that the liver injury is due to autoimmune response induced by the therapy, perhaps as a part of the autoimmune predisposition that accompanies multiple sclerosis. The liver injury typically resolves even without immunosuppressive therapy. Glatiramer acetate therapy has been associated with activation of other autoimmune conditions during treatment including myasthenia gravis and autoimmune thyroiditis.",
+    "raw_case_report_key_points": {
+      "Medication": "Glatiramer acetate (20 mg subcutaneously once daily)",
+      "Pattern": "Hepatocellular (R=~20)",
+      "Severity": "3+ (jaundice, hospitalization)",
+      "Latency": "5 weeks",
+      "Recovery": "Within two months",
+      "Other medications": "Thyroxine"
+    },
+    "raw_trade_names": [],
+    "raw_drug_class": [
+      "Multiple Sclerosis Agents"
+    ],
+    "source_nxml_file": "GlatiramerAcetate.nxml"
+  },
+  {
+    "id": 387,
+    "name_en": "Golimumab",
+    "type": "ยาชีวภาพ",
+    "thai_herb_source": null,
+    "livertox_grade": "E*",
+    "grade_explanation_en": "unproven but suspected cause of clinically apparent liver injury",
+    "rucam_score_bonus": 0,
+    "source": "LiverTox (NIDDK, NIH): Golimumab.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Golimumab/",
+    "source_review_date": "2026-02-14",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity In prelicensure controlled trials, serum ALT elevations occurred in up to 8% of golimumab vs 1% to 3% of placebo treated subjects. The elevations were usually mild-to-moderate in severity, asymptomatic, not accompanied by jaundice and self-limited in course. ALT elevations above 5 times the upper limit of normal (ULN) occurred in 1% to 3% of golimumab and in ~1% of placebo recipients, but only rare patients had to stop therapy because of serum enzyme elevations. Importantly, since its approval in 2009, there have been no published case reports of clinically apparent, acute liver injury with symptoms or jaundice attributed to golimumab. Thus, serum aminotransferase elevations can occur with golimumab therapy, but hepatitis with jaundice must be rare. Nevertheless, golimumab is a potent TNF inhibitor, and virtually all TNF antagonists have been linked to cases of reactivation of hepatitis B, which can be severe and lead to acute liver failure and death or need for emergency liver transplantation. More than 100 cases of clinically apparent reactivation of hepatitis B have been attributed to TNF inhibitors such as infliximab, etanercept, adalimumab and certolizumab. Reactivation typically occurs in patients who are HBsAg carriers with inactive liver disease before treatment. The usual sequence of events is appearance of rising levels of HBV DNA in serum shortly after the anti-TNF therapy is started, followed by rise in levels of HBsAg and HBeAg. Between courses, when immune reconstitution begins, serum ALT and AST levels start to rise followed by symptoms and jaundice. The onset of liver injury is usually after 3 to 6 monthly injections of the TNF antagonist. Reactivation of hepatitis B tends to be severe and the mortality rate in jaundiced cases exceeds 10%. Liver histology demonstrates an acute hepatitis-like pattern with focal or confluent necrosis and prominent lymphocytic infiltrates of activated T cells, which is compatible with an immune mediated hepatic injury. There may also be evidence of an underlying chronic hepatitis or cirrhosis. Restarting the TNF inhibitor can result in recurrence of injury, although antiviral treatment usually blocks recurrence. Reactivation of HBV can also occur in persons who have resolved hepatitis B (anti-HBc without HBsAg in serum) with reappearance of HBsAg in serum (“reverse seroconversion”). This form of reactivation is less common than classic reactivation (in an HBsAg carrier), yet tends to be more severe. Reverse seroconversion is rare in patients on anti-TNF therapy, occurring more frequently with rituximab or more rigorous forms of immunosuppression (myeloablation and hematopoietic cell transplantation). Reverse seroconversion has yet to be described as a result of golimumab therapy. Because of the possibility of reactivation of hepatitis B with anti-TNF therapy, screening for markers of HBV infection before starting therapy is recommended. Patients with HBsAg in serum should receive prophylaxis with oral anti-HBV therapy. Patients with anti-HBc without HBsAg in serum should be monitored for evidence of reactivation and treated promptly with antiviral therapy if HBV DNA or HBsAg appear. Finally, golimumab may reactivate other viral infections and acute hepatitis due to an opportunistic viral infection may occur. Likelihood score: E* (unproven but suspected cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury The mechanism of liver injury in reactivation of hepatitis B appears to be a brisk immunological response to newly expressed viral antigens. Injury generally arises after anti-TNF therapy has stopped or between courses of treatment. It is not clear why liver injury occurs most commonly with infliximab and occurs less frequently with adalimumab and is evidently rare with golimumab and certolizumab.",
+    "raw_outcome_text": "Outcome and Management Guidelines for management of patients who are to receive golimumab recommend routine screening for hepatitis B before starting treatment. Screening should include tests for HBsAg and anti-HBc (and perhaps also anti-HBs as this may help in management). Prophylaxis with a potent oral, antiviral agent effective against hepatitis B is recommended for all persons who have HBsAg in serum and is suggested for those with anti-HBc without HBsAg. An alternative approach is careful monitoring for HBV DNA during therapy and prompt institution of antiviral therapy if levels rise. The antiviral agents of choice are tenofovir or entecavir. Both are given once a day and are extremely well tolerated. The appropriate duration of treatment is unclear. The typical recommendation is to continue antivirals for at least 6 months after stopping anti-TNF therapy, but cases of reactivation following withdrawal of antiviral therapy (including fatal instances) have been described and some degree of monitoring during withdrawal of antiviral therapy is perhaps appropriate. Drug Class: Antirheumatic Agents, Tumor Necrosis Factor Antagonists; Gastrointestinal Agents, Inflammatory Bowel Disease Agents, Monoclonal Antibodies Other Drugs in the Subclass, Tumor Necrosis Factor Antagonists: Adalimumab, Certolizumab, Etanercept, Infliximab",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Golimumab - Simponi®"
+    ],
+    "raw_drug_class": [
+      "Antirheumatic Agents",
+      "Tumor Necrosis Factor Antagonists",
+      "Gastrointestinal Agents",
+      "Monoclonal Antibodies",
+      "Adalimumab",
+      "Certolizumab",
+      "Etanercept",
+      "Infliximab"
+    ],
+    "source_nxml_file": "Golimumab.nxml"
+  },
+  {
+    "id": 388,
+    "name_en": "Goserelin",
+    "type": "ยาชีวภาพ",
+    "thai_herb_source": null,
+    "livertox_grade": "D",
+    "grade_explanation_en": "possible, rare cause of clinically apparent liver injury",
+    "rucam_score_bonus": 1,
+    "source": "LiverTox (NIDDK, NIH): Goserelin.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Goserelin/",
+    "source_review_date": "2023-05-28",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity Goserelin has been associated with mild serum enzyme elevations during therapy in 3% to 5% of patients, but values above 3 times the upper limit of normal are rare, being reported in less than 1% of recipients. The serum enzyme elevations during goserelin therapy have generally been transient and asymptomatic, resolving even with drug continuation and rarely requiring dose modification or discontinuation. Despite use for several decades, goserelin has been linked to only a single, and not entirely convincing, case of clinically apparent liver injury. Routine monitoring of patients for liver test abnormalities is not recommended. Likelihood score: D (possible, rare cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury The cause of liver test abnormalities during goserelin therapy is not known. Goserelin is a short peptide and is metabolized locally in many tissues. It is not metabolized to an appreciable extent by the hepatic cytochrome P450 system and has not been associated with significant drug-drug interactions. Some serum enzyme elevations may be caused by nonalcoholic fatty liver arising because of weight gain or metabolic changes caused by the androgen deprivation state induced by the GnRH agonist.",
+    "raw_outcome_text": "Outcome and Management The serum enzyme elevations that occur on goserelin therapy usually do not require dose adjustment or drug discontinuation, but should lead to a search for other causes of liver disease. There is no evidence to indicate that there is cross sensitivity to liver injury among the various GnRH analogues. Drug Class: Antineoplastic Agents, GnRH Analogues Other Drugs in the Subclass, GnRH Analogues: Degarelix, Histrelin, Leuprolide, Relugolix, Triptorelin",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [],
+    "raw_drug_class": [
+      "Antineoplastic Agents",
+      "GnRH Analogues",
+      "Degarelix",
+      "Histrelin",
+      "Leuprolide",
+      "Relugolix",
+      "Triptorelin"
+    ],
+    "source_nxml_file": "Goserelin.nxml"
+  },
+  {
+    "id": 389,
+    "name_en": "Guselkumab",
+    "type": "ยาชีวภาพ",
+    "thai_herb_source": null,
+    "livertox_grade": "E*",
+    "grade_explanation_en": "suspected but unproven cause of clinically apparent liver injury, but experience with its use has been limited",
+    "rucam_score_bonus": 0,
+    "source": "LiverTox (NIDDK, NIH): Guselkumab.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Guselkumab/",
+    "source_review_date": "2018-06-26",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity Mild-to-moderate serum aminotransferase elevations were reported to occur in 2.6% of patients during guselkumab therapy compared to 1.9% of placebo controls. The elevations, however, were self-limited and resolved even with continuing cyclic therapy and did not require discontinuation. Neither during premarketing evaluation nor subsequently have there been case reports of clinically apparent, acute liver injury with symptoms or jaundice linked to guselkumab therapy, but experience with its use has been limited. Guselkumab has immunosuppressive activity but has not been linked to instances of reactivation of hepatitis B or worsening of hepatitis C. However, patients at risk for these complications are often excluded from preregistration clinical trials and ustekinumab, a similar biologic agent, has been shown to cause reactivation of hepatitis B in postmarketing studies. HBV reactivation typically occurs in patients with preexisting HBsAg and relatively inactive disease. Reactivation causes acute hepatocellular injury that can be severe and lead to acute liver failure and death or need for emergency liver transplantation. Screening for hepatitis B before starting guselkumab is not recommended in the product label, but screening has been considered “advisable” by academic societies in published guidelines on use of biologics for psoriasis therapy. Likelihood score: E* (suspected but unproven cause of clinically apparent liver injury, but experience with its use has been limited).",
+    "raw_mechanism_text": "",
+    "raw_outcome_text": "Outcome and Management Guselkumab has been linked to minor elevations in serum enzymes during therapy but not to clinically apparent liver injury or with reactivation of hepatitis B. The product label for guselkumab does not recommend routine screening for hepatitis B before initiation of therapy. However, guidelines for management of patients who are to receive guselkumab prepared by some academic societies have recommended routine screening before starting treatment. Screening should include tests for HBsAg and anti-HBc (and perhaps also anti-HBs as this may help in management). Prophylaxis with a potent oral, antiviral agent effective against hepatitis B is recommended for persons who have HBsAg in serum. An alternative approach is careful monitoring for HBV DNA during therapy and early institution of antiviral therapy if levels rise. Drug Class: Dermatologic Agents, Psoriasis Agents; Monoclonal Antibodies",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Guselkumab - Tremfya®"
+    ],
+    "raw_drug_class": [
+      "Psoriasis Agents",
+      "Monoclonal Antibodies"
+    ],
+    "source_nxml_file": "Guselkumab.nxml"
+  },
+  {
+    "id": 390,
+    "name_en": "Inotuzumab Ozogamicin",
+    "type": "ยาชีวภาพ",
+    "thai_herb_source": null,
+    "livertox_grade": "A",
+    "grade_explanation_en": "well known cause of clinically apparent liver injury, generally due to sinusoidal obstruction syndrome",
+    "rucam_score_bonus": 2,
+    "source": "LiverTox (NIDDK, NIH): InotuzumabOzogamicin.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/InotuzumabOzogamicin/",
+    "source_review_date": "2024-01-15",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity In prelicensure clinical trials of inotuzumab ozogamicin, up to half of patients had serum ALT or AST elevations during therapy which were above 5 times the upper limit of normal (ULN) in 2% to 5%. Hyperbilirubinemia was also common during inotuzumab therapy, generally occurring without accompanying ALT or AST elevations. More importantly, a variable proportion of patients (ranging from 2% to 35%) developed clinically apparent sinusoidal obstruction syndrome (SOS) after inotuzumab ozogamicin therapy. The proportion was even higher (15% to 25%) in patients who receive inotuzumab ozogamicin and subsequently underwent hematopoietic cell transplantation (HCT). Symptoms of nausea, right upper quadrant pain, weight gain and abdominal distension (from ascites) arose within 5 to 20 days of the infusion and were followed in some patients by progressive rises in bilirubin, serum aminotransferase and alkaline phosphatase levels. Clinically apparent SOS has a poor prognosis and the mortality rate is as high as 70%, most patients dying of multiorgan failure. Risk factors for developing SOS after inotuzumab therapy include allogenic hematopoietic cell transplantation, use of other antineoplastic agents, and presence of preexisting liver disease. While SOS is the usual cause of clinically apparent liver injury attributable to inotuzumab, cases of cholestatic hepatitis without evidence of sinusoidal cell injury have been described in up to 8% of treated subjects. The clinical features of this injury have not been well characterized. Patients being treated with inotuzumab ozogamicin are often receiving multiple medications and have other reasons for having acute liver injury (sepsis, shock, graft-vs-host disease, or hepatic metastases). Likelihood score: A (well known cause of clinically apparent liver injury, generally due to sinusoidal obstruction syndrome).",
+    "raw_mechanism_text": "",
+    "raw_outcome_text": "",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Inotuzumab Ozogamicin - Besponsa®"
+    ],
+    "raw_drug_class": [
+      "Antineoplastic Agents",
+      "Monoclonal Antibodies"
+    ],
+    "source_nxml_file": "InotuzumabOzogamicin.nxml"
+  },
+  {
+    "id": 391,
+    "name_en": "Insulin",
+    "type": "ยาชีวภาพ",
+    "thai_herb_source": null,
+    "livertox_grade": "-",
+    "grade_explanation_en": "-",
+    "rucam_score_bonus": "-",
+    "source": "LiverTox (NIDDK, NIH): Insulin.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Insulin/",
+    "source_review_date": "2018-04-26",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity Insulin in typical therapeutic doses is not associated with serum enzyme elevations or with episodes of clinically apparent liver injury. However, use of insulin in poorly controlled type 1 diabetes can result in a clinical syndrome known as glycogenosis or glycogenic hepatopathy, marked by varying degrees of hepatomegaly, abdominal pain and serum aminotransferase elevations. Serum ALT and AST levels range from normal to 20 to 30 times the upper limit or normal. Alkaline phosphatase and bilirubin levels are minimally increased or normal. Serum glucose and hemoglobin A1c levels are invariably elevated, and the liver and metabolic abnormalities resolve rapidly with better glycemic control. A severe form of glycogenosis associated with hepatomegaly, growth retardation, delayed puberty and Cushingoid facies in children is known as Mauriac syndrome. Glycogenosis with serum enzyme elevations can also occur in patients with insulin overdose during treatment with high doses of intravenous glucose (Case 1). Glycogenosis has also been reported in patients recieving short-term, high-dose corticosteroids.. The diagnosis of glycogenosis can be confirmed by liver biopsy which typically shows slightly swollen hepatocytes with pale cytoplasm and accentuated cell membranes, which with periodic acid Schiff (PAS) staining demonstrates intracytoplasmic accumulation of glycogen. Imaging by CT usually shows an enlarged and hyper-dense liver in contrast to hepatic steatosis which generally causes a hypo-dense pattern. The condition can be relapsing, accompanying repeated episodes of hyperglycemia, but it does not appear to result in chronic liver injury, fibrosis or cirrhosis. Thus, the serum enzyme elevations are due to the combination of marked hyperglycemia and intermittent or high levels of insulin and not to intrinsic hepatotoxicity or an idiosyncratic reaction to insulin. The syndrome occurs most commonly in children or young adults with poorly controlled type 1 diabetes. Likelihood score: A[H] (known cause of liver injury, but only when administered in high or intermittent doses and in the presence of hyperglycemia).",
+    "raw_mechanism_text": "",
+    "raw_outcome_text": "Outcome and Management The liver injury associated with insulin use or overdose is likely due to glycogenosis rather than inherent injury from insulin, and reverses rapidly when insulin and glucose are discontinued. Drug Class: Hormonal Agents; Antidiabetic Agents",
+    "raw_case_report_text": "CASE REPORT Case 1. Hepatic glycogenosis developing after overdose of insulin and high doses of intravenous glucose. [Modified from: Tsujimoto T, Takano M, Nishiofuku M, Yoshiji H, Matsumura Y, Kuriyama S, Uemura M, et al. Rapid onset of glycogen storage hepatomegaly in a type-2 diabetic patient after a massive dose of long-acting insulin and large doses of glucose. Intern Med 2006; 45: 469-73. PubMed Citation] A 41 year old man with poorly controlled type 2 diabetes took an overdose of insulin (~180 units) and was admitted to hospital in coma with severe hypoglycemia (glucose 9 mg/dL). He was given continuous infusions of glucose, but hypoglycemia persisted for 36 hours. On day 3 after admission he developed upper abdominal pain and was found to have tender hepatomegaly and marked elevations in serum enzymes with ALT 1024 U/L, AST 1064 U/L, LDH 1751 U/L, alkaline phosphatase 202 U/L, GGT 181 U/L and total bilirubin 2.3 mg/dL. His serum enzymes had been normal on admission immediately after the overdose (Table). Abdominal CT scanning demonstrated marked hepatomegaly and increased attenuation (hyper-dense liver compared to spleen and kidneys). A liver biopsy showed glycogenosis with minimal cellular infiltration and no necrosis, mild steatosis and no fibrosis. The presence of glycogen was documented by PAS staining with and without diastase. Doses of glucose were decreased and he was switched to oral intake only. Serum enzymes improved rapidly and were normal 2 weeks later. Repeat CT scanning showed a decrease in liver size and in hepatic attenuation. Repeat liver biopsy showed slight ballooning of hepatocytes and minimal residual intracytoplasmic glycogen accumulation. Key Points Medication: Insulin glargine overdose treated with glucose infusions Pattern: Hepatocellular (R=~16.5) Severity: 1+ (enzyme elevations without jaundice) Latency: 3 days Recovery: 2 weeks Other medications: Voglibose (alpha glucosidase inhibitor) Laboratory Values Time After Overdose (days) Therapy ALT (U/L) Alk P (U/L) Bilirubin (mg/dL) Other 1 iv Glucose [326 g] 23 125 0.4 Coma 2 iv Glucose [811 g] 18 3 iv Glucose [926 g] 1064 202 2.3 Abdominal Pain 4 iv Glucose [531 g] 708 5 iv Glucose [200 g] 274 Liver biopsy (1) 6 iv Glucose [52 g] 214 7 Oral intake only 135 10 41 14 24 18 16 21 19 Liver biopsy (2) Standard Normal Values <40 <130 <1.2 Comment The sudden onset of hepatomegaly with abdominal pain and marked serum aminotransferase elevations within days of starting glucose infusions after an overdose of insulin is typical of acute glycogenosis and dramatically demonstrates how rapidly the condition can develop and how rapidly it resolves. The clinical features resemble those of the hepatic glycogenosis that occurs in poorly controlled type 1 diabetes when insulin is being administered at a time that significant hyperglycemia is present. The diagnosis can be made based upon the clinical history and the finding of a hyper-dense liver by CT scanning. However, similar serum enzyme elevations can occur due to shock or ischemia and some degree of liver test abnormalities are common in patients with diabetes and fatty liver. The histologic findings of slightly swollen hepatocytes with pale cytoplasm and accentuation of plasma membranes suggests glycogenosis, which can be proven by PAS staining with and without diastase (an enzyme that digests glycogen demonstrating that the PAS-positive granules are composed of glycogen). Thus, insulin is not the direct cause of the liver abnormalities, but does allow for the excess circulating glucose to be taken up by hepatocytes producing amounts of intracytoplasmic glycogen that cause hepatocyte swelling, liver enlargement and release of hepatic enzymes.",
+    "raw_case_report_key_points": {
+      "Medication": "Insulin glargine overdose treated with glucose infusions",
+      "Pattern": "Hepatocellular (R=~16.5)",
+      "Severity": "1+ (enzyme elevations without jaundice)",
+      "Latency": "3 days",
+      "Recovery": "2 weeks",
+      "Other medications": "Voglibose (alpha glucosidase inhibitor)"
+    },
+    "raw_trade_names": [],
+    "raw_drug_class": [
+      "Antidiabetic Agents"
+    ],
+    "source_nxml_file": "Insulin.nxml"
+  },
+  {
+    "id": 392,
+    "name_en": "Ipilimumab",
+    "type": "ยาชีวภาพ",
+    "thai_herb_source": null,
+    "livertox_grade": "A",
+    "grade_explanation_en": "well known cause of clinically apparent liver injury and likely cause of reactivation of hepatitis B",
+    "rucam_score_bonus": 2,
+    "source": "LiverTox (NIDDK, NIH): Ipilimumab.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Ipilimumab/",
+    "source_review_date": "2022-06-23",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity Mild-to-moderate serum aminotransferase elevations are not uncommon (10% to 30%) during ipilimumab therapy, but are usually self-limited and resolve even with continuing cyclic therapy. Serum ALT elevations above 5 times the upper limit of normal (ULN) occur in 1% to 4% of patients and generally lead to temporary discontinuation. Importantly, in 1% to 2% of patients the serum enzyme elevations evolve into an immune mediated liver injury that can be clinically apparent and can be severe. Immune related liver injury is more frequent and severe in patients receiving the combination of ipilimumab and nivolumab. The onset is usually after 2 to 4 cycles, 3 to 9 weeks after initiation of treatment. The pattern of enzyme elevation is most frequently hepatocellular, but can be mixed or even cholestatic. Liver histology demonstrates an acute hepatitis-like pattern with focal or confluent necrosis and prominent lymphocytic infiltrates of activated T cells, which is compatible with an immune mediated hepatic injury. Fibrin ring granulomas have been described in some cases and considered somewhat pathognomic of ipilimumab hepatic immune injury. Despite features of immune mediated injury, autoantibodies are generally not present and immunoglobulin levels are normal. Restarting ipilimumab can result in recurrence of injury, although corticosteroid treatment may block recurrence. Switching to another type of checkpoint inhibitor (anti-PD-1 or anti-PD-L1) may be better tolerated than restarting ipilimumab, but there is little evidence that restarting checkpoint inhibitor therapy after a severe immune related adverse event improves survival or the outcome of cancer chemotherapy. Rarely the liver injury associated with checkpoint inhibitor therapy is characterized by a progressive cholestatic injury accompanied by prominent elevations in serum alkaline phosphatase with modest or only moderate aminotransferase elevations. Imaging studies may show irregular dilatation of the intra- and/or extra-hepatic bile ducts and thickening of the gall bladder and bile duct walls, but without evidence of frank obstruction. Liver biopsy shows portal inflammation and bile duct injury and endoscopic biopsy of the bile duct epithelium shows inflammation and scarring. The general features suggest a secondary form of sclerosing cholangitis referred to as checkpoint inhibitor cholangiopathy. Therapy with immunosuppression may improve alkaline phosphatase and bilirubin levels but rarely causes complete recovery, and long term cholestasis and hepatic failure can occur. Some patients with a cholestatic form of immune related hepatitis do not show the bile duct changes but demonstrate loss and paucity of portal bile ducts resulting in a vanishing bile duct syndrome similar to primary biliary cholangitis (PBC). The effects of ipilimumab on chronic hepatitis B are not well defined but convincing examples of reactivation of hepatitis B have been described with it as well as with other checkpoint inhibitors. Most cases have occurred in patients with preexisting HBsAg, but rare instances were reported in individuals suspected of having with anti-HBc without HBsAg. Thus, screening patients for HBsAg, anti-HBc and anti-HBs is appropriate before initiating immunotherapy with checkpoint inhibitors. Patients with HBsAg should be considered for prophylaxis with an antiviral agent with potent activity against HBV such as entecavir or tenofovir. In patients with anti-HBc without HBsAg, monitoring and close attention to liver test abnormalities is probably adequate if antiviral therapy can be introduced rapidly for early evidence of reactivation. There has not been adequate experience with ipilimumab in regard to the risk of reactivation of hepatitis B to provide rates of reactivation with and without antiviral prophylaxis. Likelihood score: A (well known cause of clinically apparent liver injury and likely cause of reactivation of hepatitis B).",
+    "raw_mechanism_text": "Mechanism of Injury The mechanism of liver injury due to ipilimumab is likely to be immunologically mediated, and most cases appear to respond at least in part to corticosteroid or immunosuppressive therapy. Liver biopsies in cases of hepatocellular injury and bile duct epithelial cell biopsies in cholangiopathic injury demonstrate necrosis and inflammatory cell infiltration with cytotoxic CD8+ T cells, suggesting that the checkpoint inhibition allowed for activation of T cells directed at hepatocyte or cholangiocyte cell surface antigens.",
+    "raw_outcome_text": "Outcome and Management Guidelines for management of patients receiving ipilimumab recommend monitoring of liver tests and interrupting therapy for patients who develop serum aminotransferase elevations above 3 times the upper limit of normal (ULN) and discontinuing treatment for values above 5 times the ULN in patients without preexisting abnormalities or HCC involvement of the liver (in whom elevations of 5 and 10 times the ULN are used). Corticosteroid therapy can be considered for patients with high or persistent ALT elevations or if symptoms or jaundice arise, initiating therapy with high dose intravenous methylprednisolone and switching to oral prednisone after 1 to 2 days, continuing tapering doses for at least 30 days. Most cases of liver injury due to ipilimumab resolve with discontinuation and prompt institution of immunosuppressive therapy which can be discontinued after 1 to 3 months. In some more protracted and resistant instances, corticosteroids have only a limited effect and adding a second agent is needed. Mycophenolate mofetil or azathioprine are most commonly recommended. Other immunosuppressive agents that have been reported to be beneficial include antithymocyte globulin, tacrolimus, infliximab and cycloserine. In refractory cases, immunosuppressive therapy may be needed long term. The few fatal cases due to checkpoint inhibitors have typically occurred in patients who have cholestatic forms of liver injury or have other severe immune related adverse events (Stevens Johnson syndrome, capillary leak syndrome). Restarting ipilimumab after severe liver injury requiring corticosteroid therapy can be followed by recurrence of liver injury and is not recommended. Switching to other checkpoint inhibitors is more likely to be tolerated. Interestingly, survival rates do not seem to be improved by re-introduction of checkpoint inhibitor therapy after severe immune related adverse events. Thus, restarting therapy should be undertaken only after careful evaluation of the residual cancer status. Drug Class: Antineoplastic Agents, Monoclonal Antibodies, Checkpoint Inhibitors",
+    "raw_case_report_text": "CASE REPORT Case 1. Clinically apparent, acute liver injury due to ipilimumab.(1) A 43 year old man with metastatic melanoma developed erythema, rash and elevations in serum enzymes 3 days after a third infusion of ipilimumab. He had no history of liver disease, and all liver tests had been normal before starting ipilimumab therapy. Serum ALT was 173 U/L (4 times ULN) and Alk P 131 (1.1 times ULN), while bilirubin levels were normal. The absolute eosinophil count was raised (889/µL) and antinuclear antibody was reactive (2.4 by ELISA), but smooth muscle antibody was not present, and immunoglobulin levels were normal. Over the next few days, liver tests worsened with ALT rising to 2860 U/L, Alk P 410 U/L and total bilirubin 2.2 mg/dL. A liver biopsy showed an acute hepatitis superimposed upon fatty liver disease with steatosis, slight ballooning degeneration, occasional Mallory bodies and slight fibrosis. Initiation of oral prednisone therapy was followed by a slow improvement in enzymes, which fell into the normal range approximately 5 months after onset. Prednisone was later stopped without recurrence of liver injury. He died of progressive metastatic melanoma one year later. Key Points Medication: Ipilimumab Pattern: Mixed initially (R=3.7), hepatocellular at peak (R=20.2) Severity: 1+ (symptoms and liver enzyme elevations without frank jaundice) Latency: 6 weeks Recovery: 5 months Other medications: None mentioned Comment The clinical presentation 10 days after a third infusion of ipilimumab and approximately 90 days after starting therapy was typical of the immune related hepatic injury from this monoclonal antibody. Despite discontinuing further infusions, the liver injury worsened and was eventually treated with low doses of corticosteroids, with a slow but eventually complete response.",
+    "raw_case_report_key_points": {
+      "Medication": "Ipilimumab",
+      "Pattern": "Mixed initially (R=3.7), hepatocellular at peak (R=20.2)",
+      "Severity": "1+ (symptoms and liver enzyme elevations without frank jaundice)",
+      "Latency": "6 weeks",
+      "Recovery": "5 months",
+      "Other medications": "None mentioned"
+    },
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Ipilimumab - Yervoy®"
+    ],
+    "raw_drug_class": [
+      "Antineoplastic Agents",
+      "Monoclonal Antibodies"
+    ],
+    "source_nxml_file": "Ipilimumab.nxml"
+  },
+  {
+    "id": 393,
+    "name_en": "Ixekizumab",
+    "type": "ยาชีวภาพ",
+    "thai_herb_source": null,
+    "livertox_grade": "E",
+    "grade_explanation_en": "unlikely cause of clinically apparent liver injury",
+    "rucam_score_bonus": 0,
+    "source": "LiverTox (NIDDK, NIH): Ixekizumab.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Ixekizumab/",
+    "source_review_date": "2017-05-25",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity In large premarketing clinical trials, serum enzyme elevations were no more frequent with ixekizumab than with placebo injections and there were no instances of clinically apparent liver injury attributed to its use. Serum ALT elevations above 5 times the upper limit of normal were rare (<0.5%) and resolved without need of dose modification or discontinuation. Ixekizumab has had limited clinical use, but since its approval there have been no published case reports of liver injury attributed to ixekizumab therapy and no cases of reactivation of hepatitis B or autoimmune hepatitis, two possible hepatic complications of immunomodulatory monoclonal antibody therapy. Likelihood score: E (unlikely cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury The mechanism by which ixekizumab might cause liver injury is unknown. Ixekizumab is a monoclonal antibody and, like other proteins, is metabolized into amino acids and is unlikely to have intrinsic toxicity. Because of its immunomodulatory activity, ixekizumab might induce an autoimmune reaction against hepatocytes, but this has not been shown. Other immunomodulatory biologic agents used to treat severe psoriasis include adalimumab, brodalumab, certolizumab, efalizumab, etanercept, golimumab, infliximab, secukinumab and ustekinumab. Drug Class: Dermatologic Agents, Psoriasis Agents; Monoclonal Antibodies",
+    "raw_outcome_text": "",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Ixekizumab - Taltz®"
+    ],
+    "raw_drug_class": [
+      "Psoriasis Agents",
+      "Monoclonal Antibodies"
+    ],
+    "source_nxml_file": "Ixekizumab.nxml"
+  }
+]

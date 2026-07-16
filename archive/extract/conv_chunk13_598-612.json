@@ -1,0 +1,413 @@
+[
+  {
+    "id": 598,
+    "name_en": "Ketoprofen",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "C",
+    "grade_explanation_en": "probable rare cause of clinically apparent liver injury",
+    "rucam_score_bonus": 1,
+    "source": "LiverTox (NIDDK, NIH): Ketoprofen.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Ketoprofen/",
+    "source_review_date": "2025-08-10",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity Prospective studies show that 1% to 2% of patients taking ketoprofen experience at least transient serum aminotransferase elevations. These may resolve even with drug continuation. Marked aminotransferase elevations (>3 fold elevated) occur in <1% of patients. Clinically apparent liver injury with jaundice from ketoprofen is very rare and only individual case reports have been published. The latency to onset has been rapid, often within a few days of starting. The pattern of enzyme elevations has ranged from cholestatic to hepatocellular. Immunoallergic features are present in some cases (low grade fever, rash), but are generally not prominent, and autoantibody formation is rare. Most cases resolve promptly on stopping therapy. Ketoprofen is not mentioned in large case series on drug induced liver injury or acute liver failure. Fewer than a dozen case reports of liver injury due to ketoprofen have been published. Likelihood score: C (probable rare cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury The mechanism of ketoprofen hepatotoxicity is not known, but likely to be due to an idiosyncratic reaction to an intermediate of its metabolism. Ketoprofen is extensively metabolized by the liver.",
+    "raw_outcome_text": "Outcome and Management Severity ranges from asymptomatic elevations in serum aminotransferase levels, to symptomatic hepatitis with or without jaundice. A single case of fulminant hepatitis possibly due to ketoprofen has been reported, but death appeared to be due to complications of pancreatitis and renal insufficiency. Patients with ketoprofen induced liver injury should avoid other propionic acid derivatives such as naproxen and ibuprofen. Drug Class: Nonsteroidal Antiinflammatory Drugs",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [],
+    "raw_drug_class": [
+      "Nonsteroidal Antiinflammatory Drugs"
+    ],
+    "source_nxml_file": "Ketoprofen.nxml"
+  },
+  {
+    "id": 599,
+    "name_en": "Ketorolac",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "D",
+    "grade_explanation_en": "possible rare cause of clinically apparent liver injury, perhaps due to bleeding episodes",
+    "rucam_score_bonus": 1,
+    "source": "LiverTox (NIDDK, NIH): Ketorolac.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Ketorolac/",
+    "source_review_date": "2025-08-05",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity Prospective studies show that up to 1% of patients taking ketorolac experience at least transient serum aminotransferase elevations. These may resolve even with drug continuation. Marked aminotransferase elevations above 3 times the upper limit of normal (ULN) occur in less than 1% of patients. Clinically apparent liver injury with jaundice from ketorolac has not been described in any detail so that the latency, clinical features and prognosis of injury is unknown. Ketorolac is not mentioned as an etiologic agent in large case series on drug induced liver injury or acute liver failure from the United States. However, the antiplatelet activity of ketorolac can lead to complications mostly due to platelet dysfunction and bleeding, and several instances of hepatic rupture and subcapsular hepatic hematomas have been reported with its use which might present clinically as acute liver injury. Likelihood score: D (possible rare cause of clinically apparent liver injury, perhaps due to bleeding episodes).",
+    "raw_mechanism_text": "Mechanism of Injury The mechanism of ketorolac hepatotoxicity, if it exists, is not known. The hepatic hematomas described after its use are probably caused by the antiplatelet activity of ketorolac given in the perioperative period.",
+    "raw_outcome_text": "Outcome and Management Only asymptomatic elevations in serum aminotransferase levels have been reported associated with ketorolac therapy. The drug is rarely used outside of hospitals and it is recommended that it be used for no more than 5 days, perhaps accounting for the rarity or absence of hepatic injury. Drug Class: Nonsteroidal Antiinflammatory Drugs",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [],
+    "raw_drug_class": [
+      "Nonsteroidal Antiinflammatory Drugs"
+    ],
+    "source_nxml_file": "Ketorolac.nxml"
+  },
+  {
+    "id": 600,
+    "name_en": "Labetalol",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "C",
+    "grade_explanation_en": "probable although rare cause of clinically apparent liver injury",
+    "rucam_score_bonus": 1,
+    "source": "LiverTox (NIDDK, NIH): Labetalol.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Labetalol/",
+    "source_review_date": "2017-01-15",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity Labetalol therapy has been associated with mild-to-moderate elevations of serum aminotransferase levels in up to 8% of patients, a rate far higher than with other beta-blockers. These elevations, however, are usually transient, not associated with symptoms, and can resolve even with continuation of therapy. Idiosyncratic, clinically apparent liver injury from labetalol is rare, but several instances have been reported as isolated case reports as well as in case series. The liver injury typically arises after 4 to 16 weeks of therapy and the pattern of serum enzyme elevations is usually hepatocellular with an acute hepatitis-like onset and course. Immunoallergic features (rash, fever, eosinophilia) are uncommon as is autoantibody formation. While most cases resolve rapidly once labetalol is stopped, there have been several instances of acute liver failure and death or need for emergency liver transplantation associated with labetalol use, particularly if there is a delay in its discontinuation. Labetalol is the beta-blocker with the highest apparent risk for causing clinically apparent liver injury. Likelihood score: C (probable although rare cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury The mechanism of labetalol hepatic injury is unknown, but it believed to be due to metabolic idiosyncratic disposition of the agent, which is known to be extensively metabolized in the liver. There is little evidence for hypersensitivity as the cause of injury but it is likely to be due to an idiosyncractic rather than an intrinsic reaction.",
+    "raw_outcome_text": "Outcome and Management Severity ranges from minimal and transient ALT elevations to clinically apparent acute hepatitis with jaundice to acute liver failure and death or need for liver transplantation. No instances of chronic hepatic injury or vanishing bile duct syndrome attributable to labetalol have been reported. Rechallenge is usually followed by recurrence of liver injury and should be avoided. There is little information on whether there is cross reactivity of the liver injury with other beta-blockers and patients who are switched to other agents should be carefully monitored. References to the safety and potential hepatotoxicity of labetalol are provided in the overview on Beta-Adrenergic Receptor Antagonists, last updated June 2019. Drug Class: Beta-Adrenergic Receptor Antagonists",
+    "raw_case_report_text": "CASE REPORT Case 1. Labetalol induced acute liver injury. [Modified from: Douglas DD, Yang RD, Jensen P, Thiele DL. Fatal labetalol-induced hepatic injury. Am J Med 1989; 87: 235-6. PubMed Citation] A 63 year old woman developed nausea and dark urine approximately 3 months after starting labetalol (200 mg daily) for hypertension. She had no previous history of liver disease, jaundice, or risk factors for viral hepatitis. She was not taking any other medications and denied alcohol abuse. Laboratory testing showed serum bilirubin of 3.6 mg/dL and serum enzyme elevations typical of acute hepatitis (Table). She was negative for serological markers for hepatitis A and B. No diagnosis was made, and she was given another prescription for labetalol, but evidently stopped taking it on her own. Over the next few weeks she recovered, but was then lost to follow up for at least 6 months. When seen again, she had normal liver tests and was hypertensive. Labetalol was restarted. Two months later she developed anorexia and the following month presented with jaundice and serum bilirubin of 3.1 mg/dL. Labetalol was stopped and she was monitored closely. Tests for viral hepatitis were again negative as were routine autoantibodies. Abdominal ultrasound showed gallstones, but no evidence of biliary obstruction. There was mild ascites. Her liver condition worsened, and she developed progressive hepatic failure and died approximately 6 weeks after stopping labetalol for the second time. Autopsy showed a shrunken liver with extensive multilobular collapse with broad bands of fibrosis. Key Points Medication: Labetalol (200 mg daily) Pattern: Hepatocellular (R=23) Severity: 2+ (initially); 5+ (upon reexposure); fatal Latency: 3 months Recovery: 1 month after initial episode Other medications: None Laboratory Values Weeks After Starting Weeks After Stopping AST* (U/L) Alk P* (U/L) Bilirubin* (mg/dL) Other 0 (pre) 0 11 92 0.3 12 0 1253 205 3.6 Labetolol stopped 14 2 weeks 247 150 1.5 16 4 weeks 37 111 0.4 Patient was lost to follow up for 6 months 0 0 13 117 0.3 Labetalol restarted 13 0 1007 172 3.1 16 3 582 283 9.5 17 4 402 315 11.3 18 5 303 321 12.0 19 6 225 266 16.8 Death from liver failure Normal Values <40 <110 <1.2 * Converted from μKat/L and μmol/L. Comment This patient developed an acute hepatitis-like clinical picture 3 months after starting labetalol. Despite the lack of a suitable diagnosis, labetalol was not discontinued, although the patient evidently stopped taking it on her own and did not return for further management of her hypertension. When seen 6 months later, labetalol was restarted and a similar clinical syndrome arose 2 to 3 months later, but with a progressive and ultimately fatal course. Labetalol has been implicated in at least a dozen cases of acute liver injury with a predominantly hepatocellular pattern of enzyme elevations, a latency period of 2 to 16 weeks, and fatal outcome or emergency liver transplantation in several instances. In contrast, most cases of clinically apparent liver injury due to other beta-blockers have had a somewhat shorter latency period (2 to 12 weeks) and a milder course and outcome. Acute liver injury has also been described with dilevolol, which is one of the 4 stereoisomers of labetalol that has predominantly beta-adrenergic blocking activity.",
+    "raw_case_report_key_points": {
+      "Medication": "Labetalol (200 mg daily)",
+      "Pattern": "Hepatocellular (R=23)",
+      "Severity": "2+ (initially); 5+ (upon reexposure); fatal",
+      "Latency": "3 months",
+      "Recovery": "1 month after initial episode",
+      "Other medications": "None"
+    },
+    "raw_trade_names": [],
+    "raw_drug_class": [
+      "Beta-Adrenergic Receptor Antagonists"
+    ],
+    "source_nxml_file": "Labetalol.nxml"
+  },
+  {
+    "id": 601,
+    "name_en": "Lapatinib",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "B",
+    "grade_explanation_en": "likely cause of clinically apparent acute liver injury",
+    "rucam_score_bonus": 2,
+    "source": "LiverTox (NIDDK, NIH): Lapatinib.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Lapatinib/",
+    "source_review_date": "2019-05-15",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity Elevations in serum aminotransferase levels are common during lapatinib therapy, occurring in up to half of patients. Values greater than 5 times the upper limit of normal (ULN) occur in 2% to 6% of patients but are usually transient and asymptomatic. Dose adjustments or temporary discontinuations are rarely required for liver test abnormalities. Since its introduction into clinical use, lapatinib has been linked to several cases of clinically apparent acute liver injury. The clinical features of injury have not been well defined, but the onset is usually within 1 to 3 months of starting lapatinib and the pattern of serum enzyme elevations is typically hepatocellular or mixed (Case 1). Sufficent numbers of reports of liver injury have been made to the Food and Drug Administration such that lapatinib is listed as having hepatotoxicity that can be fatal. The frequency of serious liver injury is estimated to be 0.2%, but is likely higher. Immunoallergic and autoimmune features are uncommon, although genetic studies suggest that lapatinib hepatotoxicity is linked to specific HLA alleles. Most instances are self-limited, but several cases of acute liver failure have been reported with tyrosine kinase receptor inhibitors including imatinib, sunitinib, lapatinib, gefitinib and erlotinib. Recurrence of injury is common with reexposure but may not occur upon switching to another kinase receptor inhibitor. Likelihood score: B (likely cause of clinically apparent acute liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury The clinical and genetic findings associated with acute liver injury from the tyrosine kinase receptor inhibitors suggest that it is immune mediated. Lapatinib is metabolized in the liver largely through the CYP 3A4 and CYP 3A5 pathways, and liver injury may be due to production of a toxic or immunogenic intermediate. Genetic analyses have shown a close correlation of lapatinib liver injury with the HLA alleles DQA1*02:01 and DRB1*07:01. In large retrospective analyses of trials of lapatinib in early stage breast cancer, ALT elevations above 5 times ULN occurred in 7.7% of DRB1*07:01 carriers versus 0.5% of controls.",
+    "raw_outcome_text": "Outcome and Management Serum aminotransferase elevations above 5 times the upper limit of normal (if confirmed) should lead to dose reduction or temporary cessation. There does not appear to be cross reactivity of the hepatic injury among the tyrosine kinase receptor inhibitors and, in some situations, switching to another inhibitor may be appropriate. In using lapatinib, other potentially hepatotoxic agents should be avoided. Drug Class: Antineoplastic Agents, Protein Kinase Inhibitors",
+    "raw_case_report_text": "CASE REPORT Case 1. Acute hepatitis due to lapatinib. [Modified from: Peroukides S, Makatsoris T, Koutras A, Tsamandas A, Onyenadum A, Labropoulou-Karatza C, Kalofonos H. Lapatinib-induced hepatitis: a case report. World J Gastroenterol 2011; 17: 2349-52. PubMed Citation] A 60 year old woman with metastatic, HER2-positive breast cancer was treated with lumpectomy and axillary lymph node dissection followed by local irradiation, several cycles of adjuvant chemotherapy, long term exemestane and a one year course of trastuzumab. She was free of evidence of disease for three years, but then was found to have 3 suspicious nodules on computerized tomography (CT) of the chest. Exemestane was discontinued and she was started on chemotherapy with capecitabine (1000 mg/m2 twice daily) and lapatinib (1250 mg daily). Capecitabine was stopped after 10 days because of diarrhea, and she was maintained on lapatinib alone. Two weeks later and four weeks after starting lapatinib, she developed jaundice with few other symptoms. Physical examination showed hepatomegaly without rash or fever. She denied taking other medications, a previous history of liver disease or jaundice, risk factors for viral hepatitis or excessive alcohol use. Laboratory tests showed a total bilirubin of 4.1 mg/dL, ALT 583 U/L, AST 457 U/L, alkaline phosphatase 348 U/L, GGTP 213 U/L and INR 1.14 (Table). Lapatinib was stopped. Tests for hepatitis A, B and C were negative as were autoantibodies. Abdominal ultrasound and CT scan showed no evidence of biliary obstruction or hepatic masses. Jaundice deepened for the first 2 weeks after stopping lapatinib. A liver biopsy showed bridging hepatic necrosis and portal inflammation with eosinophils. Thereafter, she began to improve and all liver tests were normal in follow up 3 months later. Key Points Medication: Lapatinib (1250 mg daily) Pattern: Hepatocellular (R=10) Severity: 3+ (jaundice, hospitalization) Latency: 4 weeks Recovery: 3 months Other medications: Previously, capecitabine, exemestane. Laboratory Values Time After Starting Time After Stopping ALT (U/L) Alk P (U/L) Bilirubin (mg/dL) Other Pre Pre 24 120 0.8 10 days Pre 30 110 0.7 Capecitabine stopped 4 weeks 0 583 348 4.1 Lapatinib stopped 6 weeks 2 weeks 481 310 11.8 Liver biopsy 2 months 1 month 260 318 2.7 3 months 2 months 229 298 2.3 4 months 3 months 44 246 0.9 Normal Values <45 <270 <1.2 Comment A moderately severe acute hepatitis occurred a month after starting lapatinib in a woman with metastatic breast cancer. She was not taking other medications and other causes of liver injury were adequately excluded. Despite stopping lapatinib at the onset of jaundice, she continued to worsen for several weeks, which prompted a liver biopsy that was interpreted as consistent with drug induced liver injury. Recovery was somewhat slow, but complete by 3 months after onset. At the time of this report, there had been no published cases of lapatinib hepatotoxicity. HLA testing was not reported, but subsequent studies have identified the HLA allele DQA1*02:01 as a major risk factor for lapatinib associated hepatotoxicity, the same allele that was linked to ximelagatran related liver injury.",
+    "raw_case_report_key_points": {
+      "Medication": "Lapatinib (1250 mg daily)",
+      "Pattern": "Hepatocellular (R=10)",
+      "Severity": "3+ (jaundice, hospitalization)",
+      "Latency": "4 weeks",
+      "Recovery": "3 months",
+      "Other medications": "Previously, capecitabine, exemestane."
+    },
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Lapatinib - Tykerb®"
+    ],
+    "raw_drug_class": [
+      "Antineoplastic Agents",
+      "Protein Kinase Inhibitors"
+    ],
+    "source_nxml_file": "Lapatinib.nxml"
+  },
+  {
+    "id": 602,
+    "name_en": "Larotrectinib",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "E*",
+    "grade_explanation_en": "unproven but suspected cause of clinically apparent liver injury",
+    "rucam_score_bonus": 0,
+    "source": "LiverTox (NIDDK, NIH): Larotrectinib.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Larotrectinib/",
+    "source_review_date": "2019-04-15",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity In early clinical trials in a total of 176 patients with various forms of solid tumors which had an NTRK gene fusion, elevations in serum aminotransferase levels occurred in 45% of patients treated with larotrectinib. Serum aminotransferase levels rose to above 5 times ULN in 6% of patients and led to early discontinuation in 2%. Serum aminotransferase elevations typically arose after 4 to 12 weeks of treatment, but usually without jaundice or alkaline phosphatase elevations. Most elevations resolved within 4 to 8 weeks and discontinuations were uncommon. Restarting larotrectinib at a reduced dose after resolution of the aminotransferase abnormalities was generally well tolerated and did not lead to recurrence of liver injury. Cases with jaundice and symptoms during larotrectinib therapy have not been reported, but the clinical experience with this kinase inhibitor has been limited and prelicensure clinical trials were carried out with careful clinical monitoring. Likelihood score: E* (unproven but suspected cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury The cause of the liver injury due to larotrectinib is unknown. Larotrectinib is metabolized in the liver largely via CYP 3A4 and is highly susceptible to drug-drug interactions with CYP 3A modulators, such that the dose modifications are recommended if there is concurrent use of CYP 3A inducers (dose increase) or inhibitors (dose decrease by half).",
+    "raw_outcome_text": "Outcome and Management Routine monitoring of liver tests is recommended for patients starting larotrectinib, including serum ALT, AST and bilirubin every 2 weeks for the first month and monthly thereafter and as clinically indicated. Serum aminotransferase elevations above 5 times the upper limit of normal should lead to dose interruption. If changes persist, are severe, or reoccur on restarting, larotrectinib should be discontinued. There have been no reports of acute liver failure, chronic hepatitis or vanishing bile duct syndrome due to larotrectinib. Drug Class: Antineoplastic Agents, Protein Kinase Inhibitors",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Larotrectinib - Vitrakvi®"
+    ],
+    "raw_drug_class": [
+      "Antineoplastic Agents",
+      "Protein Kinase Inhibitors"
+    ],
+    "source_nxml_file": "Larotrectinib.nxml"
+  },
+  {
+    "id": 603,
+    "name_en": "Lenvatinib",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "D",
+    "grade_explanation_en": "possible cause of clinically apparent liver injury",
+    "rucam_score_bonus": 1,
+    "source": "LiverTox (NIDDK, NIH): Lenvatinib.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Lenvatinib/",
+    "source_review_date": "2017-06-01",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity In large clinical trials of lenvatinib, elevations in serum aminotransferase levels were common, occurring in 52% of patients. Values greater than 5 times the upper limit of normal (ULN), however, occurred in only 3% to 5% of recipients. Serum alkaline phosphatase elevations were also common occurring in 28% of patients and were above 3 times ULN in 2%. In addition, fatal hepatic failure was reported in 3 of 1160 patients treated in preregistration clinical trials and another patient developed symptomatic but self-limited acute hepatitis with jaundice. The degree of relatedness of these events to lenvatinib therapy, however, was not defined. In the product label for lenvatinib, serum ALT, AST and alkaline phosphatase elevations are listed as adverse reactions, and acute hepatitis is mentioned as a rare occurrence. Monitoring of serum enzymes before, every 2 weeks for 2 months and monthly thereafter during treatment is recommended with dose reduction or discontinuation depending upon the degree and persistence of the abnormalities. Likelihood score: D (possible cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury The mechanism of liver injury accounting for serum enzyme elevations during lenvatinib therapy is not known, but injury may be a direct effect of inhibition of cellular kinases by this multi-specific tyrosine kinase inhibitor. Lenvatinib is metabolized in the liver, predominantly by the cytochrome P 450 system and specially by CYP 3A4. Nevertheless, lenvatinib is not significantly affected by CYP 3A4 inducers or inhibitors or to cause clinically relevant drug-drug interactions.",
+    "raw_outcome_text": "Outcome and Management Routine monitoring of liver tests before and periodically throughout treatment with lenvatinib is recommended. Serum aminotransferase elevations above 5 times the upper limit of normal (if confirmed) should lead to dose reduction or temporary cessation. Clinically apparent liver injury should prompt immediate interruption of lenvatinib therapy. There is little information on cross reactivity in risk for hepatic injury between lenvatinib and other protein kinase inhibitors. Drug Class: Antineoplastic Agents, Protein Kinase Inhibitors Related Drugs: Everolimus",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Lenvatinib - Lenvima®"
+    ],
+    "raw_drug_class": [
+      "Antineoplastic Agents",
+      "Protein Kinase Inhibitors",
+      "Everolimus"
+    ],
+    "source_nxml_file": "Lenvatinib.nxml"
+  },
+  {
+    "id": 604,
+    "name_en": "Letermovir",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "E",
+    "grade_explanation_en": "unlikely cause of clinically apparent liver injury",
+    "rucam_score_bonus": 0,
+    "source": "LiverTox (NIDDK, NIH): Letermovir.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Letermovir/",
+    "source_review_date": "2019-04-10",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity In large preregistration clinical trials, ALT elevations occurred in 18.5% of letermovir vs 21.9% of placebo recipients after hematopoietic cell transplantation, and levels rose to above 5 times ULN in 3.5% vs 1.6%. The ALT elevations were generally transient, mild and asymptomatic. Recurrence of serum ALT elevations on rechallenge has been reported. In prelicensure studies, 0.5% of subjects developed jaundice and liver injury, but in the setting of hematopoietic cell transplantation other more likely causes for liver injury were present in all, and none could be convincingly attributed to letermovir therapy. Since the approval of letermovir and its general availability, there have been no reported cases of clinically apparent liver injury with jaundice associated with its use; however, the total clinical experience with letermovir therapy has been limited. Likelihood score: E (unlikely cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury The absence of hepatotoxicity from letermovir is probably related to the fact that it has minimal hepatic metabolism. Letermovir is taken up by the liver via OATP1B1/3, a major hepatic plasma membrane organic anion transporter and its major route of excretion is biliary. Letermovir appears to have only mild effects on cytochrome P450 activity and does not demonstrate clinically significant drug-drug interactions. Cyclosporin is also taken up by OATP1B1 and inhibits its activity which can lead to marked increases in letermovir plasma levels. For this reason, the dose of letermovir should be decreased by half in patients taking cyclosporin (which is frequently used in bone marrow and solid organ transplantation). Letermovir is not recommended for patients with severe hepatic dysfunction.",
+    "raw_outcome_text": "Outcome and Management The minor aminotransferase elevations associated with letermovir therapy are usually self-limited and rarely require dose modification or discontinuation of therapy. In patients who develop ALT or AST elevations above 5 times ULN during therapy, letermovir should be at least temporarily discontinued and restarted only once levels fall to normal or near normal levels. Patients who develop ALT or AST elevations with symptoms or jaundice should discontinue letermovir and restart therapy only if another cause is identified. There is no reason to suggest any cross sensitivity to liver injury between letermovir and the conventional antiviral nucleoside analogues with activity against CMV. Drug Class: Antiviral Agents Other Antiviral Agents for Herpes Virus Infections: Acyclovir, Cidofovir, Famciclovir, Foscarnet, Ganciclovir, Valacyclovir, Valganciclovir",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Letermovir - Prevymis®"
+    ],
+    "raw_drug_class": [
+      "Antiviral Agents",
+      "Acyclovir",
+      "Cidofovir",
+      "Famciclovir",
+      "Foscarnet",
+      "Ganciclovir",
+      "Valacyclovir",
+      "Valganciclovir"
+    ],
+    "source_nxml_file": "Letermovir.nxml"
+  },
+  {
+    "id": 605,
+    "name_en": "Levodopa",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "E",
+    "grade_explanation_en": "unlikely cause of clinically apparent liver injury",
+    "rucam_score_bonus": 0,
+    "source": "LiverTox (NIDDK, NIH): LevodopaCarbodopa.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/LevodopaCarbodopa/",
+    "source_review_date": "2021-10-25",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity The combination of levodopa and carbidopa has been reported to cause serum aminotransferase elevations in up to 9% of patients, but these abnormalities are usually mild, asymptomatic and self-limiting. In rare instances, the aminotransferase elevations rise above 5 to 10 times the ULN and require discontinuation or dose adjustment. In addition, levodopa has been implicated in a small number of cases of clinically apparent, acute liver injury, but the clinical characteristics and typical pattern of enzyme elevations have not been characterized. There have been no published case reports of clinically apparent liver injury convincingly attributed to levodopa. In view of the long term and wide scale use of levodopa in Parkinson disease, clinically apparent liver injury with jaundice must be exceedingly rare. Likelihood score: E (unlikely cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury The metabolism of levodopa and carbodopa is largely through peripheral or intracellular amino acid decarboxylases, and by catechol-O-methyltransferase and monoamine oxidase in the brain. They have minimal hepatic metabolism which perhaps accounts for its lack of hepatotoxicity. Drug Class: Parkinson Disease Agents",
+    "raw_outcome_text": "",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [
+      "L - Dopa®",
+      "Carbidopa - Lodosyn®"
+    ],
+    "raw_drug_class": [
+      "Parkinson Disease Agents"
+    ],
+    "source_nxml_file": "LevodopaCarbodopa.nxml"
+  },
+  {
+    "id": 606,
+    "name_en": "Linagliptin",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "D",
+    "grade_explanation_en": "possible rare cause of clinically apparent acute liver injury",
+    "rucam_score_bonus": 1,
+    "source": "LiverTox (NIDDK, NIH): Linagliptin.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Linagliptin/",
+    "source_review_date": "2018-01-03",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity In large clinical trials, rates of serum enzyme elevations were similar with linagliptin therapy (<1%) as with placebo, and no instances of clinically apparent liver injury were reported. Nevertheless, postmarketing experience suggests that DPP-4 inhibitors can cause hepatic enzyme elevations as well as rare instances of clinically apparent liver injury. A single case report of liver injury due to linaglitin was published in 2014. The latency to onset was 1 month and the pattern of enzyme elevations hepatocellular without immunoallergic features. Recovery was somewhat delayed and was still incomplete three months later. ANA positivity arose during recovery. Thus, linagliptin like other DPP-4 inhibitors has been linked to rare instances of acute liver injury. Likelihood score: D (possible rare cause of clinically apparent acute liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury The cause of possible liver injury during linagliptin therapy is not known. The drug is mostly metabolized by the liver, largely by the cytochrome P450 system (CYP 3A4), and a toxic or immunogenic intermediate of metabolism may be produced that could cause liver injury.",
+    "raw_outcome_text": "Outcome and Management The rare instances of liver injury reported with the DPP-4 inhibitors have been self-limited and resolved rapidly with stopping the medication. The similarity in activity among the DPP-4 inhibitors suggests that there may be cross sensitivity to hepatic injury among the different agents, but this has not been reported. However, the other common antidiabetic medications in use should be tolerated without increased risk of liver injury. References regarding the hepatotoxicity and safety of the DPP-4 inhibitors are given in the Overview section of DPP-4 Inhibitors (updated 03 January 2018). Drug Class: Antidiabetic Agents, Incretin-Based Drugs Other Drugs in the Subclass, Dipeptidyl Peptidase-4 (DPP-4) Inhibitors: Alogliptin, Saxagliptin, Sitagliptin",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Linagliptin - Tradjenta®"
+    ],
+    "raw_drug_class": [
+      "Antidiabetic Agents",
+      "Incretin-Based Drugs",
+      "Dipeptidyl Peptidase-4 (DPP-4) Inhibitors",
+      "Alogliptin",
+      "Saxagliptin",
+      "Sitagliptin"
+    ],
+    "source_nxml_file": "Linagliptin.nxml"
+  },
+  {
+    "id": 607,
+    "name_en": "Lithium",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "E",
+    "grade_explanation_en": "unlikely cause of clinically apparent liver injury",
+    "rucam_score_bonus": 0,
+    "source": "LiverTox (NIDDK, NIH): Lithium.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Lithium/",
+    "source_review_date": "2019-06-04",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity Liver test abnormalities have been reported to occur in a small proportion of patients on long term therapy with lithium. These abnormalities are usually asymptomatic and transient, reversing even with continuation of medication. Instances of more marked elevations in serum aminotransferases have been reported in patients taking overdoses of lithium, but the other metabolic and systemic effects of lithium overdose generally overshadow hepatic adverse effects. Lithium has not been associated with instances of clinically apparent acute liver injury with jaundice. Likelihood score: E (unlikely cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury The mechanism by which lithium causes serum aminotransferase elevations is not known. Some instances of serum aminotransferase elevations occurring on lithium therapy may be due to nonalcoholic fatty liver disease caused by weight gain that occurs in at least one-quarter of treated patients and ranges from 4.5 to 12 kg, generally during the first 1 to 2 years of therapy.",
+    "raw_outcome_text": "Outcome and Management The serum aminotransferase elevations that occur on lithium therapy are usually self-limited and do not require dose modification or discontinuation of therapy. No instances of acute liver failure or chronic liver disease have been attributed to lithium. Drug Class: Antipsychotic Agents, Drugs for Bipolar Disorders, Trace Elements and Metals",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [],
+    "raw_drug_class": [
+      "Antipsychotic Agents",
+      "Trace Elements and Metals"
+    ],
+    "source_nxml_file": "Lithium.nxml"
+  },
+  {
+    "id": 608,
+    "name_en": "Lomustine",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "D",
+    "grade_explanation_en": "possible cause of clinically apparent liver injury",
+    "rucam_score_bonus": 1,
+    "source": "LiverTox (NIDDK, NIH): Lomustine.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Lomustine/",
+    "source_review_date": "2019-06-03",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity Mild and transient elevations in serum aminotransferase or alkaline phosphatase levels are found in a high proportion of patients treated antineoplastic regimens that include lomustine. The abnormalities are generally transient, do not cause symptoms and do not require dose modification. Clinically apparent liver injury from lomustine has been described, but is uncommon. The pattern of serum enzyme elevations were described as cholestatic and onset was after 3 to 4 months of therapy, but otherwise its clinical characteristics have not been clearly characterized. Lomustine is often given in combination with other antineoplastic agents, many of which are also hepatotoxic, so the effect of lomustine in causing liver injury is often difficult to assess. Lomustine has not been associated specifically with sinusoidal obstruction syndrome, but it is not generally given in high doses or used for myeloablation in preparation for bone marrow transplantation, the situations in which this syndrome generally occurs. Likelihood score: D (possible cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury The cause of idiosyncratic hepatotoxicity from lomustine is not known. Lomustine is extensively metabolized by hepatic cytochrome P450 system.",
+    "raw_outcome_text": "Outcome and Management The severity of liver injury ranges from mild elevations in liver enzymes to mild and self limited cholestatic liver injury. It is not known whether patients with acute liver injury due to lomustine have cross sensitivity to hepatic injury with other alkylating agents. Drug Class: Antineoplastic Agents, Alkylating Agents",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Lomustine - CeeNU®"
+    ],
+    "raw_drug_class": [
+      "Antineoplastic Agents",
+      "Alkylating Agents"
+    ],
+    "source_nxml_file": "Lomustine.nxml"
+  },
+  {
+    "id": 609,
+    "name_en": "Loperamide",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "-",
+    "grade_explanation_en": "-",
+    "rucam_score_bonus": "-",
+    "source": "LiverTox (NIDDK, NIH): Loperamide.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Loperamide/",
+    "source_review_date": "2019-04-25",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity As with most opiates in current use, therapy with loperamide has not been linked to serum enzyme elevations. There have been no convincing cases of idiosyncratic acute, clinically apparent liver injury attributed to either agent. The reason for its lack of hepatotoxicity may relate to the low doses used and lack of significant systemic absorption. What loperamide is absorbed is metabolized in the liver. References on the safety and potential hepatotoxicity of loperamide are given in the overview section of the Opioids. Last updated: 20 May 2019 Drug Class: Gastrointestinal Agents; Opioids",
+    "raw_mechanism_text": "",
+    "raw_outcome_text": "",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [],
+    "raw_drug_class": [
+      "Gastrointestinal Agents",
+      "Opioids"
+    ],
+    "source_nxml_file": "Loperamide.nxml"
+  },
+  {
+    "id": 610,
+    "name_en": "Loratadine",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "E*",
+    "grade_explanation_en": "unproven but suspected cause of clinically apparent liver injury",
+    "rucam_score_bonus": 0,
+    "source": "LiverTox (NIDDK, NIH): LoratadineDesloratad.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/LoratadineDesloratad/",
+    "source_review_date": "2017-01-16",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity Loratadine and desloratadine use are associated with a low rate of liver enzyme elevations which are usually asymptomatic, mild and self-limited even without modification of the dose. In addition, rare instances of clinically apparent liver injury attributed to loratadine and desloratadine use have been reported as isolated case reports. The time to onset of liver injury varied but was typically within 2 to 4 weeks of starting the medication. Most cases were associated with a hepatocellular pattern of enzyme elevations resembling acute viral hepatitis. Immunoallergic and autoimmune features were not described and most cases were self-limited in course. However, at least one fatal instance of acute hepatitis attributed to loratadine has been reported. In none of the cases, was there a clear link to loratadine and all had other possible or probable non-drug causes. Thus, loratadine and desloratadine have been convincingly implicated in cases of clinically apparent liver injury in the literature and the association is suspect only. Likelihood score: E* (unproven but suspected cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury The cause of acute liver injury from loratadine and desloratadine is not known. Loratadine is extensively metabolized by the liver, largely via the cytochrome P450 system (CYP 3A4 and 2D6).",
+    "raw_outcome_text": "",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [],
+    "raw_drug_class": [
+      "Antihistamines"
+    ],
+    "source_nxml_file": "LoratadineDesloratad.nxml"
+  },
+  {
+    "id": 611,
+    "name_en": "Lorlatinib",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "E*",
+    "grade_explanation_en": "unproven but suspected rare cause of clinically apparent liver injury",
+    "rucam_score_bonus": 0,
+    "source": "LiverTox (NIDDK, NIH): Lorlatinib.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Lorlatinib/",
+    "source_review_date": "2019-04-15",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity In large early clinical trials, elevations in serum aminotransferase levels occurred in up to 28% of patients treated with standard doses of lorlatinib but were above 5 times ULN in only 2% of patients and rarely led to early discontinuation of therapy. The abnormalities were typically transient, asymptomatic and not associated with jaundice. In prelicensure clinical trials there were no instances of clinically apparent liver injury. In contrast, most other ALK inhibitors have been linked to instances of acute liver injury which can be severe and even fatal. The liver injury typically arises within 4 to 12 weeks of starting therapy and presents with marked elevations in serum aminotransferase levels followed by jaundice and progressive hepatic dysfunction. While lorlatinib has not been associated with instances of severe liver injury, it has had limited clinical use. Likelihood score: E* (unproven but suspected rare cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury The mechanism by which lorlatinib might cause liver injury is unknown. Lorlatinib is metabolized in the liver largely via CYP 3A4, and liver injury may be due to accumulation of a toxic or immunogenic intermediate. Lorlatinib is susceptible to drug-drug interactions, and drugs that are strong inhibitors or inducers of CYP 3A should be avoided during its use.",
+    "raw_outcome_text": "Outcome and Management Routine monitoring of liver tests is recommended for patients starting lorlatinib and at intervals thereafter. Serum aminotransferase elevations above 5 times the upper limit of normal should lead to dose interruption. If changes persist, are severe, or reoccur on restarting, lorlatinib should be discontinued. Persons who develop liver injury using therapy with a specific ALK inhibitor can often be treated with other ALK inhibitors without recurrence of liver injury, but should be monitored carefully during treatment after hepatotoxicity from a related agent. Drug Class: Antineoplastic Agents, Protein Kinase Inhibitors",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Lorlatinib - Lorbrena®"
+    ],
+    "raw_drug_class": [
+      "Antineoplastic Agents",
+      "Protein Kinase Inhibitors"
+    ],
+    "source_nxml_file": "Lorlatinib.nxml"
+  },
+  {
+    "id": 612,
+    "name_en": "Lovastatin",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "B",
+    "grade_explanation_en": "likely cause of clinically apparent liver injury",
+    "rucam_score_bonus": 2,
+    "source": "LiverTox (NIDDK, NIH): Lovastatin.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Lovastatin/",
+    "source_review_date": "2021-12-01",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity Lovastatin therapy is associated with mild, asymptomatic and usually transient serum aminotransferase elevations. In summary analyses of large scale studies with prospective monitoring, ALT elevations above normal occurred in 3% to 5% of patients, but were above 3 times the upper limit of normal (ULN) in only 0.4% compared to 0.1% of placebo recipients. These elevations were more common with higher doses of lovastatin, being greater than 3 times ULN in 0.1% of patients receiving 20 mg daily, 0.9% with 40 mg and 1.5% with 80 mg daily. Most of these elevations were self-limited and did not require dose modification, although discontinuation is recommended for any elevation above 10 times and for persistent elevations above 5 times the ULN. Lovastatin is also associated with frank, clinically apparent hepatic injury, but cases are rare. The onset of clinical injury ranges from a few weeks to several years. The pattern of injury is typically cholestatic, but can be hepatocellular. Rash, fever and eosinophilia are uncommon as are autoimmune features. The injury usually resolves rapidly upon stopping lovastatin, but instances of fatal acute liver failure and of prolonged cholestasis have been reported (Case 1). The traditional Chinese medication known as red yeast rice which is used to treat hyperlipidemia has been shown to contain monacolin K, a natural component that is chemically identical to lovastatin, perhaps explaining its efficacy in reducing cholesterol levels. Red yeast rice has also been implicated in cases of acute liver injury and myopathies that are similar to those linked to lovastatin. In some instances cross-sensitivity to hepatic injury has been shown between red yeast rice products and lovastatin. Likelihood score: B (likely cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury The cause of hepatic injury from lovastatin is unknown. Lovastatin is largely metabolized in the liver (via CYP 3A4) and metabolites are excreted in bile. Lovastatin is susceptible to drug-drug interactions and strong inhibitors of CYP 3A4 can result in higher plasma lovastatin levels which increases the risk of muscle and liver injury. The mild, self-limited ALT elevations are likely due to a toxic intermediate of drug metabolism and the reversal of these elevations due to adaptation. The idiosyncratic, clinically apparent liver injury associated with lovastatin is probably immunologically mediated.",
+    "raw_outcome_text": "Outcome and Management The product label for lovastatin recommends screening for liver test abnormalities before starting therapy and repeating tests as clinically indicated. The ALT elevations that occur with lovastatin therapy usually resolve spontaneously within a few weeks even without discontinuation. The product label for lovastatin mentions rare cases of acute liver failure due to lovastatin, some of which were fatal. There have not been fatal instances of acute liver injury attributable to lovastatin in the published literature. In the average case, recovery is expected within 1 to 2 months of stopping lovastatin, but instances of prolonged cholestasis and some degree of vanishing bile duct syndrome have been reported. In view of the wide scale use of lovastatin, clinically apparent and severe liver injury is extraordinarily rare. Recurrence of injury with rechallenge has been reported and should be avoided. Switching therapy to another statin after lovastatin induced injury is apparently safe, but few instances have been reported, and it should be done with careful monitoring for recurrence. Drug Class: Antilipemic Agents Other Drugs in the Subclass, Statins: Atorvastatin, Ezetimibe [used in combination], Fluvastatin, Pitavastatin, Pravastatin, Rosuvastatin, Simvastatin",
+    "raw_case_report_text": "CASE REPORT Case 1. Cholestatic hepatitis due to lovastatin therapy.(1) A 40 year old man developed fatigue, dark urine, jaundice and itching approximately 11 weeks after starting lovastatin (20 mg daily). He had no previous history of liver disease and drank little alcohol. He had a past history of kidney stones, hyperlipidemia and hypertension, and his other medications included allopurinol (100 mg daily) and the combination of hydrochlorothiazide and amiloride. Liver tests had been normal in the past. When he was finally seen and evaluated, 17 weeks after starting therapy, laboratory tests showed a mixed pattern of serum enzyme elevations. Tests for hepatitis A and B and for autoantibodies were negative. An ultrasound of the abdomen showed evidence suggestive of bile duct dilatation, but ERCP was normal. Lovastatin was stopped and he improved symptomatically. Liver tests had improved but were not completely normal six months later. Key Points Medication: Lovastatin (20 mg daily) Pattern: Mixed (R=4.7) Severity: 3+ (jaundice, hospitalization) Latency: 11 weeks to symptoms Recovery: 6 months Other medications: Allopurinol, hydrochlorothiazide, amiloride Laboratory Values Time AfterStarting Time AfterStopping ALT(U/L) Alk P(U/L) Bilirubin(mg/dL) Other 0 25 77 Lovastatin started 7 weeks 38 64 17 weeks 0 381 277 Lovastatin stopped 19 weeks 10 days 337 381 21 weeks 4 weeks 205 6.5 6 months 2 months 229 133 1.9 10 months 6 months 65 112 Normal Values <35 <120 <1.2 * Some values estimated from Figure 1. Comment The patient had symptoms of a cholestatic hepatitis with prominence of jaundice and itching. There was a delay in stopping lovastatin and the cholestatic hepatitis was prolonged. At the time of this report, lovastatin had been available for only approximately a year, and 3 cases of jaundice possibly related to lovastatin had already been reported to the Food and Drug Administration (MedWatch).",
+    "raw_case_report_key_points": {
+      "Medication": "Lovastatin (20 mg daily)",
+      "Pattern": "Mixed (R=4.7)",
+      "Severity": "3+ (jaundice, hospitalization)",
+      "Latency": "11 weeks to symptoms",
+      "Recovery": "6 months",
+      "Other medications": "Allopurinol, hydrochlorothiazide, amiloride"
+    },
+    "raw_trade_names": [],
+    "raw_drug_class": [
+      "Antilipemic Agents",
+      "Statins",
+      "Atorvastatin",
+      "Ezetimibe [used in combination]",
+      "Fluvastatin",
+      "Pitavastatin",
+      "Pravastatin",
+      "Rosuvastatin",
+      "Simvastatin"
+    ],
+    "source_nxml_file": "Lovastatin.nxml"
+  }
+]

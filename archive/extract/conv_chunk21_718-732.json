@@ -1,0 +1,429 @@
+[
+  {
+    "id": 718,
+    "name_en": "Rifabutin",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "D",
+    "grade_explanation_en": "possible rare cause of clinically apparent liver injury",
+    "rucam_score_bonus": 1,
+    "source": "LiverTox (NIDDK, NIH): Rifabutin.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Rifabutin/",
+    "source_review_date": "2018-06-10",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity Because of its limited use, the effects of rifabutin on the liver have been less well defined than those of rifampin, but they are likely to be similar. Thus, studies on the prevention of MAC in HIV infected patients with rifabutin, minor, transient elevations in serum aminotransferase levels occurred in 3% to 8% of patients, but these abnormalities rarely required dose adjustment or discontinuation. Clinically apparent liver injury due to rifabutin has not been reported, but it is likely to be similar to rifampin in its potential for causing acute liver injury. Because rifabutin is usually given in combination with other agents used to treat HIV infection, the cause of the acute liver injury in patients on rifabutin-containing regimens may be difficult to relate to a single agent. Typically, the onset of injury due to rifampin is within 1 to 6 weeks and the serum enzyme pattern is usually hepatocellular at the onset of injury, but can cholestatic and mixed in contrast to isoniazid and pyrazinamide. Extrahepatic manifestations due to rifampin hepatotoxicity such as fever, rash, arthralgias, edema and eosinophilia are uncommon as is autoantibody formation. This potential for hepatotoxicity has not been demonstrated specifically for rifabutin, and some patients with apparent hepatotoxicity attributed to rifampin have tolerated rifabutin without recurrence of liver injury. Likelihood score: D (possible rare cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury The mechanism of rifamycin associated hepatotoxicity is not known, but these agents are extensively metabolized by the liver and induce multiple hepatic enzymes. Thus, the cause of injury is likely to be due to idiosyncratic metabolic products that are either directly toxic or induce an immunologic reaction.",
+    "raw_outcome_text": "Outcome and Management For the rifamycins, the severity of hepatic injury ranges from asymptomatic elevations in serum aminotransferase levels, jaundice without apparent hepatic injury, symptomatic self-limited hepatitis to severe fulminant liver failure and death. In most cases, complete recovery is expected after stopping the drug and is usually rapid and complete. The rifamycins have not been associated with vanishing bile duct syndrome or chronic hepatitis. There is likely to be cross sensitivity to liver injury among the various rifamycins (rifampin, rifabutin, rifapentine), but not with other first or second line antituberculosis agents. [First line medications used in the therapy of tuberculosis in the US include ethambutol, isoniazid, pyrazinamide, rifabutin, rifampin, and rifapentine. Second line medications include streptomycin, capreomycin, cycloserine, ethionamide, fluoroquinolones such as levofloxacin and moxifloxacin, aminoglycosides such as amikacin, and para-aminosalicylic acid (PAS).] Specific, regularly updated recommendations on therapy of tuberculosis can be found on the Centers for Disease Control and Prevention website: https://www.cdc.gov/tb/topic/treatment/ Drug Class: Antituberculosis Agents Other Drugs in the Class: Bedaquiline, Capreomycin, Cycloserine, Ethambutol, Ethionamide, Isoniazid, Pyrazinamide, Rifampin, Rifapentine, Streptomycin",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Rifabutin - Mycobutin®"
+    ],
+    "raw_drug_class": [
+      "Antituberculosis Agents",
+      "Bedaquiline",
+      "Capreomycin",
+      "Cycloserine",
+      "Ethambutol",
+      "Ethionamide",
+      "Isoniazid",
+      "Pyrazinamide",
+      "Rifampin",
+      "Rifapentine",
+      "Streptomycin"
+    ],
+    "source_nxml_file": "Rifabutin.nxml"
+  },
+  {
+    "id": 719,
+    "name_en": "Rifamycin",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "E",
+    "grade_explanation_en": "unlikely cause of clinically apparent liver injury",
+    "rucam_score_bonus": 0,
+    "source": "LiverTox (NIDDK, NIH): Rifamycin.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Rifamycin/",
+    "source_review_date": "2019-04-11",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity In prelicensure controlled trials in patients with traveler’s diarrhea, rates of serum ALT elevations were similar in subjects treated with rifamycin compared to placebo or comparator agent (ciprofloxacin) and no participants developed clinically apparent liver injury. Since its approval, there have been no published reports of hepatotoxicity attributed to rifamycin. Because of its minimal absorption rifamycin is considered unlikely to cause liver injury. Likelihood score: E (unlikely cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury Rifamycin has minimal systemic absorption and is unlikely to reach serum concentrations that might be hepatotoxic or induce CYP 3A4 enzyme activity or inhibit hepatic organic anion transport proteins, which the native compound has been shown to affect. Other agents used for travelers’ diarrhea include rifaximin, azithromycin and ciprofloxacin. Drug Class: Antiinfective Agents; Gastrointestinal Agents, Antidiarrheals",
+    "raw_outcome_text": "",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Rifamycin - Aemcolo®"
+    ],
+    "raw_drug_class": [
+      "Antiinfective Agents",
+      "Gastrointestinal Agents"
+    ],
+    "source_nxml_file": "Rifamycin.nxml"
+  },
+  {
+    "id": 720,
+    "name_en": "Rifaximin",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "E",
+    "grade_explanation_en": "unlikely cause of clinically apparent liver injury",
+    "rucam_score_bonus": 0,
+    "source": "LiverTox (NIDDK, NIH): Rifaximin.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Rifaximin/",
+    "source_review_date": "2018-06-14",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity Despite widespread use, there is little evidence that rifaximin when given orally causes liver injury, either in the form of serum enzyme elevations or clinically apparent liver disease. Likelihood score: E (unlikely cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury Rifaximin has minimal systemic absorption and is unlikely to reach serum concentrations that might be hepatotoxic or induce CYP 3A4 enzyme activity or inhibit hepatic organic anion transport proteins, which the native compound has been shown to affect. Other agents used for hepatic encephalopathy include neomycin and lactulose. Drug Class: Antiinfective Agents; Gastrointestinal Agents, Antidiarrheals",
+    "raw_outcome_text": "",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Rifaximin - Xifaxan®"
+    ],
+    "raw_drug_class": [
+      "Antiinfective Agents;",
+      "Gastrointestinal Agents"
+    ],
+    "source_nxml_file": "Rifaximin.nxml"
+  },
+  {
+    "id": 721,
+    "name_en": "Riluzole",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "C",
+    "grade_explanation_en": "probable rare cause of clinically apparent liver injury",
+    "rucam_score_bonus": 1,
+    "source": "LiverTox (NIDDK, NIH): Riluzole.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Riluzole/",
+    "source_review_date": "2018-05-28",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity Serum aminotransferase elevations occur in approximately up to 12% of patients on long term riluzole therapy, but elevations above 3 times the upper limit of normal (ULN) occur in less than 3% of patients. These elevations are usually mild-to-moderate in severity and are rarely associated with symptoms. Most elevations resolve spontaneously, but persistent or marked elevations require drug discontinuation or dose modification. Routine monitoring of serum aminotransferase levels is recommended for the first 6 months of therapy. Clinically apparent liver injury due to riluzole is rare, but several cases have been reported, arising after 1 to 12 months of therapy and characterized by a hepatocellular or mixed pattern of serum enzyme elevations. Immunoallergic and autoimmune features were uncommon. Most cases were mild to moderate in severity and recovery was rapid upon drug discontinuation, but evidently fatal cases have been reported to the sponsor. Likelihood score: C (probable rare cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury Riluzole is extensively metabolized by the liver by the cytochrome P450 system into multiple intermediates, not all of which have been characterized. The hepatotoxicity of riluzole may be related to production of a toxic or immunogenic intermediate.",
+    "raw_outcome_text": "Outcome and Management The severity of liver injury from riluzole ranges from minor, transient elevations in serum aminotransferase levels to acute hepatic injury with jaundice and possible to acute liver failure. Routine monitoring of serum aminotransferase levels is recommended during the first 6 months of riluzole therapy and therapy discontinued for elevations greater than 5 times ULN. Riluzole has not been linked to cases of chronic hepatitis or vanishing bile duct syndrome. Restarting riluzole can result in recurrence of liver injury and should be avoided. Drug Class: Alzheimer Disease Agents, Amyotrophic Lateral Sclerosis Agents Other Related Drugs: Edaravone",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Riluzole - Rilutek®"
+    ],
+    "raw_drug_class": [
+      "Alzheimer Disease Agents",
+      "Edaravone"
+    ],
+    "source_nxml_file": "Riluzole.nxml"
+  },
+  {
+    "id": 722,
+    "name_en": "Riociguat",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "E",
+    "grade_explanation_en": "unlikely cause of clinically apparent liver injury",
+    "rucam_score_bonus": 0,
+    "source": "LiverTox (NIDDK, NIH): Riociguat.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Riociguat/",
+    "source_review_date": "2018-06-04",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity In preregistration studies, riociguat was not associated with serum enzyme elevations or with episodes of clinically apparent liver injury. Since approval of riociguat, there have been no published reports of hepatotoxicity, and the product label does not mention liver injury as an adverse event. Likelihood score: E (unlikely cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury The mechanism by which riociguat might cause serum aminotransferase elevations or liver injury is not known. It is metabolized by the hepatic cytochrome P450 system (predomination 3A4 and is susceptible to drug-drug interactions. The absence of significant hepatotoxicity from riociguat may related to the relatively low daily doses used (3.0 to 7.5 mg).",
+    "raw_outcome_text": "Outcome and Management The serum enzyme elevations associated with riociguat use have been rare, mild-to-moderate and self-limited in course, usually resolving despite drug continuation. Clinically apparent liver injury from riociguat has not been described. There is no information on cross sensitivity to hepatic injury among the various agents used to treat pulmonary artery hypertension. Drug Class: Pulmonary Arterial Hypertension Agents Other Drugs in the Subclass, Guanylate Cyclase Inhibitors: Vericiguat Other Drugs in the Class: Ambrisentan, Bosentan, Macitentan, Selexipag; Prostacyclin Analogs, Epoprostenol, Iloprost, Treprostinil",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Riociguat - Adempas®"
+    ],
+    "raw_drug_class": [
+      "Pulmonary Arterial Hypertension Agents",
+      "Vericiguat",
+      "Bosentan",
+      "Macitentan",
+      "Selexipag",
+      "Prostacyclin Analogs",
+      "Epoprostenol",
+      "Iloprost",
+      "Treprostinil"
+    ],
+    "source_nxml_file": "Riociguat.nxml"
+  },
+  {
+    "id": 723,
+    "name_en": "Risdiplam",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "E",
+    "grade_explanation_en": "unlikely cause of clinically apparent liver injury",
+    "rucam_score_bonus": 0,
+    "source": "LiverTox (NIDDK, NIH): Risdiplam.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Risdiplam/",
+    "source_review_date": "2024-06-15",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity In preregistration clinical trials, there were no clinically significant changes in serum laboratory values with risdiplam therapy and no differences in serum ALT, AST, and bilirubin values between risdiplam vs placebo recipients. While safety results were based on only several hundred patients, there were no cases of suspected drug induced liver injury with jaundice. Furthermore, there have been no published cases of clinically apparent liver injury attributed to risdiplam since its approval in 2020. Likelihood score: E (unlikely cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury The mechanism by which risdiplam might cause liver injury is unknown. The molecule also modifies RNA splicing in other genes which might have an effect on liver function or homeostasis. Drug Class: Genetic Disorder Agents Other Agents for SMA: Nusinersen, Onasemnogene Abeparvovec",
+    "raw_outcome_text": "",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Risdiplam - Evrysdi®"
+    ],
+    "raw_drug_class": [
+      "Onasemnogene Abeparvovec"
+    ],
+    "source_nxml_file": "Risdiplam.nxml"
+  },
+  {
+    "id": 724,
+    "name_en": "Rivaroxaban",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "A",
+    "grade_explanation_en": "well established cause of clinically apparent liver injury",
+    "rucam_score_bonus": 2,
+    "source": "LiverTox (NIDDK, NIH): Rivaroxaban.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Rivaroxaban/",
+    "source_review_date": "2023-02-16",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity Chronic therapy with rivaroxaban is associated with moderate ALT elevations (greater than 3 times the upper limit of normal) in 1.5% to 3% of patients, an overall rate which is slightly lower than with low molecular weight heparins and similar to the rates with warfarin. During the large, prelicensure clinical trials of rivaroxaban, several instances of ALT elevations with jaundice occurred, but few details were provided and it was not clear whether the liver injury was clinically apparent. The cases were evidently mild and self-limited, resolving completely once therapy was stopped. Since its licensure and more wide scale use, rivaroxaban has been linked to many instances of acute liver injury with jaundice. The clinical features of these cases varied widely. Most cases had an onset within 1 to 8 weeks of starting rivaroxaban and presented with jaundice, fatigue and a hepatocellular pattern of serum enzyme elevations. In some individuals, a cholestatic or mixed pattern was found. Immunoallergic features and autoimmune markers were atypical but at least one case occurred with skin rash and fever suggestive of DRESS syndrome. One case of acute hepatic necrosis and death attributed to rivaroxaban has been reported, but ischemic hepatitis due to severe heart failure was a more likely cause of the acute liver failure. All other reported cases of rivaroxaban induced liver injury recovered upon stopping rivaroxaban, usually quite promptly, within 2 to 4 weeks. In large health care databases, hospitalization for acute liver injury arises in approximately 1 in 2,200 cases, but whether all cases in these databases represent liver injury from rivaroxaban is uncertain. Likelihood score: A (well established cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury The cause of liver injury during rivaroxaban therapy is unknown, but is likely to be idiosyncratic and perhaps immunologic. Rivaroxaban is metabolized in the liver largely by CYP 3A4 and is susceptible to drug-drug interactions; inhibitors of CYP 3A4 (such as clarithromycin and itraconazole) can lead to increased levels, while inducers of CYP 3A4 (such as rifampin and phenytoin) can cause decreased and potential subtherapeutic drug levels.",
+    "raw_outcome_text": "Outcome and Management Liver injury attributed to rivaroxaban varies from mild serum ALT elevations to liver injury with jaundice, but is usually mild to moderate in severity and self-limited, resolving within a few weeks of stopping. Convincing examples of acute liver failure, chronic hepatitis or vanishing bile duct syndrome due to rivaroxaban have not been reported in the published literature. Recurrence of liver injury with rechallenge has not been described, but should be expected to occur. There is no evidence or reason to suspect that there is cross sensitivity to hepatic injury among the different anticoagulants even with the other direct factor X inhibitors such as apixaban and edoxaban which appear to have a lower rate of hepatotoxicity. Drug Class: Antithrombotic Agents, Anticoagulants Other Drugs in the Subclass, Anticoagulants, Factor Xa Antagonists: Apixaban, Betrixaban, Edoxaban, Fondaparinux",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Rivaroxaban - Xarelto®"
+    ],
+    "raw_drug_class": [
+      "Antithrombotic Agents",
+      "Anticoagulants",
+      "Apixaban",
+      "Betrixaban",
+      "Edoxaban",
+      "Fondaparinux"
+    ],
+    "source_nxml_file": "Rivaroxaban.nxml"
+  },
+  {
+    "id": 725,
+    "name_en": "Rivastigmine",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "D",
+    "grade_explanation_en": "possible, rare cause of clinically apparent drug-induced liver injury",
+    "rucam_score_bonus": 1,
+    "source": "LiverTox (NIDDK, NIH): Rivastigmine.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Rivastigmine/",
+    "source_review_date": "2020-01-15",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity In large placebo controlled trials, rivastigmine therapy was not associated with an increased rate of serum enzyme elevations compared to placebo treatment and no instances of clinically apparent liver injury with jaundice were reported. Nevertheless, since its introduction into clinical use, rivastigmine (administered by transdermal patch) has been implicated in at least one report of clinically apparent hepatotoxicity with mild jaundice. The time to onset was 2 months and the serum enzyme elevations had a mildly hepatocellular pattern. Mild rash and eosinophilia were also present, but autoimmune features were not. Recovery was complete within 5 weeks of drug discontinuation. Likelihood score: D (possible, rare cause of clinically apparent drug-induced liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury Rivastigmine differs from the other acetylcholinesterase inhibitors in not having major hepatic metabolism. The mechanism of potential hepatotoxicity of rivastigmine is not known, but is likely to be immunological idiosyncrasy.",
+    "raw_outcome_text": "Outcome and Management Cases of hepatotoxicity from rivastigmine have been too few to characterize clinically. There have been no published reports of acute liver failure, chronic hepatitis or vanishing bile duct syndrome attributed to rivastigmine. There is no information on the possible cross sensitivity to liver injury among the various acetylcholinesterase inhibitors. References regarding the safety and potential hepatotoxicity of the drugs used for Alzheimer disease are provided below for rivastigmine and again for all agents after the overview section of Alzheimer Disease Agents. Drug Class: Alzheimer Disease Agents",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [],
+    "raw_drug_class": [
+      "Alzheimer Disease Agents"
+    ],
+    "source_nxml_file": "Rivastigmine.nxml"
+  },
+  {
+    "id": 726,
+    "name_en": "Roflumilast",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "E",
+    "grade_explanation_en": "unlikely cause of clinically apparent liver injury",
+    "rucam_score_bonus": 0,
+    "source": "LiverTox (NIDDK, NIH): Roflumilast.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Roflumilast/",
+    "source_review_date": "2018-06-04",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity In preregistration studies, roflumilast was not associated with serum enzyme elevations or with episodes of clinically apparent liver injury. Since approval of roflumilast, there have been no published reports of hepatotoxicity, and the product label does not mention liver injury as an adverse event. Likelihood score: E (unlikely cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "",
+    "raw_outcome_text": "",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Roflumilast - Daliresp®"
+    ],
+    "raw_drug_class": [
+      "Anticholinergic Agents",
+      "Ipratropium",
+      "Tiotropium",
+      "Aclidinium",
+      "Beta-2 Adrenergic Agonists",
+      "Corticosteroids",
+      "Budesonide",
+      "Theophylline"
+    ],
+    "source_nxml_file": "Roflumilast.nxml"
+  },
+  {
+    "id": 727,
+    "name_en": "Rosuvastatin",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "A",
+    "grade_explanation_en": "likely cause of clinically apparent liver injury",
+    "rucam_score_bonus": 2,
+    "source": "LiverTox (NIDDK, NIH): Rosuvastatin.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Rosuvastatin/",
+    "source_review_date": "2025-03-21",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity Rosuvastatin therapy is associated with mild, asymptomatic and usually transient serum aminotransferase elevations in 1% to 3% of patients. ALT levels above 3 times the upper limit of normal (ULN) occur slightly more frequently among rosuvastatin treated [1.1%] than placebo [0.5%] recipients. Serum enzyme elevations are more common with higher doses of rosuvastatin, being 2.2% with 40 mg daily. Most of these elevations are self-limited and do not require dose modification. Rosuvastatin is also associated with frank, clinically apparent hepatic injury but this is rare, estimated to occur in only 1:16,000 patients, a rate that is lower than atorvastatin (1:10,000) but higher than simvastatin (1:52,000). The onset is typically after 2 to 4 months and the pattern of serum enzyme elevations is usually hepatocellular, although cholestatic cases have also been reported. Rash, fever and eosinophilia are uncommon. Several statins including rosuvastatin have been linked to hepatitis with autoimmune features marked by ANA positivity, elevations in serum immunoglobulin levels, and a clinical response to corticosteroids. Such features are not, however, invariable (Case 1). The injury is usually self-limited and resolves rapidly once rosuvastatin is stopped, but it can be severe and fatal instances have been reported. A challenge in the diagnosis of drug induced liver injury in patients on statins and particularly those on rosuvastatin is the rare occurrence of severe myopathy and rhabdomyolysis, which is often accompanied by serum ALT and AST elevations. These patients, however, present with muscle pain and weakness rather than fatigue, dark urine and jaundice. While ALT levels may be elevated, they are generally mild-to-moderate in severity and greatly overshadowed by marked elevations in AST and CPK which are typical of muscle injury. A further clue for the diagnosis is lack of elevations in Alk P and bilirubin and other specific markers of liver injury. Likelihood score: A (likely cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury The cause of hepatic injury from rosuvastatin is unknown. Rosuvastatin is minimally (~10%) metabolized in the liver via CYP 2C9. The mild, self-limited ALT elevations may be due to a toxic intermediate of drug metabolism and the reversal of these elevations due to adaptation. The idiosyncratic, clinically apparent liver injury associated with rosuvastatin is often accompanied by autoimmune features and may, therefore, be caused by immune mechanisms.",
+    "raw_outcome_text": "Outcome and Management The product label for rosuvastatin recommends screening for liver test abnormalities before starting therapy and repeating tests as clinically indicated. The mild ALT elevations associated with rosuvastatin therapy are usually self-limited and do not require dose modification. Rosuvastatin should be stopped if ALT levels rise above 10-fold the ULN or persist in being above 5-fold elevated or are associated with symptoms. In the clinically apparent liver injury attributed to rosuvastatin, recovery is usually complete within 1 to 2 months. Recurrence of injury with rechallenge has been reported and should be avoided. Cases of chronic hepatitis, but no instances of vanishing bile duct syndrome attributable to rosuvastatin have been reported. In cases of autoimmune hepatitis-like injury, corticosteroids have been used when recovery does not occur promptly. If corticosteroids are used, the dose and duration of treatment should be kept to a minimum, and careful follow up after stopping is essential. Switching therapy to another statin after rosuvastatin induced injury is apparently safe, but few instances have been reported, and it should be done with careful monitoring for recurrence. Drug Class: Antilipemic Agents Other Drugs in the Subclass, Statins: Atorvastatin, Ezetimibe [used in combination], Fluvastatin, Lovastatin, Pitavastatin, Pravastatin, Simvastatin",
+    "raw_case_report_text": "CASE REPORT Case 1. Acute self-limited hepatitis during rosuvastatin therapy.(1) A 64 year old man developed jaundice approximately 15 weeks after starting rosuvastatin (10 mg daily) for hypercholesterolemia. He had a history of acute myocardial infarction four months previously, which was treated with angioplasty and stenting. Discharge medications included clopidogrel, aspirin, metoprolol, ramipril and atorvastatin. One week later he developed skin rash and minor ALT elevations (55 U/L), and rosuvastatin was substituted for atorvastatin. Subsequently, he felt well until 3 months later when he developed malaise, anorexia and upper abdominal discomfort followed by jaundice. On examination, he had no fever, rash or signs of chronic liver disease. Laboratory results showed elevations in serum bilirubin and aminotransferase levels, but normal alkaline phosphatase and GGT values (Table). Tests for hepatitis A, B, C, and E were negative as were routine autoantibodies. Ultrasonography of the liver and biliary tree was normal. Rosuvastatin was stopped while blood pressure and antiplatelet medications were continued. Liver test abnormalities improved promptly and were normal two weeks later. Key Points Medication: Rosuvastatin (10 mg daily) Pattern: Hepatocellular (aminotransferase elevations only) Severity: 3+ (jaundice, hospitalization) Latency: 15 weeks Recovery: 2 weeks Other medications: Clopidogrel, aspirin, metoprolol, ramipril, atorvastatin Laboratory Values Time AfterStarting Time AfterStopping ALT*(U/L) Alk P*(U/L) Bilirubin(mg/dL) Other Pre 20 Normal Normal Discharge after heart attack Pre 55 Atorvastatin stopped Atorvastatin stopped and rosuvastatin started 2 days 40 3 days 35 15 weeks 0 775 Normal 2.6 Admission: rosuvastatin stopped 15 weeks 3 days 198 1.8 INR Normal 16 weeks 1 week 40 Normal 17 weeks 2 weeks 30 Normal Normal Normal Values <36 <117 <1.2 * Some values estimated from Figure 1. Comment The onset of hepatocellular injury approximately 3 months after starting rosuvastatin and the rapid recovery with stopping therapy makes the diagnosis of rosuvastatin induced acute hepatitis highly likely. Other diagnoses were appropriately ruled out, and there was documentation of normal liver tests before starting statin therapy. Acute, clinically apparent liver injury is rare with rosuvastatin therapy (~1:16,000 patients treated) and is rapidly reversible with prompt discontinuation of therapy. Rechallenge with rosuvastatin is inadvisable, but other statins might be initiated with careful monitoring of serum enzymes.",
+    "raw_case_report_key_points": {
+      "Medication": "Rosuvastatin (10 mg daily)",
+      "Pattern": "Hepatocellular (aminotransferase elevations only)",
+      "Severity": "3+ (jaundice, hospitalization)",
+      "Latency": "15 weeks",
+      "Recovery": "2 weeks",
+      "Other medications": "Clopidogrel, aspirin, metoprolol, ramipril, atorvastatin"
+    },
+    "raw_trade_names": [],
+    "raw_drug_class": [
+      "Antilipemic Agents",
+      "Statins",
+      "Atorvastatin",
+      "Ezetimibe [used in combination]",
+      "Fluvastatin",
+      "Lovastatin",
+      "Pitavastatin",
+      "Pravastatin",
+      "Simvastatin"
+    ],
+    "source_nxml_file": "Rosuvastatin.nxml"
+  },
+  {
+    "id": 728,
+    "name_en": "Rotigotine",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "E",
+    "grade_explanation_en": "unlikely cause of clinically apparent liver injury",
+    "rucam_score_bonus": 0,
+    "source": "LiverTox (NIDDK, NIH): Rotigotine.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Rotigotine/",
+    "source_review_date": "2017-07-21",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity In multiple, controlled trials in Parkinson disease and restless leg syndrome, rotigotine transdermal patches were not associated with serum enzyme elevations, liver related severe adverse events or instances of clinically apparent liver injury. Since the approval and more wide scale use of rotigotine, there have been no published case reports of liver injury associated with its use and hepatotoxicity is not mentioned in the product label. Likelihood score: E (unlikely cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "",
+    "raw_outcome_text": "",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Rotigotine - Neupro®"
+    ],
+    "raw_drug_class": [
+      "Antiparkinson Agents",
+      "Apomorphine",
+      "Bromocriptine",
+      "Pergolide",
+      "Pramipexole",
+      "Ropinirole"
+    ],
+    "source_nxml_file": "Rotigotine.nxml"
+  },
+  {
+    "id": 729,
+    "name_en": "Rucaparib",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "E*",
+    "grade_explanation_en": "unproven but suspected cause of clinically apparent liver injury",
+    "rucam_score_bonus": 0,
+    "source": "LiverTox (NIDDK, NIH): Rucaparib.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Rucaparib/",
+    "source_review_date": "2017-06-01",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity In large clinical trials of rucaparib, abnormalities in routine liver tests were common; serum ALT elevations arising in 74% with values above 5 times the upper limit of normal (ULN) in 13%. Despite the frequency of serum enzyme elevations during therapy in clinical trials, there were no reports of hepatitis with jaundice or liver failure. Subsequent to its approval and more wide scale use, there have been no published reports of clinically apparent liver injury attributed to rucaparib. Thus, rucaparib is a frequent cause of serum enzyme elevations, but has not been linked to significant hepatotoxicity. Likelihood score: E* (unproven but suspected cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury The mechanism of injury accounting for the frequent serum enzyme elevations during rucaparib therapy is not known. Rucaparib is metabolized in the liver largely through the CYP 2D6 pathway and to a lesser extent by CYP1A2 and 3A4. Drug-drug interactions have not been described with rucaparib, but have not been systematically studied in humans.",
+    "raw_outcome_text": "Outcome and Management Serum aminotransferase elevations above 5 times the upper limit of normal (if confirmed) should lead to dose reduction or temporary cessation. There does not appear to be cross reactivity in risk for hepatic injury between rucaparib and other PARP inhibitors such as olaparib. Drug Class: Antineoplastic Agents, Protein Kinase Inhibitors Other PARP Drugs: Niraparib, Olaparib",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Rucaparib - Rubraca®"
+    ],
+    "raw_drug_class": [
+      "Antineoplastic Agents",
+      "Protein Kinase Inhibitors",
+      "Niraparib",
+      "Olaparib"
+    ],
+    "source_nxml_file": "Rucaparib.nxml"
+  },
+  {
+    "id": 730,
+    "name_en": "Rufinamide",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "E*",
+    "grade_explanation_en": "unproven but suspected cause of clinically apparent liver injury",
+    "rucam_score_bonus": 0,
+    "source": "LiverTox (NIDDK, NIH): Rufinamide.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Rufinamide/",
+    "source_review_date": "2018-06-06",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity In prelicensure clinical trials, addition of rufinamide to standard anticonvulsant therapy was reported to be associated with only rare elevations in ALT above 3 times the upper limit of normal (ULN). Rufinamide was not linked to instances of clinically apparent liver injury, but a pooled analysis of more than 200 children mentioned that two patients needed to discontinue therapy early because of liver related adverse events, one of which was described as “toxic hepatitis”. Since approval, there have been no reports of clinically apparent liver injury associated with rufinamide use, but it has had limited use in epilepsy. Rufinamide has been linked to instances of severe cutaneous reactions, including Stevens Johnson syndrome which often has some degree of associated liver injury. Thus, rufinamide may cause liver injury, but it is rare. Likelihood score: E* (unproven but suspected cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury Rufinamide is metabolized by the liver, largely by CYP 2C19, but has not been reported to have significant drug interactions. The possible mechanism of hepatic injury from rufinamide is not known, but may relate to a toxic or immunogenic metabolite.",
+    "raw_outcome_text": "Outcome and Management There is no information on the possible cross sensitivity to hepatotoxicity between rufinamide and other anticonvulsants, but its structure would not suggest that there would not be shared sensitivity with the more commonly used medications for seizures. Drug Class: Anticonvulsants",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Rufinamide - Banzel®"
+    ],
+    "raw_drug_class": [
+      "Anticonvulsants"
+    ],
+    "source_nxml_file": "Rufinamide.nxml"
+  },
+  {
+    "id": 731,
+    "name_en": "Ruxolitinib",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "C",
+    "grade_explanation_en": "probable cause of reactivation of hepatitis B in susceptible patients",
+    "rucam_score_bonus": 1,
+    "source": "LiverTox (NIDDK, NIH): Ruxolitinib.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Ruxolitinib/",
+    "source_review_date": "2022-08-30",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity In the large clinical trials, serum ALT elevations occurred in 25% to 48% of ruxolitinib treated subjects versus 7% to 9% of placebo recipients. The ALT elevations were generally self-limited, asymptomatic and mild and were above 5 times ULN in only 1.3% of patients. In the prelicensure clinical trials, no cases of clinically apparent liver injury were reported. Among causes of death in one trial of ruxolitinib for myelofibrosis, one was attributed to hepatic failure; this instance, however, was considered unrelated to ruxolitinib. Since its approval and more wide scale use, rare cases of clinically apparent ruxolitinib induced acute liver injury have been reported, but without documentation of clinical features or careful exclusion of other causes. Importantly, there also have been several published reports of reactivation of hepatitis B, in patients with and without HBsAg (but with anti-HBc) in serum. A rise in HBV DNA levels was identified within 1 to 6 months of starting ruxolitinib and was associated with elevations in ALT levels and jaundice in some patients. HBV DNA levels decreased rapidly upon starting anti-HBV therapy with entecavir and all patients recovered. In one instance, HBV DNA levels declined with lowering of the dose of ruxolitinib, but then rose again when the dose was increased. So far, reports of the use of ruxolitinib for COVID-19 have included only small numbers of patients and have provided little information on hepatic adverse events or risk of reactivation of hepatitis B. Likelihood score: C (probable cause of reactivation of hepatitis B in susceptible patients).",
+    "raw_mechanism_text": "Mechanism of Injury The causes of serum enzyme elevations during ruxolitinib therapy are not known. Ruxolitinib is metabolized in the liver largely through the CYP 3A4 pathway and liver injury may be related to production of a toxic intermediate. Ruxolitinib is susceptible to drug-drug interactions with agents that inhibit or induce hepatic CYP 3A4 activity. Because of its effects on intracellular signaling involved in immune responses, ruxolitinib (and possibly other JAK1 and JAK2 inhibitors) is capable to increasing HBV replication which can result in clinically apparent reactivation of hepatitis B.",
+    "raw_outcome_text": "Outcome and Management Serum aminotransferase elevations above 5 times the upper limit of normal (if confirmed) or any elevations accompanied by jaundice or symptoms should lead to dose reduction or temporary cessation. There does not appear to be cross reactivity in risk for hepatic injury between ruxolitinib and other kinase inhibitors. Ruxolitinib is capable of causing reactivation of hepatitis B and other opportunistic infections and patients should be screened for evidence of HBV infection before starting chemotherapy, including testing for HBsAg and anti-HBc. Those who are reactive for these virologic markers should be tested for serum HBV DNA and be considered for prophylaxis against HBV reactivation with a nucleoside analog such as tenofovir or entecavir particularly if they are HBsAg-positive. Reactivation of hepatitis B with ruxolitinib therapy is rare in patients with anti-HBc without HBsAg in serum and such patients can be monitored for HBV DNA levels and therapy initiated with a significant rise (one or two log10 IU/mL compared to baseline). Drug Class: Antineoplastic Agents, Protein Kinase Inhibitors, COVID-19 Drugs",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Ruxolitinib - Jakafi®"
+    ],
+    "raw_drug_class": [
+      "Antineoplastic Agents",
+      "Protein Kinase Inhibitors",
+      "COVID-19 Drugs"
+    ],
+    "source_nxml_file": "Ruxolitinib.nxml"
+  },
+  {
+    "id": 732,
+    "name_en": "Sacubitril-Valsartan",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "D",
+    "grade_explanation_en": "possible rare cause of clinically apparent liver injury, which may be due to valsartan rather than sacubitril",
+    "rucam_score_bonus": 1,
+    "source": "LiverTox (NIDDK, NIH): Sacubitril.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Sacubitril/",
+    "source_review_date": "2024-07-09",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity The large prospective, placebo-controlled trials of sacubitril-valsartan in patients with heart failure usually did not mention or list ALT elevations or severe hepatic adverse events or deaths. In the FDA clinical review of data from these trials, elevations in ALT or AST were said to arise in 1.3% of patients on sacubitril-valsartan but a similar portion of those on enalapril [1.0%], and all elevations were judged to be unrelated to therapy and likely due to congestive liver disease due to heart failure. A single case of jaundice with aminotransferase elevations occurred, but in a patient who had stopped combination therapy because of worsening renal dysfunction and who was experiencing acute decompensated heart failure. Since approval and more widespread use of sacubitril-valsartan there have been at least two reports of acute liver injury attributed to its use. Both cases were relatively mild and resolved rapidly once the drug was stopped. Whether the injury was due to sacubitril or valsartan (or an interaction of both) was not clear. Valsartan, like other commonly used angiotensin receptor blockers, is known to be a rare cause of acute liver injury. The contribution of the underlying heart failure and possible congestive hepatopathy is also an issue. The reported cases did not have a liver biopsy and were not rechallenged with the drug which might have clarified the causality. Likelihood score: D (possible rare cause of clinically apparent liver injury, which may be due to valsartan rather than sacubitril).",
+    "raw_mechanism_text": "Mechanism of Injury The acute hepatotoxicity caused by the combination of sacubitril and valsartan appears to be idiosyncratic and is usually mild and self-limited in course if the drug is withdrawn promptly. Sacubitril-valsartan as well as other angiotensin receptor blockers can cause acute hypersensitivity reactions including angioedema suggesting that liver injury also may be immune mediated.",
+    "raw_outcome_text": "Outcome and Management Most cases of acute hepatic injury from the combination of sacubitril and valsartan resolve within 1 to 3 months of stopping the medication and without corticosteroid therapy. It is not clear whether valsartan alone might be tolerated after recovery from liver injury attributed to its combination with sacubitril, but it is probably prudent to use a different angiotensin receptor blocking agent in this situation. Drug Class: Cardiovascular Agents; Antihypertensive Agents [Sacubitril-Valsartan, Heart Failure Agent]",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Sacubitril-Valsartan - Entresto®"
+    ],
+    "raw_drug_class": [],
+    "source_nxml_file": "Sacubitril.nxml"
+  }
+]

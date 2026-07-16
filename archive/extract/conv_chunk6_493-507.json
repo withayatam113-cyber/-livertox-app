@@ -1,0 +1,407 @@
+[
+  {
+    "id": 493,
+    "name_en": "Clomiphene",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "C",
+    "grade_explanation_en": "probable cause of clinically apparent liver injury as a part of the ovarian hyperstimulation syndrome",
+    "rucam_score_bonus": 1,
+    "source": "LiverTox (NIDDK, NIH): Clomiphene.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Clomiphene/",
+    "source_review_date": "2017-10-17",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity There is little information on serum aminotransferase levels during clomiphene therapy which is typically given in low doses for a short time only. There have been a few reports of mild serum enzyme elevations in patients taking clomiphene, but no convincing instances of idiosyncratic, clinically apparent liver injury with its use. Drugs used to treat infertility in women typically act by stimulation of the ovarian follicles which can lead to the ovarian hyperstimulation syndrome (OHSS), which can occasionally be accompanied by serum enzyme elevations and even jaundice. This syndrome typically arises within 4 to 14 days of ovarian stimulation with gonadotropins or clomiphene and is characterized by the onset of abdominal pain and distension with ascites and enlarged ovaries and ovarian cysts. There can be marked fluid shifts with hemoconcentration and rapid onset of severe ascites and pleural effusions. Liver tests are elevated in 25% to 40% of patients with OHSS, typically with mild-to-moderate increases in ALT and AST values, but minimal or no elevations in serum bilirubin and alkaline phosphatase levels. The liver test abnormalities resolve with resolution of the OHSS, usually within 2 to 3 weeks of onset. In severe instances, OHSS can be fatal, but death is usually due to dehydration, shock and septicemia rather than hepatic failure. In typical cases with abnormal liver enzymes, liver histology reveals nonspecific changes of sinusoidal dilatation, mild fat accumulation and focal inflammatory infiltrates with macrophages and lymphocytes. OHSS is less common with clomiphene than with human chorionic gonadotropin (hCG) induction of ovulation. Likelihood score: C (probable cause of clinically apparent liver injury as a part of the ovarian hyperstimulation syndrome).",
+    "raw_mechanism_text": "Mechanism of Injury The mechanism of injury accounting for serum enzyme elevations during clomiphene therapy is not known. Clomiphene is metabolized in the liver and has a prolonged half-life. The liver test abnormalities found during OHSS may be due to fluid shifts, hypovolemia and ischemia.",
+    "raw_outcome_text": "Outcome and Management Serum aminotransferase elevations above 5 times the upper limit of normal (if confirmed) should lead to dose reduction or temporary cessation. Clomiphene has not been implicated in cases of acute liver failure, chronic hepatitis or vanishing bile duct syndrome. There does not appear to be cross reactivity in risk for hepatic injury between clomiphene and other drugs used to treat infertility. Drug Class: Infertility Agents Other Drugs in the Class: Letrozole, Tamoxifen",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [],
+    "raw_drug_class": [
+      "Infertility Agents",
+      "Letrozole",
+      "Tamoxifen"
+    ],
+    "source_nxml_file": "Clomiphene.nxml"
+  },
+  {
+    "id": 494,
+    "name_en": "Clomipramine",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "D",
+    "grade_explanation_en": "possible rare cause of clinically apparent liver injury",
+    "rucam_score_bonus": 1,
+    "source": "LiverTox (NIDDK, NIH): Clomipramine.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Clomipramine/",
+    "source_review_date": "2017-10-15",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity Liver test abnormalities have been reported to occur in up to 16% of patients being treated with tricyclic antidepressants, but elevations are uncommonly above 3 times the upper limit of normal. Serum aminotransferase elevations during clomipramine therapy are reported in 1% to 3% of patients and the abnormalities were usually mild, asymptomatic and transient, reversing even with continuation of medication. As with many tricyclic antidepressants, rare instances of clinically apparent acute liver injury have been reported in patients taking clomipramine. The clinical features of cases of drug induced liver disease from clomipramine have not been well defined. The acute liver injury caused by tricyclic antidepressants typically arises within 1 to 4 weeks of starting the medication and presents with fatigue followed by dark urine and jaundice. Both hepatocellular and cholestatic patterns of injury have been described. The injury is usually mild-to-moderate in severity and recovery is rapid when the tricyclic is discontinued. Immunoallergic features such as rash, fever and eosinophilia are not common and autoantibodies are generally not detected. Fatal cases are extremely rare. Likelihood score: D (possible rare cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury The mechanism by which clomipramine causes serum aminotransferase elevation is not known. It undergoes extensive hepatic metabolism and a possible cause of liver injury is production of a toxic intermediate of metabolism that may be directly toxic or may induce a hypersensitivity reaction.",
+    "raw_outcome_text": "Outcome and Management The serum aminotransferase elevations that occur on clomipramine therapy are usually self-limited and do not require dose modification or discontinuation of therapy. The acute liver injury caused by clomipramine is typically self-limited and benign. Results of rechallenge after acute liver injury from clomipramine has not been reported, but rechallenge with tricyclic antidepressants usually causes a prompt recurrence of the liver injury that can be severe and therefore should be avoided. Patients with clinically apparent clomipramine induced liver injury can have cross sensitivity to other tricyclic antidepressants, but should be able to tolerate other antidepressants, the phenothiazines and atypical antipsychotics. Drug Class: Antidepressant Agents Other Drugs in the Subclass, Tricyclics: Amitriptyline, Amoxapine, Desipramine, Doxepin, Imipramine, Nortriptyline, Protriptyline, Trimipramine",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Clomipramine - Anafranil®"
+    ],
+    "raw_drug_class": [
+      "Antidepressant Agents",
+      "Amitriptyline",
+      "Amoxapine",
+      "Desipramine",
+      "Doxepin",
+      "Imipramine",
+      "Nortriptyline",
+      "Protriptyline",
+      "Trimipramine"
+    ],
+    "source_nxml_file": "Clomipramine.nxml"
+  },
+  {
+    "id": 495,
+    "name_en": "Clonidine",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "E",
+    "grade_explanation_en": "unlikely cause of clinically apparent liver injury",
+    "rucam_score_bonus": 0,
+    "source": "LiverTox (NIDDK, NIH): Clonidine.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Clonidine/",
+    "source_review_date": "2021-08-25",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity Serum aminotransferase elevations during clonidine therapy are uncommon and rates of such elevations have not been reported in the large clinical trials, demonstrating its efficacy in hypertension. Despite many decades of use, clonidine has not been implicated in instances of clinically apparent acute liver injury. Likelihood score: E (unlikely cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury Clonidine is metabolized by the cytochrome P450 (CYP) system to a major degree but is typically administered in very low doses (less than 1 mg daily) and neither induces or inhibits CYP activity, which may account in part for its relative lack of hepatotoxicity. Drug Class: Antihypertensive Agents, ADHD Agents",
+    "raw_outcome_text": "",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [],
+    "raw_drug_class": [
+      "Antihypertensive Agents",
+      "ADHD Agents"
+    ],
+    "source_nxml_file": "Clonidine.nxml"
+  },
+  {
+    "id": 496,
+    "name_en": "Clopidogrel",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "B",
+    "grade_explanation_en": "highly likely but rare cause of clinically apparent liver injury",
+    "rucam_score_bonus": 2,
+    "source": "LiverTox (NIDDK, NIH): Clopidogrel.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Clopidogrel/",
+    "source_review_date": "2017-10-17",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity Clopidogrel is associated with serum enzyme elevations in 1% to 3% of patients during therapy. In several large clinical trials, elevations of serum ALT were no more frequent with clopidogrel as with placebo (or in comparator arms) and no instances of clinically apparent liver injury were reported. Since marketing and release, however, there have been more than a dozen published case reports of clinically apparent liver injury attributed to clopidogrel. The onset of symptoms was within 2 to 24 weeks (averaging 6 weeks) of starting, with fatigue and jaundice. Several patients had an accompanying fever but rash and eosinophilia were not common. The usual pattern of liver enzyme elevations was hepatocellular, but cases with mixed or cholestatic enzyme elevations have also been described (Case 1). Autoantibodies were rarely present. Most cases were self-limited with recovery within 1 to 2 months, but rare cases of acute liver failure or hepatic decompensation with death or need for liver transplantation have been described. Likelihood score: B (highly likely but rare cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury The mechanism of clopidogrel hepatotoxicity is not known, but is clearly idiosyncratic and may be due to the complex hepatic metabolism of the clopidogrel molecule. Immunoallergic features are usually not prominent, but hypersensitivity reactions to clopidogrel have been described. The effectiveness of clopidogrel is dependent upon its activation in the liver by CYP 2C19 and poor metabolizers of this enzyme may not respond adequately to its antiplatelet activity. Furthermore, it is susceptible to drug-drug interactions with agents that induce or inhibit CYP 2C19.",
+    "raw_outcome_text": "Outcome and Management The severity of liver injury associated with clopidogrel ranges from transient, mild serum enzyme elevations to clinically apparent acute hepatitis that can be severe and lead to death. Most cases resolve with drug withdrawal within 1 to 3 months. Rechallenge with clopidogrel usually results in recurrence of liver injury and should be avoided. However, there does not appear to be cross sensitivity to the liver injury between clopidogrel and ticlopidine or dipyridamole. Drug Class: Antithrombotic Agents, Antiplatelet Agents Other Drugs in the Subclass, Antiplatelet Agents: Aspirin, Cangrelor, Dipyridamole, Prasugrel, Ticagrelor, Ticlopidine, Vorapaxar",
+    "raw_case_report_text": "CASE REPORT Case 1. Acute cholestatic hepatitis due to clopidogrel. [Modified from: Chau TN, Yim KF, Mok NS, Chan WK, Leung VK, Leung MF, Lai ST. Clopidogrel-induced hepatotoxicity after percutaneous coronary stenting. Hong Kong Med J 2005; 11: 414-6. [PubMed Citation] A 74 year old man with a history of hypertension and ischemic heart disease presented with retrosternal chest pain and underwent cardiac catheterization which showed complete occlusion of the left anterior descending and 80% occlusion of the left circumflex artery for which he underwent successful percutaneous stenting. Clopidogrel was started in preparation of the coronary artery stenting and continued after discharge. Four weeks later and 41 days after starting clopidogrel he developed dark urine and jaundice. He had no previous history of liver disease, drug allergies, alcohol abuse, or risk factors for viral hepatitis. Other medications included aspirin, isosorbide dinitrate and metoprolol, all of which had been taken for several years. Laboratory testing showed a serum bilirubin of 5.3 mg/dL, ALT 212 U/L and alkaline phosphatase 172 U/L (Table). Serum albumin concentrations and prothrombin time were normal. Tests for acute hepatitis A, B, C (including HCV RNA) and E were negative as were smooth muscle and antinuclear antibodies. Abdominal ultrasound showed no hepatic masses or evidence of biliary obstruction. Four days after onset of jaundice, clopidogrel was stopped, while other medications were continued. Liver tests worsened for the first few days after presentation, but then began to improve and were within the normal range 3 months later. Key Points Medication: Clopidogrel (75 mg daily for 41 days) Pattern: Mixed (R=3.5) Severity: 3+ (jaundice, hospitalization) Latency: 41 days Recovery: 3 months Other medications: Aspirin, isosorbide dinitrate, metoprolol Laboratory Values Time After Starting Time After Stopping ALT* (U/L) Alk P* (U/L) Bilirubin* (mg/dL) Other 1 day 30 65 0.5 Clopidogrel started 1 week 25 75 0.5 Cardiac catheterization 2 weeks 25 70 0.4 6 weeks 0 212 172 5.3 Clopidogrel stopped 2 days 253 202 5.8 3 days 205 185 3.6 7 weeks 5 days 140 155 2.0 10 weeks 1 month 86 110 0.4 17 weeks 3 months 25 90 0.4 Normal Values <40 <115 <1.2 * Some values estimated from figure. Comment A typical example of an acute liver injury with jaundice attributed to clopidogrel. Typical were the time of onset (4-5 weeks), the mixed pattern of serum enzyme elevations and the mild self-limited nature of the injury, with improvement starting within a week of stopping the medication. While the liver injury from clopidogrel resembles that of ticlopidine, there are some differences. Both agents are associated with acute liver injury that usually arises within 1 to 12 weeks of starting. However, the injury tends to be more hepatocellular with clopidogrel and the time to recovery slightly shorter. Interestingly, there does not seem to be cross sensitivity to hepatic injury between clopidogrel and ticlopidine, despite their similar chemical structures and mechanisms of action.",
+    "raw_case_report_key_points": {
+      "Medication": "Clopidogrel (75 mg daily for 41 days)",
+      "Pattern": "Mixed (R=3.5)",
+      "Severity": "3+ (jaundice, hospitalization)",
+      "Latency": "41 days",
+      "Recovery": "3 months",
+      "Other medications": "Aspirin, isosorbide dinitrate, metoprolol"
+    },
+    "raw_trade_names": [],
+    "raw_drug_class": [
+      "Antithrombotic Agents",
+      "Antiplatelet Agents",
+      "Aspirin",
+      "Cangrelor",
+      "Dipyridamole",
+      "Prasugrel",
+      "Ticagrelor",
+      "Ticlopidine",
+      "Vorapaxar"
+    ],
+    "source_nxml_file": "Clopidogrel.nxml"
+  },
+  {
+    "id": 497,
+    "name_en": "Clorazepate",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "D",
+    "grade_explanation_en": "possible but rare cause of clinically apparent liver injury",
+    "rucam_score_bonus": 1,
+    "source": "LiverTox (NIDDK, NIH): Clorazepate.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Clorazepate/",
+    "source_review_date": "2017-01-25",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity Clorazepate, as with other benzodiazepines, is rarely associated with serum ALT elevations, and clinically apparent liver injury from clorazepate is extremely rare. A few only partially convincing case reports of acute hepatocellular injury from clorazepate have been reported. Rare instances of drug induced liver injury have been reported with other benzodiazepines, such as chlordiazepoxide, diazepam, flurazepam, triazolam and alprazolam. In benzodiazepine related cases of acute liver injury, the latency has ranged from a few weeks to 6 months; the typical pattern of liver enzyme elevations has been cholestatic or mixed, but instances of hepatocellular patterns have also been reported. The injury is usually mild to moderate in severity and self-limited. Fever and rash have not been described nor has autoantibody formation. Likelihood score: D (possible but rare cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury The liver injury from benzodiazepines is probably due to a rarely produced intermediate metabolite.",
+    "raw_outcome_text": "Outcome and Management The few case reports of hepatic injury due to clorazepate were followed by complete recovery. No cases of acute liver failure or vanishing bile duct injury due to clorazepate have been described. There is no information about cross reactivity with other benzodiazepines (clonazepam, lorazepam or diazepam), but some degree of cross sensitivity should be assumed. Drug Class: Anticonvulsants, Benzodiazepines",
+    "raw_case_report_text": "CASE REPORT Case 1. Acute hepatitis-like injury due to clorazepate. [Modified from: Parker JLW. Potassium clorazepate (Tranxene)-induced jaundice. Postgrad Med J 1979; 55: 908-910. PubMed Citation] A 27 year old man developed jaundice and fever, 2 months after starting clorazepate (15 mg increasing 30 mg once daily) for depression. He had poor appetite and had lost 9.5 kilograms since starting the drug. Clorazepate was continued for another two months, at which time he was found to have jaundice and hepatomegaly. Blood tests showed total bilirubin of 8.6 mg/dL, ALT 880 U/L, AST 620 U/L, GGT 104 U/L (normal <45) and alkaline phosphatase 29 KA units (normal <13). He had no rash, fever or eosinophilia and autoantibodies were negative. Clorazepate was stopped. He underwent three liver biopsies over the next five months showing an acute cholestatic hepatitis with gradual resolution, but residual minimal portal lymphocytic infiltrates and thin portal-to-portal fibrosis. Key Points Medication: Clorazepate Pattern: Hepatocellular (R=16) Severity: 3+ (jaundice and hospitalization) Latency: 2 months Recovery: Complete recovery over 5 months Other: None mentioned Comment Acute hepatitis with cholestatic feature arose between 2 and 4 months after starting clorazepate. The pattern of liver enzyme elevations suggested hepatocellular injury. Liver biopsies showed mild fibrosis that was still present five months later. Tests to exclude hepatitis A and B were not done and tests for hepatitis C were not available when this case was reported.",
+    "raw_case_report_key_points": {
+      "Medication": "Clorazepate",
+      "Pattern": "Hepatocellular (R=16)",
+      "Severity": "3+ (jaundice and hospitalization)",
+      "Latency": "2 months",
+      "Recovery": "Complete recovery over 5 months",
+      "Other": "None mentioned"
+    },
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Clorazepate - Tranxene®"
+    ],
+    "raw_drug_class": [
+      "Anticonvulsants",
+      "Benzodiazepines"
+    ],
+    "source_nxml_file": "Clorazepate.nxml"
+  },
+  {
+    "id": 498,
+    "name_en": "Cobimetinib",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "D",
+    "grade_explanation_en": "possible cause of clinically apparent liver injury",
+    "rucam_score_bonus": 1,
+    "source": "LiverTox (NIDDK, NIH): Cobimetinib.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Cobimetinib/",
+    "source_review_date": "2017-06-01",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity Elevations in serum aminotransferase and alkaline phosphatase levels are common during vemurafenib therapy and are even more common when it is combined with cobimetinib, abnormal liver tests occurring in 26% to 70% of treated patients and ALT values rising above 5 times the upper limit of the normal range (ULN) in 6% to 12%. Instances of clinically apparent liver injury with jaundice have also been reported during the clinical trials of cobimetinib and vemurafenib therapy, but the clinical features, course and outcomes of these episodes have not been described in detail. At least one instance of hepatocellular injury with jaundice was included in the initial safety review of cobimetinib. The MAPK pathway inhibitors as a class are often associated with transient serum enzyme elevations and more rarely with instances of clinically apparent liver injury, but the clinical features have not been described and the association with cobimetinib not clearly defined. The rate of clinically significant liver injury and hepatic failure associated with protein kinase inhibitors is increased in patients with preexisting cirrhosis or hepatic impairment due to liver tumor burden. Likelihood score: D (possible cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury The cause of liver injury that occurs during therapy with MAPK pathway inhibitors is not well understood, but may relate to the direct effects of inhibition of these enzymes on hepatocytes. Cobimetinibb is metabolized in the liver via the cytochrome P450 system, predominantly CYP 3A and is susceptible to drug-drug interactions with strong inhibitors or inducers of this microsomal enzyme.",
+    "raw_outcome_text": "Outcome and Management Liver injury due to cobimetinib varies in severity from minor, transient serum enzyme elevations to acute symptomatic hepatitis. The product label for cobimetinib recommends monitoring of routine liver tests during treatment. Serum aminotransferase elevations above 5 times the upper limit of normal (if confirmed) should lead to temporary discontinuation, which should be permanent if laboratory values do not improve significantly or resolve within a few weeks. Restarting therapy is usually, but not always followed by recurrence of the serum enzyme elevations. There does not appear to be cross reactivity with other tyrosine kinase receptor inhibitors and, in some situations, switching to another protein kinase inhibitor may be appropriate. Drug Class: Antineoplastic Agents, Protein Kinase Inhibitors Related Drugs: Trametinib, Vemurafenib",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Cobimetinib - Cotellic®"
+    ],
+    "raw_drug_class": [
+      "Antineoplastic Agents",
+      "Protein Kinase Inhibitors",
+      "Trametinib",
+      "Vemurafenib"
+    ],
+    "source_nxml_file": "Cobimetinib.nxml"
+  },
+  {
+    "id": 499,
+    "name_en": "Codeine",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "-",
+    "grade_explanation_en": "-",
+    "rucam_score_bonus": "-",
+    "source": "LiverTox (NIDDK, NIH): Codeine.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Codeine/",
+    "source_review_date": "2019-04-25",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity Despite wide use for many years, codeine has not been linked to serum enzyme elevations during therapy and there have been no convincing cases of idiosyncratic acute, clinically apparent liver injury attributed to its use. Liklihood score: E (unlikely cause of clinically apparent liver injury). References on the safety and potential hepatotoxicity of codeine are given in the Overview section of the Opioids. Drug Class: Opioids",
+    "raw_mechanism_text": "",
+    "raw_outcome_text": "",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [],
+    "raw_drug_class": [
+      "Opioids"
+    ],
+    "source_nxml_file": "Codeine.nxml"
+  },
+  {
+    "id": 500,
+    "name_en": "Colesevelam",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "E",
+    "grade_explanation_en": "unlikely cause of clinically apparent liver injury",
+    "rucam_score_bonus": 0,
+    "source": "LiverTox (NIDDK, NIH): Colesevelam.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Colesevelam/",
+    "source_review_date": "2017-09-28",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity There is little evidence that colesevelam causes significant liver injury. Mild elevations in serum aminotransferase and alkaline phosphatase levels have been reported in small numbers of patients on bile acid resins, but the elevations have been mild, transient and without accompanying symptoms. Colesevelam is used in patients with liver disease to treat pruritus, and has little or no effect on serum enzyme or bilirubin levels. Likelihood score: E (unlikely cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury The lack of hepatic injury by colesevelam is probably due to the fact that it is not absorbed, and the contraction of the bile acid pool caused by its use does not harm the liver. Because colesevelam can interfere with the absorption of other medications or vitamins, it may indirectly exacerbate liver disease by lowering effective levels of medications used for liver disease. These effects are particularly important for vitamins A, D, E, K, hormones such as estrogens, corticosteroids, and thyroid hormone, and medications such as thiazide diuretics, acetaminophen and digoxin. References on the safety and hepatotoxicity of colesevelam are given with those for cholestyramine and colestipol in the Overview section on Bile Acid Resins/Sequestrants. Drug Class: Antilipemic Agents, Bile Acid Resins/Sequestrants",
+    "raw_outcome_text": "",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Colesevelam - Welchol®"
+    ],
+    "raw_drug_class": [
+      "Antilipemic Agents",
+      "Bile Acid Resins/Sequestrants"
+    ],
+    "source_nxml_file": "Colesevelam.nxml"
+  },
+  {
+    "id": 501,
+    "name_en": "Crizotinib",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "C",
+    "grade_explanation_en": "probable cause of clinically apparent acute liver injury",
+    "rucam_score_bonus": 1,
+    "source": "LiverTox (NIDDK, NIH): Crizotinib.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Crizotinib/",
+    "source_review_date": "2017-10-30",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity In large early clinical trials, elevations in serum aminotransferase levels occurred in up to 57% of patients treated with standard doses of crizotinib, were greater than 5 times ULN in 6% of patients, and led to early discontinuation of therapy in 2% to 4% of patients. Serum aminotransferase elevations typically arose after 4 to 12 weeks of treatment, but usually without jaundice or alkaline phosphatase elevations. Restarting crizotinib after resolution of the aminotransferase abnormalities can be done starting with a reduced dose. Most cases of liver injury due to crizotinib have been minimally or not symptomatic, and the injury resolved within 1 to 2 months of stopping the drug (Case 1). However, cases with jaundice and symptoms during crizotinib therapy have been reported which were fatal in 0.1% of treated patients (Case 2). The severe cases of liver injury due to crizotinib typically arose within 2 to 6 weeks of starting therapy and presented with marked elevations in serum aminotransferase levels followed by jaundice, progressive hepatic dysfunction, coagulopathy, encephalopathy and death. For these reasons, routine periodic monitoring of liver tests at 2 to 4 week intervals during therapy is recommended. Likelihood score: C (probable cause of clinically apparent acute liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury The cause of the liver injury due to crizotinib is unknown. Crizotinib is metabolized in the liver largely via CYP 3A4, and liver injury may be due to accumulation of a toxic or immunogenic intermediate. Crizotinib is susceptible to drug-drug interactions with medications that inhibit or induce CYP 3A4.",
+    "raw_outcome_text": "Outcome and Management Routine monitoring of liver tests are recommended for patients starting crizotinib, including serum ALT, AST and bilirubin every 2 weeks for the first 2 months and monthly thereafter and as clinically indicated. Serum aminotransferase elevations above 5 times the upper limit of normal (if confirmed) should lead to dose interruption. If changes persist, are severe, or reoccur on restarting, crizotinib should be discontinued. There have been reports of acute liver failure, but not of chronic hepatitis or vanishing bile duct syndrome due to crizotinib. Patients with liver abnormalities during crizotinib therapy may tolerate other kinase inhibitors active against non-small cell lung cancer such as erlotinib or gefitinib. Drug Class: Antineoplastic Agents, Protein Kinase Inhibitors",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Crizotinib - Xalkori®"
+    ],
+    "raw_drug_class": [
+      "Antineoplastic Agents",
+      "Protein Kinase Inhibitors"
+    ],
+    "source_nxml_file": "Crizotinib.nxml"
+  },
+  {
+    "id": 502,
+    "name_en": "Cyclizine",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "E",
+    "grade_explanation_en": "unlikely to be a cause of clinically apparent liver injury",
+    "rucam_score_bonus": 0,
+    "source": "LiverTox (NIDDK, NIH): CyclizineChlorcycl.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/CyclizineChlorcycl/",
+    "source_review_date": "2017-01-16",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity Despite widespread use, cyclizine and chlorcyclizine have rarely been linked to liver test abnormalities or to clinically apparent liver injury. In an isolated case report, cyclizine was linked to a case of clinically apparent liver injury in a child given the drug for several days to prevent motion sickness. The pattern of liver test abnormalities suggested mild viral hepatitis, but jaundice and symptoms recurred when cyclizine was restarted. There were no immunoallergic features and no evidence for autoimmunity. The reason for the general safety of cyclizine and chlorcyclizine may relate to low daily dose and limited duration of use. Likelihood score: E (unlikely to be a cause of clinically apparent liver injury). References on the safety and potential hepatotoxicity of antihistamines are given together after the Overview section on Antihistamines. Drug Class: Antihistamines",
+    "raw_mechanism_text": "",
+    "raw_outcome_text": "",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [],
+    "raw_drug_class": [
+      "Antihistamines"
+    ],
+    "source_nxml_file": "CyclizineChlorcycl.nxml"
+  },
+  {
+    "id": 503,
+    "name_en": "Cyclobenzaprine",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "E*",
+    "grade_explanation_en": "Unproven but suspected cause of clinically apparent liver injury",
+    "rucam_score_bonus": 0,
+    "source": "LiverTox (NIDDK, NIH): Cyclobenzaprine.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Cyclobenzaprine/",
+    "source_review_date": "2017-01-30",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity The product insert for cyclobenzaprine mentions that abnormal liver function, hepatitis, jaundice, and cholestasis occur in <1% of patients. Details about these cases are not available and no convincing case reports of cyclobenzaprine hepatotoxicity have been published. Likelihood score: E* (Unproven but suspected cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury Because cyclobenzaprine is a tricyclic antidepressant derivative, it is unclear why it is not associated with hepatotoxicity similar to that attributed to the tricyclic antidepressants. Cyclobenzaprine is metabolized by the liver and has an enterohepatic circulation and half-life of several days.",
+    "raw_outcome_text": "Outcome and Management The minor ALT elevations associated with chronic cyclobenzaprine use are usually asymptomatic and transient. Any elevation of greater than 10 times the upper limit of normal or persistence of abnormalities greater than 5 times the upper limit of normal should lead to discontinuation. Rechallenge is not recommended unless the agent is felt to be highly needed. There is no reason to suspect cross sensitivity to hepatic injury among the various muscle relaxant drugs. Drug Class: Muscle Relaxants",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [],
+    "raw_drug_class": [
+      "Muscle Relaxants"
+    ],
+    "source_nxml_file": "Cyclobenzaprine.nxml"
+  },
+  {
+    "id": 504,
+    "name_en": "Cyproheptadine",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "C",
+    "grade_explanation_en": "probable rare cause of clinically apparent liver injury",
+    "rucam_score_bonus": 1,
+    "source": "LiverTox (NIDDK, NIH): Cyproheptadine.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Cyproheptadine/",
+    "source_review_date": "2017-01-16",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity Unlike most first generation antihistamines, cyproheptadine has been associated with several instances of clinically apparent liver injury. The few cases that have been described had a time to onset of 1 to 6 weeks and a cholestatic or mixed pattern of liver enzyme elevations. Immunoallergic and autoimmune features were not present and most patients recovered rapidly without residual. Acute liver failure due to cyproheptadine has not been described. Likelihood score: C (probable rare cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury The cause of liver injury due to cyproheptadine is not known, but is clearly idiosyncratic and perhaps due to its hepatic metabolism to a toxic intermediate.",
+    "raw_outcome_text": "Outcome and Management Most instances of acute liver injury due to cyproheptadine have been mild-to-moderate in severity and self-limited in course and outcome. In one case report, there was recurrence of injury when cyproheptadine was restarted. There is no information on cross sensitivity to hepatic injury among the various antihistamines, but use of an antihistamine of another class after clinically apparent liver injury due to cyproheptadine is likely to be safe. References on the safety and potential hepatotoxicity of antihistamines are given together after the Overview section on Antihistamines. Drug Class: Antihistamines",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [],
+    "raw_drug_class": [
+      "Antihistamines"
+    ],
+    "source_nxml_file": "Cyproheptadine.nxml"
+  },
+  {
+    "id": 505,
+    "name_en": "Dabigatran",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "D",
+    "grade_explanation_en": "possible rare cause of clinically apparent liver injury",
+    "rucam_score_bonus": 1,
+    "source": "LiverTox (NIDDK, NIH): Dabigatran.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Dabigatran/",
+    "source_review_date": "2017-11-05",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity Chronic therapy with dabigatran is associated with moderate ALT elevations (greater than 3 times the upper limit of normal) in 1.5% to 3% of patients, an overall rate which is slightly lower than with low molecular weight heparin and similar to the rates with warfarin. While case reports of clinically apparent liver injury due to dabigatran have not been published, several instances of ALT elevations with jaundice occurred during the large, prelicensure clinical trials of dabigatran. These cases were mild and self-limited, resolving completely once therapy was stopped. However, other causes of liver injury could not always be identified and the relationship of the injury to dabigatran therapy remains unclear. The clinical features of these cases were not described. In one large clinical trial, these unexplained cases of liver injury with bilirubin elevations occurred in approximately 1 in 2000 patients treated. In a subsequent case report, liver injury with jaundice and a mixed pattern of serum enzyme elevations arose within 4 weeks of starting dabigatran and resolved rapidly with its discontinuation. Immunoallergic and autoimmune features were not present. There have been multiple spontaneous reports of liver injury, some of which were fatal, made to WHO and FDA surveillance databases, but the relatedness of the episodes has not been clearly defined. Thus, clinically apparent liver injury with jaundice due to dabigatran occurs but is rare and typically mild and self-limited. Likelihood score: D (possible rare cause of clinically apparent liver injury). One reason why dabigatran was subjected to close scrutiny for evidence of hepatotoxicity was that the initial oral, direct thrombin inhibitor developed and evaluated in clinical trials was ximelagatran (zye\" mel a gat' ran), which subsequently was found to be associated with rare but potentially severe cases of liver injury, typically arising after 1 to 6 months of treatment with a hepatocellular pattern of serum enzyme elevations and potentially severe and fatal course. Ximelagatran did not receive approval for use in the United States because of concerns about hepatotoxicity. After several further cases of clinically apparent hepatic injury were found in patients taking ximelagatran, it was also withdrawn from use in Europe. Risk of serum ALT elevations during ximelagatran therapy were later shown to be linked to HLA-DRB1*07 and DQA1*-02.",
+    "raw_mechanism_text": "Mechanism of Injury The cause of liver injury during dabigatran oral anticoagulant therapy is unknown but is likely to be idiosyncratic and perhaps immunologic. Dabigatran undergoes little hepatic metabolism and does not affect CYP 450 activity.",
+    "raw_outcome_text": "Outcome and Management Liver injury attributed to dabigatran varies from mild serum ALT elevations to liver injury with jaundice, but is usually mild and self-limited, resolving within 4 weeks of stopping. Recurrence of liver injury with rechallenge has not been described. There is no reason to suspect that there is cross sensitivity to hepatic injury among the different anticoagulants. Drug Class: Antithrombotic Agents, Anticoagulants Other Drugs in the Subclass, Anticoagulants, Thrombin Inhibitors: Desirudin",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Dabigatran - Pradaxa®"
+    ],
+    "raw_drug_class": [
+      "Antithrombotic Agents",
+      "Anticoagulants",
+      "Desirudin"
+    ],
+    "source_nxml_file": "Dabigatran.nxml"
+  },
+  {
+    "id": 506,
+    "name_en": "Dabrafenib",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "E*",
+    "grade_explanation_en": "unproven but suspected cause of clinically apparent liver injury",
+    "rucam_score_bonus": 0,
+    "source": "LiverTox (NIDDK, NIH): Dabrafenib.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Dabrafenib/",
+    "source_review_date": "2018-06-28",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity Elevations in serum ALT levels were reported in 11% of patients treated with dabrafenib alone, but all elevations were above 5 times ULN. When dabrafenib was given in combination with trametinib, serum ALT elevations occurred in 35% to 42% of patients and were above 5 times ULN in 4%. Similarly, serum alkaline phosphatase elevations occurred in 26% of patients given dabrafenib alone, but in 60% to 67% given dabrafenib and trametinib. These abnormalities were largely asymptomatic and fully reversible. There were no instances of clinically apparent acute liver injury or hepatic failure reported in prelicensure studies of dabrafenib and, since its approval and more wide spread use, there have been no published reports of dabrafenib hepatotoxicity. Likelihood score: E* (unproven but suspected cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury The cause of the transient serum enzyme elevations during dabrafenib therapy is not known. Dabrafenib is metabolized in the liver largely through the cytochrome P450 pathway (CYP 3A4 and 2C8) and liver injury may be related to production of a toxic intermediate. Dabrafenib also induces CYP 3A4 and 2C8 activity and is susceptible to drug-drug interactions with agents that inhibit or induce or are metabolized by these hepatic drug metabolizing enzymes.",
+    "raw_outcome_text": "Outcome and Management In using kinase inhibitors for treatment of cancer, monitoring of routine liver tests before starting and during therapy is warranted. Serum aminotransferase elevations above 5 times the upper limit of normal (if confirmed) or elevations accompanied by jaundice or symptoms should lead to temporary cessation. Dabrafenib should not be restarted until the liver test abnormalities improve or resolve and then only with careful monitoring. There does not appear to be cross reactivity in risk for hepatic injury between dabrafenib and other inhibitors of the MAP kinase pathway and, in some situations, switching to another kinase inhibitor may be appropriate. Drug Class: Antineoplastic Agents, Protein Kinase Inhibitors; see also Trametinib",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Dabrafenib - Tafinlar®"
+    ],
+    "raw_drug_class": [
+      "Antineoplastic Agents",
+      "Protein Kinase Inhibitors",
+      "Trametinib"
+    ],
+    "source_nxml_file": "Dabrafenib.nxml"
+  },
+  {
+    "id": 507,
+    "name_en": "Daclatasvir",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "C",
+    "grade_explanation_en": "probable rare cause of clinically apparent liver injury in patients with cirrhosis or preexisting hepatitis B virus coinfection",
+    "rucam_score_bonus": 1,
+    "source": "LiverTox (NIDDK, NIH): Daclatasvir.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Daclatasvir/",
+    "source_review_date": "2022-02-07",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity In large randomized controlled trials, daclatasvir was not associated with serum enzyme elevations during therapy. A difficulty in assessing side effects of daclatasvir and other anti-HCV agents, however, was that they are never used as monotherapy, but were also combined with agents active against other HCV targets, such as the viral protease (NS3) or polymerase (NS5B). Daclatasvir was also commonly used in combination with the more traditional agents used for hepatitis C, such as peginterferon and ribavirin, both of which have prominent adverse effects. In combination with asunaprevir (an HCV protease inhibitor), daclatasvir was associated with serum ALT elevations in 3% to 11% of patients and with several instances of acute hypersensitivity and hepatitis, some of which were severe. The cause of the hypersensitivity reaction, however, appeared to be asunaprevir. In combination with sofosbuvir, daclatasvir was not associated with serum enzyme elevations or with clinically apparent liver injury. Daclatasvir has, however, been implicated in rare instances of acute decompensation of HCV related cirrhosis. The role of daclatasvir and the other HCV antivirals in this syndrome, however, was unclear. The liver injury usually arose within 2 to 6 weeks of starting therapy, but occasionally later and even after discontinuation of therapy. The injury was marked by worsening jaundice and signs of hepatic failure. In some instances, lactic acidosis was present early. In most but not all instances, the serum enzymes increased minimally if at all, despite the worsening hepatic failure. Several instances resulted in death or need for emergency liver transplantation. For this reason, it was recommended that patients with cirrhosis undergoing antiviral therapy with potent direct acting agents should be monitored carefully, particularly during the first few weeks of treatment. Finally, reactivation of hepatitis B has occurred in rare patients being treated for chronic hepatitis C some of whom had received daclatasvir. The relationship of HBV reactivation to the antiviral treatment of HCV infection is not clear, but it may be due to clearance of HCV replication which allows HBV DNA levels to increase. Likelihood score: C (probable rare cause of clinically apparent liver injury in patients with cirrhosis or preexisting hepatitis B virus coinfection).",
+    "raw_mechanism_text": "Mechanism of Injury The mechanism by which daclatasvir might cause liver injury is not known. It is metabolized in the liver largely via the cytochrome P450 system, predominantly CYP 3A4 and liver injury may be due to production of a toxic or immunogenic metabolite. Daclatasvir is also susceptible to drug-drug interactions with strong CYP 3A4 inducers (such as efavirenz or rifampin) or inhibitors (such as ketoconazole).",
+    "raw_outcome_text": "Outcome and Management Daclatasvir in combination with other potent direct acting agents for hepatitis C (such as sofosbuvir) has been associated with instances of hepatic decompensation in patients with preexisting cirrhosis. For these reasons, monitoring of liver tests is recommended, particularly during the first 4 weeks of therapy. Treatment should be interrupted with jaundice and signs of hepatic decompensation arise. All patients who are to receive antiviral therapy for hepatitis C should be screened for presence of hepatitis B surface antigen (HBsAg) and antibody to hepatitis B core antigen (anti-HBc). Those who are reactive for the HBV markers should be monitored for evidence of reactivation during antiviral therapy of hepatitis C with serial testing for HBV DNA and started on therapy for hepatitis B if HBV DNA levels appear de novo or rise significantly. Drug Class: Antiviral Agents, Hepatitis C Agents",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Daclatasvir - Daklinza®"
+    ],
+    "raw_drug_class": [
+      "Antiviral Agents",
+      "Hepatitis C Agents"
+    ],
+    "source_nxml_file": "Daclatasvir.nxml"
+  }
+]

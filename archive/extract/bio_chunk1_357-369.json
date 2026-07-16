@@ -1,0 +1,360 @@
+[
+  {
+    "id": 357,
+    "name_en": "Abatacept",
+    "type": "ยาชีวภาพ",
+    "thai_herb_source": null,
+    "livertox_grade": "C",
+    "grade_explanation_en": "probable rare cause of clinically apparent liver injury including reactivation of hepatitis B in susceptible patients",
+    "rucam_score_bonus": 1,
+    "source": "LiverTox (NIDDK, NIH): Abatacept.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Abatacept/",
+    "source_review_date": "2021-10-06",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity In prelicensure controlled trials, serum ALT elevations occurred in 2% to 3% of abatacept and a similar proportion of placebo treated subjects. The elevations were usually mild-to-moderate in severity, asymptomatic and self-limited in course. ALT elevations above 5 times the upper limit of normal (ULN) occurred <1% of abatacept recipients, and only rare patients had to stop therapy because of serum enzyme elevations. Clinically apparent liver injury is not listed as a potential side effect in the product label for abatacept, but there has been at least one case report of acute liver injury with symptoms or jaundice attributed to abatacept: a case of severe acute hepatitis accompanied by ANA positivity and a response to corticosteroid therapy (Case 1). Thus, abatacept may precipitate an acute autoimmune hepatitis but this is quite rare. Abatacept is a potent immunosuppressive agent and reactivation of hepatitis B in patients with ongoing or previous hepatitis B can occur. Reactivation is most frequent in patients with HBsAg in serum whether or not they have accompanying chronic hepatitis. Yet reactivation can also occur, although more rarely, in persons with resolved hepatitis B, who have anti-HBc but no HBsAg detectable in serum. With reactivation, serum levels of HBV DNA rise, followed by increases in serum ALT and AST and then symptoms and jaundice. The injury is hepatocellular and resembles acute hepatitis B. The onset of liver injury is usually after 3 to 12 monthly injections of the immunomodulatory agent in patients with HBsAg in serum. In patients with resolved hepatitis B, however, the time to reactivation is often much longer and may only arise after 1 to 10 or more years of immunosuppressive therapy. In studies from Taiwan, reactivation of hepatitis B attributed to abatacept were reported in up to 9% of treated subjects after 1 to more than 10 years of therapy, at a yearly rate of approximately 1 per 100 patients who had anti-HBc without HBsAg in serum. Reactivation was accompanied by ALT elevations in half and decompensation and death in a proportion. For these reasons, screening for hepatitis B markers is recommended before starting abatacept and regular monitoring for rises in HBV DNA levels during therapy is recommended for those with anti-HBc with or without HBsAg in serum. With evidence of reactivation (de novo appearance or rise in HBV DNA levels), antiviral therapy should be initiated using an agent with potent activity against HBV such as entecavir or tenofovir. The other option is prophylaxis with one of these antiviral agents. Likelihood score: C (probable rare cause of clinically apparent liver injury including reactivation of hepatitis B in susceptible patients).",
+    "raw_mechanism_text": "Mechanism of Injury Abatacept is a recombinant human protein and as such is unlikely to be intrinsically hepatotoxic. Because it has immunomodulatory actions, it can cause reactivation of hepatitis B or induce an autoimmune liver reaction.",
+    "raw_outcome_text": "Outcome and Management Abatacept has been linked to minor serum enzyme elevations and to rare instances of acute liver injury with jaundice. Discontinuation for serum enzyme elevations is rarely necessary, but should be done if the elevations are accompanied by symptoms or jaundice or for persistent ALT elevations of more than 5 times ULN. There is no information on cross sensitivity to liver injury between abatacept and other immunomodulatory cytokines. Reactivation of hepatitis B can occur with abatacept therapy and patients with preexisting HBsAg or anti-HBc without HBsAg should be given antiviral prophylaxis or monitored regularly for early evidence of reactivation, with prompt initiation of antiviral therapy using an agent with potent activity against HBV, such as entecavir or tenofovir. Drug Class: Antirheumatic Agents",
+    "raw_case_report_text": "CASE REPORT Case 1. Acute liver injury attributed to abatacept therapy.(1) A 61 year old Japanese woman with Sjögren syndrome and rheumatoid arthritis developed epigastric pain and nausea after four infusions of abatacept. She had been treated previously with methotrexate, infliximab, adalimumab, tacrolimus and tocilizumab without a lasting response. She had no history of liver disease, drug allergies, risk factors for viral hepatitis or alcohol abuse. Physical examination showed jaundice and epigastric tenderness. Laboratory tests show a total bilirubin of 15.2 mg/dL (12.1 mg/dL direct) with an ALT of 2217 U/L, AST 4310 U/L, alkaline phosphatase 1388 U/L and prothrombin time index 50%. Tests for hepatitis A, B (including HBV DNA) and C were negative, as were IgM antibodies to cytomegalovirus and Epstein Barr virus. The ANA was positive (1:1280), IgG was elevated (2,030 mg/dL) and rheumatoid factor was present (56.8 IU/mL), but SMA and AMA were negative. Over the next few weeks, she worsened with serum bilirubin rising to 24 mg/dL, prothrombin activity falling to 40% and appearance of hepatic encephalopathy and ascites. She was treated with high doses of methylprednisolone and plasma exchange. She was evaluated for emergency liver transplantation, but then began to improve spontaneously. Over the next several months, liver tests improved and were normal 6 months later. Key Points Medication: Abatacept (500 mg, four intravenous infusions) Pattern: Mixed (R=4.6) Severity: 4+ (jaundice, hospitalization, abnormal INR, hepatic coma) Latency: ~6 weeks Recovery: ~8 weeks Other medications: None concurrently Comment This case is an example of an acute hepatitis with a \"mixed\" pattern of serum enzyme elevations and severe course arising after 4 to 6 weeks of abatacept therapy of rheumatoid arthritis. Other common causes of acute liver injury were excluded. Tests for hepatitis B documented that the hepatitis was not due to reactivation. Autoimmune features were present, including high titers of ANA and elevations in IgG levels, but these might also have been present because of the underlying disease. Nonetheless, the course and outcome are most compatible with an autoimmune hepatitis induced by the immunomodulatory agent. This reaction must be quite rare.",
+    "raw_case_report_key_points": {
+      "Medication": "Abatacept (500 mg, four intravenous infusions)",
+      "Pattern": "Mixed (R=4.6)",
+      "Severity": "4+ (jaundice, hospitalization, abnormal INR, hepatic coma)",
+      "Latency": "~6 weeks",
+      "Recovery": "~8 weeks",
+      "Other medications": "None concurrently"
+    },
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Abatacept - Orencia®"
+    ],
+    "raw_drug_class": [
+      "Antirheumatic Agents"
+    ],
+    "source_nxml_file": "Abatacept.nxml"
+  },
+  {
+    "id": 358,
+    "name_en": "Alemtuzumab",
+    "type": "ยาชีวภาพ",
+    "thai_herb_source": null,
+    "livertox_grade": "B",
+    "grade_explanation_en": "likely rare cause of clinically apparent liver injury as well as reactivation of hepatitis B",
+    "rucam_score_bonus": 2,
+    "source": "LiverTox (NIDDK, NIH): Alemtuzumab.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Alemtuzumab/",
+    "source_review_date": "2025-09-30",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity In large clinical trials, alemtuzumab therapy was associated with a high rate of side effects including serious infusion reactions, infections and bone marrow suppression, but hepatotoxicity and serum ALT elevations were rarely mentioned in the clinical trials of its use. Since its approval and more widespread use in multiple sclerosis, however, several instances of serum aminotransferase elevations as well as acute, clinically apparent liver injury have been reported with alemtuzumab therapy usually arising within a few weeks or months of the initial infusion. Severe episodes have been reported, but the injury usually resembles an immune mediated reaction and responses to corticosteroid therapy which eventually can be withdrawn without recurrence. Strikingly, however, trials of alemtuzumab in multiple sclerosis reported high rates of autoimmune and autoinflammatory conditions arising in up to 48% of patients 6 to 36 months after a cycle of infusions. The autoimmune condition most frequently implicated is Graves disease, reported in 20% to 30% of patients who were followed long term after treatment with alemtuzumab. Less commonly reported are autoimmune thrombocytopenia and Goodpasture syndrome which like Graves disease are considered due to B-cell autoimmunity. Rarely reported conditions include sarcoidosis, hemophagocytic lymphohistiocytosis, autoimmune anemia and neutropenia, acquired Factor VII deficiency, lupus erythematosus, Addison disease, and acalculous cholecystitis. Autoimmune hepatitis has also been reported after alemtuzumab therapy of multiple sclerosis. Complicating this association, however, is the fact that autoimmune hepatitis is not uncommon in patients with multiple sclerosis independent of treatment. Nevertheless, idiosyncratic liver disease with autoimmune features has been reported often enough for it to be listed as a warning on product labels for alemtuzumab. The cause of these late onset abnormalities appears to be the imbalance in reconstitution of immune function after the profound and prolonged immunosuppression caused by alemtuzumab. Thus, pathogenic autoreactive B cells accompanied by autoantibodies return while there is still a relative deficiency in regulatory T cells that usually suppress or modulate autoimmune reactions. In addition, alemtuzumab is a potent immunosuppressive agent and predisposes to opportunistic bacterial, viral, fungal and viral infections including reactivation of hepatitis B and C as well as adventitious viral infections such as cytomegalovirus, herpes zoster virus, herpes simplex, and others which can be associated with hepatic injury. Importantly, multiple instances of reactivation of hepatitis B have been reported in patients with HBsAg in serum who were treated with this monoclonal antibody. In addition, some patients with anti-HBc without HBsAg in serum have developed HBV reactivation with reappearance of HBsAg (reverse seroconversion) after alemtuzumab therapy. These episodes can be severe and fatal instances have been reported. Finally, exacerbation and possibly reactivation of hepatitis C has been described in patients receiving alemtuzumab therapy. Likelihood score: B (likely rare cause of clinically apparent liver injury as well as reactivation of hepatitis B).",
+    "raw_mechanism_text": "Mechanism of Injury Alemtuzumab is a monoclonal antibody and, while metabolized in the liver, is metabolized to small peptides and amino acids that are not likely to be immunogenic or toxic. The immunosuppression caused by alemtuzumab, on the other hand, may cause reactivation of hepatitis B and exacerbations of chronic hepatitis C. Furthermore, withdrawal of alemtuzumab and reconstitution of the immune system may account for the rare instance of an autoimmune hepatitis as B and T cell function begins to return 6 to 36 months after the monoclonal antibody infusion. Episodes of acute hepatitis arising soon after the initial infusion of alemtuzumab may have a different pathogenesis but is also likely due to immunosuppression.",
+    "raw_outcome_text": "Outcome and Management Alemtuzumab appears to have little intrinsic hepatotoxicity and idiosyncratic liver injury must be very rare, if it occurs at all. In contrast, alemtuzumab is capable of causing reconstitution autoimmune reactions as well as reactivation of hepatitis B and worsening of hepatitis C. For these reasons, it is appropriate to screen patients for hepatitis B and C infection before starting therapy, and providing prophylaxis or treatment of these viral infections before or concurrent with starting monoclonal antibody therapy. Furthermore, monitoring of routine liver tests before starting therapy and “periodically thereafter” is recommended. Drug Class: Antineoplastic Agents, Monoclonal Antibodies; Transplant Agents; Multiple Sclerosis Agents Other Drugs in the Subclass, Transplant Agents, Monoclonal Antibodies: Basiliximab, Daclizumab, Muromonab",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Alemtuzumab - Campath®"
+    ],
+    "raw_drug_class": [
+      "Antineoplastic Agents",
+      "Monoclonal Antibodies",
+      "Transplant Agents",
+      "Multiple Sclerosis Agents",
+      "Basiliximab",
+      "Daclizumab",
+      "Muromonab"
+    ],
+    "source_nxml_file": "Alemtuzumab.nxml"
+  },
+  {
+    "id": 359,
+    "name_en": "Alirocumab",
+    "type": "ยาชีวภาพ",
+    "thai_herb_source": null,
+    "livertox_grade": "E",
+    "grade_explanation_en": "unlikely cause of clinically apparent liver injury",
+    "rucam_score_bonus": 0,
+    "source": "LiverTox (NIDDK, NIH): Alirocumab.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Alirocumab/",
+    "source_review_date": "2018-02-19",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity In premarketing studies, liver test abnormalities were uncommon in patients taking alirocumab and rates of abnormalities were only slightly higher than in patients receiving placebo injections. Some degree of ALT elevation was reported in 2.5% with alirocumab vs 1.7% with placebo injections. ALT or AST values greater than 3 times the upper limit of normal (ULN) occurred in 1.7% of persons on alirocumab vs 1.4% on placebo. No instances of acute, clinically apparent liver injury attributed to alirocumab were reported during the prelicensure evaluation and none have been reported since. However, alirocumab has had limited use and has been available commercially for a short time only. Likelihood score: E (unlikely cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury Alirocumab is a human monoclonal antibody and is metabolized in many tissues to polypeptides and amino acids which are unlikely to be toxic. Monoclonal antibody therapy sometimes causes immune mediated liver injury, but such events have not been described in alirocumab or evolocumab.",
+    "raw_outcome_text": "Outcome and Management Therapy with alirocumab and other monoclonal antibodies to PCSK9 have been well tolerated with rates of adverse events similar to those with placebo or comparator treatments. Local injection site reactions occur with these agents, but are generally mild and improve with continued therapy. Monoclonal antibodies to PCSK9 has not been linked to significant elevations in serum enzymes or bilirubin or to clinically apparent liver injury. Patients who develop serum aminotransferase elevations above 3 times the upper limit of normal should be evaluated for other causes of liver injury including drug-induced injury from another antilipemic agent. Drug Class: Antilipemic Agents; Monoclonal Antibodies, Anti-PCSK9 Other Drugs in the Class: Evolocumab",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Alirocumab - Praluent®"
+    ],
+    "raw_drug_class": [
+      "Antilipemic Agents",
+      "Monoclonal Antibodies",
+      "Evolocumab"
+    ],
+    "source_nxml_file": "Alirocumab.nxml"
+  },
+  {
+    "id": 360,
+    "name_en": "Alpha Interferon",
+    "type": "ยาชีวภาพ",
+    "thai_herb_source": null,
+    "livertox_grade": "A",
+    "grade_explanation_en": "well known cause of clinically apparent liver injury",
+    "rucam_score_bonus": 2,
+    "source": "LiverTox (NIDDK, NIH): Alpha_Peginterferon.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Alpha_Peginterferon/",
+    "source_review_date": "2018-05-04",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity Therapy with interferon or peginterferon can be associated with transient and asymptomatic mild-to-moderate serum aminotransferase elevations in up to half of patients. Because the major use of peginterferon is for hepatitis C or in patients with cancer on multiple other medications, serum ALT elevations are often difficult to attribute to the therapy as opposed to the underlying disease. Importantly, however, 1% to 2% of persons receiving alpha interferon for 24 to 48 weeks develop an autoimmune condition, which can be autoimmune hepatitis characterized by development of marked serum aminotransferase activities and jaundice. This side effect usually arises within 1 to 2 months of starting therapy, but can arise later or even after therapy is completed (Case 1). The typical pattern of serum elevations is hepatocellular, and most but not all patients develop or have preexisting autoantibodies such as antinuclear antibody (ANA) or antibody to liver kidney microsomes (anti-LKM) in serum. Instances of primary biliary cirrhosis, sarcoidosis and hepatic granulomas have also been reported after interferon therapy. Finally, interferon therapy of hepatitis B can trigger an acute exacerbation of the hepatitis that is often associated with clearance of HBV DNA and HBeAg and may actually be a favorable prognostic sign suggesting a sustained response (Case 2). Likelihood score: A (well known cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury Interferon has diverse effects on multiple cell types. The autoimmune hepatitis-like syndrome that has been attributed to interferon therapy appears to occur in patients who are predisposed to autoimmune diseases, and is probably due to the immunomodulatory effects of alpha interferon in increasing cell surface display of HLA antigens and in affecting CD4 and CD8+ T cell activity. Alpha interferon therapy can cause an acute exacerbation of autoimmune disease and some instances of an acute hepatitis-like syndrome developing on interferon therapy may represent an exacerbation of autoimmune hepatitis that coexisted with or was mistaken for chronic hepatitis B or C.",
+    "raw_outcome_text": "",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Alpha Interferon - Avonex®",
+      "Peginterferon - Pegintron®"
+    ],
+    "raw_drug_class": [
+      "Antiviral Agents",
+      "Hepatitis C Agents"
+    ],
+    "source_nxml_file": "Alpha_Peginterferon.nxml"
+  },
+  {
+    "id": 361,
+    "name_en": "Antithymocyte Globulin",
+    "type": "ยาชีวภาพ",
+    "thai_herb_source": null,
+    "livertox_grade": "E*",
+    "grade_explanation_en": "unproven, but suspected cause of anicteric liver injury",
+    "rucam_score_bonus": 0,
+    "source": "LiverTox (NIDDK, NIH): AntithymocyteGlobuli.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/AntithymocyteGlobuli/",
+    "source_review_date": "2017-07-25",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity When given as a part of induction therapy for solid organ transplantation, ATG has not been linked to serum enzyme elevations or hepatotoxicity, but it is given with other medications and in preparation for major surgery so that some degree of liver injury might well be missed. In patients with aplastic anemia given ATG, transient serum enzyme elevations arising a few days after the infusions have been reported to occur in up to one-third of patients. These abnormalities generally resolve spontaneously without jaundice or symptoms. Serum alkaline phosphatase and bilirubin levels rise minimally, if at all. There have been no convincing cases of acute, clinically apparent liver injury caused by ATG infusions. Indeed, administration of ATG for acute rejection after liver transplantation is usually followed by a prompt decrease in serum enzymes and jaundice, and administration of ATG for aplastic anemia with hepatitis or hepatitis from check point inhibitors such as ipilumumab commonly results in a prompt improvement in the jaundice and serum enzyme elevations. ATG has occasionally been implicated in causing a worsening of chronic hepatitis C after transplantation, but is not generally implicated as a major cause of long term severe outcomes of recurrent hepatitis C infection. Likelihood score: E* (unproven, but suspected cause of anicteric liver injury). ATG is a potent immunosuppressive agent and may be capable of causing reactivation of chronic hepatitis B. However, when used in prevention of organ rejection it has not been linked to cases of reactivation, perhaps because patients at risk are routinely given prophylaxis and the role of ATG versus other rejection medications (cyclosporine, tacrolimus, corticosteroids) is not clear.",
+    "raw_mechanism_text": "Mechanism of Injury The cause of serum enzyme elevations after ATG use is not known, but may relate to cytotoxicity of the polyclonal antibodies to liver cells or to the known propensity of injured, apoptotic T lymphocytes to home to the liver. Liver injury generally arises after ATG infusions have stopped or between courses of treatment.",
+    "raw_outcome_text": "",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [
+      " - Atgam®",
+      " - Thymoglobulin®"
+    ],
+    "raw_drug_class": [
+      "Transplant Agents"
+    ],
+    "source_nxml_file": "AntithymocyteGlobuli.nxml"
+  },
+  {
+    "id": 362,
+    "name_en": "Atezolizumab",
+    "type": "ยาชีวภาพ",
+    "thai_herb_source": null,
+    "livertox_grade": "B",
+    "grade_explanation_en": "likely cause of clinically apparent liver injury and probable cause of reactivation of hepatitis B",
+    "rucam_score_bonus": 2,
+    "source": "LiverTox (NIDDK, NIH): Atezolizumab.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Atezolizumab/",
+    "source_review_date": "2022-06-23",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity In preregistration controlled trials of atezolizumab in various forms of metastatic cancer, serum aminotransferase elevations occurred in 20% to 30% of patients but were generally transient, mild and not associated with symptoms or jaundice. These rates of serum enzyme elevations are similar to those with other forms of chemotherapy for advanced malignancies. Serum ALT elevations above 5 times the upper limit of normal (ULN) occurred in 1% to 4% of patients and generally led to temporary or permanent discontinuation. Importantly, in 1% to 2% of patients the serum enzyme elevations evolved into clinically apparent immune mediated liver injury. The onset of injury was usually after 2 to 4 cycles or 1 to 3 months after starting treatment. The pattern of enzyme elevation was usually hepatocellular but was sometimes mixed and even cholestatic. Liver histology usually demonstrated a pan-lobular hepatitis with focal or confluent necrosis and prominent lymphocytic infiltrates of activated T cells, compatible with an immune mediated hepatic injury. More severe forms of hepatitis can demonstrate centrilobular (zone 3) necrosis. Despite features of immune mediated liver injury, autoantibodies are generally not present and immunoglobulin levels are normal. Because of the serious nature of the liver injury, monitoring with routine liver tests (including alkaline phosphatase) is recommended for patients who receive checkpoint inhibitor therapy. Treatment with corticosteroids generally results in a rapid improvement, allowing for their discontinuation within 1 to 2 months. In some instances, however, the clinical and biochemical response is inadequate, calling for addition of a second immunosuppressive agent such as azathioprine or mycophenolate mofetil. Restarting atezolizumab or another checkpoint inhibitor after resolution of the hepatic injury is sometimes possible, but can result in recurrence of injury and has not been shown to improve outcome of the cancer chemotherapy. A proportion of patients receiving atezolizumab develop cholestatic rather than hepatocellular liver injury. Cholestatic forms of immune mediated liver injury generally arise later than the hepatocellular forms (after 3 to 10 cycles) and are often accompanied by abdominal pain and jaundice. Alkaline phosphatase levels are markedly elevated while aminotransferase levels are only modestly increased. Imaging studies may show irregular dilatation of the intra- and/or extra-hepatic bile ducts and thickening of the gall bladder and bile duct wall, but without evidence of frank obstruction. Liver biopsy shows portal inflammation and bile duct injury and endoscopic biopsy of the bile duct epithelium shows inflammation and scarring. The general features suggest a secondary form of sclerosing cholangitis referred to as checkpoint inhibitor cholangiopathy. Therapy with corticosteroids may improve alkaline phosphatase and bilirubin levels but rarely leads to complete recovery, and long term cholestasis and hepatic failure can occur. Some patients with a cholestatic form of immune related hepatitis do not manifest the large bile duct changes but demonstrate loss and paucity of the smaller, intrahepatic portal bile ducts resulting in a vanishing bile duct syndrome similar to primary biliary cholangitis (PBC). The effects of PD-L1 inhibition on chronic hepatitis B are not well defined but convincing examples of reactivation of hepatitis B have been described due to other checkpoint inhibitors. Most cases have occurred in patients with preexisting HBsAg, but rare instances were reported in individuals suspected of having with anti-HBc without HBsAg. Thus, screening patients for HBsAg, anti-HBc and anti-HBs is appropriate before initiating immunotherapy with checkpoint inhibitors. Patients with HBsAg should be considered for prophylaxis with an antiviral agent with potent activity against HBV such as entecavir or tenofovir. In patients with anti-HBc without HBsAg, monitoring and close attention to liver test abnormalities is probably adequate if antiviral therapy can be introduced rapidly for early evidence of reactivation. There has not been adequate experience with atezolizumab in regard to the risk of reactivation of hepatitis B to provide rates of reactivation with and without antiviral prophylaxis. Likelihood score: B (likely cause of clinically apparent liver injury and probable cause of reactivation of hepatitis B).",
+    "raw_mechanism_text": "Mechanism of Injury The mechanism of liver injury due to atezolizumab is likely to be immunologically mediated and is usually at least partially responsive to corticosteroid or immunosuppressive therapy. Liver biopsies in cases of hepatocellular injury and bile duct epithelial cell biopsies in cholangiopathic injury demonstrate necrosis and inflammatory cell infiltration with cytotoxic CD8+ T cells, suggesting that the checkpoint inhibition allowed for activation of T cells directed at hepatocyte or cholangiocyte cell surface antigens.",
+    "raw_outcome_text": "Outcome and Management Guidelines for management of patients receiving atezolizumab recommend monitoring of liver tests and interrupting therapy for patients who develop serum aminotransferase elevations above 3 times the ULN, and discontinuing treatment for values above 8 times the ULN in patients without preexisting abnormalities or tumor involvement of the liver (in whom elevations of 5 and 10 times the ULN are used). Corticosteroid therapy can be considered for patients with persistent ALT elevations or if symptoms or jaundice arise, initiating therapy with high dose intravenous methylprednisolone and switching to oral prednisone after 1 to 2 days, continuing tapering doses for at least 30 days. Most cases of hepatitis due to checkpoint inhibitors resolve with prompt institution of immunosuppressive therapy which can be discontinued in 1 to 3 months. In some cases, adding a second agent (such as mycophenolate mofetil, azathioprine, antithymocyte globulin, infliximab or tacrolimus) and prolonged immunosuppression may be necessary. The few fatal cases that have been reported during immunotherapy with checkpoint inhibitors occurred in patients who had other severe immune related adverse events (Stevens Johnson syndrome, capillary leak syndrome) or who had an immune related cholangiopathy resistant to immunosuppressive therapy. Restarting atezolizumab after severe liver injury requiring corticosteroid therapy can be followed by recurrence of liver injury and is not recommended. Switching to other checkpoint inhibitors (ipilimumab or anti-PD-1 inhibitors) is more likely to be tolerated. However, survival rates do not seem to be improved by re-introduction of checkpoint inhibitor therapy after severe immune related adverse events. Thus, restarting therapy should be undertaken only after careful evaluation of the residual cancer status. Drug Class: Antineoplastic Agents, Monoclonal Antibodies, Checkpoint Inhibitors",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Atezolizumab - Tecentriq®"
+    ],
+    "raw_drug_class": [
+      "Antineoplastic Agents",
+      "Monoclonal Antibodies"
+    ],
+    "source_nxml_file": "Atezolizumab.nxml"
+  },
+  {
+    "id": 363,
+    "name_en": "Belimumab",
+    "type": "ยาชีวภาพ",
+    "thai_herb_source": null,
+    "livertox_grade": "E",
+    "grade_explanation_en": "unlikely cause of clinically apparent liver injury",
+    "rucam_score_bonus": 0,
+    "source": "LiverTox (NIDDK, NIH): Belimumab.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Belimumab/",
+    "source_review_date": "2020-12-28",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity In publications on the large scale trials of belimumab, elevations in serum aminotransferase levels were uncommon (less than 1%) and no more frequent during belimumab therapy than in placebo treated controls. In the prelicensure studies there were no reports of clinically apparent liver injury attributed to belimumab and, since its approval and more wide scale use, there have been no case reports of liver injury with jaundice linked to belimumab therapy. Reactivation of hepatitis B can occur with use of immunosuppressive monoclonal antibodies such as infliximab and adalimumab, but instances have not been reported with belimumab. However, belimumab does result in a decrease in circulating B cells and immunoglobulin levels and thus might be a cause of reactivation of HBV replication in a susceptible patient. Nevertheless, severe liver injury has not been reported with use of belimumab. Likelihood score: E (unlikely cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury The cause of the rare serum enzyme elevations during belimumab therapy is not known. Monoclonal antibodies are generally metabolized to small peptides and amino acids by multiple tissues including the liver and are not intrinsically toxic to hepatocytes. Most clinically significant liver injury induced by monoclonal antibodies is due to induction of autoimmunity or reactivation of hepatitis B.",
+    "raw_outcome_text": "Outcome and Management The serum aminotransferase elevations that have been reported during belimumab therapy were generally transient, mild and asymptomatic and did not require dose modification or delay in therapy. Elevations above 5 times the upper limit of normal should lead to more careful monitoring and suspension of further infusions, at least until levels return to normal or near normal levels. There is no evidence of cross sensitivity to hepatic reactions among the various monoclonal antibodies. Drug Class: Monoclonal Antibodies; Immunosuppressive Agents",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Belimumab - Benlysta®"
+    ],
+    "raw_drug_class": [
+      "Monoclonal Antibodies"
+    ],
+    "source_nxml_file": "Belimumab.nxml"
+  },
+  {
+    "id": 364,
+    "name_en": "Benralizumab",
+    "type": "ยาชีวภาพ",
+    "thai_herb_source": null,
+    "livertox_grade": "E",
+    "grade_explanation_en": "unlikely cause of clinically apparent liver injury",
+    "rucam_score_bonus": 0,
+    "source": "LiverTox (NIDDK, NIH): Benralizumab.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Benralizumab/",
+    "source_review_date": "2018-07-05",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity In large clinical trials, rates of serum aminotransferase and alkaline phosphatase elevations were similar in patients receiving benralizumab as in those on placebo [6-11]. Indeed, rates of most adverse reactions were similar in patients who received placebo injections or standard care. In prelicensure trials in more than 200 patients, there were no instances of clinically apparent liver injury with jaundice and since its approval and more wide scale use, there have been no published reports of hepatotoxicity attributed to benralizumab therapy. Thus, liver injury from benralizumab must be rare, if it occurs at all. Likelihood score: E (unlikely cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "",
+    "raw_outcome_text": "",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Benralizumab - Fasenra®"
+    ],
+    "raw_drug_class": [
+      "Antiasthmatic Agents",
+      "Monoclonal Antibodies"
+    ],
+    "source_nxml_file": "Benralizumab.nxml"
+  },
+  {
+    "id": 365,
+    "name_en": "Blinatumomab",
+    "type": "ยาชีวภาพ",
+    "thai_herb_source": null,
+    "livertox_grade": "E*",
+    "grade_explanation_en": "unproven but suspected cause of acute liver injury",
+    "rucam_score_bonus": 0,
+    "source": "LiverTox (NIDDK, NIH): Blinatumomab.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Blinatumomab/",
+    "source_review_date": "2017-09-30",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity Serum aminotransferase elevations are common during blinatumomab therapy, yet are rarely discussed or mentioned in publications on its use in acute leukemia. In summary analyses of laboratory test abnormalities during blinatumomab therapy, ALT elevations were reported to occur in 93% of adult subjects and were above 5 times the upper limit of normal (ULN) in 36%. The elevations arose within the first few days of treatment during the first cycle and elevations were less common and lower with subsequent cycles. Rates of hyperbilirubinemia were also high but all changes were reversible and there were no instances of clinically apparent liver injury attributable to the monoclonal therapy. Subsequent to its approval and more wide scale use, there have been no published instances of clinically apparent liver injury with jaundice attributable to blinatumomab therapy. Likelihood score: E* (unproven but suspected cause of acute liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury The mechanism by which blinatumomab causes liver injury is not known. It is a recombinant protein and unlikely to be inherently hepatoxic, being metabolized to small polypeptides or amino acids by many cells and having no effect on activity of drug metabolizing enzymes or hepatic transporter molecules. The serum enzyme abnormalities that are frequent during therapy may reflect a direct effect of the bispecific monoclonal antibody on hepatocytes or a secondary effect mediated by cytokine release from its action on malignant B cells. Because blinatumomab has effects on immune function and normal B cells, it may also be capable of causing reactivation of hepatitis B in susceptible patients, but instances of this adverse event have not been published.",
+    "raw_outcome_text": "Outcome and Management Guidelines for management of patients who are to receive blinatumomab recommend routine monitoring of liver tests before and during blinatumomab therapy and interrupting treatment if serum aminotransferase levels rise above 5 times ULN or bilirubin above 3 times ULN. Mild-to-moderate elevations in serum aminotransferase levels are common during blinatumomab therapy, particularly in patients who develop cytokine release syndrome. Drug Class: Antineoplastic Agents, Monoclonal Antibodies",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Blinatumomab - Blincyto®"
+    ],
+    "raw_drug_class": [
+      "Antineoplastic Agents",
+      "Monoclonal Antibodies"
+    ],
+    "source_nxml_file": "Blinatumomab.nxml"
+  },
+  {
+    "id": 366,
+    "name_en": "Brentuximab Vedotin",
+    "type": "ยาชีวภาพ",
+    "thai_herb_source": null,
+    "livertox_grade": "B",
+    "grade_explanation_en": "likely cause of clinically apparent liver injury",
+    "rucam_score_bonus": 2,
+    "source": "LiverTox (NIDDK, NIH): Brentuximab_vedotin.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Brentuximab_vedotin/",
+    "source_review_date": "2024-01-10",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity In publications on the large scale trials of brentuximab vedotin, rates of ALT elevations and clinically apparent liver injury were usually not mentioned. In a study of squamous cell carcinoma of the head and neck described in the product label, ALT elevations occurred in 45% of persons receiving brentuximab vedotin and radiation therapy versus 22% of those receiving radiation alone, but elevations above 5 times the ULN were rare (2% vs 1%). Isolated instances of transient serum aminotransferase elevations have been described with brentuximab vedotin therapy in the literature, usually arising during the initial course of treatment. The initial product label for brentuximab vedotin mentioned serious hepatotoxicity occurring in approximately 1% of patients including fatalities and recommended monitoring of liver enzyme and bilirubin levels during therapy. Subsequently, there has been at least one clinical description of severe acute liver injury with jaundice attributed to brentuximab vedotin, reports of 5 possible such cases from the sponsor, and 37 cases reported to the FDA’s Adverse Event Reporting System (FAERS). Likelihood score: B (likely cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury The cause of the serum enzyme elevations during brentuximab vedotin therapy is not known. However, the antibody conjugate or its break down products may be taken up and metabolized in liver cells to a small extent and cause direct hepatotoxicity. The cases of clinically apparent liver injury attributed to brentuximab vedotin have not resembled sinusoidal obstruction syndrome.",
+    "raw_outcome_text": "",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Brentuximab vedotin - Adcetris®"
+    ],
+    "raw_drug_class": [
+      "Antineoplastic Agents",
+      "Monoclonal Antibodies"
+    ],
+    "source_nxml_file": "Brentuximab_vedotin.nxml"
+  },
+  {
+    "id": 367,
+    "name_en": "Canakinumab",
+    "type": "ยาชีวภาพ",
+    "thai_herb_source": null,
+    "livertox_grade": "E*",
+    "grade_explanation_en": "unproven but suspected rare cause of clinically apparent liver injury",
+    "rucam_score_bonus": 0,
+    "source": "LiverTox (NIDDK, NIH): Canakinumab.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Canakinumab/",
+    "source_review_date": "2020-04-20",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity In large registration trials, ALT elevations occurred in 1% to 4% of patients taking canakinumab, a rate similar to or minimally above that in placebo recipients. Serum aminotransferase levels are often raised in children with juvenile idiopathic arthritis and adult onset Still disease, and instances of improvement in serum enzyme elevations with initiation of canakinumab therapy have been reported. There have been no published reports of clinically apparent liver injury with jaundice attributed to canakinumab. On the other hand, in large case series and registries, adverse events of hepatobiliary disorders and hepatitis have been reported. Some of these may have been instances of macrophage activation syndrome arising during therapy, a severe complication of inflammatory arthritides that can be accompanied by hepatic injury. Canakinumab has had limited clinical use, but hepatic injury with jaundice due to canakinumab must be rare, if it occurs. In addition, canakinumab has not been linked to cases of reactivation of hepatitis B or exacerbation of chronic hepatitis C which can occur with other cytokines and anticytokines. Likelihood score: E* (unproven but suspected rare cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury Canakinumab is a monoclonal antibody and has minimal hepatic metabolism. The mechanism by which it causes serum enzyme elevations during therapy is unknown, but may be the result of its effects on the immune system or on the IL-1 pathways which are important in inflammation and cell damage.",
+    "raw_outcome_text": "Outcome and Management Agents that block the proinflammatory pathways of IL-1 and IL-6 share similar activity against autoinflammatory diseases and have little evidence for hepatotoxicity. However, there is no reason to suspect that there may be cross sensitivity to hepatic injury between canakinumab and other IL-1 antagonists such as anakinra and rilonacept or other immune modulating biologic agents such as tocilizumab or tumor necrosis factor antagonists. Drug Class: Antirheumatic Agents Other Drugs in the Subclass, Interleukin Receptor Antagonists: Anakinra, Rilonacept, Sarilumab, Tocilizumab",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Canakinumab - Ilaris®"
+    ],
+    "raw_drug_class": [
+      "Antirheumatic Agents",
+      "Interleukin Receptor Antagonists",
+      "Anakinra",
+      "Rilonacept",
+      "Sarilumab",
+      "Tocilizumab"
+    ],
+    "source_nxml_file": "Canakinumab.nxml"
+  },
+  {
+    "id": 368,
+    "name_en": "Cemiplimab",
+    "type": "ยาชีวภาพ",
+    "thai_herb_source": null,
+    "livertox_grade": "C",
+    "grade_explanation_en": "probable cause of clinically apparent liver injury and possible cause of reactivation of hepatitis B",
+    "rucam_score_bonus": 1,
+    "source": "LiverTox (NIDDK, NIH): Cemiplimab.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Cemiplimab/",
+    "source_review_date": "2022-06-23",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity Mild-to-moderate serum aminotransferase elevations are common (10% to 20%) during cemiplimab therapy but are usually self-limited and resolve even with continuing cyclic therapy. Serum ALT elevations above 5 times the upper limit of normal (ULN) occur in 1% to 4% of patients, and a proportion of these individuals develop clinically apparent immune related liver injury that can be severe. Typically, onset of immune mediated liver injury arises after 2 to 6 cycles of checkpoint inhibitor therapy. The pattern of enzyme elevation is usually hepatocellular but may be mixed or even cholestatic. Monitoring of serum enzymes is recommended with dose interruption for values above 3 times the ULN and discontinuation for values above 8 times the ULN. When serum aminotransferase levels remain elevated despite discontinuation or with development of symptoms or jaundice, early intervention with immunosuppressive therapy is prudent and generally results in rapid resolution. Liver histology usually demonstrates an acute hepatitis-like pattern with focal or confluent necrosis and prominent lymphocytic infiltrates of activated T cells, which is compatible with an immune mediated hepatic injury. Autoantibodies are usually not present and immunoglobulin levels may not be elevated. Restarting monoclonal antibody therapy can result in recurrence of injury. Immune mediated hepatitis appears to be more frequent with anti-CTLA-4 than with anti-PD-1 or anti-PD-L1 checkpoint inhibitors. Among 810 patients treated with cemiplimab in prelicensure studies, 16 (2%) developed an immune related hepatitis, all of whom required corticosteroid therapy and that was fatal in 1 (0.2%). A proportion of patients receiving checkpoint inhibitors develop cholestatic rather than hepatocellular liver injury. Cholestatic forms of immune mediated liver injury generally arise later than the hepatocellular forms (after 3 to 10 cycles) and are often accompanied by abdominal pain and jaundice. Alkaline phosphatase levels are markedly elevated while aminotransferase levels are only modestly increased. Imaging studies may show irregular dilatation of the intra- and/or extra-hepatic bile ducts and thickening of the gall bladder and bile duct wall, but without evidence of frank obstruction. Liver biopsy shows portal inflammation and bile duct injury and endoscopic biopsy of the bile duct epithelium shows inflammation and scarring. The general features suggest a secondary form of sclerosing cholangitis referred to as checkpoint inhibitor cholangiopathy. Therapy with immunosuppression may improve alkaline phosphatase and bilirubin levels but rarely leads to complete recovery, and long term cholestasis and hepatic failure can occur. Some patients with a cholestatic form of immune related hepatitis do not manifest the large bile duct changes but demonstrate loss and paucity of the smaller, intrahepatic portal bile ducts resulting in a vanishing bile duct syndrome similar to primary biliary cholangitis (PBC). The effects of PD-1 inhibition on chronic hepatitis B are not well defined but convincing examples of reactivation of hepatitis B have been described due to other checkpoint inhibitors. Most cases have occurred in patients with preexisting HBsAg, but rare instances were reported in individuals suspected of having with anti-HBc without HBsAg. Thus, screening patients for HBsAg, anti-HBc and anti-HBs is appropriate before initiating immunotherapy with checkpoint inhibitors. Patients with HBsAg should be considered for prophylaxis with an antiviral agent with potent activity against HBV such as entecavir or tenofovir. In patients with anti-HBc without HBsAg, monitoring and close attention to liver test abnormalities is probably adequate if antiviral therapy can be introduced rapidly for early evidence of reactivation. There has not been adequate experience with cemiplimab in regard to the risk of reactivation of hepatitis B to provide rates of reactivation with and without antiviral prophylaxis. Likelihood score: C (probable cause of clinically apparent liver injury and possible cause of reactivation of hepatitis B).",
+    "raw_mechanism_text": "Mechanism of Injury The mechanism of liver injury due to cemiplimab is likely to be immunologically mediated, and many cases of checkpoint related, immune mediated hepatitis have appeared to respond to corticosteroid or immunosuppressive therapy. Liver biopsies in cases of hepatocellular injury and bile duct epithelial cell biopsies in cases with cholangiopathic injury demonstrate necrosis and inflammatory cell infiltration with cytotoxic CD8+ T cells, suggesting that the checkpoint inhibition allowed for activation of T cells directed at hepatocyte or cholangiocyte cell surface antigens.",
+    "raw_outcome_text": "Outcome and Management Guidelines for management of patients receiving cemiplimab recommend monitoring of liver tests and interrupting therapy for patients who develop serum aminotransferase elevations above 3 times the ULN and discontinuing treatment for values above 8 times the ULN. Corticosteroid therapy can be considered for patients with persistent ALT elevations or if symptoms or jaundice arise, initiating therapy with high dose intravenous methylprednisolone and switching to oral prednisone after 1 to 2 days, continuing tapering doses for at least 30 days. Most cases of hepatitis due to checkpoint inhibitors resolve with prompt institution of immunosuppressive therapy which can be withdrawn within 1 to 3 months. In some cases, adding a second agent (such as mycophenolate mofetil, azathioprine, antithymocyte globulin, or tacrolimus) may be necessary. The few fatal cases that have been reported during immunotherapy with checkpoint inhibitors occurred in patients who had other severe immune related adverse events (Stevens Johnson syndrome, capillary leak syndrome), or had refractory cholestatic liver injury, or had a delay in starting corticosteroid therapy. Patients with immune related adverse events due to cemiplimab can restart therapy once the adverse event has resolved, although concurrent immunosuppressive therapy may be necessary. Switching to another type of checkpoint inhibitor (anti-CTLA-4 or anti-PD-L1) is likely to be better tolerated. Drug Class: Antineoplastic Agents, Monoclonal Antibodies, Checkpoint Inhibitors",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Cemiplimab - Libtayo®"
+    ],
+    "raw_drug_class": [
+      "Antineoplastic Agents",
+      "Monoclonal Antibodies"
+    ],
+    "source_nxml_file": "Cemiplimab.nxml"
+  },
+  {
+    "id": 369,
+    "name_en": "Certolizumab Pegol",
+    "type": "ยาชีวภาพ",
+    "thai_herb_source": null,
+    "livertox_grade": "D",
+    "grade_explanation_en": "possible rare cause of clinically apparent liver injury as well as reactivation of hepatitis B",
+    "rucam_score_bonus": 1,
+    "source": "LiverTox (NIDDK, NIH): Certolizumab.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Certolizumab/",
+    "source_review_date": "2026-02-14",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity Certolizumab pegol has been associated with a low rate of serum aminotransferase elevations during therapy, similar to the rate found with placebo therapy. The ALT elevations have been transient, mild and asymptomatic, and have rarely required dose modification. Despite having been available for more than a decade, certolizumab pegol has been linked to only a few cases of clinically apparent liver injury all of which have been mild and self-limited in course. Nevertheless, it is likely that certolizumab pegol, like infliximab and adalimumab, is capable of inducing clinically apparent liver injury that resembles autoimmune hepatitis, which generally arises after at least 3 months of use and is associated with a hepatocellular pattern of serum enzyme elevation and autoantibody formation. Autoimmune hepatitis induced by anti-TNFα blocking agents can be severe and self-sustained and require corticosteroid therapy. Most severe cases of autoimmune-like hepatitis have been linked to infliximab therapy. Certolizumab, like other TNFα antagonists, can also be expected to cause reactivation of chronic hepatitis B. Reactivation typically occurs in patients who are inactive HBsAg carriers, with normal serum aminotransferase levels and no or only low levels of HBV DNA in serum. The immune suppression caused by the immunomodulatory agent leads to an increase in HBV replication and rise in serum HBV DNA levels. With stopping the immunosuppression (or between cycles of therapy), restoration of immune function leads to an acute immunological response to the heightened viral replication and a flare of hepatitis, that can be severe and can result in hepatic failure and death. Reactivation in patients with anti-HBc without HBsAg (serologic pattern of previous HBV infection) has been reported only rarely in patients treated with anti-TNF antagonists, and is more common after therapy with rituximab and bone marrow transplantation. The anti-TNF inhibitors have little or no effect on hepatitis C virus levels and have been used safely in patients with chronic hepatitis C. Likelihood score: D (possible rare cause of clinically apparent liver injury as well as reactivation of hepatitis B).",
+    "raw_mechanism_text": "Mechanism of Injury The mechanism of liver injury due to certolizumab pegol and other TNFα antagonists is not known, but is likely caused by immune modulation and induction of autoimmunity.",
+    "raw_outcome_text": "Outcome and Management Most published cases of hepatotoxicity due to anti-TNFα agents have been mild and self-limited. Patients who are to start certolizumab pegol therapy should be screened for evidence of hepatitis B, and those with preexisting HBsAg should be offered prophylaxis with an oral antiviral agent such as lamivudine, tenofovir or entecavir. Patients who develop an autoimmune hepatitis-like syndrome during certolizumab therapy may not recover promptly with stopping the TNFα antagonist and may require corticosteroid therapy. In this event, the corticosteroid dose should be kept to a minimum to control the disease and, ultimately, attempts should be made to withdraw immunosuppression (or decrease to levels used before administration of certolizumab). Rechallenge with another TNFα antagonist after hepatotoxicity from certolizumab pegol has not been reported. Although there appears to be little cross reactivity in hepatic injury among the various TNF antagonists, switching agents after clinically apparent liver injury should be done with caution and only with careful monitoring. Drug Class: Antirheumatic Agents; Gastrointestinal Agents, Inflammatory Bowel Disease Agents Other Drugs in the Subclass, Tumor Necrosis Factor Antagonists: Adalimumab, Etanercept, Golimumab, Infliximab",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Certolizumab - Cimzia®"
+    ],
+    "raw_drug_class": [
+      "Antirheumatic Agents",
+      "Tumor Necrosis Factor Antagonists",
+      "Adalimumab",
+      "Etanercept",
+      "Golimumab",
+      "Infliximab"
+    ],
+    "source_nxml_file": "Certolizumab.nxml"
+  }
+]

@@ -1,0 +1,419 @@
+[
+  {
+    "id": 763,
+    "name_en": "Terbinafine",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "A",
+    "grade_explanation_en": "well established cause of clinically apparent liver injury",
+    "rucam_score_bonus": 2,
+    "source": "LiverTox (NIDDK, NIH): Terbinafine.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Terbinafine/",
+    "source_review_date": "2026-01-30",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity Oral therapy with terbinafine is a well-known cause of acute liver injury that can be severe and even fatal. In addition, terbinafine therapy is associated with transient elevations in serum aminotransferases, occurring in less than 1% of patients which are generally asymptomatic and short-lived even without stopping therapy. The estimated probability of developing elevated serum aminotransferase levels requiring stopping treatment is about 0.3% for 2 to 6 weeks of treatment and 0.4% for treatment longer than 8 weeks. Clinically apparent liver injury from terbinafine is rare (1 in 2,500 to 1:25,000 persons exposed), but many case reports and even case series have been described in the literature. Liver injury usually arises within the first 6 weeks of therapy. The pattern of injury can be either hepatocellular or mixed initially but it typically evolves into a cholestatic pattern which can be prolonged (Cases 1 and 2). Some cases may progress to vanishing bile duct syndrome. Signs of hypersensitivity (rash, fever, eosinophilia) are not common and, when present, are generally mild-to-moderate in severity. Autoantibody formation is rare. In addition, cases with severe hepatocellular injury with acute liver failure have been described. These instances are marked by precipitous onset with marked elevations in serum aminotransferase levels and progressive jaundice and hepatic failure. Terbinafine has also been implicated in cases of Stevens-Johnson syndrome, in which case the hepatic injury may be overshadowed by rash and allergic symptoms. Likelihood score: A (well established cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury The acute hepatotoxicity caused by terbinafine appears to be part of a hypersensitivity reaction, although the mechanism has not been defined. Genome-wide association studies identified polymorphisms within the HLA region of chromosome six to be linked to cholestatic cases of drug induced liver injury, and particularly terbinafine. HLA sequencing has confirmed these associations and shown that most subjects of European ancestry with terbinafine hepatotoxicity are carriers of HLA-A* 33:01 (heterozygosity), an allele found in less than 1% of control populations. The HLA-A* 33:03 allele which shares 99% sequence identity with 33:01 has been linked to terbinafine hepatotoxicity in a small number of Asian subjects. These associations indicate that the injury is probably immunologically mediated.",
+    "raw_outcome_text": "Outcome and Management The product label for terbinafine contains a warning about hepatotoxicity from its use and recommends testing for routine liver tests before starting and at intervals during therapy. Terbinafine should be promptly discontinued if evidence of liver injury arises during treatment. Most cases of acute hepatic injury from terbinafine resolve within 3 to 6 months of stopping the medication. In some instances, however, the injury is severe and unremitting, leading to acute liver failure and either death or need for liver transplantation. A severe outcome is more likely if terbinafine is continued after the appearance of symptoms and signs of liver injury. Terbinafine has also been implicated in several cases of acute bile duct injury, followed by prolonged cholestasis associated with vanishing bile duct syndrome. Perhaps more frequent is severe cholestasis followed by persistence of mild to moderate elevations in alkaline phosphatase without jaundice or symptoms which may represent a mild and partially reversable form of vanishing bile duct syndrome. There appears to be no cross sensitivity to hepatic injury between terbinafine and griseofulvin, another agent used for onychomycosis. Drug Class: Antifungal Agents",
+    "raw_case_report_text": "CASE REPORT Case 1. Prolonged cholestasis due to terbinafine.(1) A 24 year old man developed progressive loss of appetite, pruritus and jaundice within days of stopping a 3½ week course of terbinafine (250 mg daily) for onychomycosis of the toenails. On initial evaluation one week later, he was jaundiced and had excoriations. There was no fever, urticaria or rash. Laboratory tests showed serum bilirubin of 6.6 mg/dL and elevations in both ALT (584 U/L) and alkaline phosphatase (222 U/L). Tests for hepatitis A, B and C were negative, he did not drink alcohol to excess, and he took no other medications. Ultrasound of the abdomen showed no evidence of biliary obstruction. A liver biopsy showed intrahepatic cholestasis and injury to small bile ducts, with reduction in the number of ducts. Despite having stopped terbinafine, his symptoms and laboratory test abnormalities worsened over the next few weeks. Pruritus was treated with antihistamines and cholestyramine. Six weeks after stopping terbinafine, his symptoms began to improve and 16 weeks after stopping his liver tests were normal (Table). Key Points Medication: Terbinafine (250 mg daily) Pattern: Hepatocellular→Cholestatic (R=7.5→1.1) Severity: 3+ (jaundice, hospitalization) Latency: 24 days to symptoms, 32 days to jaundice Recovery: Complete recovery after 12 weeks Other medications: None Laboratory Values Time AfterStarting Time AfterStopping ALT*(U/L) Alk P*(U/L) Bilirubin*(mg/dL) Other 1 month 8 days 584 222 6.6 Admission 11 days 420 370 12.0 Normal ultrasound 21 days 210 530 20.5 Intense pruritus 27 days 190 550 25.0 29 days 205 525 30.9 Liver biopsy 2 months 5 weeks 310 490 28.0 6 weeks 250 490 21.0 Symptoms improved 7 weeks 175 400 10.0 8 weeks 40 670 5.0 3 months 9 weeks 200 1.4 Asymptomatic 10 weeks 40 110 0.5 Normal Values <42 <120 <1.2 *Values estimated from Figure 2. Comment This was a typical case of terbinafine hepatotoxicity arising within 4 weeks of starting therapy and worsening for several weeks thereafter despite the prompt discontinuation. The initial laboratory results suggested a hepatocellular pattern of injury, but by the time of peak bilirubin elevation the serum enzyme pattern was clearly cholestatic. The prominence of jaundice and pruritus also argued for a cholestatic injury. A liver biopsy showed evidence of injury to bile ducts and ductopenia, which was clearly severe enough to cause prolonged jaundice, but not severe enough to cause persistence of cholestatic features and qualify as vanishing bile duct syndrome. Case 2. Terbinafine induced cholestatic hepatitis.(2) A 43 year old man with history of diabetes and onychomycosis developed fatigue and flu-like symptoms one month after starting treatment with terbinafine taken orally once daily. He developed severe itching one week later and stopped terbinafine after a total of 40 days. Several days later he complained of nausea, vomiting and became jaundiced. Laboratory investigations (Table 1) revealed bilirubin of 6.8 mg/dL, ALT 269 U/L and alkaline phosphatase 433 U/L. Tests for hepatitis A, B and C were negative as were autoantibodies. Imaging of the liver showed no evidence of extrahepatic obstruction. Five days after stopping terbinafine, prednisone was started. Prednisone was initially given intravenously and then orally in tapering doses over 4 weeks (60 mg, 40 mg, 20 mg, 10 mg for one week each). The itching and jaundice improved and he became asymptomatic a month after initial presentation. Liver test abnormalities resolved over the next several months. Key Points Medication: Terbinafine Pattern: Mixed (R=3.7) Severity: 3+ (jaundice, hospitalization) Latency: 34 days Recovery: Symptomatic improvements after 4 weeks Other medications: Milrinone lactate Laboratory Values Time AfterStarting Time AfterStopping ALT(U/L) Alk P(U/L) Bilirubin(mg/dL) Other Pre Normal Normal Normal 0 Terbinafine started 34 days Fatigue, flu-like illness 40 days 0 Terbinafine stopped Severe itching, dark urine 3 days 269 443 6.8 Nausea and vomiting 6 days 234 489 6.2 Prednisone started 7 weeks 7 days 269 508 9.1 10 days 686 667 11.3 2 months 17 days 775 625 6.4 3 months 1 month 99 232 2.1 Prednisone stopped Normal Values <41 115 <1.2 Comment A 43 year old man developed fatigue approximately 5 weeks after starting terbinafine and itching and jaundice one to two weeks later. The symptoms (itching) suggested a cholestatic hepatitis, although the initial pattern of enzyme elevations was “mixed” (R=3.7). While corticosteroids may improve itching and jaundice, they have not been shown to ameliorate or shorten the course of illness. The patient became asymptomatic after 4 weeks, but was lost to follow up. Follow up is important, as terbinafine hepatotoxicity has been linked to cases of chronic cholestasis and vanishing bile duct syndrome, and his liver tests were not normal when he was last seen and prednisone stopped.",
+    "raw_case_report_key_points": {
+      "Medication": "Terbinafine (250 mg daily)",
+      "Pattern": "Hepatocellular→Cholestatic (R=7.5→1.1)",
+      "Severity": "3+ (jaundice, hospitalization)",
+      "Latency": "24 days to symptoms, 32 days to jaundice",
+      "Recovery": "Complete recovery after 12 weeks",
+      "Other medications": "None"
+    },
+    "raw_trade_names": [],
+    "raw_drug_class": [
+      "Antifungal Agents"
+    ],
+    "source_nxml_file": "Terbinafine.nxml"
+  },
+  {
+    "id": 764,
+    "name_en": "Teriflunomide",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "C",
+    "grade_explanation_en": "probable rare cause of clinically apparent liver injury",
+    "rucam_score_bonus": 1,
+    "source": "LiverTox (NIDDK, NIH): Teriflunomide.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Teriflunomide/",
+    "source_review_date": "2025-09-20",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity In large randomized controlled trials of teriflunomide, serum ALT elevations occurred in 13% to 15% of teriflunomide compared to 9% of placebo recipients. Elevations above 3 times the upper limit of normal occurred in 6% of teriflunomide versus 4% of placebo recipients, usually within the first 6 months of therapy. The enzyme elevations were usually transient and not associated with symptoms or jaundice, but led to drug discontinuation in 2% to 3% of patients. The abnormalities resolved rapidly with drug discontinuation and resolved spontaneously in at least half of patients without drug modification. During preregistration trials, a single case of severe liver injury with jaundice was described, ALT elevations appearing 5 months after starting teriflunomide. Because of this and the known hepatotoxic potential of leflunomide, teriflunomide was given a \"black box\" warning regarding hepatotoxicity, and routine monitoring of liver tests is recommended monthly for the first 6 months and intermittently thereafter. Since approval and more wide scale usage, there have been at least six cases of clinically apparent liver injury published in the medical literature and the current package label mentions instances of severe hepatitis and fatal hepatic failure as possible adverse events. Clinically apparent liver injury also occurs with leflunomide, generally presenting with a hepatocellular or mixed pattern of serum enzyme elevations within 1 to 6 months of starting therapy. Immunoallergic and autoimmune features have not been prominent in most cases although single instances of DRESS syndrome have been reported. As with teriflunomide, rare cases of acute liver failure and death have been reported with leflunomide. The clinical features of the liver injury reported with leflunomide are similar to those that occur with teriflunomide. Likelihood score: C (probable rare cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury The mechanism by which teriflunomide might cause liver injury is not known. It is extensively metabolized by the liver largely by the cytochrome P450 system (largely CYP2C8) and is susceptible to drug-drug interactions, particularly with warfarin, oral contraceptives and agents that are metabolized by CYP 2C8 (paclitaxel, pioglitazone) and possibly others.",
+    "raw_outcome_text": "Outcome and Management While chronic therapy with teriflunomide can be associated with mild-to-moderate serum aminotransferase elevations, it has only rarely been linked to cases of clinically apparent liver injury. Nevertheless, monitoring of liver tests before starting teriflunomide therapy and monthly for the first 6 months of treatment followed by intermittently thereafter is recommended. In instances of suspected teriflunomide toxicity, elimination of the drug can be accelerated by cholestyramine or activated charcoal. Teriflunomide is eliminated slowly from the serum probably due to enterohepatic recirculation. Without an accelerated elimination procedure using activated charcoal (50 g every 12 hours for 11 days) or cholestyramine (8 grams every 8 hours for 11 days), drug levels can remain elevated for months. Cross sensitivity to hepatic injury is likely between teriflunomide and leflunomide as well as thalidomide, but there have been no reports of cross sensitivity with other disease-modifying agents used to treat multiple sclerosis such as glatiramer acetate, dimethyl fumarate, fingolimod or interferon beta. Drug Class: Multiple Sclerosis Agents",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [],
+    "raw_drug_class": [
+      "Multiple Sclerosis Agents"
+    ],
+    "source_nxml_file": "Teriflunomide.nxml"
+  },
+  {
+    "id": 765,
+    "name_en": "Tetracycline",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "-",
+    "grade_explanation_en": "-",
+    "rucam_score_bonus": "-",
+    "source": "LiverTox (NIDDK, NIH): TetracyclineAndOxyte.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/TetracyclineAndOxyte/",
+    "source_review_date": "2026-06-15",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity High doses of intravenous tetracycline can induce fatty liver disease and may result in severe hepatic dysfunction, acute liver failure and death. This syndrome is more common among pregnant women, largely during the last trimester or early postpartum period. However, instances of acute fatty liver attributed to intravenous tetracycline have been reported in nonpregnant women and in men and even in children. The injury is characterized by onset of weakness, fever, fatigue, nausea and abdominal pain after 3 to 10 days of therapy. Laboratory tests show minimal-to-moderate elevations in serum aminotransferase and alkaline phosphatase levels with mild jaundice, but presence of hyperammonemia and coagulopathy. Pancreatitis, renal dysfunction and lactic acidosis are also common, although not always specifically sought. The syndrome may be reversible if tetracycline is stopped promptly, but it is usually recognized late and can progress to multiorgan failure and death despite stopping the agent. This syndrome also occurs with high doses of intravenous tigecycline and possibly with doxycycline, but quite rarely. This syndrome is rarely seen currently as tetracycline is no longer available in parenteral form and the use of intravenous tetracyclines has been superseded by availability of safer, better tolerated and more effective broad spectrum antibiotics. Oral tetracycline has been associated with rare instances of acute liver injury, but the association with tetracycline use as opposed to other agents being taken has not always been very well shown. Despite frequency of its use, oral tetracycline remains a very rare cause of liver injury. In contrast, cases of doxycycline and minocycline induced liver disease are well described. Rare instances of acute fatty liver have been attributed to oral tetracycline, particularly when given to pregnant women in high doses. Currently, tetracycline is considered contraindicated in pregnant women, particularly during the last trimester. Likelihood score: A[HD] (well known cause of clinically apparent liver injury when given in high doses intravenously).",
+    "raw_mechanism_text": "Mechanism of Injury The hepatic injury from intravenous forms of tetracycline was likely due to mitochondrial injury due to inhibition of mitochondrial protein synthesis, although another possibility is that tetracycline interferes with fat metabolism in hepatocytes. The injury is less idiosyncratic than direct, varying in frequency and severity based upon pharmacokinetics and host metabolic factors (age, pregnancy, drug accumulation, and other factors affecting mitochondrial function). The rare idiosyncratic forms of liver injury from tetracycline are of unknown cause, but are likely to be immunoallergic.",
+    "raw_outcome_text": "",
+    "raw_case_report_text": "CASE REPORT Case 1. Liver failure from intravenous tetracycline.(1) A 72 year old man treated for cystitis and diverticulitis with 10 days of iv tetracycline developed lactic acidosis and multiorgan failure. The patient had no previous history of liver disease or risk factors for hepatitis. When initially admitted to the hospital, he had fever, abdominal pain, leukocytosis and an abnormal urinalysis, but liver tests were normal (Table). He was treated with hydration and iv tetracycline in doses of 3 grams daily. His fever improved slowly, but by day 4, liver tests were mildly abnormal and they had worsened by day 8. Colistin was added on day 6, and chloramphenicol was substituted for tetracycline on day 10. The following day, he developed progressive restlessness, stupor and respiratory failure. He had renal failure and severe acidosis and he died within hours of attempting resuscitation and dialysis. Autopsy showed an enlarged fatty liver with minimal inflammation and no obvious hepatocellular necrosis. Fat was also identified in renal tubular cells. There was marked ascites and hemorrhagic pancreatitis. Key Points Medication: Tetracycline (3 g iv daily for 10 days) Pattern: Hepatocellular Severity: 5+ (death from hepatic failure and lactic acidosis) Latency: 4 days Recovery: Fatal Other medications: Colistin and chloramphenicol (after onset of liver injury) Laboratory Values Time AfterStarting Time AfterStopping ALT(U/L) Alk P*(KAU/L) Bilirubin(mg/dL) Other 0 Pre 32 8 0.3 Started iv tetracycline 4 days 190 10 2.4 BUN 39 mg/dL 8 days 530 11.5 2.2 Colistin added im q 12 hr 10 days 0 Tetracycline stopped; chloramphenicol started. 11 days 1 day 1550 15 6.8 BUN 105; CO2 11 mEq/L Increasing stupor and respiratory failure, hemodialysis and resuscitative measures failed. Normal Values <40 <13 <1.2 * King Armstrong units Comment Acute fatty liver caused by tetracycline was initially thought to occur only in pregnant women during the last trimester, but was subsequently reported to occur at other times during pregnancy, after delivery, in nonpregnant women, in men and even in children. The syndrome typically occurs after 3 to 10 days of relatively high doses of im or iv tetracycline. The case above is typical in demonstrating that the precipitous onset of symptoms is a late phenomenon and has a grim prognosis; symptoms are preceded by several days of worsening liver injury, although laboratory tests may be only mildly or moderately abnormal. Acute fatty liver is accompanied by minimal hepatic inflammation and liver cell necrosis and is a syndrome of marked mitochondrial failure, early appearance of hepatic synthetic dysfunction and lack of ATP to drive normal metabolism. The injury is not confined to the liver, and renal failure and pancreatitis are common. As in this case, the immediate cause of death is typically multiorgan failure due to lactic acidosis or pancreatitis.",
+    "raw_case_report_key_points": {
+      "Medication": "Tetracycline (3 g iv daily for 10 days)",
+      "Pattern": "Hepatocellular",
+      "Severity": "5+ (death from hepatic failure and lactic acidosis)",
+      "Latency": "4 days",
+      "Recovery": "Fatal",
+      "Other medications": "Colistin and chloramphenicol (after onset of liver injury)"
+    },
+    "raw_trade_names": [],
+    "raw_drug_class": [
+      "Antiinfective Agents",
+      "Tetracyclines"
+    ],
+    "source_nxml_file": "TetracyclineAndOxyte.nxml"
+  },
+  {
+    "id": 766,
+    "name_en": "Thalidomide",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "B",
+    "grade_explanation_en": "well known but rare cause of clinically apparent liver injury",
+    "rucam_score_bonus": 2,
+    "source": "LiverTox (NIDDK, NIH): Thalidomide_Lenalido.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Thalidomide_Lenalido/",
+    "source_review_date": "2019-04-10",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity Serum enzyme elevations occur in 8% to 15% of patients taking thalidomide or lenalidomide and are more frequent with higher doses. The enzyme abnormalities are usually mild and self-limited, and only rarely require drug discontinuation. In addition, both thalidomide and lenalidomide have been implicated in rare instances of clinically apparent, acute liver injury which can be severe and has led to deaths from acute liver failure. The onset of injury is typically within 1 to 8 weeks of starting therapy. The pattern of serum enzyme elevation at the time of presentation can be either hepatocellular or cholestatic; however, the injury tends to be cholestatic and can be prolonged. Immunoallergic and autoimmune features are not common. Several instances of acute liver injury associated with thalidomide and lenalidomide therapy have occurred in patients with other apparent causes of liver disease or with preexisting chronic hepatitis B or C. If performed during the acute injury, liver biopsy shows hepatocellular necrosis and inflammatory cell infiltration, consistent with acute drug induced injury. In some instances there is bile duct injury and loss resulting in progressive cholestatic liver injury suggestive of vanishing bile duct syndrome. Likelihood score: B (well known but rare cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury The mechanism of thalidomide and lenalidomide hepatotoxicity is not clear, but it may be related to their activity in reducing TNF-α production, a potent inflammatory cytokine that activates T cells and promotes inflammation, but is also necessary for normal liver regeneration. Several of the reported cases of hepatotoxicity have occurred in patients with underlying chronic liver disease (hepatitis B, C or nonalcoholic fatty liver), and another possibility is that thalidomide or lenalidomide may worsen preexisting hepatic conditions.",
+    "raw_outcome_text": "",
+    "raw_case_report_text": "CASE REPORT Case 1. Acute hepatitis due to thalidomide. [Modified from: Hanje AJ, Shamp JL, Thomas FB, Meis GM. Thalidomide-induced severe hepatotoxicity. Pharmacotherapy 2006; 26: 1018-22. PubMed Citation]. A 76 year old woman with multiple myeloma developed jaundice 5 weeks after starting thalidomide combined with warfarin and intermittent dexamethasone. She had no previous history of liver disease or risk factors for viral hepatitis. She did not drink alcohol. Her only other medications were metoprolol and furosemide for hypertension and insulin for diabetes. Routine liver tests had been normal in the past. Routine monitoring of serum enzymes demonstrated rises in ALT and AST after 4 weeks of treatment. Thalidomide was continued, and one week later she developed nausea, fatigue, abdominal discomfort and jaundice. On physical examination, she was jaundiced but had no fever, rash or signs of chronic liver disease. Laboratory tests showed bilirubin 5.6 mg/dL, ALT 2206 U/L, and international normalized ratio (INR) of greater than 15. She was admitted to the hospital for management and both thalidomide and the warfarin were stopped. Tests for hepatitis A, B and C were negative as were autoantibodies. Imaging of the liver showed evidence of diffuse fatty liver, but no masses or biliary obstruction. She was treated with fresh frozen plasma to correct the INR and underwent transjugular liver biopsy which was interpreted as compatible with acute drug induced liver injury superimposed upon an underlying nonalcoholic steatohepatitis. After thalidomide was stopped, she began to improve rapidly (Table). She was discharged after a week in the hospital and, when seen three months later, her liver tests were normal. Key Points Medication: Thalidomide Pattern: Hepatocellular (R value could not be determined) Severity: 3+ (jaundice and hospitalization) Latency: 4 to 5 weeks Recovery: Complete within 30 days Other medications: Furosemide, metoprolol, insulin, warfarin, dexamethasone Laboratory Values Time After Starting Time After Stopping ALT* (U/L) Alk P* (U/L) Bilirubin* (mg/dL) Other Pre Normal 4 weeks 218 179 5 weeks 0 2205 2376 5.6 INR >15, admission 1 day 2250 2425 Thalidomide stopped 4 days 1500 1050 6 weeks 12 days 165 86 5.5 INR 1.1: Discharged 4 months 3 months Normal Normal Normal Outpatient follow up Normal Values <34 <35 <1.2 * Some values estimated from Figure 1. Comment This woman developed jaundice within 5 weeks of starting an experimental regimen of cancer chemotherapy including thalidomide, warfarin and dexamethasone. Typical of thalidomide hepatotoxicity was the latency to onset (1 to 3 months), the hepatocellular pattern of injury (although no alkaline phosphatase values were provided in this case), the presence of an underlying liver disease, and the rapid improvement with stopping the medication.",
+    "raw_case_report_key_points": {
+      "Medication": "Thalidomide",
+      "Pattern": "Hepatocellular (R value could not be determined)",
+      "Severity": "3+ (jaundice and hospitalization)",
+      "Latency": "4 to 5 weeks",
+      "Recovery": "Complete within 30 days",
+      "Other medications": "Furosemide, metoprolol, insulin, warfarin, dexamethasone"
+    },
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Thalidomide - Thalidomid®",
+      "Lenalidomide - Revlimid®"
+    ],
+    "raw_drug_class": [
+      "Antineoplastic Agents",
+      "Pomalidomide"
+    ],
+    "source_nxml_file": "Thalidomide_Lenalido.nxml"
+  },
+  {
+    "id": 767,
+    "name_en": "Thiabendazole",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "B",
+    "grade_explanation_en": "highly likely cause of clinically apparent liver injury",
+    "rucam_score_bonus": 2,
+    "source": "LiverTox (NIDDK, NIH): Thiabendazole.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Thiabendazole/",
+    "source_review_date": "2026-04-20",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity Thiabendazole therapy is associated with serum aminotransferase elevations in up to 36% of patients, but it is usually given for a brief period only and its effects on serum enzyme levels after single dose administration has not been systematically evaluated. Importantly, thiabendazole therapy has also been associated with clinically apparent liver injury which can be prolonged and severe. The onset of injury is usually within 1 to 2 weeks of finishing a 1 to 5 day course of therapy. The pattern of serum enzyme elevations is typically cholestatic. Autoantibodies are usually negative and fever, arthralgias and rash are uncommon. Several reported cases have been associated with sicca complex marked by parotid enlargement and tenderness, dry eyes and dry mouth arising before the onset of jaundice (Case 1). The cholestatic injury can be associated with damage to small bile ducts and with prolonged jaundice and/or pruritus and alkaline phosphatase elevations. Several instances of prolonged cholestasis and chronic vanishing bile duct syndrome and end stage liver disease has been reported even after a single dose of thiabendazole. Likelihood score: B (highly likely cause of clinically apparent liver injury)",
+    "raw_mechanism_text": "Mechanism of Injury Thiabendazole hepatotoxicity appears to be due to an immunological reaction to the drug, which is directed largely at bile, lacrimal, and salivary gland ducts.",
+    "raw_outcome_text": "Outcome and Management While most reported cases of thiabendazole induced liver injury were self-limited, many were marked by severe and prolonged cholestasis. Several cases of prolonged jaundice with vanishing bile duct syndrome and evolution to cirrhosis leading to liver transplantation have been reported. Patients with acute liver injury attributed to thiabendazole should avoid repeat exposure. It is unknown whether there is cross sensitivity with other benzimidazoles (such as albendazole and mebendazole), but there probably is and switching to another class of anthelmintic agents is appropriate if therapy is still needed. Drug Class: Anthelmintic Agents",
+    "raw_case_report_text": "CASE REPORT Case 1. Cholestatic hepatitis followed by chronic cholestatic syndrome and cirrhosis after a short course of thiabendazole.(1) A 46 year old woman with suspected trichinosis was treated with thiabendazole (25 mg/kg twice daily for 5 days) and prednisone (40 mg/day). Two weeks later, she noted dryness of the eyes and mouth with low grade fever. Shortly thereafter she developed dark urine and pruritus. She had no history of liver disease or drug allergies and drank little alcohol. On admission, she had prominence of the parotid glands and right upper quadrant tenderness without enlargement of the liver or spleen. She was jaundiced but had no other signs of chronic liver disease. Laboratory values showed a total bilirubin of 16.4 mg/dL with a direct of 11.5 mg/dL (Table). Serum aminotransferase levels were 3 to 20 fold elevated and 5’ nucleotidase was 5 times elevated. Tests for hepatitis A and B and routine autoantibodies were normal. Ultrasound and CT scans of the abdomen showed no abnormalities and endoscopic retrograde cholangiopancreatography revealed no evidence of biliary obstruction. A liver biopsy showed marked intrahepatic cholestasis and a relative paucity of bile ducts. A salivary gland biopsy showed sialadenitis with prominent destruction of acini and ductules. She remained deeply jaundiced, but reevaluation showed no evidence for other liver disease. Over the next 8 months her symptoms of dry mouth and eyes improved, but she continued to have pruritus and mild jaundice. Two and a half years after exposure to thiabendazole she developed ascites and variceal bleeding. A repeat liver biopsy showed a micronodular cirrhosis with little inflammation and no steatosis. She remained negative for antinuclear (ANA), antimitochondrial (AMA), and antimicrosomal antibodies. Shortly thereafter, she underwent liver transplantation; the explant again showed micronodular cirrhosis. Key Points Medication: Thiabendazole (25 mg/kg twice daily for 5 days) Pattern: Cholestatic pattern (R=~0.8) Severity: 5+ (ultimately leading to cirrhosis and liver transplantation) Latency: 2 weeks Recovery: Incomplete Other medications: Prednisone 40 mg daily for short period Laboratory Values Time AfterStarting AST(U/L) Alk P(U/L) Bilirubin(mg/dL) Other Pre Normal Normal Normal Trichinosis 3 weeks 142 N/A 16.4 Admission 6 weeks 28.1 Liver biopsy 10 weeks 50 248 23.5 AMA and ANA negative 1 year 108 584 2.2 Sicca syndrome resolved 2.5 years 98 487 2.6 Variceal hemorrhage Normal Values <40 <98 <1.2 Comment Thiabendazole typically causes an acute cholestatic hepatitis, but in half of cases the cholestatic hepatitis has been preceded by onset of a sicca syndrome with dry eyes and dry mouth and parotid enlargement, with salivary gland biopsies showing inflammation and damage to acini and ductules. The cholestatic hepatitis may also be characterized by damage to bile ducts and result in a prolonged jaundice or cholestasis, with persistence of liver test abnormalities for months or years. In its most severe form, this prolonged cholestasis is also marked by vanishing bile duct syndrome and chronic cholestasis that can result in cirrhosis, portal hypertension and end stage liver disease. The condition resembles primary biliary cirrhosis, but typically presents in an acute fashion with jaundice and symptoms, whereas primary biliary cirrhosis usually presents insidiously with liver test abnormalities and pruritus long before onset of jaundice. Interestingly, primary biliary cirrhosis can also be associated with keratoconjunctivitis sicca, and the histology of the involved salivary and lacrimal glands resembles that of primary biliary cirrhosis with intense inflammation and damage to small bile ducts, with rupture and granulomatous inflammation in the acute phase. This striking syndrome, several cases of which have been reported after short courses of thiabendazole, has not been reported with the other anthelmintic benzimidazoles, mebendazole and albendazole.",
+    "raw_case_report_key_points": {
+      "Medication": "Thiabendazole (25 mg/kg twice daily for 5 days)",
+      "Pattern": "Cholestatic pattern (R=~0.8)",
+      "Severity": "5+ (ultimately leading to cirrhosis and liver transplantation)",
+      "Latency": "2 weeks",
+      "Recovery": "Incomplete",
+      "Other medications": "Prednisone 40 mg daily for short period"
+    },
+    "raw_trade_names": [],
+    "raw_drug_class": [
+      "Anthelmintic Agents"
+    ],
+    "source_nxml_file": "Thiabendazole.nxml"
+  },
+  {
+    "id": 768,
+    "name_en": "Thiotepa",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "D",
+    "grade_explanation_en": "possible, rare cause of clinically apparent liver injury",
+    "rucam_score_bonus": 1,
+    "source": "LiverTox (NIDDK, NIH): Thiotepa.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Thiotepa/",
+    "source_review_date": "2020-09-12",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity Thiotepa is associated with an appreciable rate of serum enzyme elevations during therapy, but these are generally mild and self-limited, not requiring dose adjustment. Rare instances of clinically apparent acute liver injury attributed to thiotepa have been reported, particularly with high doses. In most instances, thiotepa was administered in combination with other agents known to cause liver injury and the specific role of thiotepa was not clear. Thiotepa is often used in combination with other alkylating agents in conditioning regimens for bone marrow ablation in preparation for hematopoietic cell transplantation and as such has been linked to instances of sinusoidal obstruction syndrome. Onset of sinusoidal obstruction syndrome is usually within 1 to 3 weeks of myeloablative or high dose therapy and is characterized by the sudden development of abdominal pain, hepatomegaly, weight gain and ascites followed by jaundice. The pattern of serum enzyme elevations is usually hepatocellular, with marked increases in serum aminotransferase and lactic dehydrogenase levels and minimal increase in alkaline phosphatase. In severe instances, there are elevations in prothrombin time and progressive hepatic failure. Immunoallergic and autoimmune features are uncommon. The fatality rate is high. Liver biopsy shows centrolobular necrosis and congestion with occlusion of small veins and red cells in sinusoids. Likelihood score: D (possible, rare cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury The potential mechanism of hepatotoxicity from thiotepa is probably similar to that of other alkylating agents, a direct cytotoxic injury to rapidly dividing cells. High doses are likely to injure other cells such as sinusoidal endothelial cells and hepatocytes. The cause of the idiosyncratic liver injury associated with thiotepa is not known.",
+    "raw_outcome_text": "Outcome and Management Liver injury is not uncommon with high doses of thiotepa. The severity of injury in reported cases has generally been mild-to-moderate and self-limited in course, although fatalities attributed to hepatotoxicity have been reported. The sinusoidal obstruction syndrome associated with thiotepa and other alkylating agents can be severe and lead to acute liver failure. There have been no instances of chronic hepatitis or vanishing bile duct syndrome definitely linked to thiotepa therapy. In situations of acute liver injury after thiotepa use, rechallenge should be avoided. Drug Class: Antineoplastic Agents, Alkylating Agents",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [],
+    "raw_drug_class": [
+      "Antineoplastic Agents",
+      "Alkylating Agents"
+    ],
+    "source_nxml_file": "Thiotepa.nxml"
+  },
+  {
+    "id": 769,
+    "name_en": "Tibolone",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "C",
+    "grade_explanation_en": "probable cause of clinically apparent liver injury",
+    "rucam_score_bonus": 1,
+    "source": "LiverTox (NIDDK, NIH): Tibolone.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Tibolone/",
+    "source_review_date": "2020-09-02",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity In large scale prospective studies, tibolone has been associated with a low rate of transient serum aminotransferase levels, being greater than 3 times the upper limit of normal in 0.9% of tibolone versus 0.2% of placebo recipients, but instances of clinically apparent acute liver injury were not reported. In Europe, where tibolone has been in clinical use, there have been isolated reports of clinically apparent liver injury arising 6 to 12 months after starting and associated with a hepatocellular pattern of serum enzyme elevations and jaundice. Reported cases were self-limited and resolved within 2 to 6 months of stopping. Immunoallergic features were not present nor were autoantibodies. Likelihood score: C (probable cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury The mechanism of liver injury due to tibolone is not known. The clinically apparent liver injury has not resembled that of the cholestatic jaundice associated with estrogens and has features of idiosyncratic liver injury.",
+    "raw_outcome_text": "Outcome and Management The severity of liver injury due to tibolone has varied from mild, transient serum enzyme elevations to moderately severe acute hepatitis. No instances of acute liver failure, death, or chronic hepatitis have been linked to tibolone use. A single instance of vanishing bile duct syndrome was reported after tibolone use in combination with St. John’s wort. Rechallenge studies have not been done.",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Tibolone - Livial®"
+    ],
+    "raw_drug_class": [],
+    "source_nxml_file": "Tibolone.nxml"
+  },
+  {
+    "id": 770,
+    "name_en": "Tigecycline",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "B",
+    "grade_explanation_en": "likely cause of clinically apparent liver injury perhaps due to direct hepatotoxicity with longer [more than 10 days] courses of high-dose treatment",
+    "rucam_score_bonus": 2,
+    "source": "LiverTox (NIDDK, NIH): Tigecycline.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Tigecycline/",
+    "source_review_date": "2026-06-15",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity Tigecycline therapy is reported to cause mild to moderate but transient elevations in serum aminotransferase levels in up to 33% of recipients. The rate of enzyme elevations is higher with longer courses of therapy and higher cumulative doses. Nevertheless, cases of clinically apparent liver injury with jaundice due to tigecycline are rare although fatal instances have been reported. Product labels for tigecycline mention isolated cases of significant hepatic dysfunction with cholestasis and jaundice identified from postmarketing experience. The latency, pattern, and duration of liver injury in cases of tigecycline induced hepatotoxicity are not well defined. From previous studies, standard tetracycline when given intravenously for more than a few days was associated with severe liver injury marked by macrovesicular steatosis, lactic acidosis, and hepatic failure. The clinical features resembled Reye syndrome and was considered due to direct hepatic mitochondrial injury and inhibition of protein synthesis. For this reason, intravenous tetracycline was withdrawn from use. The rare instances of severe hepatotoxicity reported from intravenous use of tigecycline have similar symptoms including hepatic steatosis and marked cholestasis. The presence of lactic acidosis has not been reported and detailed data on latency, dose of tigecycline, and course of the illness have been sparse. However, the intravenous use of second and third generation tetracyclines such as tigecycline, omadacycline, and eravacycline for more than 10 or 14 days should probably be avoided or patients monitored carefully for liver injury, hepatic steatosis, and acidosis. Intravenous tigecycline therapy has been associated with a decrease in serum albumin and coagulation factors, suggesting that it can cause inhibition of hepatic protein synthesis, and that evidence of direct hepatic injury might require a longer duration of therapy than has been typically used for tigecycline. Analyses of data collected by the FDA’s Adverse Event Reporting System (FAERS) suggested that both acute hepatocellular injury and acute liver failure have occurred with tigecycline therapy. Likelihood score: B (likely cause of clinically apparent liver injury perhaps due to direct hepatotoxicity with longer [more than 10 days] courses of high-dose treatment).",
+    "raw_mechanism_text": "Mechanism of Injury The cause of the serum enzyme elevations during intravenous therapy with tigecycline is unknown. High doses of intravenous tetracycline were associated with a severe direct hepatic injury marked by mitochondrial dysfunction. The severe liver injury from tigecycline, omadacycline, and eravacycline may share a similar mechanism. Oral tetracyclines are also associated with rare instances of idiosyncratic liver injury with autoimmune features that generally arise with long term oral use and are most commonly associated with minocycline. Intravenous tigecycline, eravacycline, and omadacycline have not been linked to this form of liver injury. Tigecycline is minimally metabolized in the liver and most is excreted unchanged in the bile, feces, and urine, which may explain its relative lack of idiosyncratic, immune mediated hepatotoxicity.",
+    "raw_outcome_text": "Outcome and Management Patients with cirrhosis should be monitored during tigecycline therapy for evidence of worsening hepatic function. Patients on intravenous tigecycline who develop serum aminotransferase elevations that rise above 5 times the upper limit of normal or are accompanied by jaundice or symptoms should have tigecycline stopped. Whether there is cross-sensitivity to hepatic injury among the various tetracyclines is not known, but switching to another class of antibiotics would be more appropriate than changing to another tetracycline-like agent in patients who develop evidence of liver injury while receiving tigecycline. Drug Class: Antiinfective Agents, Tetracyclines",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Tigecycline - Tygacil®"
+    ],
+    "raw_drug_class": [
+      "Antiinfective Agents",
+      "Tetracyclines"
+    ],
+    "source_nxml_file": "Tigecycline.nxml"
+  },
+  {
+    "id": 771,
+    "name_en": "Timolol",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "E",
+    "grade_explanation_en": "unlikely cause of clinically apparent acute liver injury",
+    "rucam_score_bonus": 0,
+    "source": "LiverTox (NIDDK, NIH): Timolol.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Timolol/",
+    "source_review_date": "2017-01-15",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity Mild-to-moderate elevations in serum aminotransferase levels occur in less than 2% of patients on timolol and are usually transient and asymptomatic, resolving even with continuation of therapy. Despite its wide spread use, timolol has not been convincingly linked to instances of clinically apparent liver injury. Other beta-blockers have been implicated in rare instances of acute liver injury with a latency to onset ranging from 2 to 24 weeks, a hepatocellular pattern of serum enzyme elevations and a mild, self-limiting course without evidence of hypersensitivity or autoimmune reactions. Likelihood score: E (unlikely cause of clinically apparent acute liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury Timolol undergoes extensive metabolism by the liver and is excreted in the urine as inactive metabolites. The reason why timolol rarely causes liver injury is unknown; other beta-blockers with similar chemical structures have been linked to cases of clinically apparent, idiosyncratic liver injury. References to the safety and potential hepatotoxicity of timolol are provided in the overview on Beta-Adrenergic Receptor Antagonists, last updated in June 2019. Drug Class: Beta-Adrenergic Receptor Antagonists",
+    "raw_outcome_text": "",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [],
+    "raw_drug_class": [
+      "Beta-Adrenergic Receptor Antagonists"
+    ],
+    "source_nxml_file": "Timolol.nxml"
+  },
+  {
+    "id": 772,
+    "name_en": "Tinidazole",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "E*",
+    "grade_explanation_en": "suspected but unproven rare cause of clinically apparent liver injury",
+    "rucam_score_bonus": 0,
+    "source": "LiverTox (NIDDK, NIH): Tinidazole.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Tinidazole/",
+    "source_review_date": "2020-02-20",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity Tinidazole is typically given for a few days only, but serum enzyme elevations have been reported with its use, and serum enzyme elevations during therapy is listed as a possible adverse event in the product label. Tinidazole is also capable of causing anaphylactic and allergic reactions including urticaria, angioedema and bronchospasm, reactions which can be associated with minor serum enzyme elevations. Tinidazole, despite considerable use worldwide, has not been linked convincingly to instances of clinically apparent liver injury with jaundice. Likelihood score: E* (suspected but unproven rare cause of clinically apparent liver injury)",
+    "raw_mechanism_text": "Mechanism of Injury The cause of rare instances of serum enzyme elevations with tinidazole therapy is unknown, but is likely to be immunologically mediated. Tinidazole is extensively metabolized in the liver largely via CYP 3A4 and can lead to significant drug-drug interactions.",
+    "raw_outcome_text": "Outcome and Management The severity of the liver injury linked to tinidazole therapy has been invariably mild and self-limited, usually with transient, asymptomatic serum enzyme elevations accompanying hypersensitivity reactions. However, the use of tinidazole has been limited and it is typically given for 1 to 5 days only. In instances of allergic reactions or anaphylaxis, rechallenge should be avoided. There is no information to suggest that there is cross sensitivity to hypersensitivity reactions or hepatic injury between tinidazole and other antimicrobial agents; indeed, some patients have had severe hypersensitivity reactions to tinidazole after tolerating a course of metronidazole. Drug Class: Antiinfective Agents Other Drugs in the Subclass, Nitroimidazoles: Benznidazole, Metronidazole, Secnidazole",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [],
+    "raw_drug_class": [
+      "Antiinfective Agents",
+      "Benznidazole",
+      "Metronidazole",
+      "Secnidazole"
+    ],
+    "source_nxml_file": "Tinidazole.nxml"
+  },
+  {
+    "id": 773,
+    "name_en": "Tiotropium",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "-",
+    "grade_explanation_en": "-",
+    "rucam_score_bonus": "-",
+    "source": "LiverTox (NIDDK, NIH): Tiotropium.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Tiotropium/",
+    "source_review_date": "2017-07-07",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity Like other anticholinergic agents, tiotropium has not been linked to episodes of liver enzyme elevations or clinically apparent liver injury. A major reason for its safety may relate to its low systemic absorption when administered by inhaler. References on the safety and potential hepatotoxicity of anticholinergics are given together after the Overview section on the Anticholinergic Agents. Drug Class: Anticholinergic Agents",
+    "raw_mechanism_text": "",
+    "raw_outcome_text": "",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Tiotropium - Spiriva®"
+    ],
+    "raw_drug_class": [
+      "Anticholinergic Agents"
+    ],
+    "source_nxml_file": "Tiotropium.nxml"
+  },
+  {
+    "id": 774,
+    "name_en": "Tizanidine",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "C",
+    "grade_explanation_en": "Probable rare cause of clinically apparent liver injury",
+    "rucam_score_bonus": 1,
+    "source": "LiverTox (NIDDK, NIH): Tizanidine.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Tizanidine/",
+    "source_review_date": "2017-01-30",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity Transient and asymptomatic elevations in serum ALT greater than 3 times the upper limit of normal occur in ~5% of patients taking tizanidine compared to 0.4% of subjects on placebo. Reports of severe hepatotoxicity, acute liver failure and death have been mentioned in review articles on tizanidine, but few case reports have been published. In these reports, the latency to onset of jaundice has ranged from 2 to 14 weeks and the enzyme elevations have been both cholestatic and hepatocellular (Case 1). Immunoallergic and autoimmune features have not been mentioned. Recovery was complete after 1 to 2 months. Likelihood score: C (Probable rare cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury The cause of acute hepatic injury from tizanidine is unknown, but is probably idiosyncratic due to hypersensitivity.",
+    "raw_outcome_text": "Outcome and Management The idiosyncratic liver injury due to tizanidine ranges from hepatitis with jaundice to acute liver failure leading to death. Chronic injury and vanishing bile duct syndrome have not been reported after tizanidine therapy. Recurrence on re-exposure has been reported and rechallenge should be avoided. No cross reactivity with other muscle relaxants has been identified. Drug Class: Muscle Relaxants",
+    "raw_case_report_text": "CASE REPORT Case 1. Acute hepatocellular injury with jaundice after tizanidine therapy. [Modified from: de Graaf EM, Oosterveld M, Tjabbes T, Stricker BH. A case of tizanidine-induced hepatic injury. J Hepatol 1996; 25: 772-3. PubMed Citation] A 55 year old woman with multiple sclerosis and lower limb muscle spasms developed jaundice 4 months after starting tizanidine therapy. The jaundice had been preceded by a 2 week period of progressive fatigue, nausea and poor appetite. She denied a history of liver disease or exposure to hepatitis and did not drink alcohol. Her other medications included baclofen, chlormezanone, diazepam, flurazepam, dexchlorpheniramine and diclofenac, all of which she had been taking chronically. On examination, she was deeply jaundiced and somnolent. She had no signs of chronic liver disease and did not have rash or fever. Laboratory testing showed a total bilirubin of 26.5 mg/dL and marked elevations in serum aminotransferase levels with minimal increase in alkaline phosphatase (Table). Tests for hepatitis A, B and C were negative as were autoantibodies (smooth muscle antibody was marginally positive). An abdominal ultrasound showed no evidence of biliary obstruction. Tizanidine had been discontinued 2 weeks before admission, but she worsened during the next several weeks, but then began a spontaneous recovery which was complete 2 months later. Several months later, the patient was inadvertently rechallenged with a single 4 mg dose of tizanidine and within 6 days the ALT levels had increased from 14 to 155 U/L. Tizanidine was discontinued again, and one week later serum ALT levels had returned to normal. Key Points Medication: Tizanidine 36 mg daily Pattern: Hepatocellular (R=15) Severity: 4+ (jaundice, hospitalization, mild hepatic failure) Latency: 14 weeks to onset of symptoms Recovery: Complete recovery 2 months after stopping Other medications: Baclofen, diclofenac, chlormezanone, diazepam, flurazepam, dexchlorpheniramine Laboratory Values Time After Starting Time After Stopping ALT (U/L) Alk P (U/L) Bilirubin* (mg/dL) Other 0 Tizanidine started 2 days 0 Normal Normal Normal 16 days 0 Tizanidine stopped 18 days 2 days 830 187 26.5 Admission. INR=1.6 22 days 8 days 270 36.0 24 days 10 days 60 30.0 26 days 12 days 30 4.0 30 days 16 days 14 1.0 Single dose of tizanidine 31 (1)** days 17 (1) days 155 1.0 32 (2) days 18 (2) days 30 1.0 Normal Values <30 <100 <1.2 * Bilirubin levels converted from μmol/L. Some values were estimated from Figure 1. ** Values in parentheses are the number of days after rechallenge Comment The onset of hepatic injury after 4 months of therapy, the improvement with stopping treatment, and the accelerated recurrence of hepatic injury with restarting tizanidine make it highly likely that the hepatitis was due to tizanidine induced liver injury. The pattern of injury was distinctly hepatocellular. Diclofenac can also cause similar hepatocellular injury, but the other features and particularly the rechallenge argue in support of tinazidine as the cause. The rapidity of recurrence on reexposure suggests that the hepatic injury was due to hypersensitivity. The muscle relaxants are a diverse group of medications and share little in structure or mechanisms of action, so that cross sensitivity to hepatic injury should not be a problem. This patient was restarted on baclofen and a benzodiazepam without complication.",
+    "raw_case_report_key_points": {
+      "Medication": "Tizanidine 36 mg daily",
+      "Pattern": "Hepatocellular (R=15)",
+      "Severity": "4+ (jaundice, hospitalization, mild hepatic failure)",
+      "Latency": "14 weeks to onset of symptoms",
+      "Recovery": "Complete recovery 2 months after stopping",
+      "Other medications": "Baclofen, diclofenac, chlormezanone, diazepam, flurazepam, dexchlorpheniramine"
+    },
+    "raw_trade_names": [],
+    "raw_drug_class": [
+      "Muscle Relaxants"
+    ],
+    "source_nxml_file": "Tizanidine.nxml"
+  },
+  {
+    "id": 775,
+    "name_en": "Tobramycin",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "-",
+    "grade_explanation_en": "-",
+    "rucam_score_bonus": "-",
+    "source": "LiverTox (NIDDK, NIH): Tobramycin.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Tobramycin/",
+    "source_review_date": "2019-04-12",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity Intravenous and intramuscular therapy with tobramycin is usually associated with no increase in rates of serum aminotransferase or bilirubin elevations. Only isolated case reports of acute liver injury with jaundice have been associated with aminoglycoside therapy including tobramycin, not all of which are very convincing. The hepatic injury is typically mixed but can evolve into a cholestatic hepatitis. The latency to onset is rapid, occurring within 1 to 3 weeks and is typically associated with skin rash, fever and sometimes eosinophilia. Recovery typically occurs within 1 to 2 months and chronic injury has not been described. Aminoglycosides are not mentioned in large case series of drug induced liver disease and acute liver failure; thus, hepatic injury due to tobramycin is rare if it occurs at all.",
+    "raw_mechanism_text": "Mechanism of Injury The cause of symptomatic, icteric hepatic injury from tobramycin is not known, but is likely to be immunoallergic. Uptake of the aminoglycosides into hepatocytes is limited and they are rapidly excreted in the urine; high concentrations are found mainly in renal tubular cells and hair cells of the inner ear, perhaps explaining why they are more likely to cause nephro- or oto- rather than hepatotoxicity.",
+    "raw_outcome_text": "Outcome and Management The outcome of hepatic injury due to aminoglycosides is usually benign. Acute liver failure has not been associated with tobramycin use and no convincing cases of chronic bile duct vanishing syndrome have been described after its use. Patients with tobramycin hepatotoxicity should probably avoid all systemic aminoglycoside use. References to the safety and potential hepatotoxicity of tobramycin are provided in the Overview section on the Aminoglycosides. Drug Class: Aminoglycosides Other Drugs in the Class: Amikacin, Gentamicin, Neomycin, Plazomicin, Streptomycin",
+    "raw_case_report_text": "CASE REPORT Case 1. Acute hepatitis arising during tobramycin therapy. [Modified from: Nisly SA, Ray SM, Moye RA. Tobramycin-induced hepatotoxicity. Ann Pharmacother 2007; 41: 2061-5. PubMed Citation] A 20 year old woman with osteomyelitis was treated with intravenous tobramycin and ceftazidime and developed rising levels of ALT and AST with mild jaundice. The patient had a past history of surgery on her right femur and recurrent osteomyelitis. She presented with fever and chills and was started on intravenous piperacillin/tazobactam, ciprofloxacin and vancomycin, which was changed to intravenous ceftazidime and tobramycin when blood cultures revealed P. aeruginosa, sensitive to this regimen. Serum ALT, AST and Alk P levels started to rise (see Table), and piperacillin/tazobactam was substituted for ceftazidime. Tests for hepatitis A, B and C were negative. Imaging showed no evidence of gallstones or biliary obstruction. Because of further increases in liver tests, aztreonam was substituted for piperacillin/tazobactam. When serum bilirubin began to rise, all antibiotics were stopped. Thereafter, liver tests began to improve, and they continued downward even with reinitiation of intravenous aztreonam and ciprofloxacin. Serum aminotransferase levels were near normal by the time of discharge. Key Points Medication: Tobramycin, 70-100 mg every 8 hours for 9 days Pattern: Mixed (R=~3) Severity: 3+ (jaundice, hospitalization) Latency: 3-4 days to ALT elevations, 8 days to jaundice Recovery: One week Other medications: Paroxetine, alprazolam, hydrocodone/acetaminophen, oxycodone, hydromorphone, promethazine, docusate, metoclopramide, piperacillin/tazobactam, ciprofloxacin, aztreonam, and ceftazidime Laboratory Values Time After Starting Time After Stopping ALT (U/L) Alk P (U/L) Bilirubin (mg/dL) Other Pre 48 220 3.2 Admission with fever 1 day 40 200 Started tobramycin/ceftazidime 6 days 139 432 1.8 Piperacillin/tazobactam started 8 days 315 330 4.9 Aztreonam started 10 days 330 320 All antibiotics stopped 12 days 0 210 225 13 days 1 days 180 210 14 days 2 days 160 200 Aztreonam/ciprofloxacin started 15 days 3 days 110 180 17 days 5 days 65 158 1.5 Normal Values <55 <148 <1.2 Comment While the timing of onset and subsequent improvement in serum aminotransferase and alkaline phosphatase levels suggest that tobramycin might be the cause of the liver injury, the history is complex. The patient was mildly jaundiced and had evidence for underlying liver disease at the time of admission before antibiotic therapy (this may have been due to sepsis). Furthermore, she received a multitude of medications, including several other antibiotics that are capable of causing liver injury (piperacillin, ciprofloxacin, ceftazidime). Because of the polypharmacy and presence of sepsis, the likelihood that the injury was due to tobramycin might be rated as only possible.",
+    "raw_case_report_key_points": {
+      "Medication": "Tobramycin, 70-100 mg every 8 hours for 9 days",
+      "Pattern": "Mixed (R=~3)",
+      "Severity": "3+ (jaundice, hospitalization)",
+      "Latency": "3-4 days to ALT elevations, 8 days to jaundice",
+      "Recovery": "One week",
+      "Other medications": "Paroxetine, alprazolam, hydrocodone/acetaminophen, oxycodone, hydromorphone, promethazine, docusate, metoclopramide, piperacillin/tazobactam, ciprofloxacin, aztreonam, and ceftazidime"
+    },
+    "raw_trade_names": [],
+    "raw_drug_class": [
+      "Aminoglycosides",
+      "Amikacin",
+      "Gentamicin",
+      "Neomycin",
+      "Plazomicin",
+      "Streptomycin"
+    ],
+    "source_nxml_file": "Tobramycin.nxml"
+  },
+  {
+    "id": 776,
+    "name_en": "Tofacitinib",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "E*",
+    "grade_explanation_en": "suspected but unproven rare cause of clinically apparent liver injury with the potential to cause reactivation of hepatitis B",
+    "rucam_score_bonus": 0,
+    "source": "LiverTox (NIDDK, NIH): Tofacitinib.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Tofacitinib/",
+    "source_review_date": "2022-08-30",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity In large registration clinical trials, serum aminotransferase elevations occurred in 28% to 34% of tofacitinib treated subjects compared to 25% in comparator arms and 10% in placebo recipients. These elevations were typically mild and transient, but values above 3 times the upper limit of normal (ULN) occurred in 1% to 2% of patients on tofacitinib compared to less than 1% on placebo. The elevations occasionally led to early discontinuations, but more often resolved even without dose adjustment. In prelicensure studies, there were no instances of clinically apparent liver injury attributed to tofacitinib. Since approval and more wide scale availability of tofacitinib, there have been no published reports of hepatotoxicity associated with its use but a proportion of patients do develop serum aminotransferase elevations which in some cases leads to drug discontinuation. While other Janus kinase inhibitors such as ruxolitinib have been associated with episodes of reactivation of hepatitis B, spontaneous reports of clinically apparent reactivation of hepatitis during tofacitinib therapy have not been reported. On the other hand, retrospective studies on patients with HBsAg and inactive liver disease who were treated with tofacitinib have been reported to develop rising levels of HBV DNA and modest elevations in serum aminotransferase levels without symptoms. In contrast, studies of patients with anti-HBc without HBsAg in serum have shown no evidence of HBV DNA rises and appearance of HBsAg. Thus, reactivation of hepatitis B during therapy can occur, although it is generally mild and self-limited in course. Whether reactivation of hepatitis B can arise after therapy of susceptible patients with tofacitinib for severe COVID-19 pneumonia is unknown, but there have been no such reports to date. Likelihood score: E* (suspected but unproven rare cause of clinically apparent liver injury with the potential to cause reactivation of hepatitis B).",
+    "raw_mechanism_text": "Mechanism of Injury The causes of serum enzyme elevations during tofacitinib therapy are not known. Tofacitinib is metabolized in the liver largely through the CYP 3A4 pathway and liver injury may be related to production of a toxic or immunogenic intermediate. Because it is a substrate for CYP 3A4, tofacitinib is susceptible to drug-drug interactions with agents that inhibit or induce this specific hepatic microsomal activity. Tofacitinib is a potent immunomodulatory agent and appears to be capable of causing reactivation of hepatitis B.",
+    "raw_outcome_text": "Outcome and Management Monitoring of serum aminotransferase levels is recommended for patients starting tofacitinib. Serum aminotransferase elevations above 5 times the upper limit of normal (if confirmed) or any elevations accompanied by jaundice or symptoms should lead to dose reduction or temporary cessation. There are no data to suggest a cross reactivity in risk for hepatic injury between tofacitinib and other kinase inhibitors or biologic or nonbiologic DMARDs. Because tofacitinib is capable of inducing reactivation of hepatitis B, patients starting long term therapy with tofacitinib should be screened for HBsAg and anti-HBc. Patients with preexisting HBsAg in serum should undergo evaluation and prophylaxis against reactivation of HBV using potent oral antiviral agents, such as tenofovir or entecavir. Those with anti-HBc without HBsAg or HBV DNA should be monitored for evidence of infection and treated if there is de novo appearance of HBsAg or HBV DNA. Drug Class: Antirheumatic Agents, Protein Kinase Inhibitors, COVID-19 Drugs",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Tofacitinib - Xeljanz®"
+    ],
+    "raw_drug_class": [
+      "Antirheumatic Agents",
+      "Protein Kinase Inhibitors",
+      "COVID-19 Drugs"
+    ],
+    "source_nxml_file": "Tofacitinib.nxml"
+  },
+  {
+    "id": 777,
+    "name_en": "Tolterodine",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "D",
+    "grade_explanation_en": "possible, very rare cause of clinically apparent liver injury",
+    "rucam_score_bonus": 1,
+    "source": "LiverTox (NIDDK, NIH): Tolterodine.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Tolterodine/",
+    "source_review_date": "2023-07-12",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity In multiple randomized controlled trials of tolterodine in patients with overactive bladder syndrome, serum aminotransferase and alkaline phosphatase elevations were not common, arising in less than 1% of treated subjects and in a similar proportion of placebo recipients. In these clinical trials there were no reports of clinically apparent liver injury or jaundice. Since the approval of tolterodine in 1998 and its widescale use (with more than 1 million prescriptions filled yearly in the United States), there has been only one published case report of liver injury with symptoms and jaundice attributed to its use (Case 1). Thus, acute symptomatic liver injury due to tolterodine must be very rare, if it occurs at all. Likelihood score: D (possible, very rare cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury The mechanism by which tolterodine might cause liver injury unknown. It is metabolized in the liver by microsomal P450 enzymes, predominantly CYP 3A4 and 2D6. Despite this, drug-drug interactions are uncommon. A major reason for its safety may relate to the low daily dose. Drug Class: Anticholinergic Agents",
+    "raw_outcome_text": "",
+    "raw_case_report_text": "CASE REPORT Case 1. Mixed hepatitis arising after 18 days of tolterodine therapy.(1) An 81 year old woman with overactive bladder syndrome developed fever, fatigue, and nausea 18 days after starting tolterodine (2 mg twice daily). Her symptoms were initially attributed to a cold, but two days later when she had not improved, she discontinued tolterodine. The following day, she sought medical care and was found to have fever and abnormal liver tests including an ALT of 479 U/L, AST 301 U/L, Alk P 389 U/L, and GGT 292 U/L. She had no history of liver disease, exposures to viral hepatitis or known drug allergies. Her other medications included flunitrazepam once daily and diclofenac a few times weekly for arthritis, both of which she had taken for several years. Physical examination revealed mild fever (38.4oC) without rash, lymphadenopathy or abdominal tenderness. A liver ultrasound was normal without evidence of biliary obstruction. Over the next few days, she developed mild jaundice (bilirubin 2.4 mg/dL) and a leukocytosis and eosinophilia (8%). Because of concern about sepsis, she was treated with ciprofloxacin for 4 days, but blood cultures were negative, and liver tests had begun to improve. Two weeks after stopping tolterodine, she was asymptomatic and liver tests were only mildly elevated. When seen in follow up 4 weeks after stopping tolterodine, all liver tests were normal. Key Points Medication: Tolterodine (2 mg twice daily) Pattern: Mixed (R=~3.9) Severity: 3+ (jaundice, likely hospitalized) Latency: 3 weeks to ALT elevations and jaundice Recovery: Within 1 month Other medications: A benzodiazepine, diclofenac chronically Laboratory Values Time AfterStarting Time AfterStopping ALT(U/L) Alk P(U/L) Bilirubin(mg/dL) Other Tolterodine started (2 mg twice daily) 10 days pre Normal Normal Asymptomatic 18 days 20 Fatigue, nausea, and fever 20 days 0 Tolterodine stopped 21 days 1 day 479 389 Normal 25 days 5 days 2.4 34 days 2 weeks 82 244 Normal Asymptomatic 48 days 4 weeks Normal Normal Normal Normal Values* <40 <125 <1.2 * Imputed upper limit of normal values. Comment This patient was found to have symptoms of fever, fatigue, nausea and abdominal upset with a “mixed” pattern of serum enzyme elevations 2 to 3 weeks after starting tolterodine. The aminotransferase levels were approximately 12 times and alkaline phosphatase 3 times the upper limit of normal, and both had been normal when tested several weeks earlier (and while on tolterodine). While the presentation and course of illness were entirely compatible with a hypersensitivity reaction accompanied by mild hepatic injury, other possibilities were not completely excluded. Helpful would have been mention of whether the ultrasound showed gallstones since temporary biliary obstruction from passing a gallstone can mimic a mild and transient episode of drug induced liver injury. In addition, follow up information on whether diclofenac was restarted without return of liver injury would be reassuring. Diclofenac is a common cause of drug induced liver injury while tolterodine is not, this being the only case report of liver injury due to tolterodine in the literature despite its availability and common use for more than 25 years (more than 1 million prescriptions were filled in the United States in 2020).",
+    "raw_case_report_key_points": {
+      "Medication": "Tolterodine (2 mg twice daily)",
+      "Pattern": "Mixed (R=~3.9)",
+      "Severity": "3+ (jaundice, likely hospitalized)",
+      "Latency": "3 weeks to ALT elevations and jaundice",
+      "Recovery": "Within 1 month",
+      "Other medications": "A benzodiazepine, diclofenac chronically"
+    },
+    "raw_trade_names": [],
+    "raw_drug_class": [
+      "Anticholinergic Agents"
+    ],
+    "source_nxml_file": "Tolterodine.nxml"
+  }
+]

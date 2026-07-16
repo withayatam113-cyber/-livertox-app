@@ -1,0 +1,426 @@
+[
+  {
+    "id": 643,
+    "name_en": "Naloxone",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "E",
+    "grade_explanation_en": "unlikely cause of clinically apparent liver injury",
+    "rucam_score_bonus": 0,
+    "source": "LiverTox (NIDDK, NIH): Naloxone.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Naloxone/",
+    "source_review_date": "2020-03-24",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity Therapy with naloxone has not been linked to serum enzyme elevations or to idiosyncratic acute, clinically apparent liver injury. Patients with opioid overdose often have underlying chronic liver diseases such as alcoholic liver disease, hepatitis B or C, but treatment with naloxone does not appear to exacerbate those conditions. Naloxone is extensively metabolized in the liver, but largely by conjugation with glucuronide followed by its urinary excretion. Likelihood score: E (unlikely cause of clinically apparent liver injury). Drug Class: Opioid Antagonists; see also Substance Abuse Treatment Agents Other Drugs in the Class: Nalmefene; Naloxegol, Naltrexone",
+    "raw_mechanism_text": "",
+    "raw_outcome_text": "",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [],
+    "raw_drug_class": [
+      "Substance Abuse Treatment Agents",
+      "Nalmefene",
+      "Naloxegol",
+      "Naltrexone"
+    ],
+    "source_nxml_file": "Naloxone.nxml"
+  },
+  {
+    "id": 644,
+    "name_en": "Nateglinide",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "E*",
+    "grade_explanation_en": "unproven but suspected rare cause of clinically apparent liver injury",
+    "rucam_score_bonus": 0,
+    "source": "LiverTox (NIDDK, NIH): Nateglinide.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Nateglinide/",
+    "source_review_date": "2019-05-21",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity In several large clinical trials, serum aminotransferase elevations were no more common with nateglinide than with placebo. The enzyme elevations that occurred were asymptomatic and resolved rapidly with stopping therapy. Since its approval and with wide scale use, the FDA and the sponsor have received reports of clinically apparent liver injury attributed to nateglinide. However, none of these cases has been published and the clinical features, time to onset, course and outcome of the injury have not been described. The metiglinide analogue repaglinide has been impicated in rare cases of cholestatic or mixed hepatitis, but whether nateglinide liver injury is similar is not known. Thus, nateglinide is likely to be a very rare cause of clinically apparent liver disease. Likelihood score: E* (unproven but suspected rare cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury The mechanism of nateglinide induced liver injury is not known, but nateglinide is extensively metabolized by the liver via the P450 system (CYP 2C9 and 3A4), and liver injury may be the result of production of a toxic or immunoreactive intermediate.",
+    "raw_outcome_text": "Outcome and Management There is no information on results of rechallenge on cross sensitivity to hepatic damage among the various metiglinides. Reexposure and use of other metiglinides after clinically apparent liver injury related to nateglinide should be done with caution. References regarding the safety and hepatotoxicity of nateglinide and repaglinide are given with the Overview section on the Metiglinide Analogues (updated June 2018). Drug Class: Antidiabetic Agents Other Drugs in the Subclass Metiglinide Analogues: Repaglinide",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [],
+    "raw_drug_class": [
+      "Antidiabetic Agents",
+      "Metiglinide Analogues",
+      "Repaglinide"
+    ],
+    "source_nxml_file": "Nateglinide.nxml"
+  },
+  {
+    "id": 645,
+    "name_en": "Nebivolol",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "E",
+    "grade_explanation_en": "unlikely cause of clinically apparent liver injury",
+    "rucam_score_bonus": 0,
+    "source": "LiverTox (NIDDK, NIH): Nebivolol.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Nebivolol/",
+    "source_review_date": "2017-01-15",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity Mild-to-moderate elevations in serum aminotransferase levels occur in less than 2% of patients on beta-blockers and are usually transient and asymptomatic, resolving even with continuation of therapy. There is no information on the rates of ALT elevations during nebivolol therapy. Despite its use in several large clinical trials, nebivolol has not been linked to cases of clinically apparent liver injury. Likelihood score: E (unlikely cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury Nebivolol undergoes extensive metabolism by the liver, is a substrate of CYP 2D6 and its excretion is largely biliary. The liver injury linked to other beta-blockers is likely to be idiosyncratic. References to the safety and potential hepatotoxicity of nebivolol are provided in the overview on Beta-Adrenergic Receptor Antagonists, last updated in June 2019. Drug Class: Beta-Adrenergic Receptor Antagonists",
+    "raw_outcome_text": "",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Nebivolol - Bystolic®"
+    ],
+    "raw_drug_class": [
+      "Beta-Adrenergic Receptor Antagonists"
+    ],
+    "source_nxml_file": "Nebivolol.nxml"
+  },
+  {
+    "id": 646,
+    "name_en": "Neomycin",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "-",
+    "grade_explanation_en": "-",
+    "rucam_score_bonus": "-",
+    "source": "LiverTox (NIDDK, NIH): Neomycin.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Neomycin/",
+    "source_review_date": "2019-04-12",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity Oral and topical therapy with neomycin has not been linked serum alkaline phosphatase or aminotransferase elevations, and no convincing cases of symptomatic or icteric hepatotoxicity due to oral neomycin have been published. The poor absorption of neomycin makes it unlikely that systemic levels of the drug that might cause liver injury could be achieved. Furthermore, the ototoxicity of absorbed neomycin is likely to supervene before liver toxicity would occur. References to the safety and potential hepatotoxicity of neomycin are provided in the Overview section on the Aminoglycosides. Drug Class: Aminoglycosides Other Drugs in the Class: Amikacin, Gentamicin, Plazomicin, Streptomycin, Tobramycin",
+    "raw_mechanism_text": "",
+    "raw_outcome_text": "",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [],
+    "raw_drug_class": [
+      "Aminoglycosides",
+      "Amikacin",
+      "Gentamicin",
+      "Plazomicin",
+      "Streptomycin",
+      "Tobramycin"
+    ],
+    "source_nxml_file": "Neomycin.nxml"
+  },
+  {
+    "id": 647,
+    "name_en": "Nicardipine",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "-",
+    "grade_explanation_en": "-",
+    "rucam_score_bonus": "-",
+    "source": "LiverTox (NIDDK, NIH): Nicardipine.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Nicardipine/",
+    "source_review_date": "2017-01-11",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity Nicardipine has not been associated with significant increases in rates of elevations in serum aminotransferase or alkaline phosphatase levels, even with chronic long term therapy. Cases of idiosyncratic liver injury have not been published, although a single instance of marked serum enzyme elevations without jaundice has been reported with the use of intravenous nicardipine. Large trials of nicardipine have not mentioned liver injury, serum aminotransferase elevations or discontinuation of drug because of hepatic adverse events. Thus, clinically apparent liver injury with jaundice due to nicardipine must be rare, if it occurs at all. Likelihood Score: E (unlikely cause of clinically apparent liver injury). The reason why some calcium channel blockers are known to cause idiosyncratic liver injury while others such as nicardipine do not, is unknown. Drug Class: Cardiovascular Agents, Calcium Channel Blockers Other Drugs in the Subclass, Calcium Channel Blockers: Amlodipine, Diltiazem, Felodipine, Isradipine, Nifedipine, Nimodipine, Nisoldipine, Verapamil",
+    "raw_mechanism_text": "",
+    "raw_outcome_text": "",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [],
+    "raw_drug_class": [
+      "Calcium Channel Blockers",
+      "Amlodipine",
+      "Diltiazem",
+      "Felodipine",
+      "Isradipine",
+      "Nifedipine",
+      "Nimodipine",
+      "Nisoldipine",
+      "Verapamil"
+    ],
+    "source_nxml_file": "Nicardipine.nxml"
+  },
+  {
+    "id": 648,
+    "name_en": "Nilotinib",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "D",
+    "grade_explanation_en": "possible rare cause of clinically apparent liver injury",
+    "rucam_score_bonus": 1,
+    "source": "LiverTox (NIDDK, NIH): Nilotinib.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Nilotinib/",
+    "source_review_date": "2020-05-10",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity Elevations in serum aminotransferase levels are common during nilotinib therapy, occurring in up to 70% of patients, but rising to greater than 5 times the upper limit of normal (ULN) in only 4% to 9% of recipients. These abnormalities are usually asymptomatic. If levels are markedly elevated (ALT or AST persistently greater than 5 times ULN or bilirubin more than 3 times ULN), dose adjustment or temporary discontinuation and restarting at a lower dose is recommended. In high doses, nilotinib is also associated with elevations in serum bilirubin, but these are largely in the indirect (unconjugated) fraction and are not associated with serum enzyme elevations or symptoms, resolving with dose adjustment or discontinuation. The majority of patients with marked bilirubin elevations on nilotinib therapy have underlying Gilbert Syndrome. There has been only a single published case report of clinically apparent liver injury attributed to nilotinib, but it has been used in a restricted population of patients for a relatively short period of time. The latency to onset was 2 months and the pattern of injury was hepatocellular initially, but evolved into a severe and prolonged cholestatic hepatitis. The product label does mention hepatitis and jaundice as reported adverse events. Severe tumor lysis syndrome with multiorgan including hepatic failure can occur with nilotinib but is rare. In addition, most other tyrosine kinase receptor inhibitors have been linked to rare instances of clinically apparent liver injury, usually arising after 1 to 8 weeks of treatment and presenting with a hepatocellular or mixed pattern of serum enzyme elevations. Immunoallergic and autoimmune features are uncommon. The liver injury can be severe and lead to acute liver failure. Routine monthly monitoring of liver tests during therapy with tyrosine kinase receptor inhibitors is recommended. Likelihood score: D (possible rare cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury The cause of the liver injury due to nilotinib is unknown. Nilotinib is metabolized in the liver largely by the cytochrome P450 system, and liver injury may be due to accumulation of a toxic intermediate or from a drug-drug interaction with other medications.",
+    "raw_outcome_text": "Outcome and Management Serum aminotransferase elevations above 5 times the upper limit of normal (if confirmed) should lead to dose reduction or temporary cessation. Cross reactivity of the hepatic injury with other tyrosine kinase inhibitors is not common, but can occur. In using this medication, other potentially hepatotoxic agents should be avoided. Drug Class: Antineoplastic Agents, Protein Kinase Inhibitors Other Drugs in the Subclass, Chronic Myeloid Leukemia Agents: Bosutinib, Dasatinib, Imatinib, Omacetaxine, Ponatinib",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Nilotinib - Tasigna®"
+    ],
+    "raw_drug_class": [
+      "Antineoplastic Agents",
+      "Protein Kinase Inhibitors",
+      "Bosutinib",
+      "Dasatinib",
+      "Imatinib",
+      "Omacetaxine",
+      "Ponatinib"
+    ],
+    "source_nxml_file": "Nilotinib.nxml"
+  },
+  {
+    "id": 649,
+    "name_en": "Nimesulide",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "A",
+    "grade_explanation_en": "well established cause of clinically apparent liver injury",
+    "rucam_score_bonus": 2,
+    "source": "LiverTox (NIDDK, NIH): Nimesulide.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Nimesulide/",
+    "source_review_date": "2025-08-10",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity Prospective studies show that up to 15% of patients taking NSAIDs experience at least transient serum aminotransferase elevations. A lower rate has been reported with nimesulide. These elevations are generally transient, mild and asymptomatic, and may resolve even with drug continuation. Marked aminotransferase elevations (>3 fold elevated) occur in <1% of patients. Nevertheless, nimesulide has been repeatedly linked to cases of clinically apparent liver injury with jaundice, with more than 100 cases described in the world's literature. The time to onset has ranged from a few days to 6 months, the usual latency being 4 weeks. The pattern of enzyme elevations is typically hepatocellular, although cholestatic forms have been described as well. Immunoallergic features are usually absent and, when present, are not prominent. Autoimmune features are rare. Most cases resolve beginning a few days after stopping therapy. However, multiple instances of acute liver failure with death or need for emergency liver transplantation have been described (Case 1). The mortality rate of nimesulide associated acute hepatitis with jaundice is between 10% and 20%. The overall frequency of nimesulide hepatotoxicity is not known, but it is usually mentioned in large case series on drug induced liver injury and acute liver failure, and a reasonable estimation is one in 50,000 users. Liver injury may be less common when the duration of therapy is limited to 15 days; however, severe cases of nimesulide liver injury have been reported after courses of therapy as short as 3 to 5 days. Likelihood score: A (well established cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury The mechanism of nimesulide hepatotoxicity is not known, but likely to be due to an idiosyncratic reaction to an intermediate of its metabolism. Nimesulide is extensively metabolized by the liver.",
+    "raw_outcome_text": "Outcome and Management Severity ranges from asymptomatic elevations in serum aminotransferase levels to symptomatic hepatitis with or without jaundice. Several cases of fulminant hepatitis attributed to nimesulide have been reported, and the overall mortality rate among jaundiced cases is between 10% and 20%. Recurrence upon rechallenge with nimesulide has been reported and should be avoided. There is no evidence for cross sensitivity to liver injury between nimesulide and other conventional NSAIDs, such as ibuprofen, naproxen or diclofenac. Because of the sulfonanilide structure of nimesulide, use of sulfonamides or other agents with a sulfonamide related structure (celecoxib, zonisamide) after clinically apparent liver injury from nimesulide should be done with caution. Drug Class: Nonsteroidal Antiinflammatory Drugs",
+    "raw_case_report_text": "CASE REPORT Case 1. Acute liver failure attributed to nimesulide.(1) A 58 year old woman began to feel unwell approximately 10 days after starting nimesulide for chronic back pain. She was seen and found to have mild elevations in serum enzymes (Table). Nimesulide was continued, but she developed further symptoms including nausea and it was stopped. Two weeks later, she noted dark urine and jaundice and shortly thereafter she was admitted to the hospital because of worsening symptoms. She had no history of liver disease, alcohol abuse or risk factors for viral hepatitis. She had taken nimesulide for short periods in the past. Her other medications included birth control pills which she had taken for 6 years and sertraline which she had taken for 11 months. On admission, she was acutely ill with jaundice and confusion. Laboratory results showed a total bilirubin of 16.9 mg/dL, ALT 1046 U/L, AST 386 U/L, alkaline phosphatase 114 U/L, GGT 112 U/L, albumin 2.8 g/dL and INR greater than 12. Tests for hepatitis A, B, C, EBV and CMV were negative. She had low titers of ANA (1:25). Abdominal ultrasound showed normal liver, spleen and biliary system and a small amount of ascites. She rapidly deteriorated and required assisted ventilation. She developed progressive hepatic failure and underwent emergency liver transplantation within 3 days of admission, but had primary graft nonfunction, multiorgan failure and died within a day of the surgery. Autopsy revealed massive hepatic necrosis. Key Points Medication: Nimesulide (100 mg twice daily) Pattern: Hepatocellular (R=~62) Severity: 5+ (jaundice, hepatic failure, liver transplantation, death) Latency: 10 days to symptoms, 50 days to jaundice Recovery: None Other medications: Oral contraceptives, sertraline Laboratory Values Time AfterStarting Time AfterStopping ALT(U/L) Alk P(U/L) Bilirubin(mg/dL) Other Pre 0 23 51 Routine 10 days 0 187 50 Nonspecific symptoms 32 days 0 504 54 0.9 Nausea 50 days 2 weeks 2857 114 7.0 Admission, confusion 53 days Liver transplantation, primary nonfunction, death Normal Values <40 <100 <1.2 Comment This was one of the earliest reported cases of acute liver failure attributed to nimesulide. The latency to onset was actually quite short, within 2 weeks of starting. Symptoms were vague and not specific. Her liver tests were abnormal, but nimesulide was continued. She continued to feel worse and eventually developed jaundice followed by hepatic failure. She was acutely ill on hospital admission and was rapidly listed for emergency liver transplantation, which was carried out on day 3. She suffered primary graft nonfunction, however, and died of multiorgan failure. The majority of cases of acute liver failure due to nimesulide have been in middle aged women with onset within 2 weeks to 3 months of starting. The shorter latencies may correlate with previous exposure.",
+    "raw_case_report_key_points": {
+      "Medication": "Nimesulide (100 mg twice daily)",
+      "Pattern": "Hepatocellular (R=~62)",
+      "Severity": "5+ (jaundice, hepatic failure, liver transplantation, death)",
+      "Latency": "10 days to symptoms, 50 days to jaundice",
+      "Recovery": "None",
+      "Other medications": "Oral contraceptives, sertraline"
+    },
+    "raw_trade_names": [],
+    "raw_drug_class": [
+      "Nonsteroidal Antiinflammatory Drugs"
+    ],
+    "source_nxml_file": "Nimesulide.nxml"
+  },
+  {
+    "id": 650,
+    "name_en": "Nintedanib",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "C",
+    "grade_explanation_en": "probable cause of clinically apparent liver injury that can be severe and even fatal",
+    "rucam_score_bonus": 1,
+    "source": "LiverTox (NIDDK, NIH): Nintedanib.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Nintedanib/",
+    "source_review_date": "2023-12-12",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity In large preregistration randomized controlled trials, serum enzyme elevations occurred in 8% to 16% of patients receiving nintedanib compared to 3% of controls. Aminotransferase values above 3 times the upper limit of normal (ULN) occurred in only 3% to 5% of patients (compared to <1% of controls), and discontinuation of therapy because of ALT elevations was required in less than 1% of nintedanib treated subjects. The enzyme elevations during nintedanib therapy were generally not accompanied by symptoms of liver injury or jaundice and resolved even without dose modification in many subjects. Subsequent to the approval of nintedanib as therapy for fibrotic pulmonary diseases, several reports of clinically apparent liver injury attributable to its use were published from Asia, Europe, and the United States. In reported cases, the latency to onset ranged for 4 to 24 months and the pattern of enzyme elevations ranged from cholestatic to hepatocellular. Fatal cases have been reported to the sponsor and to the FDA, but details of the liver injury were not well defined and the causality was often only possible or at most probable. Analysis of rates of ALT and AST elevations during nintedanib therapy have been reported to be as high as 68%, but usually self-limited and not accompanied by jaundice. Injury appears to be more frequent in the elderly, in Asians, and in patients with lower body weight and body surface area. Starting treatment at 100 mg twice daily and dose reduction to 100 mg twice daily appears to be associated with lower rates of aminotransferase elevations. These reports, however, led to revisions of the product label that now include warnings of liver injury that could be severe and even fatal. Warnings were also added to use caution in treating patients with concurrent known liver disease. Monitoring of liver tests are recommended by expert panels at baseline and at least monthly for the first 3 months and every 3 months thereafter. Thus, nintedanib is likely to cause clinically apparent liver injury, and careful monitoring and early discontinuation (as was done in the preregistration studies) may prevent its occurrence. Likelihood score: C (probable cause of clinically apparent liver injury that can be severe and even fatal).",
+    "raw_mechanism_text": "Mechanism of Injury The mechanism by which nintedanib might cause liver injury is not known. It is metabolized in the liver largely via the cytochrome P450 system and idiosyncratic liver injury may be due to its metabolism to a toxic or immunogenic intermediate. Comparison of clinical features of patients with and without hepatic injury during nintedanib therapy suggests that hepatic enzyme elevations are more frequent in patients with a low body weight and body surface area suggesting that pharmacokinetic features may underlie risk for injury, which would explain the higher rates in the elderly and in Asians. Nintedanib is also susceptible to drug-drug interactions with strong inducers or inhibitors of CYP 3A4.",
+    "raw_outcome_text": "Outcome and Management While chronic therapy with nintedanib can be associated with transient mild-to-moderate serum aminotransferase elevations, it can also result in clinically apparent liver injury. Current recommendations are for monitoring of serum aminotransferase, alkaline phosphatase and bilirubin levels monthly during the first 3 months and every 3 months thereafter as needed. Patients who develop aminotransferase elevations on therapy should be monitored more carefully and considered for dose reduction to 100 mg twice daily with close follow up. Nintedanib therapy should be discontinued if jaundice or symptoms of liver injury arise or if serum ALT or AST levels rise above 5 times the ULN. Drug Class: Pulmonary Fibrosis Agents Other Drugs in the Class: Pirfenidone",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Nintedanib - OFEV®"
+    ],
+    "raw_drug_class": [
+      "Pirfenidone"
+    ],
+    "source_nxml_file": "Nintedanib.nxml"
+  },
+  {
+    "id": 651,
+    "name_en": "Niraparib",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "E*",
+    "grade_explanation_en": "unproven but suspected cause of clinically apparent liver injury",
+    "rucam_score_bonus": 0,
+    "source": "LiverTox (NIDDK, NIH): Niraparib.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Niraparib/",
+    "source_review_date": "2017-07-20",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity In preregistration, randomized controlled clinical trials of niraparib, abnormalities in routine liver tests were common, but were mostly mild and self-limited in course. Serum ALT elevations occurred in 28% of patients (vs 15% of controls), but values were above 5 times the upper limit of normal (ULN) in only 1% (vs 2% of controls). Despite the frequency of serum enzyme elevations during therapy in clinical trials, there were no reports of hepatitis with jaundice or liver failure. Subsequent to its approval and more wide scale use, there have been no published reports of clinically apparent liver injury attributed to niraparib, but the extent and duration of its use have been limited. Thus, niraparib is a known cause of mild serum enzyme elevations but has not been linked to significant hepatotoxicity. Likelihood score: E* (unproven but suspected cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury The mechanism of injury accounting for the serum enzyme elevations during niraparib therapy is not known. Niraparib is metabolized by carboxylesterases to an inactive product. It not metabolized to an appreciable extent by the cytochrome P450 system and has minimal drug-drug interactions.",
+    "raw_outcome_text": "Outcome and Management Serum aminotransferase elevations above 5 times the upper limit of normal (if confirmed) during therapy with niraparib should lead to dose reduction or temporary cessation. There does not appear to be cross reactivity in risk for hepatic injury between niraparib and other PARP inhibitors such as olaparib or rucaparib. Drug Class: Antineoplastic Agents, Protein Kinase Inhibitors Other PARP Drugs: Olaparib, Rucaparib",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Niraparib - Zejula®"
+    ],
+    "raw_drug_class": [
+      "Antineoplastic Agents",
+      "Protein Kinase Inhibitors",
+      "Olaparib",
+      "Rucaparib"
+    ],
+    "source_nxml_file": "Niraparib.nxml"
+  },
+  {
+    "id": 652,
+    "name_en": "Nitazoxanide",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "E",
+    "grade_explanation_en": "unlikely cause of clinically apparent liver injury",
+    "rucam_score_bonus": 0,
+    "source": "LiverTox (NIDDK, NIH): Nitazoxanide.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Nitazoxanide/",
+    "source_review_date": "2020-04-30",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity Nitazoxanide therapy has not been associated with elevations in serum aminotransferase levels nor with clinically apparent acute liver injury. However, there have been few studies of long term therapy with nitazoxanide and most controlled trials of this agent used short term courses without serum aminotransferase monitoring. Nitazoxanide has been used as adjunctive therapy for chronic hepatitis C, usually in combination with peginterferon with or without ribavirin; in these studies, most patients had improvements in serum aminotransferase levels, and no instances of acute exacerbation of hepatitis or jaundice were reported. Likelihood score: E (unlikely cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury Nitazoxanide acts by interference with enzymatic activity important in anaerobic metabolism in parasitic worms and protozoa, which is not present in mammals. Hypersensitivity reactions to nitazoxanide have been reported and mild hepatic injury could potentially arise as a part of these immunoallergic reactions.",
+    "raw_outcome_text": "Outcome and Management Nitazoxanide is usually well tolerated and liver injury has not been reported with its use. Drug Class: Anthelmintic Agents",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Nitazoxanide - Alinia®"
+    ],
+    "raw_drug_class": [
+      "Anthelmintic Agents"
+    ],
+    "source_nxml_file": "Nitazoxanide.nxml"
+  },
+  {
+    "id": 653,
+    "name_en": "Nitroprusside",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "E",
+    "grade_explanation_en": "unlikely cause of clinically apparent liver injury",
+    "rucam_score_bonus": 0,
+    "source": "LiverTox (NIDDK, NIH): Nitroprusside.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Nitroprusside/",
+    "source_review_date": "2020-04-29",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity Serum aminotransferase elevations during nitroprusside therapy are uncommon and are more likely attributable to hepatic ischemia due to hypotension, heart failure or anoxia. Nitroprusside has not been convincingly linked to cases of clinically apparent acute liver injury. Likelihood score: E (unlikely cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury Sodium nitroprusside is metabolized in peripheral tissue to a cyanide radical which is converted to thiocyanate in the liver. Nitroprusside helps protect against ischemia reperfusion injury in animal models by improving hepatic microcirculation. Drug Class: Antihypertensive Agents",
+    "raw_outcome_text": "",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [],
+    "raw_drug_class": [
+      "Antihypertensive Agents"
+    ],
+    "source_nxml_file": "Nitroprusside.nxml"
+  },
+  {
+    "id": 654,
+    "name_en": "Nizatidine",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "D",
+    "grade_explanation_en": "possible rare cause of clinically apparent liver injury",
+    "rucam_score_bonus": 1,
+    "source": "LiverTox (NIDDK, NIH): Nizatidine.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Nizatidine/",
+    "source_review_date": "2018-01-25",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity Chronic therapy with nizatidine and other H2 blockers is associated with minor elevations in serum aminotransferase levels in 1% to 4% of patients, but similar rates have been reported in placebo recipients. The ALT elevations are usually asymptomatic and transient and may resolve without dose modification. Rare instances of clinically apparent liver injury have been reported in patients receiving nizatidine, but too few cases have been reported to characterize a typical time to onset or pattern of injury. More information is available on the hepatotoxicity of other H2 blockers such as ranitidine and cimetidine which have been implicated in causing clinically apparent liver injury in 1:20,000 to 1:100,000 users. The time to onset of H2 blocker induced liver injury tends to be short, between 1 and 6 weeks of starting. The typical pattern of serum enzyme elevations varies from hepatocellular to cholestatic, most cases being “mixed”. The injury can be severe, but is typically mild-to- moderate in severity and self-limited in course, resolving within 4 to 12 weeks of stopping. Immunoallergic features (rash, fever, eosinophilia) are uncommon, as is autoantibody formation. Liver biopsy histology often shows centrolobular (zone 3) necrosis with mixed cellular infiltrates and mild cholestasis. Likelihood score: D (possible rare cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury Nizatidine is metabolized by the microsomal P450 drug metabolizing enzymes and injury may be the result of its activation to a toxic intermediate. Despite its metabolism by the P450 system, nizatidine does not result in significant inhibitor or induction of the enzymes and thus is less likely to cause drug-drug interactions than cimetidine.",
+    "raw_outcome_text": "Outcome and Management The hepatic injury caused by nizatidine is usually rapidly reversible with stopping the medication, but an instance of severe hepatitis with incomplete recovery and cirrhosis has been reported (Case 1). Nizatidine has been in use for a shorter time than cimetidine or ranitidine and remains unknown whether there is cross reactivity in hepatic injury between nizatidine and other H2 blockers. If acid suppression is required, use of an unrelated proton pump inhibitor is probably prudent for patients with clinically apparent nizatidine induced liver injury. The H2 receptor blockers include cimetidine, famotidine, nizatidine, and ranitidine. General references on all four agents are given together after the overview section on H2 Blockers, while specific references are given for each drug. See also the Proton Pump Inhibitors. Drug Class: Antiulcer Agents Other Drugs in the Subclass, Histamine Type 2 Receptor Antagonists: Cimetidine, Famotidine, Ranitidine",
+    "raw_case_report_text": "CASE REPORT Case 1. Severe acute liver injury leading to cirrhosis caused by nizatidine. [Modified from: Chey WD, Kochman ML, Traber PG, Appelman HD, Gumucio JJ. Possible nizatidine-induced subfulminant hepatic failure. J Clin Gastroenterol 1995; 20: 164-7. PubMed Citation] A 39 year old man developed rash after 7 days and jaundice after 14 days of nizatidine therapy for dyspepsia. Despite the symptoms and jaundice, he continued nizatidine for a total of 28 days. One month after stopping he was still jaundiced and sought medical care. He denied a history of liver disease, exposure to viral hepatitis or recent excessive alcohol intake. He was taking no other medications and had no history of drug allergies. Laboratory testing revealed marked elevations in serum bilirubin, AST and alkaline phosphatase (Table). The prothrombin time was prolonged at 18.7 seconds. Abdominal ultrasound and computerized tomography showed no evidence of gallstones or biliary obstruction, and endoscopic retrograde pancreatocholangiography showed no abnormality of the extra- or intra-hepatic biliary system. Ten weeks after starting and 6 weeks after stopping nizatidine, he was hospitalized because of increasing fatigue, jaundice and abdominal swelling. On physical examination, he was deeply jaundiced and had mild asterixis and ascites. Tests for hepatitis A, B and C were negative and autoantibodies were not present. A liver biopsy showed massive multi-lobular necrosis without significant fibrosis. He was referred for liver transplantation, but was managed conservatively and slowly improved, allowing for discharge from the hospital after 19 days. While liver tests improved, they did not become completely normal, and one year later serum bilirubin, aminotransferases and alkaline phosphatase levels were still abnormal. Upper endoscopy revealed esophageal varices. A liver biopsy several months later revealed irregular, but relatively inactive cirrhosis. Key Points Medication: Nizatidine (dose not provided) Pattern: Hepatocellular (R=8.8) Severity: 4+ (jaundice and signs of hepatic failure) Latency: 2 weeks to onset of jaundice, 8 weeks to laboratory confirmation Recovery: Incomplete Other medications: None mentioned Laboratory Values Time After Starting Time After Stopping ALT (U/L) Alk P (U/L) Bilirubin (mg/dL) Other Nizatidine given for 4 weeks 2 months 1 month 461 152 21.7 Protime 18.7 sec 3.5 months 2.5 months 255 188 16.8 Protime 20.0 sec 4 months 3 months 270 202 16.6 Biopsy: massive necrosis 5 months 4 months 258 256 26.2 Discharge 12 months 11 months 74 252 1.8 Protime 13.4 sec 16 months 15 months Biopsy: cirrhosis Normal Values <40 <115 <1.2 Comment This patient developed a severe hepatitis within a few weeks of starting nizatidine but continued taking the medication for two weeks after jaundice was noticed by his wife. He still delayed getting medical advice for another month after stopping nizatidine at which time he was deeply jaundiced and had signs of hepatic failure. When he developed ascites and hepatic encephalopathy, he was referred for liver transplant evaluation, but then began to improve spontaneously. He had a slow an incomplete recovery and was found to have cirrhosis on a liver biopsy done over a year later. Follow up is available from the authors. This patient has been followed at the transplant center from which this publication came for more than 15 years after this event and still has borderline hepatic decompensation, but has yet to require liver transplantation. No other source for the liver disease has been identified. Thus, cirrhosis induced by medications may not be completely reversible, but tends to be stable and nonprogressive as long as the medication is not restarted and other forms of hepatic injury (alcohol, hepatitis) are avoided.",
+    "raw_case_report_key_points": {
+      "Medication": "Nizatidine (dose not provided)",
+      "Pattern": "Hepatocellular (R=8.8)",
+      "Severity": "4+ (jaundice and signs of hepatic failure)",
+      "Latency": "2 weeks to onset of jaundice, 8 weeks to laboratory confirmation",
+      "Recovery": "Incomplete",
+      "Other medications": "None mentioned"
+    },
+    "raw_trade_names": [],
+    "raw_drug_class": [
+      "Antiulcer Agents",
+      "Histamine Type 2 Receptor Antagonists",
+      "Cimetidine",
+      "Famotidine",
+      "Ranitidine"
+    ],
+    "source_nxml_file": "Nizatidine.nxml"
+  },
+  {
+    "id": 655,
+    "name_en": "Nortriptyline",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "C",
+    "grade_explanation_en": "probable rare cause of clinically apparent liver injury",
+    "rucam_score_bonus": 1,
+    "source": "LiverTox (NIDDK, NIH): Nortriptyline.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Nortriptyline/",
+    "source_review_date": "2020-04-05",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity Liver test abnormalities have been reported to occur in up to 16% of patients being treated with tricyclic antidepressants, but elevations are uncommonly above 3 times the upper limit of normal. The aminotransferase abnormalities are usually mild, asymptomatic and transient, reversing even with continuation of medication. Rare instances of clinically apparent acute liver injury have been reported due to nortriptyline. The onset of jaundice is usually within 2 to 3 months of starting nortriptyline and the predominant enzyme pattern has been hepatocellular. Several acute instances of nortriptyline hepatotoxicity with marked elevations in serum aminotransferase levels and acute liver failure have been described. Signs and symptoms of hypersensitivity and autoimmunity are usually not present. Likelihood score: C (probable rare cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury The mechanism by which nortriptyline causes serum aminotransferase elevations and acute liver injury is not known. It undergoes extensive hepatic metabolism and a possible cause of liver injury is production of a toxic intermediate of metabolism.",
+    "raw_outcome_text": "Outcome and Management The serum aminotransferase elevations that occur on nortriptyline therapy are usually self-limited and do not require dose modification or discontinuation of therapy. The acute hepatitis caused by nortriptyline can be severe and lead to acute liver failure. No cases of chronic liver injury or vanishing bile duct syndrome have been reported with nortriptyline therapy. While cross reactivity of hepatic injury with other tricyclic antidepressants has rarely been described, amitriptyline is metabolized to nortriptyline which is its active form. Thus, switching to amitriptyline after nortriptyline toxicity should be avoided. Switching to other forms of antidepressants such as the selective serotonin reuptake inhibitors is likely to be safe. Drug Class: Antidepressant Agents Other Drugs in the Subclass, Tricyclics: Amitriptyline, Amoxapine, Clomipramine, Desipramine, Doxepin, Imipramine, Protriptyline, Trimipramine",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Nortriptyline - Aventyl®"
+    ],
+    "raw_drug_class": [
+      "Antidepressant Agents",
+      "Amitriptyline",
+      "Amoxapine",
+      "Clomipramine",
+      "Desipramine",
+      "Doxepin",
+      "Imipramine",
+      "Protriptyline",
+      "Trimipramine"
+    ],
+    "source_nxml_file": "Nortriptyline.nxml"
+  },
+  {
+    "id": 656,
+    "name_en": "Obeticholic Acid",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "B",
+    "grade_explanation_en": "a rare but potentially severe cause of clinically apparent liver injury occurring mostly in patients with preexisting cirrhosis",
+    "rucam_score_bonus": 2,
+    "source": "LiverTox (NIDDK, NIH): ObeticholicAcid.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/ObeticholicAcid/",
+    "source_review_date": "2019-12-10",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity In multiple preregistration clinical trials, obeticholic acid was found to decrease serum enzyme elevations in a high proportion of patients with different liver diseases. Instances of paradoxical worsening of liver disease or further increases in serum ALT or AST were not reported. However, the product label for obeticholic acid includes warnings that serious liver related adverse events occurred more commonly with active therapy than with placebo treatment. In a pooled analysis of 3 placebo controlled trials in patients with primary biliary cholangitis, liver related adverse events were 5.2 per 100 patient exposure years with 10 mg and 2.4 with placebo. Even higher rates occurred with higher doses of obeticholic acid: 19.8 per 100 patient years for 25 mg daily and 54.5 for 50 mg daily. The clinical features, timing of onset, pattern of enzyme elevations and course of these events were not described in detail. Within a little over a year after approval of obeticholic acid as therapy for primary biliary cholangitis, the FDA published a warning letter stating that they had received notification of 19 deaths and 11 cases of severe liver injury in patients taking obeticholic acid, most but not all of whom had preexisting cirrhosis (Case 1). More recently, severe instances of hepatic decompensation have been reported in patients with both primary biliary cholangitis as well as primary sclerosing cholangitis, two similar chronic cholestatic liver diseases. In patients with normal alkaline phosphatase levels, obeticholic therapy is associated with slight elevations in alkaline phosphatase, but without accompanying changes in serum aminotransferase levels, GGT or bilirubin, suggesting that the increases are due to alkaline phosphatase from other sources (bone, gastrointestinal tract). Therapy with OCA has been associated with development of pruritus in up to one-third of patients, but the appearance or worsening of itching is not usually associated with worsening of the underlying liver disease or increase in bilirubin or bile acid levels (other than OCA). Thus, obeticholic acid has apparent beneficial effects on liver test abnormalities, but has been linked to rare instances of worsening liver disease which may have clinical significance in patients with preexisting cirrhosis, particularly with use of higher doses of OCA. Likelihood score: B (a rare but potentially severe cause of clinically apparent liver injury occurring mostly in patients with preexisting cirrhosis).",
+    "raw_mechanism_text": "",
+    "raw_outcome_text": "Outcome and Management Patients on obeticholic acid should be monitored with liver tests, including serum bilirubin, ALT, AST and alkaline phosphatase, during the first few months of therapy to assess both its efficacy and safety. Patients with paradoxical worsening of the liver disease, with persistent worsening of serum enzyme elevations and particularly with evidence of hepatic decompensation, should discontinue obeticholic promptly. There does not appear to be cross sensitivity to liver injury or adverse events between obeticholic and other bile acid therapies such as ursodiol. Other bile acids used in digestive diseases include chenodeoxycholic acid (chenodiol), cholic acid and ursodeoxycholic acid (ursodiol). Drug Class: Gastrointestinal Agents, Bile Acids",
+    "raw_case_report_text": "CASE REPORT Case 1. Hepatic decompensation during therapy of primary biliary cholangitis with obeticholic acid.(1) A 59 year old Hispanic woman with primary biliary cholangitis (PBC) developed worsening jaundice and fatigue 3 months after starting obeticholic acid. She was known to have had autoimmune liver disease for at least 9 years and had been treated in the past with prednisone, mycophenolate mofetil, and ursodiol with only a partial response. Liver histology initially suggested an overlap syndrome of autoimmune hepatitis and PBC, but with time clinical features suggested that she had primary biliary cholangitis alone despite the absence of antimitochondrial antibody. On ursodiol, she had minimal symptoms, but laboratory tests showed alkaline phosphatase levels of 569 to 712 U/L, ALT 87 to 109 U/L and bilirubin of 2.3 to 2.7 mg/dL. Liver biopsy histology demonstrated significant fibrosis (stage 3 of 4) and paucity of bile ducts (\"ductopenia\"). In mid 2016, she was started on obeticholic acid (OCA) in a dose of 5 mg daily while maintaining a dose of ursodiol of 1.2 grams daily. She developed pruritus which responded minimally to cholestyramine and hydroxyzine. Nevertheless, liver tests improved slightly, with alkaline phosphatase levels decreasing to 372 U/L, ALT to 53 U/L and bilirubin to 2.2 mg/dL (Table). Approximately 3 months after starting OCA, she was found to have worsening jaundice with a bilirubin of 7.6 mg/dL, but with little changes in serum enzymes. Obeticholic acid was stopped while ursodiol was continued. She had no history of previous drug allergies or exposure to viral hepatitis. She did not drink alcohol. She was managed as an outpatient, but serum bilirubin remained elevated and she developed evidence of ascites and mild hepatic encephalopathy. Upper gastrointestinal endoscopy showed small varices. She was treated with lactulose, diuretics, salt restriction and was monitored closely. Over the next six months, her serum bilirubin decreased to pretreatment values, but alkaline phosphatase levels remained high. Approximtely a year after onset, her itching and ascites resolved and she felt that she had returned to her pretreatment clinical status. Key Points Medication: Obeticholic acid (5 mg daily) Pattern: Worsening jaundice Severity: 4+ hepatic decompensation Latency: 82 days Recovery: Incomplete at 6 months Other medications: Ursodiol, cholestyramine, hydroxyzine, bacloften, tramadol, alendronate, calcium, vitamin D Laboratory Values Time AfterStarting Time AfterStopping ALT(U/L) Alk P(U/L) Bilirubin(mg/dL) Other Pre Pre 109 712 2.3 Ursodiol 1.2 g/d 2 mo Pre 91 664 2.7 0 Pre Obeticholic acid started (5 mg daily) 2 weeks Pre 46 431 2.2 Itching 1 month Pre 50 372 2.2 2 months Pre 52 382 2.6 3 months 0 79 519 7.6 OCA stopped 9 days 53 551 6.4 Ascites noted 4 months 30 days 51 651 6.2 EGD: Varices 5 months 50 days 83 959 4.2 INR 1.1 6 months 80 days 76 865 3.9 Lactulose started 9 months 6 months 89 743 2.7 11 months 8 months 69 445 2.6 Itching resolved 14 months 11 months 52 362 2.4 Ascites resolved Normal Values <35 <130 <1.2 Comment A middle aged woman with primary biliary cholangitis with advanced fibrosis and an inadequate response to ursodiol was started on obeticholic acid shortly after its approval for this indication in the United States. She had an initial slight improvement in liver tests, but then developed jaundice and signs of hepatic decompensation 3 months after having started obeticholic acid. Despite stopping the medication, recovery was slow, and she returned to her previous status only 8 to 11 months later. Sudden unexplained decompensation of liver disease has been described in several patients with chronic cholestatic liver disease such as primary biliary cholangitis and sclerosing cholangitis within a few weeks to several months after starting obeticholic acid. The cause is unknown, but may be dose related and is most frequent in patients with preexisting cirrhosis or advanced fibrosis. Patients with decompensated cirrhosis should be treated with caution, starting at a dose of 5 mg once weekly and advancing the dose gradually and with regular monitoring. The clinical presentation or phenotype of this injury resembles that of spontaneous hepatic decompensation or what is called \"acute-on-chronic liver failure.\"",
+    "raw_case_report_key_points": {
+      "Medication": "Obeticholic acid (5 mg daily)",
+      "Pattern": "Worsening jaundice",
+      "Severity": "4+ hepatic decompensation",
+      "Latency": "82 days",
+      "Recovery": "Incomplete at 6 months",
+      "Other medications": "Ursodiol, cholestyramine, hydroxyzine, bacloften, tramadol, alendronate, calcium, vitamin D"
+    },
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Obeticholic Acid - Ocaliva®"
+    ],
+    "raw_drug_class": [
+      "Gastrointestinal Agents",
+      "Bile Acids"
+    ],
+    "source_nxml_file": "ObeticholicAcid.nxml"
+  },
+  {
+    "id": 657,
+    "name_en": "Olaparib",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "C",
+    "grade_explanation_en": "probable rare cause of clinically apparent liver injury",
+    "rucam_score_bonus": 1,
+    "source": "LiverTox (NIDDK, NIH): Olaparib.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Olaparib/",
+    "source_review_date": "2026-05-18",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity In pre-registration clinical trials of olaparib, abnormalities in routine liver tests were uncommon with serum aminotransferase elevations occurring in 4% of patients and values above 5 times the upper limit of normal (ULN) in 1% or less. In early trials of olaparib in patients with various advanced solid tumors there were no reports of hepatitis with jaundice or liver failure. However, after its approval and more widescale use, there have been several published reports of clinically apparent liver injury attributed to olaparib, some of which have been severe and some fatal. The onset of injury arose after 2 to 3 months of therapy and was typically hepatocellular with marked elevations in serum ALT and AST but only modest elevations in alkaline phosphatase levels. Rash and fever were uncommon, but low titers of ANA and SMA were reported, and clinical features as well as a rapid response to corticosteroid therapy were typical. Liver biopsies demonstrated hepatocellular injury with variable amounts of lobular necrosis and intense portal infiltration with lymphocytes and eosinophils with rare plasma cells. Thus, olaparib appears to be a definite cause of idiosyncratic liver injury and regular monitoring of liver tests is now recommended. Likelihood score: C (probable rare cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury The mechanism of injury with olaparib therapy is not known but it appears to be immune mediated. Olaparib is metabolized in the liver largely through the CYP 3A4 pathway and liver injury may be related to production of a toxic or immunogenic intermediate. Because it is a substrate for CYP 3A4, olaparib is susceptible to drug-drug interactions with agents that inhibit or induce hepatic CYP 3A activity.",
+    "raw_outcome_text": "Outcome and Management Serum aminotransferase elevations above 5 times the upper limit of normal (if confirmed) during olaparib therapy should lead to dose reduction or temporary cessation. Patients with severe or symptomatic liver injury should avoid rechallenge as recurrent injury is typically more rapid in onset and worse in severity. Interestingly, there does not appear to be cross reactivity in risk for hepatic injury between olaparib and other PARP inhibitors such as rucaparib or niraparib, but switching to another PARP inhibitor after olaparib hepatotoxicity should be done with caution and with careful monitoring for recurrence. Drug Class: Antineoplastic Agents, Protein Kinase Inhibitors Other PARP Drugs: Niraparib, Rucaparib",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Olaparib - Lynparza®"
+    ],
+    "raw_drug_class": [
+      "Antineoplastic Agents",
+      "Protein Kinase Inhibitors",
+      "Rucaparib"
+    ],
+    "source_nxml_file": "Olaparib.nxml"
+  }
+]

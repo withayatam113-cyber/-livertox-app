@@ -1,0 +1,423 @@
+[
+  {
+    "id": 508,
+    "name_en": "Dacomitinib",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "E*",
+    "grade_explanation_en": "unproven but suspected rare cause of clinically apparent liver injury",
+    "rucam_score_bonus": 0,
+    "source": "LiverTox (NIDDK, NIH): Dacomitinib.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Dacomitinib/",
+    "source_review_date": "2019-04-15",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity In large early clinical trials, elevations in serum aminotransferase levels were common during dacomitinib therapy, arising in 40% of patients treated with standard doses. However, most elevations were transient and asymptomatic, and they rarely led to dose modification or discontinuation. Serum ALT elevations above 5 times the ULN occurred in only 1.4% of patients, these rates being lower than with other EGRF inhibitors such as erlotinib and gefitinib. Serum alkaline phosphatase elevations also occurred but were not common. There were no instances of clinically apparent liver injury with jaundice. However, clinical experience with dacomitinib has been limited. Likelihood score: E* (unproven but suspected rare cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury The cause of the liver injury due to dacomitinib is unknown. Serum enzyme elevations are common during antineoplastic therapy with tyrosine kinase inhibitors, particularly those that target EGFR. The mechanism of injury is unknown but may relate to inhibition of other kinase activities. Dacomitinib is metabolized in the liver largely via CYP 2D6 and is susceptible to drug-drug interactions with other CYP 2D6 substrates.",
+    "raw_outcome_text": "Outcome and Management Serum aminotransferase elevations above 5 times the upper limit of normal (if confirmed) should lead to dose interruption. If changes persist, are severe or associated with symptoms or jaundice, or reoccur on restarting, dacomitinib should be discontinued. There have been no published reports of acute liver failure, chronic hepatitis or vanishing bile duct syndrome due to dacomitinib. Patients with liver abnormalities during dacomitinib therapy may tolerate treatment with other EGFR inhibitors without recurrence of severe injury. Drug Class: Antineoplastic Agents, Protein Kinase Inhibitors",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Dacomitinib - Vizimpro®"
+    ],
+    "raw_drug_class": [
+      "Antineoplastic Agents",
+      "Protein Kinase Inhibitors"
+    ],
+    "source_nxml_file": "Dacomitinib.nxml"
+  },
+  {
+    "id": 509,
+    "name_en": "Daptomycin",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "C",
+    "grade_explanation_en": "probable cause of clinically apparent liver injury",
+    "rucam_score_bonus": 1,
+    "source": "LiverTox (NIDDK, NIH): Daptomycin.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Daptomycin/",
+    "source_review_date": "2017-12-04",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity Elevations in serum aminotransferase levels occur in 2% to 6% of patients receiving daptomycin, rates that are minimally higher than with placebo or comparator drugs. The elevations are generally mild-to-moderate, asymptomatic and self-limited, frequently resolving without discontinuation or even interruption of therapy. Isolated case reports of possible liver injury from daptomycin have been reported, but serum bilirubin was normal in most cases, and the serum aminotransferase elevations were mild-to-moderate and typically accompanied by severe muscle injury with marked CK elevations. Such cases without jaundice or alkaline phosphatase elevations are more likely due to muscle rather than liver injury. Nevertheless, a few case reports of mild jaundice with a hepatocellular pattern of serum enzyme elevations and normal CK levels has been published. The latency to onset was 5 weeks, immunoallergic and autoimmune features were not present, and resolution was slow with mild abnormalities still present 6 weeks later. Thus, clinically apparent liver injury from daptomycin probably occurs, but is quite rare. Likelihood score: C (probable cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "",
+    "raw_outcome_text": "Outcome and Management The severity of the liver injury linked to daptomycin therapy is usually mild and self-limited, and dose modification or discontinuation is rarely necessary. No instances of acute liver failure, chronic hepatitis or vanishing bile duct syndrome have been attributed to daptomycin therapy. The outcome of reexposure to daptomycin after liver or muscle injury has not been reported. Also, there is no information on cross sensitivity between daptomycin and other peptide antibiotics (such as the glycopeptides antibiotics, vancomycin and teicoplanin), but there is little reason to believe that such sensitivity exists. Drug Class: Antiinfective Agents",
+    "raw_case_report_text": "CASE REPORT Case 1. Mild liver injury arising during daptomycin therapy. [Modified from: Abraham G, Finkelberg D, Spooner LM. Daptomycin-induced acute renal and hepatic toxicity without rhabdomyolysis. Ann Pharmacother 2008; 42: 719-21. PubMed Citation] A 35 year old man with paraplegia and a decubitus ulcer with a methicillin resistant Staphylococcus aureus infection as well as a urinary tract infection with vancomycin resistant enterococci was treated at home with intravenous daptomycin in a dose of 4 mg/kg once daily. After 5 weeks of this treatment, he developed nausea and fatigue and was found to have abnormal liver tests. He had no history of liver disease and denied alcohol abuse and exposures to viral hepatitis. He had a history of drug allergy to penicillin (rash). Other medications included clonazepam for sleep, sertraline for depression, hydromorphone for pain, prochlorperazine for nausea, ferrous sulfate and vitamin C, all of which he had taken for more than a year. On examination, he was anicteric, afebrile and without findings indicative of acute or chronic liver disease. Laboratory tests showed bilirubin 2.0 mg/dL, ALT 8050 U/L, AST 6020 U/L, alkaline phosphatase 370 U/L, INR 1.2 and CK 111 U/L. Daptomycin was stopped and vancomycin and ciprofloxacin were begun. Tests for hepatitis A, B and C were negative and computed tomography of the abdomen showed no biliary dilatation or hepatic masses. Blood cultures grew Stenotrophomonas maltophilia which was sensitive to ciprofloxacin. Vancomycin was discontinued and he remained afebrile. Liver tests improved slowly and were near-normal six weeks later (Table). Key Points Medication: Daptomycin (325 mg daily) Pattern: Hepatocellular (R=33) Severity: 3+ (bilirubin elevation and hospitalization) Latency: 5 weeks Recovery: Almost complete at 6 weeks Other medications: Clonazepam, sertraline, hydromorphone, prochlorperazine, ferrous sulfate, vitamin C Laboratory Values Time After Starting Time After Stopping ALT (U/L) Alk P (U/L) Bilirubin (mg/dL) Other 2 weeks Pre 20 5 weeks 0 8050 370 2.0 Admission 6 weeks 1 week 819 Discharge 12 weeks 7 weeks 81 AST 51 Normal Values <40 <130 <1.2 Comment The height of the serum aminotransferase levels and rapid fall with stopping daptomycin suggests a direct hepatic toxicity; the phenotype of acute hepatic necrosis. This pattern can also occur after an acute ischemic injury to the liver or acetaminophen (or cocaine) overdose. None of these possibilities seemed reasonable in this case report.",
+    "raw_case_report_key_points": {
+      "Medication": "Daptomycin (325 mg daily)",
+      "Pattern": "Hepatocellular (R=33)",
+      "Severity": "3+ (bilirubin elevation and hospitalization)",
+      "Latency": "5 weeks",
+      "Recovery": "Almost complete at 6 weeks",
+      "Other medications": "Clonazepam, sertraline, hydromorphone, prochlorperazine, ferrous sulfate, vitamin C"
+    },
+    "raw_trade_names": [],
+    "raw_drug_class": [
+      "Antiinfective Agents"
+    ],
+    "source_nxml_file": "Daptomycin.nxml"
+  },
+  {
+    "id": 510,
+    "name_en": "Darifenacin",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "E",
+    "grade_explanation_en": "unlikely cause of clinically apparent liver injury",
+    "rucam_score_bonus": 0,
+    "source": "LiverTox (NIDDK, NIH): Darifenacin.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Darifenacin/",
+    "source_review_date": "2023-07-12",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity Like most anticholinergic agents, darifenacin has not been linked to liver enzyme elevations during therapy or to instances of clinically apparent liver injury with symptoms or jaundice. In multiple prospective clinical trial of darifenacin in patients with overactive bladder syndrome, ALT elevations were reported in less than 1% of treated subjects, rates similar to that of placebo recipients. Despite widespread clinical use for almost two decades, there have been no published case reports of clinically apparent liver injury convincingly attributed to darifenacin use. Likelihood score: E (unlikely cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury Darifenacin has not been linked to liver injury. It is metabolized in the liver by microsomal P450 enzymes, predominantly CYP 3A4 and 2D6. Despite this, drug-drug interactions are uncommon. A major reason for its safety may relate to the low daily dose. Drug Class: Anticholinergic Agents",
+    "raw_outcome_text": "",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [],
+    "raw_drug_class": [
+      "Anticholinergic Agents"
+    ],
+    "source_nxml_file": "Darifenacin.nxml"
+  },
+  {
+    "id": 511,
+    "name_en": "Darolutamide",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "E",
+    "grade_explanation_en": "unlikely cause of clinically apparent liver injury",
+    "rucam_score_bonus": 0,
+    "source": "LiverTox (NIDDK, NIH): Darolutamide.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Darolutamide/",
+    "source_review_date": "2023-03-15",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity In prelicensure controlled trials with 1508 patients, serum AST elevations were more common with darolutamide than placebo therapy [23% vs 14%], but were rarely above 5 times the ULN [<1%] and ALT elevations were uncommon, although the results were not provided. Similarly, serum bilirubin levels were more frequently elevated on darolutamide therapy than placebo [16% vs 7%] but were rarely markedly elevated [less than 0.5%], and there were no cases of clinically apparent liver injury. Since approval and general availability of darolutamide, there have been no published reports of liver injury attributed to darolutamide therapy. Likelihood score: E (unlikely cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury The cause of the serum AST and bilirubin elevations that occur during darolutamide therapy is unknown. Darolutamide is extensively metabolized in the liver predominantly by CYP 3A4. Its use with strong inducers of CYP 3A4 could result in decreased drug levels and reduced efficacy, while use with strong CYP 3A4 inhibitors could result in elevated drug levels and potentially increased adverse events.",
+    "raw_outcome_text": "Outcome and Management The elevations in serum AST and bilirubin during darolutamide therapy have been asymptomatic, mild and transient, not requiring dose adjustments. Routine monitoring of liver tests is not recommended, but finding AST elevations above 5 times the upper limit of normal would warrant search for another cause of liver injury and stopping therapy or modifying the dose if no other cause is found. There is no information on cross sensitivity for hepatic injury between darolutamide and other antiandrogens, such as flutamide, bicalutamide, apalutamide, enzalutamide, or abiraterone. Drug Class: Antineoplastic Agents, Antiandrogens",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Darolutamide - Nubeqa®"
+    ],
+    "raw_drug_class": [
+      "Antineoplastic Agents",
+      "Antiandrogens"
+    ],
+    "source_nxml_file": "Darolutamide.nxml"
+  },
+  {
+    "id": 512,
+    "name_en": "Daunorubicin",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "E*",
+    "grade_explanation_en": "unproven but suspected cause of clinically apparent liver injury",
+    "rucam_score_bonus": 0,
+    "source": "LiverTox (NIDDK, NIH): Daunorubicin.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Daunorubicin/",
+    "source_review_date": "2017-12-27",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity Chemotherapy with daunorubicin in combination with other agents is associated with serum enzyme elevations in a proportion of patients depending upon the dose and other agents used. ALT elevations during daunorubicin therapy are usually asymptomatic and transient and may resolve without dose modification. In many instances, it is difficult to attribute the liver test abnormalities to daunorubicin, because of the exposure to other potentially hepatotoxic agents. There have been no convincing instances of acute, clinically apparent idiosyncratic liver injury with jaundice associated with daunorubicin therapy. However, high doses of daunorubicin given in combination with other antineoplastic agents have been linked to cases of sinusoidal obstruction syndrome, typically presenting with right upper quadrant pain 10 to 30 days after the infusion, followed by weight gain, ascites and liver test abnormalities. Fatalities due to hepatic failure have occurred, but most patients recover within 1 to 3 months of onset. Likelihood score: E* (unproven but suspected cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury While hepatotoxicity from daunorubicin may be rare, it is likely due to direct hepatic toxicity. Daunorubicin is metabolized in the liver via microsomal enzymes and production of a toxic or immunogenic intermediate may trigger liver injury.",
+    "raw_outcome_text": "Outcome and Management The hepatic injury due to daunorubicin varies in severity from mild, transient and asymptomatic liver enzyme elevations to acute liver failure due to sinusoidal obstruction syndrome. Therapy for sinusoidal obstruction syndromeshould be based upon careful management of fluid balance and avoidance of further injury. Sinusoidal obstruction syndrome has become rare, largely due to avoidance of high dose chemotherapy with agents that have been linked with it such as busulfan and cyclosphosphamide. Intravenous defibrotide has been approved for used in paitents with severe sinusoidal obstruction syndrome and major organ damage. There is no information on cross sensitivity to hepatic injury between daunorubicin and other antineoplastic agents, including anthracycline antibiotics. Drug Class: Antineoplastic Agents Other Drugs in the Subclass, Antibiotics, Cytotoxic: Bleomycin, Dactinomycin, Doxorubicin, Epirubicin, Idarubicin, Mitomycin, Mitoxantrone, Plicamycin",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Daunorubicin - Cerubidine®"
+    ],
+    "raw_drug_class": [
+      "Antineoplastic Agents",
+      "Antibiotics, Cytotoxic",
+      "Bleomycin",
+      "Dactinomycin",
+      "Doxorubicin",
+      "Epirubicin",
+      "Idarubicin",
+      "Mitomycin",
+      "Mitoxantrone",
+      "Plicamycin"
+    ],
+    "source_nxml_file": "Daunorubicin.nxml"
+  },
+  {
+    "id": 513,
+    "name_en": "Decitabine",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "E*",
+    "grade_explanation_en": "unproven but suspected, rare cause of clinically apparent liver injury",
+    "rucam_score_bonus": 0,
+    "source": "LiverTox (NIDDK, NIH): Decitabine.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Decitabine/",
+    "source_review_date": "2023-07-27",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity In early clinical trials using high doses of decitabine, serum enzyme elevations occurred in up to 16% of patients with underlying liver disease or liver metastases, but rarely in persons without hepatic illness. In subsequent studies, serum ALT elevations were reported in 5% to 15% of treated patients, but all were self-limited and no clinically apparent liver injury was reported. Recent studies have reported elevations in serum bilirubin levels in 7% to 12% of treated patients, but the elevations resolved rapidly and were not associated with other clinical or laboratory evidence of liver injury. Monitoring of serum enzyme levels during treatment is recommended only in patients with concurrent liver disease. The oral combination therapy of decitabine with cedazuridine appears to have a similar frequency and pattern of adverse events as iv decitabine alone. In several prospective clinical trials, single cycles of oral vs iv decitabine had similar rates of aminotransferase elevations and long term, multi-course regimens of the oral fixed dose combination therapy resulted in serum aminotransferase elevations in 20% to 37% of patients, which were above 5 times the upper limit of normal (ULN) in 2% to 3% with no cases of clinically apparent liver injury attributable to the chemotherapeutic agent. Thus, despite widescale use as therapy of MDS, decitabine has not been convincingly linked to cases of clinically apparent liver injury. Nevertheless, the frequency of serum enzyme elevations with therapy make it difficult to say that decitabine is totally without potential for causing drug induced liver injury. Likelihood score: E* (unproven but suspected, rare cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury Hepatotoxicity from decitabine appears to be rare and confined mostly to asymptomatic elevations in serum enzymes in patients receiving the highest doses or with underlying liver disease. Thus, the liver injury is likely due to direct toxicity which is generally minimal or mild except in susceptible patients.",
+    "raw_outcome_text": "Outcome and Management The severity of the liver injury linked to decitabine therapy is usually mild in severity and without accompanying symptoms or jaundice. Decitabine has not been linked to cases of severe acute hepatitis, acute liver failure, chronic hepatitis or vanishing bile duct syndrome. There is no information on cross sensitivity to hepatic injury between decitabine and other cytidine analogues including azacitidine. Drug Class: Antineoplastic Agents Other drugs for myelodysplastic syndromes: Azacitidine, Cedazuridine, Luspatercept",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [
+      "Decitabine and Cedazuridine - Inqovi®"
+    ],
+    "raw_drug_class": [
+      "Antineoplastic Agents",
+      "Azacitidine",
+      "Cedazuridine",
+      "Luspatercept"
+    ],
+    "source_nxml_file": "Decitabine.nxml"
+  },
+  {
+    "id": 514,
+    "name_en": "Desipramine",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "D",
+    "grade_explanation_en": "possible rare cause of clinically apparent liver injury",
+    "rucam_score_bonus": 1,
+    "source": "LiverTox (NIDDK, NIH): Desipramine.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Desipramine/",
+    "source_review_date": "2018-01-03",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity Liver test abnormalities have been reported to occur in up to 16% of patients being treated with tricyclic antidepressants, but elevations are uncommonly above 3 times the upper limit of normal. The aminotransferase abnormalities are usually mild, asymptomatic and transient, reversing even with continuation of medication and without dose adjustment. Rare instances of clinically apparent acute liver injury have been reported due to desipramine, but far fewer than have been reported with amitriptyline or imipramine. The onset of jaundice is usually within 1 to 8 weeks of starting the antidepressant, and the pattern of serum enzyme elevations can be either hepatocellular or cholestatic. Features suggestive of hypersensitivity (fever, rash, eosinophilia) are common, but rarely severe. Autoantibody formation is unusual. These features are typical of tricyclic antidepressant hepatotoxicity. Likelihood score: D (possible rare cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury The mechanism by which desipramine causes serum aminotransferase elevation is not known. It undergoes extensive hepatic metabolism (predominantly by CYP 2D6) and a possible cause of liver injury is production of a toxic intermediate of metabolism. Many cases of acute liver injury have had features suggestive of a hypersensitivity reaction.",
+    "raw_outcome_text": "Outcome and Management The serum aminotransferase elevations that occur on desipramine therapy are usually self-limited and do not require dose modification or discontinuation of therapy. The acute liver injury caused by desipramine is typically self-limited and benign, and fatalities have not been reported in the published literature. Rechallenge with desipramine usually causes a prompt recurrence of the liver injury and should be avoided. Patients with clinically apparent desipramine induced liver injury may have cross sensitivity to injury from other tricyclic antidepressants and phenothiazines, but generally tolerate other antidepressants such as the selective serotonin reuptake inhibitors. Drug Class: Antidepressant Agents Other Drugs in the Subclass, Tricyclics: Amitriptyline, Amoxapine, Clomipramine, Doxepin, Imipramine, Nortriptyline, Protriptyline, Trimipramine",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Desipramine - Norpramin®"
+    ],
+    "raw_drug_class": [
+      "Antidepressant Agents",
+      "Amitriptyline",
+      "Amoxapine",
+      "Clomipramine",
+      "Doxepin",
+      "Imipramine",
+      "Nortriptyline",
+      "Protriptyline",
+      "Trimipramine"
+    ],
+    "source_nxml_file": "Desipramine.nxml"
+  },
+  {
+    "id": 515,
+    "name_en": "Diazepam (Oral)",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "D",
+    "grade_explanation_en": "Possible but rare cause of clinically apparent liver injury",
+    "rucam_score_bonus": 1,
+    "source": "LiverTox (NIDDK, NIH): DiazepamOral.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/DiazepamOral/",
+    "source_review_date": "2023-06-22",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity Like other benzodiazepines, diazepam is rarely associated with serum ALT or alkaline phosphatase elevations during therapy. Furthermore, clinically apparent liver injury from diazepam is exceedingly rare. A small number of cases of hepatic injury have been described in patients on oral diazepam, but the clinical pattern has varied. The onset of injury has ranged from 1 to 6 months, and pattern of serum enzyme elevations has typically been cholestatic or mixed. Fever and rash are uncommon as is autoantibody formation. In large surveys and case series of clinically apparent drug induced liver injury, diazepam and other benzodiazepines are usually not listed. There have been no case reports of hepatotoxicity from diazepam since the 1980s and before the general available of tests for acute hepatitis A and C and advanced methods of hepatic and biliary imaging. Likelihood score: D (Possible but rare cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury The liver injury from benzodiazepines is probably due to a rarely produced intermediate metabolite. Diazepam is metabolized in the liver to its active metabolite which is excreted in the urine.",
+    "raw_outcome_text": "Outcome and Management The case reports of hepatic injury due to oral diazepam were followed by complete recovery, without evidence of residual or chronic injury. No cases of acute liver failure or chronic liver injury due to diazepam have been described. There is no information about cross reactivity with other benzodiazepines (clobazam, clorazepate, lorazepam or alprazolam), but some degree of cross sensitivity may occur. Drug Class: Benzodiazepines; see also Diazepam (Intravenous)",
+    "raw_case_report_text": "CASE REPORT Case 1. Cholestatic hepatitis due to oral diazepam.(1) A 33 year old woman was started on diazepam (2 mg three times daily) for anxiety and four months later developed symptoms of abdominal pain and jaundice. Serum ALT was 306 U/L, alkaline phosphatase was twice elevated and bilirubin was 4.2 mg/dL. A cholecystectomy was done for suspected cholelithiasis, but the gallbladder and biliary tree were normal. A liver biopsy showed acute hepatocellular injury and cholestasis compatible with drug induced liver disease. Diazepam was stopped and she recovered rapidly and had normal liver tests one month later. Tests for hepatitis A, B and C were not available. Key Points Medication: Diazepam (2 mg three times daily orally) Pattern: Mixed (R=~4) Severity: 3+ (jaundice, hospitalization) Latency: 4 months Recovery: Complete recovery within a month of stopping Other medications: Birth control pills Comment The patient developed an acute hepatitis-like illness four months after starting diazepam. A liver biopsy showed changes typical of drug induced liver disease and the pattern of enzyme elevations and biopsy did not suggest viral hepatitis, serological testing for which was not available at the time. Causality assessment can only rank this example as a “possible” case of diazepam induced liver injury. In view of the wide scale use of diazepam, instances of hepatic injury are very rare, and no cases of severe, prolonged, persistent or fatal liver injury from diazepam have been published.",
+    "raw_case_report_key_points": {
+      "Medication": "Diazepam (2 mg three times daily orally)",
+      "Pattern": "Mixed (R=~4)",
+      "Severity": "3+ (jaundice, hospitalization)",
+      "Latency": "4 months",
+      "Recovery": "Complete recovery within a month of stopping",
+      "Other medications": "Birth control pills"
+    },
+    "raw_trade_names": [],
+    "raw_drug_class": [
+      "Benzodiazepines",
+      "Diazepam (Intravenous)"
+    ],
+    "source_nxml_file": "DiazepamOral.nxml"
+  },
+  {
+    "id": 516,
+    "name_en": "Dicyclomine",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "-",
+    "grade_explanation_en": "-",
+    "rucam_score_bonus": "-",
+    "source": "LiverTox (NIDDK, NIH): Dicyclomine.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Dicyclomine/",
+    "source_review_date": "2017-07-07",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity Like other anticholinergic agents, dicyclomine has not been linked to episodes of liver enzyme elevations or clinically apparent liver injury. The metabolism of dicyclomine is not well defined but it is likely metabolized by the liver. References on the safety and potential hepatotoxicity of anticholinergics are given together in the Overview section on Anticholinergic Agents. Drug Class: Anticholinergic Agents",
+    "raw_mechanism_text": "",
+    "raw_outcome_text": "",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [],
+    "raw_drug_class": [
+      "Anticholinergic Agents"
+    ],
+    "source_nxml_file": "Dicyclomine.nxml"
+  },
+  {
+    "id": 517,
+    "name_en": "Diethylpropion",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "E",
+    "grade_explanation_en": "unlikely cause of clinically apparent liver injury",
+    "rucam_score_bonus": 0,
+    "source": "LiverTox (NIDDK, NIH): Diethylpropion.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Diethylpropion/",
+    "source_review_date": "2018-01-03",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity Diethylpropion has not been linked to an increased rate of serum enzyme elevations during therapy; however, actual results of ALT monitoring during diethylpropion therapy have rarely been reported. Despite long term availability and wide use of diethylpropion, there have been no published reports linking it to clinically apparent acute liver injury. Likelihood score: E (unlikely cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury The safety of diethylpropion is perhaps due to its rapid urinary excretion. Nevertheless, it is extensively metabolized in the liver and some of the metabolites are biologically active. Drug Class: Weight Loss Agents",
+    "raw_outcome_text": "",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [],
+    "raw_drug_class": [
+      "Weight Loss Agents"
+    ],
+    "source_nxml_file": "Diethylpropion.nxml"
+  },
+  {
+    "id": 518,
+    "name_en": "Diflunisal",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "C",
+    "grade_explanation_en": "probable cause of clinically apparent liver injury",
+    "rucam_score_bonus": 1,
+    "source": "LiverTox (NIDDK, NIH): Diflunisal.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Diflunisal/",
+    "source_review_date": "2018-01-03",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity Diflunisal therapy is reported to be associated with a low rate of asymptomatic and transient serum aminotransferase elevations, which may resolve even with drug continuation. Marked aminotransferase elevations (>3 fold elevated) occur rarely. Clinically apparent liver injury with jaundice from diflunisal is uncommon; only case reports have been published. The clinical and histologic features of diflunisal hepatotoxicity, however, are distinct and resemble an immunoallergic hepatitis, which is quite different from the liver injury that occurs with aspirin or other salicylates (Case 1). The latency to onset ranges from 1 to 4 weeks and the pattern of enzyme elevations is typically cholestatic, but can also be mixed. Most patients have immunoallergic manifestations such as rash, fever and arthralgias; eosinophilia or atypical lymphocytosis are also common. A history of aspirin allergy has not been reported among cases with allergic reactions to diflunisal. Diflunisal is not a commonly used drug and is not mentioned in large case series on drug induced liver injury or acute liver failure. Likelihood score: C (probable cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "",
+    "raw_outcome_text": "Outcome and Management Severity ranges from asymptomatic elevations in serum aminotransferase levels, to symptomatic cholestatic hepatitis with or without jaundice. It is not clear if there is cross sensitivity to liver injury between diflunisal and other salicylates. Drug Class: Salicylates, Nonsteroidal Antiinflammatory Drugs",
+    "raw_case_report_text": "CASE REPORT Case 1. Cholestatic jaundice arising after a few days of diflunisal therapy.(1) A 65 year old woman with venous stasis ulcers was given diflunisal (750 mg daily) for leg pain while being treated with intravenous penicillin for suspected cellulitis. When therapy was started, serum enzymes and bilirubin levels were normal (Table). Diflunisal was stopped after 3 days because of gastrointestinal intolerance. Five days later, blood tests showed marked elevations of alkaline phosphatase with mild hyperbilirubinemia. There was eosinophilia but no rash, lymphadenopathy or further fever. She had had a cholecystectomy in the past, but no history of liver disease or risk factors for viral hepatitis were mentioned. Ultrasound of the abdomen and endoscopic retrograde cholangiopancreatography were unrevealing. A liver biopsy showed portal inflammation with eosinophils and lobular histiocytic granulomas. Over the next weeks, laboratory test abnormalities fell toward normal despite continuation of penicillin and her medications for depression (clorazepate and viloxazine). Four months later all blood test results were normal. Key Points Medication: Diflunisal (750 mg daily for 3 days) Pattern: Cholestatic (R=0.3) Severity: 3+ (jaundice and prolongation of hospitalization) Latency: 3 days to symptoms, 8 days to detection of jaundice Recovery: 2-4 months Other medications: Penicillin (iv), clorazepate, viloxazine Laboratory Values Time AfterStarting Time AfterStopping AST(U/L) Alk P(U/L) Bilirubin(mg/dL) Comments 1 day 0 13 80 0.3 eosinophils 2% 8 days 5 days 60 1216 2.6 eosinophils 12% 13 days 10 days 50 1474 1 Liver biopsy 30 days 27 days 16 672 0.6 eosinophils 34% 2 months 2 months 19 193 0.3 eosinophils 23% 5 months 5 months 18 70 0.2 eosinophils 3% Normal Values Not given Comment Despite absence of some clinical information, this is a convincing case of cholestatic jaundice caused by diflunisal. As in other cases, the latency was quite short and there was at least some evidence for an immunoallergic reaction (eosinophilia). Granulomas found on liver biopsy do not indicate “granulomatous hepatitis”, but are rather further evidence of a generalized immunoallergic reaction. The rapid clinical recovery (1 month), but delayed fall of alkaline phosphatase to the normal range (between 2 and 5 months) is typical of cholestatic drug induced liver injury.",
+    "raw_case_report_key_points": {
+      "Medication": "Diflunisal (750 mg daily for 3 days)",
+      "Pattern": "Cholestatic (R=0.3)",
+      "Severity": "3+ (jaundice and prolongation of hospitalization)",
+      "Latency": "3 days to symptoms, 8 days to detection of jaundice",
+      "Recovery": "2-4 months",
+      "Other medications": "Penicillin (iv), clorazepate, viloxazine"
+    },
+    "raw_trade_names": [],
+    "raw_drug_class": [
+      "Likelihood score",
+      "Salicylates",
+      "Nonsteroidal Antiinflammatory Drugs"
+    ],
+    "source_nxml_file": "Diflunisal.nxml"
+  },
+  {
+    "id": 519,
+    "name_en": "Diltiazem",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "C",
+    "grade_explanation_en": "probable but rare cause of clinically apparent liver injury",
+    "rucam_score_bonus": 1,
+    "source": "LiverTox (NIDDK, NIH): Diltiazem.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Diltiazem/",
+    "source_review_date": "2017-01-11",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity Diltiazem therapy is associated with a low rate of mild and transient elevations in serum aminotransferase levels which are usually asymptomatic and often resolve even with continuation of therapy. Clinically apparent, acute liver injury with jaundice due to diltiazem is rare and only isolated case reports have been published. In large case series of drug induced liver injury, calcium channel blockers are rarely mentioned. Most cases attributed to diltiazem have been marked by a short latency period (3 to 14 days) and features of hypersensitivity with fever, rash and eosinophilia. The pattern of liver injury was ranged from cholestatic to hepatocellular. Jaundice is often absent and usually mild. Autoantibody formation has not been described. Thus, liver injury from diltiazem is likely to be idiosyncratic in nature and is typically mild and self-limited with resolution within 4 to 8 weeks of stopping. Acute hepatic injury is listened as a possible adverse event in the diltiazem product label. Likelihood score: C (probable but rare cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury The mechanism of diltiazem hepatotoxicity is not known, but most cases are probably due to hypersensitivity. Diltiazem is metabolized by the cytochrome P450 system and is an inhibitor of CYP 3A4 activity, which can lead to serious drug-drug interactions and potentiation of the hepatotoxic effects of other medications. Indeed, there have been several reports of clinically apparent liver injury or rhabdomyolysis occuring in patients on long term statins who had recently added diltiazem to their multidrug regimen, suggesting altered metabolism of the statin by the addition of a CYP 3A4 inhibitor.",
+    "raw_outcome_text": "Outcome and Management Severity of liver injury from diltiazem ranges from mild and transient serum enzyme elevations to self-limited hepatitis with jaundice. Complete recovery is expected after stopping the drug and recovery is usually rapid (1 to 2 months). Diltiazem has not been implicated in cases of chronic liver injury or vanishing bile duct syndrome, but was the suspected agent in at least one published case of acute liver failure. Cross sensitivity of liver injury with other calcium channel blockers has been described, but not with diltiazem. Drug Class: Cardiovascular Agents, Antihypertensive Agents, Calcium Channel Blockers Other Drugs in the Subclass, Calcium Channel Blockers: Amlodipine, Felodipine, Isradipine, Nicardipine, Nifedipine, Nimodipine, Nisoldipine, Verapamil",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [],
+    "raw_drug_class": [
+      "Antihypertensive Agents",
+      "Calcium Channel Blockers",
+      "Amlodipine",
+      "Felodipine",
+      "Isradipine",
+      "Nicardipine",
+      "Nifedipine",
+      "Nimodipine",
+      "Nisoldipine",
+      "Verapamil"
+    ],
+    "source_nxml_file": "Diltiazem.nxml"
+  },
+  {
+    "id": 520,
+    "name_en": "Dimethyl Fumarate",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "-",
+    "grade_explanation_en": "-",
+    "rucam_score_bonus": "-",
+    "source": "LiverTox (NIDDK, NIH): DimethylFumarate.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/DimethylFumarate/",
+    "source_review_date": "2025-09-25",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity In large randomized controlled trials of dimethyl fumarate in patients with psoriasis and multiple sclerosis, serum ALT elevations were frequent, occurring in up to 25% of patients. The elevations, however, were generally mild-to-moderate and resolved rapidly even without dose modification. Elevations above 3 times ULN were reported in 6% of dimethyl fumarate compared to 3% to 6% of placebo recipients. The enzyme elevations were usually transient and not associated with symptoms or jaundice, requiring drug discontinuation in less than 1% of patients. No cases of acute hepatitis or clinically apparent liver injury were reported in the preregistration trials of methyl fumarate. Despite this, several cases of clinically apparent liver injury with jaundice were reported within 2 to 3 years of its approval and more widescale use. Most cases occurred within 2 to 3 months of starting dimethyl fumarate but some instances with more prolonged latency were reported. The typical case presented with acute hepatitis like features, marked increases in serum aminotransferase levels, and only modest alkaline phosphatase elevations. Immunoallergic features and autoantibodies were not frequent and all patients recovered upon stopping the medication with no reported instances of chronic injury or hepatic failure. Cases of clinically apparent liver injury have not been reported with diroximel or monomethyl fumarate but the clinical experience with these agents has been limited. Because the side effect profiles of these three pro-drugs of monomethyl fumarate are similar, it is suspected that all three are rare causes of clinically apparent liver injury. Likelihood score for dimethyl fumarate: C (probable rare cause of clinically apparent liver injury). Likelihood score for diroximel fumarate: E* (unproven but suspected rare cause of clinically apparent liver injury). Likelihood score for monomethyl fumarate: E* (unproven but suspected rare cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury The mechanism by which dimethyl fumarate causes liver injury is not known but is likely to be idiosyncratic. It is extensively metabolized by serum and tissue esterases to monomethyl fumarate, which is further metabolized in the liver to fumarate which enters the tricarboxylic acid (TCA) cycle. Dimethyl fumarate metabolism is independent of the cytochrome P450 system.",
+    "raw_outcome_text": "Outcome and Management While chronic therapy with a fumarate can be associated with mild-to-moderate serum aminotransferase elevations, these three agents have been linked only rarely to cases of clinically apparent liver injury. Current recommendations are to assess routine liver tests before starting treatment and then again “as clinically indicated” during therapy. Patients with serum aminotransferase elevations accompanied by symptoms or jaundice (bilirubin 2.5 mg/dL or above) should have therapy discontinued or at least interrupted until the nature of the liver injury is clarified. There is reason to suspect that there is cross sensitivity of the hepatic injury from dimethyl fumarate and either diroximel or monomethyl fumarate, but no reason to suspect cross sensitivity to hepatic injury with other agents used to treat multiple sclerosis. Drug Class: Multiple Sclerosis Agents",
+    "raw_case_report_text": "CASE REPORT Case 1. Acute hepatitis arising after 4 weeks of dimethyl fumarate therapy.(1) A 26 year old woman with multiple sclerosis was found to have de novo elevations in serum aminotransferase levels (ALT 284 U/L) 4 weeks after starting dimethyl fumarate (120 mg twice daily). The drug was stopped, but over the next 4 weeks she developed fatigue, nausea, abdominal pain and dark urine followed by jaundice. She had no history of liver disease, alcohol abuse or risk factors for viral hepatitis and was not taking other medications. On examination, she was jaundiced, but had no rash, fever or signs of hepatic failure. Serum bilirubin was 9.0 mg/dL, ALT 1256 U/L, alkaline phosphatase 133 U/L and INR 1.58. Other causes of acute liver injury were excluded. Tests for hepatitis A, B, C and E were negative as were autoantibodies. Imaging of the liver showed no evidence of biliary obstruction. A liver biopsy showed acute hepatitis with bridging necrosis. There was bile duct injury but no duct loss, hepatic steatosis or fibrosis. During the next month, symptoms resolved and liver tests decreased towards the normal range. When seen a year later all blood tests were normal and she was being managed on glatiramer acetate. Key Points Medication: Dimethyl fumarate (120 mg twice daily) Pattern: Hepatocellular (R=36) Severity: 3+ (jaundice, hospitalization) Latency: 4 weeks to ALT elevations, 7-8 weeks to jaundice Recovery: Within 1 to 2 months Other medications: None reported Laboratory Values Days AfterStarting Days AfterStopping ALT(U/L) Alk P(U/L) Bilirubin(mg/dL) Other Dimethyl fumarate started (120 mg twice daily 4 weeks 0 284 Drug stopped 8 weeks 4 weeks 1256 133 9.0 Jaundice and symptoms 4.5 weeks 941 123 11.6 Liver biopsy 9 weeks 5 weeks 729 129 15.4 10 weeks 6 weeks 342 137 1.6 15 weeks 9 weeks 48 74 0.4 Asymptomatic > 1 year > 1 year Normal Normal Normal On glatiramer Normal Values <35 <104 <1.2 Comment This patient was found to have serum enzyme elevations four weeks after starting dimethyl fumarate. The aminotransferase were approximately 8 times the upper limit of normal and had been normal when tested before starting the multiple sclerosis agent. The drug was promptly discontinued, but the patient went on to develop clinical symptoms and jaundice and four weeks later had biochemical and histological features of an acute hepatitis. She was symptomatic for several weeks, but ultimately recovered without specific therapy. This was the initial report of clinically apparent liver injury due to dimethyl fumarate which had been associated with a modest rate of serum enzyme elevations during registration trials. This patient was fortunate to have had the drug stopped promptly; a delay may have led to a more severe and consequential course. Most instances of liver injury associated with dimethyl fumarate have arisen during the first 1 to 2 months of therapy and routine monitoring, as was done for this patient, is not unreasonable.",
+    "raw_case_report_key_points": {
+      "Medication": "Dimethyl fumarate (120 mg twice daily)",
+      "Pattern": "Hepatocellular (R=36)",
+      "Severity": "3+ (jaundice, hospitalization)",
+      "Latency": "4 weeks to ALT elevations, 7-8 weeks to jaundice",
+      "Recovery": "Within 1 to 2 months",
+      "Other medications": "None reported"
+    },
+    "raw_trade_names": [
+      "Diroximel Fumarate - Vumerity®",
+      "Monomethyl Fumarate - Bafiertam®"
+    ],
+    "raw_drug_class": [
+      "Multiple Sclerosis Agents"
+    ],
+    "source_nxml_file": "DimethylFumarate.nxml"
+  },
+  {
+    "id": 521,
+    "name_en": "Diphenhydramine",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "E",
+    "grade_explanation_en": "unlikely to be a cause of clinically apparent liver injury",
+    "rucam_score_bonus": 0,
+    "source": "LiverTox (NIDDK, NIH): Diphenhydramine.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Diphenhydramine/",
+    "source_review_date": "2017-01-16",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity Despite widespread use over many decades, diphenhydramine has not been linked to liver test abnormalities or to clinically apparent liver injury. The reason for its safety may relate its short half-life and limited duration of use. Likelihood score: E (unlikely to be a cause of clinically apparent liver injury). References on the safety and potential hepatotoxicity of antihistamines are given together after the Overview section on Antihistamines. Drug Class: Antihistamines",
+    "raw_mechanism_text": "",
+    "raw_outcome_text": "",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [],
+    "raw_drug_class": [
+      "Antihistamines"
+    ],
+    "source_nxml_file": "Diphenhydramine.nxml"
+  },
+  {
+    "id": 522,
+    "name_en": "Diphenoxylate",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "-",
+    "grade_explanation_en": "-",
+    "rucam_score_bonus": "-",
+    "source": "LiverTox (NIDDK, NIH): Diphenoxylate.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Diphenoxylate/",
+    "source_review_date": "2019-04-25",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity As with most opiates in current use, therapy with diphenoxylate with atropine has not been linked to serum enzyme elevations. There have been no convincing cases of idiosyncratic acute, clinically apparent liver injury attributed to diphenoxylate. The reason for its lack of hepatotoxicity may relate partially to the low doses used. What diphenoxylate that is absorbed is metabolized in the liver. References on the safety and potential hepatotoxicity of diphenoxylate are given in the Overview section of the Opioids. Drug Class: Gastrointestinal Agents; Opioids",
+    "raw_mechanism_text": "",
+    "raw_outcome_text": "",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [],
+    "raw_drug_class": [
+      "Gastrointestinal Agents",
+      "Opioids"
+    ],
+    "source_nxml_file": "Diphenoxylate.nxml"
+  }
+]

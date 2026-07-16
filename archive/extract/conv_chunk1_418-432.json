@@ -1,0 +1,430 @@
+[
+  {
+    "id": 418,
+    "name_en": "Abemaciclib",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "C",
+    "grade_explanation_en": "probable rare cause of clinically apparent liver injury",
+    "rucam_score_bonus": 1,
+    "source": "LiverTox (NIDDK, NIH): Abemaciclib.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Abemaciclib/",
+    "source_review_date": "2026-06-01",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity In the large clinical trials, adverse events were common and led to dose reductions in up to one-half of patients and discontinuation in 9%. In preregistration clinical trials, ALT elevations occurred in 31% to 41% of abemaciclib treated subjects which were above 5 times the ULN in 3% to 5%. In one study, several recipients developed clinically apparent liver injury with jaundice and one recipient died of hepatic failure, but these outcomes were considered to be unrelated to abemaciclib therapy. Thus, there were no cases of clinically apparent liver injury that could be attributed to abemaciclib therapy during prelicensure studies. Since the approval and more widescale use of abemaciclib, there have been several published reports of its hepatotoxicity. Most reports of liver injury from abemaciclib are marked by prominent serum aminotransferase elevations (5 to 20 times ULN) with minimal bilirubin elevations and few symptoms arising 1 to 3 months after initiation of therapy, and with rapid resolution upon stopping abemaciclib. In several cases there was rapid recurrence on restarting, but subsequent tolerance without serum enzyme elevations upon switching to other cyclin-dependent kinase inhibitors such as palbociclib or ribociclib. Isolated cases of liver injury with jaundice and severe outcomes including fatalities attributed to abemaciclib have been reported but are rare. Likelihood score: C (probable rare cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury The causes of serum enzyme elevations and liver injury from abemaciclib therapy are not known. Abemaciclib is extensively metabolized in the liver largely through the cytochrome P450 CYP 3A4 isoenzyme and liver injury might be caused by production of a toxic or immunogenic intermediate. On the other hand, inhibition of cyclin-dependent kinases 4 and 6 may also affect hepatocytes and have direct toxicity. Because it is a substrate for CYP 3A4, abemaciclib is susceptible to drug-drug interactions with agents that inhibit or induce this specific hepatic microsomal activity.",
+    "raw_outcome_text": "Outcome and Management The product label for abemaciclib recommends prospective monitoring of liver tests during therapy, with values obtained before starting, at 2-week intervals during the first two cycles and at the beginning of the ensuing 4 cycles, and \"as clinically indicated\" thereafter. The product label also provides careful recommendations for dose interruption, reduction or discontinuation based upon toxicities (neutropenia, liver injury, QTc prolongation), with dose interruption until recovery for aminotransferase elevations above 3 times ULN, interruption until normal and subsequent dose reduction if above 5 times ULN, and permanent discontinuation if above 20 times ULN or in the presence of ALT elevations and jaundice. There appears to be minimal cross reactivity in risk for adverse events, hypersensitivity or hepatic injury between abemaciclib and ribociclib or palbociclib or other cyclin-dependent kinase inhibitors. However, switching to these agents should be done with careful monitoring of liver tests. Drug Class: Antineoplastic Agents, Protein Kinase Inhibitors Other Cyclin-Dependent Kinase Inhibitor Drugs: Palbociclib, Ribociclib",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Abemaciclib - Verzenio®"
+    ],
+    "raw_drug_class": [
+      "Antineoplastic Agents",
+      "Protein Kinase Inhibitors",
+      "Palbociclib",
+      "Ribociclib"
+    ],
+    "source_nxml_file": "Abemaciclib.nxml"
+  },
+  {
+    "id": 419,
+    "name_en": "Abiraterone",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "C",
+    "grade_explanation_en": "probable rare cause of clinically apparent liver injury",
+    "rucam_score_bonus": 1,
+    "source": "LiverTox (NIDDK, NIH): Abiraterone.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Abiraterone/",
+    "source_review_date": "2023-03-15",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity Serum aminotransferase elevations occur in up to 13% of patients treated with abiraterone compared with 1% to 8% receiving placebo or a comparator drug, but the abnormalities are generally mild, transient and not associated with symptoms or jaundice. ALT elevations above 5 times the upper limit of normal (ULN) occur in 6% of abiraterone treated vs <1% of placebo treated subjects. While clinically apparent liver injury with jaundice was not reported in the preregistration trials of abiraterone, at least 4 cases of acute liver injury with jaundice were reported after its approval and more widespread clinical use. The clinical features of the liver injury have not been well described, but the latency to onset in reported cases ranged from 4 to 8 weeks and the clinical pattern of illness was acute hepatocellular injury without immune allergic features. Because of the risk of severe acute liver injury with abiraterone therapy, the product label recommends screening for routine liver tests before starting therapy and monitoring of liver tests every 2 weeks for the first 3 months of therapy and monthly thereafter. Likelihood score: C (probable rare cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury The cause of hepatic injury from abiraterone is unknown, but may relate to its mechanism of action in inhibition of CYP17. In addition, abiraterone is metabolized in the liver by the cytochrome P450 system, predominantly CYP 3A4 and 2D6, which may lead to formation of a toxic or immunogenic intermediate. Abiraterone is susceptible to drug-drug interactions with inhibitors, inducers or substrates of the CYP 3A4 or 2D6 microsomal enzymes.",
+    "raw_outcome_text": "Outcome and Management The severity of the liver injury linked to abiraterone therapy has been generally mild, consisting of transient and asymptomatic elevations in serum aminotransferase levels. The product label recommends measuring aminotransferase levels every 2 weeks for 3 months and monthly thereafter and stopping therapy if levels rise above 5 times ULN. Abiraterone should not be restarted unless levels return to normal. Any elevation in ALT in the presence of jaundice or symptoms should lead to permanent discontinuation. Abiraterone has not been linked to cases of chronic hepatitis or vanishing bile duct syndrome. There is no information on cross sensitivity to hepatic injury between abiraterone and other antiandrogens. Drug Class: Antineoplastic Agents, Antiandrogens",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [],
+    "raw_drug_class": [
+      "Antineoplastic Agents",
+      "Antiandrogens"
+    ],
+    "source_nxml_file": "Abiraterone.nxml"
+  },
+  {
+    "id": 420,
+    "name_en": "Abrocitinib",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "E",
+    "grade_explanation_en": "unlikely cause of clinically apparent liver injury",
+    "rucam_score_bonus": 0,
+    "source": "LiverTox (NIDDK, NIH): Abrocitinib.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Abrocitinib/",
+    "source_review_date": "2022-06-13",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity In the large registration clinical trials, serum aminotransferase elevations occurred rarely and were not attributed to abrocitinib. These elevations were typically mild and transient, and values above 3 times the upper limit of normal (ULN) occurred in less than 1% of patients on abrocitinib. In prelicensure studies, there were no instances of clinically apparent liver injury attributed to abrocitinib. Since approval of abrocitinib, there have been no published reports of hepatotoxicity associated with its use, but clinical experience with its use has been limited. While other Janus kinase inhibitors such as ruxolitinib have been associated with episodes of reactivation of hepatitis B, spontaneous reports of clinically apparent reactivation of hepatitis during abrocitinib therapy have not been reported. Likelihood score: E (unlikely cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury The causes of serum enzyme elevations during abrocitinib therapy are not known. Abrocitinib is metabolized in the liver largely by CYP 2C9 and 3A4 pathways and may be susceptible to drug-drug interactions with agents that inhibit or induce these specific hepatic microsomal enzymes.",
+    "raw_outcome_text": "Outcome and Management There is no recommendation for monitoring of routine liver tests during abrocitinib therapy. Because abrocitinib may cause reactivation of hepatitis B, patients starting long term therapy should be screened for HBsAg and anti-HBc. Patients with preexisting HBsAg in serum should undergo evaluation and prophylaxis against reactivation of HBV using potent oral antiviral agents, such as tenofovir or entecavir. Those with anti-HBc without HBsAg or HBV DNA should be monitored for evidence of infection and treated if there is de novo appearance of HBsAg or HBV DNA. Drug Class: Protein Kinase Inhibitors Other Drugs in the Subclass, Janus Kinase Inhibitors: Baricitinib, Fedratinib, Ruxolitinib, Tofacitinib, Upadacitinib",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Abrocitinib - Cibinqo®"
+    ],
+    "raw_drug_class": [
+      "Protein Kinase Inhibitors",
+      "Baricitinib",
+      "Fedratinib",
+      "Ruxolitinib",
+      "Tofacitinib",
+      "Upadacitinib"
+    ],
+    "source_nxml_file": "Abrocitinib.nxml"
+  },
+  {
+    "id": 421,
+    "name_en": "Acalabrutinib",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "D",
+    "grade_explanation_en": "possible rare cause of reactivation of hepatitis B",
+    "rucam_score_bonus": 1,
+    "source": "LiverTox (NIDDK, NIH): Acalabrutinib.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Acalabrutinib/",
+    "source_review_date": "2021-03-21",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity In open label clinical trials of acalabrutinib in patients with CLL and mantle cell lymphoma, serum aminotransferase elevations occurred in 19% to 23% of patients during therapy and rose to above 5 times ULN in 2% to 3%. These elevations were transient and resolved spontaneously but occasionally led to early drug discontinuation. Among the 610 patients treated with acalabrutinib in pre-registration trials, there were no instances of clinically apparent liver injury attributed to its use, but there was a single instance of acute liver failure and death due to reactivation of hepatitis B. Similar cases of reactivation have been reported with ibrutinib, another small molecule inhibitor of Bruton's tyrosine kinase. Experience with acalabrutinib has been limited and the frequency of clinically apparent liver injury and reactivation of hepatitis B are not known. The majority of cases have occurred in patients taking multiple immunosuppressive agents and not just acalabrutinib alone. Likelihood score: D (possible rare cause of reactivation of hepatitis B).",
+    "raw_mechanism_text": "Mechanism of Injury The mechanism by which acalabrutinib might cause liver injury is unknown but may be due to off-target inhibition of tyrosine kinases. Acalabrutinib is metabolized in the liver largely by the CYP 3A4 and is susceptible to drug-drug interactions with inhibitors or inducers of this enzyme reactivity. Reactivation of hepatitis B from acalabrutinib is probably the result of profound B cell suppression, which can lead to increases in viral replication, which can result in severe hepatitis upon immune reconstitution.",
+    "raw_outcome_text": "Outcome and Management Liver injury due to acalabrutinib is generally mild and asymptomatic. Reactivation of hepatitis B, however, can result in severe hepatitis and even acute hepatic failure. Patients who are to receive B cell inhibitors such as acalabrutinib, ibrutinib, rituximab and usteokinumab should be screened for serologic markers of hepatitis B infection, including HBsAg and anti-HBc before starting chemotherapy, and those who are positive given prophylaxis against reactivation using oral antiviral agent with activity against HBV such as tenofovir or entecavir. Alternatively, patients can be monitored carefully for changes in HBV DNA levels during therapy. If HBV DNA levels appear de novo or increase significantly (by 10-fold or greater; at least one log increase in HBV DNA), initiation of antiviral therapy is appropriate. Therapy should be continued for at least six months after immunosuppressive therapy has been completed. Drug Class: Antineoplastic Agents, Protein Kinase Inhibitors",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Acalabrutinib - Calquence®"
+    ],
+    "raw_drug_class": [
+      "Antineoplastic Agents",
+      "Protein Kinase Inhibitors"
+    ],
+    "source_nxml_file": "Acalabrutinib.nxml"
+  },
+  {
+    "id": 422,
+    "name_en": "Acarbose",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "B",
+    "grade_explanation_en": "rare but likely cause of clinically apparent liver injury",
+    "rucam_score_bonus": 2,
+    "source": "LiverTox (NIDDK, NIH): Acarbose.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Acarbose/",
+    "source_review_date": "2021-01-10",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity In several large clinical trials, serum enzyme elevations above 3 times the upper limit of normal were more common with acarbose therapy (2% to 5%) than with placebo, but all elevations were asymptomatic and resolved rapidly with stopping therapy. These studies reported no instances of clinically apparent liver injury. Subsequent to approval and with wide clinical use, however, at least a dozen instances of clinically apparent liver injury have been linked to acarbose use. The liver injury typically arises 2 to 8 months after starting therapy and is associated with a hepatocellular pattern of serum enzyme elevations with marked increases in serum ALT levels, suggestive of acute viral hepatitis. Immunoallergic features and autoantibody formation are not typical. While most cases are mild, some are associated with marked jaundice and cases with a fatal outcome have been reported to the sponsor. No cases of chronic liver injury or vanishing bile duct syndrome have been linked to acarbose use, and most large series of cases of drug induced liver injury and acute liver failure have not identified cases due to acarbose. Rechallenge has been carried out in several instances and resulted in recurrence with a shortening of the time to onset. Likelihood score: B (rare but likely cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury The cause of liver injury during acarbose therapy is not known. Acarbose is an oligosaccharide of microbial origin and is minimally absorbed (0.5% to 1.7%), so that systemic toxicity and liver injury were not expected and remain unexplained. Liver injury from acarbose is clearly idiosyncratic and may relate to an immunological reaction to the bacterially derived oligosaccharide molecule or to alterations in the microbiome and absorption of bacterial products.",
+    "raw_outcome_text": "Outcome and Management The liver injury caused by acarbose has generally been mild and self-limited with the injury resolving rapidly once acarbose is discontinued. Cross sensitivity with other hypoglycemic agents has not been described. Furthermore, liver injury has not been described in patients taking the other currently available alpha glucosidase inhibitor, miglitol. Recurrence of injury with reintroduction of acarbose has been reported and should be avoided. Drug Class: Antidiabetic Agents Other Drugs in the Subclass Alpha Glucosidase Inhibitors: Miglitol",
+    "raw_case_report_text": "CASE REPORT Case 1. Acute hepatocellular injury due to acarbose.(1) A 57 year old woman with type 2 diabetes developed nausea, right upper quadrant pain, dark urine and jaundice 2 months after starting acarbose (50 mg three times daily before meals). She was taking no other medications for diabetes, but had been on a laxative (cyclobutyrol) intermittently for several years. She had no history of liver disease or drug reactions, had no risk factors for viral hepatitis and did not drink alcohol. Examination showed jaundice and hepatic tenderness, but no fever or rash or signs of chronic liver disease. Laboratory results demonstrated hyperbilirubinemia (3.8 mg/dL) and marked elevations in serum aminotransferase levels (ALT 1580 U/L, AST 1090 U/L), with minimal increase in alkaline phosphatase (220 U/L). Tests for acute hepatitis A and B, cytomegalovirus and Epstein Barr virus infection were negative as were autoantibodies. An abdominal ultrasound was normal. Acarbose was discontinued and she improved within the next 10 days (Table). In follow up, all liver tests had returned to normal and she later tolerated glipizide without evidence of liver injury. Key Points Medication: Acarbose (150 mg daily) Pattern: Hepatocellular (R=~20) Severity: 3+ (jaundice, hospitalization) Latency: 2 months Recovery: 5 weeks Other medications: Cyclobutyrol Laboratory Values Time AfterStarting Time AfterStopping ALT(U/L) Alk P(U/L) Bilirubin(mg/dL) Other 2 months 0 1580 220 3.8 Acarbose stopped 4 days 1344 217 1.9 10 days 638 154 1.2 3 months 21 days 91 93 0.9 4 months 2 months 34 161 0.5 Started on glipizide Normal Values <42 <115 <1.2 Comment Acarbose therapy has been linked to rare instances of an acute hepatitis-like injury arising 2 to 8 months after starting treatment. This case is typical of the injury described, with marked elevations in serum aminotransferase levels and mild jaundice, rapid improvement on stopping acarbose and lack of cross sensitivity with other antidiabetic medications. Several cases of recurrence of liver injury after reexposure have been described making it likely that the injury is idiosyncratic.",
+    "raw_case_report_key_points": {
+      "Medication": "Acarbose (150 mg daily)",
+      "Pattern": "Hepatocellular (R=~20)",
+      "Severity": "3+ (jaundice, hospitalization)",
+      "Latency": "2 months",
+      "Recovery": "5 weeks",
+      "Other medications": "Cyclobutyrol"
+    },
+    "raw_trade_names": [],
+    "raw_drug_class": [
+      "Antidiabetic Agents",
+      "Alpha Glucosidase Inhibitors",
+      "Miglitol"
+    ],
+    "source_nxml_file": "Acarbose.nxml"
+  },
+  {
+    "id": 423,
+    "name_en": "Acebutolol",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "C",
+    "grade_explanation_en": "probable cause of clinically apparent liver injury",
+    "rucam_score_bonus": 1,
+    "source": "LiverTox (NIDDK, NIH): Acebutolol.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Acebutolol/",
+    "source_review_date": "2017-01-15",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity Acebutolol is associated with a low rate of mild-to-moderate elevations of serum aminotransferase levels during treatment. These enzyme elevations are usually asymptomatic and transient and resolve even with continuation of therapy. There have been few documented cases of clinically apparent, acute liver injury attributed to acebutolol. The time to onset of injury was typically between 1 and 6 weeks of starting. The pattern of liver enzyme elevations was usually hepatocellular with an acute hepatitis-like presentation, although some cases present with a mixed pattern of enzymes. Fever commonly accompanied the liver injury, but usually without rash and eosinophia. Acebutolol is known to induce autoantibodies such as antinuclear antibody in 10% to 30% of patients, some of whom develop a lupus-like syndrome with fatigue, skin rash and arthralgias. Serum enzyme elevations may accompany this syndrome, but jaundice and symptoms of liver injury are uncommon. The published cases of hepatotoxicity due to acebutolol were relatively mild, self-limited and recovery was rapid upon stopping. Rechallenge resulted in rapid recurrence of injury. Likelihood score: C (probable cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury The mechanism of drug induced liver injury from beta-blockers such as acebutolol is not known. Acebutolol is extensively metabolized by the liver and excreted as inactive metabolites. The few cases of clinically apparent liver injury attributed to acebutolol were likely idiosyncratic.",
+    "raw_outcome_text": "Outcome and Management The severity of liver injury due to beta-blockers ranges from mild serum aminotransferase elevations to acute hepatitis with jaundice. Acebutolol has not been implicated in cases of acute liver failure or vanishing bile duct syndrome. In large case series of drug induced liver injury and acute liver failure due to medications, acebutolol has not been listed as a potential cause. There is little information about cross reactivity among the beta-blockers to hepatic injury. Switching from a beta-blocker that has caused acute liver injury to another should be done with caution and active monitoring. References to the safety and potential hepatotoxicity of acebutolol are provided in the overview on Beta-Adrenergic Receptor Antagonists, last updated in June 2019. Drug Class: Beta-Adrenergic Receptor Antagonists",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [],
+    "raw_drug_class": [
+      "Beta-Adrenergic Receptor Antagonists"
+    ],
+    "source_nxml_file": "Acebutolol.nxml"
+  },
+  {
+    "id": 424,
+    "name_en": "Aclidinium",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "-",
+    "grade_explanation_en": "-",
+    "rucam_score_bonus": "-",
+    "source": "LiverTox (NIDDK, NIH): Aclidinium.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Aclidinium/",
+    "source_review_date": "2017-07-07",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity Like other anticholinergic agents, aclidinium has not been linked to episodes of liver enzyme elevations or clinically apparent liver injury. A major reason for its safety may relate to the low systemic absorption and exposure associated with anticholinergic agents administered by inhaler. References on the safety and potential hepatotoxicity of anticholinergics are given together after the Overview section on the Anticholinergic Agents. Drug Class: Anticholinergic Agents",
+    "raw_mechanism_text": "",
+    "raw_outcome_text": "",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Aclidinium - Tudorza Pressair®"
+    ],
+    "raw_drug_class": [
+      "Anticholinergic Agents"
+    ],
+    "source_nxml_file": "Aclidinium.nxml"
+  },
+  {
+    "id": 425,
+    "name_en": "Adefovir",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "-",
+    "grade_explanation_en": "-",
+    "rucam_score_bonus": "-",
+    "source": "LiverTox (NIDDK, NIH): Adefovir.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Adefovir/",
+    "source_review_date": "2016-02-15",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity Serum aminotransferase elevations are common during or after therapy of hepatitis B, but appear to be due to exacerbations of the underlying HBV infection rather than hepatotoxicity. Sudden withdrawal of adefovir therapy can lead to an acute flare of hepatitis as viral levels suddenly rise. These withdrawal flares are usually transient and self-limited, but in rare instances are symptomatic and severe and can lead to death or need for liver transplantation. Instances of moderate serum aminotransferase elevations early during treatment have been described in clinical trials, but these elevations are usually transient and asymptomatic and are found in up to 25% of persons who start nucleoside analogue therapy of hepatitis B. Finally, development of antiviral resistance can be followed by a flare of the underlying hepatitis B as HBV DNA levels rise. Antiviral resistance to adefovir is rare during the first 1 to 2 years of therapy, but increasing rates are found with long-term therapy. Adefovir has not been associated with cases of lactic acidosis with hepatic steatosis and liver failure. Tenofovir, a nucleotide analogue similar to adefovir, has been associated with isolated cases of lactic acidosis, but only in combination with other antiretroviral agents that are more closely linked to this syndrome. Because adefovir is considered contraindicated in HIV infection (it has weak anti-HIV activity), it is not used in combination with typical antiretroviral drugs. There have been no convincing cases of lactic acidosis or of clinically apparent liver injury with symptoms or jaundice due to adefovir. Likehood score: E (unlikely cause of clinically apparent, idiosyncratic liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury The apparent absence of significant hepatotoxicity from adefovir may be due to its minimal hepatic metabolism and rapid urinary excretion. In vitro, adefovir demonstrates little inhibitory activity against mitochondrial polymerase gamma.",
+    "raw_outcome_text": "Outcome and Management The mild-to-moderate ALT elevations associated with initiating adefovir use are usually asymptomatic and transient. Due to the high percentage of patients who have flares of hepatitis B after discontinuation of adefovir, serum aminotransferase testing should be monitored for several months and antiviral therapy resumed if symptoms or jaundice arise or serum aminotransferases remain significantly above baseline (pretreatment) levels. Patients who develop antiviral resistance to adefovir can have significant flares of hepatitis B and should be switched to or have added another agent with a different profile of resistance. [Agents used in therapy of HBV infection include adefovir, emtricitabine, entecavir, lamivudine, telbivudine, tenofovir, interferon alfa and peginterferon.] Drug Class: Antiviral Agents, Antiretroviral Agents, Hepatitis B Agents Other Drugs in the Subclass, Nucleoside Analogues: Abacavir, Didanosine, Emtricitabine, Entecavir, Lamivudine, Stavudine, Telbivudine, Tenofovir, Zidovudine",
+    "raw_case_report_text": "CASE REPORT Case 1. Flare of hepatitis B accompanying development of adefovir resistance. [NIH Case: Adefovir-Lamivudine #6] A 56 year old man with chronic hepatitis B and previous therapy with interferon and lamivudine was treated with adefovir (10 mg daily). He took no other medications and did not drink alcohol. He had no symptoms of hepatitis, but appeared to have Gilbert’s syndrome with intermittently elevated total bilirubin levels, but normal direct fractions. He was positive for HBsAg and HBeAg in serum and HBV DNA levels were high. Molecular testing revealed evidence of lamivudine-resistant virus (rtM204V/rtL180M). ALT levels were only modestly elevated (Table). A liver biopsy showed moderate histological activity and bridging hepatic fibrosis. With adefovir therapy, serum HBV DNA levels decreased by only 3 to 4 log10 copies per mL and ALT levels improved minimally. Liver histology did not change. He remained asymptomatic and had no other medical problems. During the third year of therapy, HBV DNA levels began to rise towards pretreatment values and serum ALT levels increased five-fold. Molecular testing showed presence of the typical adefovir-resistant mutation in the HBV polymerase gene: rtN236T. Switching therapy to tenofovir led to prompt decrease in HBV DNA levels and improvements in ALT values. Key Points Medication: Adefovir (10 mg daily) Pattern: Hepatocellular Severity: 1+ (aminotransferase elevations without jaundice) Latency: 3 years Recovery: After switching to tenofovir therapy Other medications: None Laboratory Values Time After Starting Time After Stopping AST (U/L) Alk P (U/L) Bilirubin (mg/dL) HBV DNA (copies/mL) Other 0 55 95 1.7 456,000,000 Liver biopsy 6 months 46 105 1.6 892,000 1 year 48 90 2.7 489,000 Liver biopsy 2 years 45 108 1.7 120,000 3 years 33 114 2.2 121,506 3.7 years 43 94 1.2 132,026,000 rtN236T mutation 4 years 205 98 1.9 31,349,600 Switched to tenofovir therapy (300 mg daily) 2 months* 2 months 61 108 2.5 1,715 6months* 6 months 27 129 2.5 <58 5 years* 5 years 25 130 1.5 <10 Normal Values <42 <115 <1.2 *Time after switching to tenofovir Comment Adefovir therapy of chronic hepatitis B is associated with a low rate of antiviral resistance during the first 1 to 2 years of treatment, but a somewhat high rate of poor initial response (as in this patient). Antiviral resistant rates increase to 17% to 28% after 3 to 4 years of treatment. Development of virological breakthrough is commonly followed by a flare in the underlying hepatitis. In this patient, the flare was mild and the adefovir-resistant virus was successfully suppressed by tenofovir therapy. These features make monotherapy with adefovir problematic in chronic hepatitis B and it is now rarely used.",
+    "raw_case_report_key_points": {
+      "Medication": "Adefovir (10 mg daily)",
+      "Pattern": "Hepatocellular",
+      "Severity": "1+ (aminotransferase elevations without jaundice)",
+      "Latency": "3 years",
+      "Recovery": "After switching to tenofovir therapy",
+      "Other medications": "None"
+    },
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Adefovir - Hepsera®"
+    ],
+    "raw_drug_class": [
+      "Antiviral Agents",
+      "Nucleoside Analogues",
+      "Abacavir",
+      "Didanosine",
+      "Emtricitabine",
+      "Entecavir",
+      "Lamivudine",
+      "Stavudine",
+      "Telbivudine",
+      "Tenofovir",
+      "Zidovudine"
+    ],
+    "source_nxml_file": "Adefovir.nxml"
+  },
+  {
+    "id": 426,
+    "name_en": "Afatinib",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "D",
+    "grade_explanation_en": "possible cause of clinically apparent liver injury",
+    "rucam_score_bonus": 1,
+    "source": "LiverTox (NIDDK, NIH): Afatinib.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Afatinib/",
+    "source_review_date": "2017-06-01",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity Elevations in serum aminotransferase levels are common during afatinib therapy occurring in 20% to 50% of patients, but rising above 5 times the upper limit of the normal range in only 1% to 2%. Hepatic failure is said to have occurred in 0.2% of patients and to have resulted in several fatalities. Hepatotoxicity appears to be a class effect among protein kinase inhibitors of EGFR2, although liver injury appears to be more frequent and more severe with gefitinib than with afatinib and erlotinib. Specific details of the liver injury associated with afatinib such as latency, serum enzyme pattern, clinical features and course, have not been published. Other EGFR inhibitors, such as erlotinib and gefitinib typically cause liver injury arising within days or weeks of starting therapy and presenting abruptly with hepatocellular enzyme elevations and a moderate-to-severe course. Immunoallergic and autoimmune features are not common. The rate of clinically significant liver injury and hepatic failure is increased in patients with preexisting cirrhosis or hepatic impairment due to liver tumor burden. Likelihood score: D (possible cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury The abrupt and severe nature of the clinically apparent liver injury attributed to EGF receptor inhibitors suggests that it is immunologically mediated. However, the transient serum enzyme elevations that are not uncommon during therapy suggest a direct, intrinsic hepatotoxicity, perhaps caused by inhibition of critical tyrosine kinase receptors in hepatocytes. Afatinib is metabolized in the liver largely and is susceptible to drug-drug interactions with inhibitors or inducers of p-glycoprotein.",
+    "raw_outcome_text": "Outcome and Management Liver injury due to afatinib varies in severity from minor, transient serum enzyme elevations to acute symptomatic hepatitis and acute liver failure. Periodic monitoring of liver tests during afatinib therapy is recommended. Serum aminotransferase elevations above 5 times the upper limit of normal (if confirmed) should lead to temporary discontinuation, which should be permanent if laboratory values do not improve significantly or resolve within a few weeks, or if symptoms or jaundice arises. Corticosteroids have been used in some instances of acute liver injury due to EGFR inhibitors. Restarting therapy is usually, but not always followed by recurrence of the serum enzyme elevations. There does not appear to be cross reactivity with other tyrosine kinase receptor inhibitors and, in some situations, switching to another protein kinase inhibitor may be appropriate. Drug Class: Antineoplastic Agents, Protein Kinase Inhibitors",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Afatinib - Gilotrif®"
+    ],
+    "raw_drug_class": [
+      "Antineoplastic Agents",
+      "Protein Kinase Inhibitors"
+    ],
+    "source_nxml_file": "Afatinib.nxml"
+  },
+  {
+    "id": 427,
+    "name_en": "Alectinib",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "D",
+    "grade_explanation_en": "possible cause of clinically apparent liver injury",
+    "rucam_score_bonus": 1,
+    "source": "LiverTox (NIDDK, NIH): Alectinib.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Alectinib/",
+    "source_review_date": "2017-05-30",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity In preregistration trials of alectinib, ALT elevations occurred in up to 50% of patients, but values above 5 times the upper limit of normal (ULN) were found in only 1% to 4%. Alectinib therapy was also associated with frequent elevations in alkaline phosphatase (47%) and bilirubin (39%), but these abnormalities were usually mild-to-moderate in degree, as well as asymptomatic and transient in nature. Clinically apparent liver injury with jaundice was rare, but cases were reported and at least 2% of alectinib treated subjects discontinued therapy early because of severe liver test abnormalities. The clinical features of these episodes were not reported and, since its approval and more widescale use, there have been no published cases of liver injury attributable to alectinib therapy. Use of this agent, however, has been limited. Thus, alectinib has been reported to cause liver injury that can be clinically significant and require drug discontinuation, but the clinical features of the injury have not been well defined and their relationship to treatment not definitively shown. Likelihood score: D (possible cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury Serum enzyme and bilirubin elevations are frequent during therapy with tyrosine kinase inhibitors, but their cause is unknown. The liver injury may be due to direct activity against essential intracellular kinases or to production of a toxic metabolite during metabolism of the kinase inhibitor. Alectinib is metabolized in the liver predominantly by CYP 3A4, but has not been linked to significant drug-drug interactions.",
+    "raw_outcome_text": "Outcome and Management Liver injury due to alectinib varies in severity from minor, transient serum enzyme elevations to acute symptomatic liver injury with jaundice. Serum aminotransferase elevations above 5 times the upper limit of normal (if confirmed) should lead to temporary discontinuation, which should be permanent if laboratory values do not improve significantly or resolve within a few weeks or if symptoms or jaundice arise. The product label includes a warning about heptotoxicity and recommends monitoring of liver tests every two weeks for 3 months followed by monthly thereafter as clinically indicated. Restarting therapy is usually, but not always, followed by recurrence of the liver test abnormalities. There does not appear to be cross reactivity with other tyrosine kinase receptor inhibitors of ALK (such as crizotinib or ceritinib) and, in some situations, switching to another protein kinase inhibitor may be appropriate. Drug Class: Antineoplastic Agents, Protein Kinase Inhibitors",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Alectinib - Alecensa®"
+    ],
+    "raw_drug_class": [
+      "Antineoplastic Agents",
+      "Protein Kinase Inhibitors"
+    ],
+    "source_nxml_file": "Alectinib.nxml"
+  },
+  {
+    "id": 428,
+    "name_en": "Alfuzosin",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "C",
+    "grade_explanation_en": "probable cause of clinically apparent liver injury",
+    "rucam_score_bonus": 1,
+    "source": "LiverTox (NIDDK, NIH): Alfuzosin.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Alfuzosin/",
+    "source_review_date": "2018-01-08",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity Alfuzosin has been associated with a low rate of serum aminotransferase elevations (<2%) that in controlled trials was no higher than with placebo or comparative agent therapy. These elevations were transient and did not require dose modification. Since its approval and more wide spread use, several instances of clinically apparent acute liver injury due to alfuzosin have been published. The onset of injury was within 2 to 4 weeks and the pattern of enzyme elevations was predominantly hepatocellular. Prolonged jaundice with evolution to a cholestatic hepatitis was also described. Allergic features of rash, fever and eosinophilia can occur, but are usually not prominent. Autoantibodies are usually not found. Among the various alpha blockers used for hypertension or prostatic hypertrophy, alfuzosin has been most frequently associated with liver injury, but no instances of acute liver failure or vanishing bile duct syndrome have been described with it use. Likelihood score: C (probable cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury The cause of the minor serum aminotransferase elevations and rare instance of clinically apparent liver injury associated with alfuzosin use is not known. Alfuzosin is extensively metabolized by the liver by the cytochrome P450 enzymes (predominantly CYP 3A4) and generation of a mildly toxic intermediate is a possible explanation.",
+    "raw_outcome_text": "Outcome and Management No instances of acute liver failure or chronic liver injury have been reported in association with alfuzosin or other alpha-1 adrenergic blockers. There is no information on cross reactivity of the liver injury among the various alpha-1 adrenergic receptor antagonists, but similarity of chemical structure suggests that cross sensitivity may be present. References to the safety and potential hepatotoxicity of alfuzosin are given in the Overview on the Alpha-1 Adrenergic Receptor Antagonists. Drug Class: Benign Prostatic Hypertrophy Agents Other Drugs in the Class: Alpha-1 Adrenergic Receptor Antagonists Doxazosin, Silodosin, Tamsulosin, Terazosin 5-Alpha Reductase Inhibitors Dutasteride, Finasteride",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [],
+    "raw_drug_class": [
+      "Benign Prostatic Hypertrophy Agents",
+      "Alpha-1 Adrenergic Receptor Antagonists",
+      "Doxazosin",
+      "Silodosin",
+      "Tamsulosin",
+      "Terazosin",
+      "5-Alpha Reductase Inhibitors",
+      "Dutasteride",
+      "Finasteride"
+    ],
+    "source_nxml_file": "Alfuzosin.nxml"
+  },
+  {
+    "id": 429,
+    "name_en": "Alogliptin",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "E*",
+    "grade_explanation_en": "unproven but suspected cause of acute, idiosyncratic liver injury",
+    "rucam_score_bonus": 0,
+    "source": "LiverTox (NIDDK, NIH): Alogliptin.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Alogliptin/",
+    "source_review_date": "2018-01-03",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity Liver injury due to alogliptin is rare. In large clinical trials, serum enzyme elevations were uncommon (1% to 3%) and no greater than with comparator arms or placebo. In these studies, no instances of clinically apparent liver injury with jaundice were reported. Since licensure, instances of serum enzyme elevations and acute hepatitis including acute liver failure attributed to alogliptin have been reported to the FDA and the sponsor. These cases have not been reported in the literature and the clinical features have not been defined. Cases of clinically apparent acute liver injury have been reported with other DPP-4 inhibitors such as sitagliptin and saxagliptin. The latency to onset was typically within 2 to 12 weeks of starting and the pattern of liver enzyme elevations was usually hepatocellular. Immunoallergic features were often present. Most cases were self-limited in course and rapidly reversed once the medication was stopped. Likelihood score: E* (unproven but suspected cause of acute, idiosyncratic liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury The cause of liver injury during alogliptin or other DPP-4 inhibitor therapy is not known. Alogliptin is mostly excreted unchanged and only a small proportion (<10%) is metabolized in the liver. Alogliptin has minimal drug-drug interactions.",
+    "raw_outcome_text": "Outcome and Management The instances of liver injury associated with the DPP-4 inhibitors have ranged from mild self-limited serum enzyme elevations to clinically apparent hepatitis and acute liver failure. However, the details of cases with liver injury have not been published. Routine monitoring of serum aminotransferase levels is not recommended but prompt testing for liver test abnormalities is recommended for patients reporting symptoms that may indicate liver injury. The similarity in chemical structure among the DPP-4 inhibitors suggests that there may be cross sensitivity to hepatic injury among the different agents, but this has not been reported. However, the other common antidiabetic medications in use should be tolerated without increased risk of liver injury. References regarding the hepatotoxicity and safety of the DPP-4 inhibitors are given in the Overview section of DPP-4 Inhibitors (updated 03 January 2018). Drug Class: Antidiabetic Agents, Incretin-Based Drugs Other Drugs in the Subclass, Dipeptidyl Peptidase-4 (DPP-4) Inhibitors: Linagliptin, Saxagliptin, Sitagliptin",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Alogliptin - Nesina®"
+    ],
+    "raw_drug_class": [
+      "Antidiabetic Agents",
+      "Incretin-Based Drugs",
+      "Dipeptidyl Peptidase-4 (DPP-4) Inhibitors",
+      "Linagliptin",
+      "Saxagliptin",
+      "Sitagliptin"
+    ],
+    "source_nxml_file": "Alogliptin.nxml"
+  },
+  {
+    "id": 430,
+    "name_en": "Alpelisib",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "E*",
+    "grade_explanation_en": "unproven but suspected rare cause of clinically apparent liver injury",
+    "rucam_score_bonus": 0,
+    "source": "LiverTox (NIDDK, NIH): Alpelisib.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Alpelisib/",
+    "source_review_date": "2021-09-15",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity In the prelicensure clinical trials of alpelisib in patients with cancer, liver test abnormalities were frequent although usually transient, asymptomatic, and mild-to-moderate in severity. Some degree of ALT elevation arose in up to 44% of alpelisib- and fulvestrant-treated patients, but were above 5 times the upper limit of normal (ULN) in only 3% to 4%. The aminotransferase elevations rarely necessitated dose modifications or interruptions, and only slightly lower rates of enzyme elevations occurred in patients taking fulvestrant without alpelisib. In these trials that enrolled less than 1000 patients, there were several reports of marked serum aminotransferase elevations that led to early discontinuation. However, the nature and clinical features of the liver injury were not provided and there were no cases of clinically apparent liver injury. Skin rashes were also common with alpelisib therapy, and patients are often given prophylactic antihistamines which appear to result in fewer and milder rashes. However, moderate-to-severe rash can occur and some are accompanied by drug reaction with eosinophilia and systemic signs (DRESS) syndrome, some degree of liver injury (usually anicteric and asymptomatic) being a part of the manifestations. Likelihood score: E* (unproven but suspected rare cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury The cause of liver injury from alpelisib is unknown, but with pattern of abnormalities suggests some degree of low level, direct hepatotoxicity. Alpelisib is metabolized in the liver via the cytochrome P450 system, largely CYP 3A4 and 2C9, and is susceptible to drug-drug interactions with agents that inhibit or induce the CYP enzyme reactivity. Likelihood score: E* (unproven but suspected rare cause of clinically apparent liver injury).",
+    "raw_outcome_text": "Outcome and Management Serum aminotransferase elevations above 5 times the upper limit of normal (if confirmed) should lead to dose reduction or temporary interruption of alpelisib therapy. In patients with clinically apparent liver injury and jaundice, restarting therapy should be done with caution but with aminotransferase elevations without jaundice or symptoms, cautious reintroduction of therapy can be attempted. Cross sensitivity to liver injury is uncommon among the tyrosine kinase inhibitors but there is no information or shared adverse event sensitivity of alpelisib with other antineoplastic protein kinase inhibitors. Drug Class: Antineoplastic Agents, Tyrosine Kinase Inhibitors",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Alpelisib - Piqray®"
+    ],
+    "raw_drug_class": [
+      "Antineoplastic Agents",
+      "Tyrosine Kinase Inhibitors"
+    ],
+    "source_nxml_file": "Alpelisib.nxml"
+  },
+  {
+    "id": 431,
+    "name_en": "Alprazolam",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "D",
+    "grade_explanation_en": "possible rare cause of clinically apparent liver injury",
+    "rucam_score_bonus": 1,
+    "source": "LiverTox (NIDDK, NIH): Alprazolam.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Alprazolam/",
+    "source_review_date": "2023-06-22",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity Alprazolam, like other benzodiazepines, is rarely associated with serum ALT or alkaline phosphatase elevations, and clinically apparent liver injury from alprazolam is extremely rare, considering the frequency of its use. There have been a few case reports of acute liver injury from alprazolam, and recurrence on reexposure has been reported. In alprazolam-related cases of acute liver injury, the latency has been within a few weeks and the typical pattern of liver enzyme elevations has been cholestatic or mixed (Case 1). The injury was usually mild-to-moderate in severity and self-limited in course. Fever and rash have not been described nor has autoantibody formation. Similar rare cases of self-limited, mild-to-moderate, cholestatic liver injury have been reported with other benzodiazepines including chlordiazepoxide, clonazepam, diazepam, flurazepam, lorazepam, and triazolam. Likelihood score: D (possible rare cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury Alprazolam is metabolized by the liver via the cytochrome P450 system, predominantly by CYP 3A4. Concurrent use of CYP 3A4 inhibitors, such as cimetidine or ketaconazole, can cause an increase in alprazolam plasma levels. The liver injury from the benzodiazepines is probably due to a rarely produced intermediate metabolite.",
+    "raw_outcome_text": "Outcome and Management The case reports of hepatic injury due to benzodiazepines were followed by prompt and complete recovery upon stopping the medication, without evidence of residual or chronic injury. No cases of acute liver failure or chronic liver injury due to alprazolam have been described. There is little information about cross reactivity with other benzodiazepines, but some degree of cross sensitivity should be assumed, and patients with clinically apparent liver injury due to alprazolam should be monitored if they are switched to related agents. Drug Class: Benzodiazepines, Antianxiety Agents",
+    "raw_case_report_text": "CASE REPORT Case 1. Mild acute liver injury due to alprazolam.(1) A 32 year old woman with a long history of panic attacks developed fatigue and abdominal pain 2 weeks after starting alprazolam (1 mg daily increasing to 8 mg daily), and she became jaundiced one week later. She had no history of liver disease and was known to have had normal serum liver tests before starting alprazolam. On examination, she was jaundiced but had no fever or rash. Laboratory results showed elevations in serum enzymes and bilirubin (Table). Tests for hepatitis A and B and for mononucleosis were negative. Alprazolam was stopped and diazepam (which she had received in the past) substituted. She improved rapidly and all tests were normal when she was seen one month after stopping alprazolam. Key Points Medication: Alprazolam (8 mg daily) Pattern: Cholestatic (R=1.8) Severity: 2+ (jaundiced) Latency: 2 weeks to symptoms, 3 weeks to jaundice Recovery: Complete in one month Other medications: None mentioned Laboratory Values Time AfterStarting Time AfterStopping ALT(U/L) Alk P(U/L) Bilirubin(mg/dL) Other Pre Normal Normal Normal 3 weeks 0 156 241 2.6 Albumin 4.0 g/dL 4 days 124 187 1.8 7 weeks 4 weeks Normal Normal Normal Normal Values <35 <95 <1.2 Comment A convincing case of alprazolam induced liver injury characterized by a mild cholestatic hepatitis arising 2 to 3 weeks after starting the medication and resolving rapidly with stopping. There were no signs of hypersensitivity. Interestingly, she tolerated other benzodiazepines without problems, indicating lack of cross sensitivity to the injury.",
+    "raw_case_report_key_points": {
+      "Medication": "Alprazolam (8 mg daily)",
+      "Pattern": "Cholestatic (R=1.8)",
+      "Severity": "2+ (jaundiced)",
+      "Latency": "2 weeks to symptoms, 3 weeks to jaundice",
+      "Recovery": "Complete in one month",
+      "Other medications": "None mentioned"
+    },
+    "raw_trade_names": [],
+    "raw_drug_class": [
+      "Benzodiazepines"
+    ],
+    "source_nxml_file": "Alprazolam.nxml"
+  },
+  {
+    "id": 432,
+    "name_en": "Amantadine",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "E",
+    "grade_explanation_en": "unlikely cause of clinically apparent liver injury",
+    "rucam_score_bonus": 0,
+    "source": "LiverTox (NIDDK, NIH): Amantadine.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Amantadine/",
+    "source_review_date": "2020-06-22",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity Despite widespread use, there is little evidence that amantadine when given orally causes liver injury, either in the form of serum enzyme elevations or clinically apparent liver disease. Likelihood score: E (unlikely cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury Amantadine has minimal hepatic metabolism and is excreted largely unchanged in the urine, factors which perhaps explain the absence of significant hepatotoxicity. Drug Classes: Antiviral Agents; Antiparkinson Agents Other Drugs in the Class for Influenza: Baloxavir, Oseltamivir, Peramivir, Rimantadine, Zanamivir",
+    "raw_outcome_text": "",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [],
+    "raw_drug_class": [
+      "Antiviral Agents",
+      "Antiparkinson Agents",
+      "Baloxavir",
+      "Oseltamivir",
+      "Peramivir",
+      "Rimantadine",
+      "Zanamivir"
+    ],
+    "source_nxml_file": "Amantadine.nxml"
+  }
+]

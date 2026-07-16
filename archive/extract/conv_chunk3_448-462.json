@@ -1,0 +1,434 @@
+[
+  {
+    "id": 448,
+    "name_en": "Asenapine",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "D",
+    "grade_explanation_en": "possible rare cause of clinically apparent liver injury",
+    "rucam_score_bonus": 1,
+    "source": "LiverTox (NIDDK, NIH): Asenapine.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Asenapine/",
+    "source_review_date": "2023-06-05",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity Liver test abnormalities occur in 1% to 2.5% of patients receiving asenapine, but similar rates are reported with placebo therapy (0.6% to 1.3%) and with comparator agents. The ALT elevations are usually mild, transient and often resolve even without dose modification or drug discontinuation. There has been a single case report of cholestatic serum enzyme elevations arising 3 to 4 weeks after starting asenapine, resolving within a month of stopping. Thus, asenapine may be a rare cause of mild cholestatic liver injury. Likelihood score: D (possible rare cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury The mechanism by which asenapine might cause serum enzyme elevations or liver injury is not known. Asenapine is metabolized to some extent by the cytochrome P450 system (CYP 2D6 and 3A4), but is an uncommon cause of significant drug-drug interactions with agents that inhibit or induce these microsomal enzymes.",
+    "raw_outcome_text": "Outcome and Management The serum aminotransferase elevations that occur with asenapine therapy are usually self-limited and often do not require dose modification or discontinuation. No instances of acute liver failure, chronic hepatitis or vanishing bile duct syndrome have been attributed to asenapine. Cross sensitivity to liver related or other hypersensitivity reactions between asenapine and other antipsychotic agents have not been demonstrated. Drug Class: Antipsychotic Agents, Atypicals",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Asenapine - Saphris®"
+    ],
+    "raw_drug_class": [
+      "Antipsychotic Agents"
+    ],
+    "source_nxml_file": "Asenapine.nxml"
+  },
+  {
+    "id": 449,
+    "name_en": "Atazanavir",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "D",
+    "grade_explanation_en": "possible, rare cause of clinically apparent liver injury",
+    "rucam_score_bonus": 1,
+    "source": "LiverTox (NIDDK, NIH): Atazanavir.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Atazanavir/",
+    "source_review_date": "2017-09-01",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity Atazanavir can cause several forms of liver injury including transient serum enzyme elevations, indirect hyperbilirubinemia, idiosyncratic acute liver injury and exacerbation of underlying chronic viral hepatitis. Some degree of serum aminotransferase elevations occurs in a high proportion of patients taking atazanavir containing antiretroviral regimens. Moderate-to severe elevations in serum aminotransferase levels (>5 times the upper limit of normal) are found in 3% to 10% of patients, although rates may be higher in patients with HIV-HCV coinfection. These elevations are usually asymptomatic and self-limited and can resolve even with continuation of the medication. Atazanavir therapy (similar to indinavir) also causes increases in unconjugated (indirect) and total serum bilirubin that can manifest as jaundice in up to 10% of patients. These elevations are due to the inhibition of UDP glucuronyl transferase, the hepatic enzyme responsible for conjugation of bilirubin that is deficient in Gilbert syndrome. The hyperbilirubinemia is usually mild, the increases averaging 0.3-0.5 mg/dL, but can be more marked in patients with Gilbert syndrome with increases of 1.5 mg/dL or more and clinical jaundice. The jaundice, however, is not indicative of hepatic injury. Clinically apparent acute liver injury due to atazanavir is rare and the clinical pattern of liver injury, latency and recovery have not been well defined. The liver injury is idiosyncratic and rare and probably similar to the injury that is caused by other HIV protease inhibitors. The liver injury typically arises 1 to 8 weeks after starting the protease inhibitor and has variable patterns of liver enzyme elevation, from hepatocellular to cholestatic. Signs of hypersensitivity (fever, rash, eosinophilia) are rare, as is autoantibody formation. The acute liver injury is usually self-limited and resolves within a few weeks of stopping the antiretroviral agent (Case 1). In addition, initiation of atazanavir based antiretroviral therapy can lead to exacerbation of an underlying chronic hepatitis B or C in coinfected individuals, typically arising 2 to 12 months after starting therapy, and associated with a hepatocellular pattern of serum enzyme elevations and increases in serum levels of hepatitis B virus (HBV) DNA or hepatitis C virus (HCV) RNA. Atazanavir therapy has not been clearly linked to lactic acidosis and acute fatty liver that is reported in association with several nucleoside analogue reverse transcriptase inhibitors. Likelihood score: D (possible, rare cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury The cause of the clinical hepatotoxicity from atazanavir is only partially known. The indirect hyperbilirubinemia associated with its use is caused by inhibition of hepatic conjugation of bilirubin, similar to what occurs in Gilbert syndrome and is not indicative of liver injury. Atazanavir is extensively metabolized by the liver, largely by the cytochrome P450 system (CYP 3A4) and toxic intermediates may be the cause of the idiosyncratic forms of liver injury. In patients with HIV infection who are coinfected with either HBV or HCV, initiation of potent antiretroviral therapy may be associated with flares of the underlying chronic hepatitis as the result of reconstitution of the immune system, viral interactions or a direct effect of the drug on the hepatitis virus.",
+    "raw_outcome_text": "Outcome and Management The severity of liver injury from atazanavir ranges from asymptomatic unconjugated hyperbilirubinemia to moderate serum aminotransferase elevations to acute hepatitis. In typical cases, recovery occurs within 1 to 2 months and neither chronic hepatitis nor vanishing bile duct syndrome have been reported due to atazanavir. Rechallenge may lead to recurrence and should be avoided. There does not appear to be cross sensitivity in the hepatic injury to other protease inhibitors or antiretroviral agents. The exacerbation of hepatitis B or C that can occur with atazanavir based antiretroviral therapies can be severe and lead to liver failure or progressive, end stage liver disease. Patients with HCV or HBV coinfection should be monitored prospectively for viral and serum aminotransferase levels and appropriate therapy instituted if possible. References to atazanavir are included with references to all the HIV protease inhibitors in the overview section of Protease Inhibitors (updated September 2017). Most of the HIV protease inhibitors in clinical use are proteinomimetic drugs and are structurally unrelated. Drug Class: Antiviral Agents, Antiretroviral Agents Other Drugs in the Subclass, Protease Inhibitors: Amprenavir, Darunavir, Fosamprenavir, Indinavir, Lopinavir, Nelfinavir, Ritonavir, Saquinavir, Tipranavir",
+    "raw_case_report_text": "CASE REPORT Case 1. Serum aminotransferase elevations and jaundice arising during atazanavir therapy. [Modified from: Eholié SP, Lacombe K, Serfaty L, Wendum D, Girard PM. Acute hepatic cytolysis in an HIV-infected patient taking atazanavir. AIDS 2004; 18: 1610-1. PubMed Citation] A 56 year old woman with HIV infection and long history of antiretroviral therapy developed elevations in serum aminotransferase levels 8 weeks after switching from lopinavir/ritonavir to atazanavir in combination with tenofovir and didanosine. In the previous five years, she had been treated with various antiretroviral regimens which had included stavudine, didanosine, efavirenz, abacavir, nelfinavir, lopinavir and ritonavir, and had complications of lipodystrophy and dyslipidemia. Tests for hepatitis A, B and C were negative as were autoantibodies. She did not drink alcohol and was taking no other medications. Because of improvements in her dyslipidemia after switching to atazanavir, the medication was continued and she was monitored. Thirty weeks after starting atazanavir, serum ALT levels had risen to more than ten-fold elevated and she was jaundiced (Table). Ultrasonography showed fatty liver without evidence of obstruction and liver biopsy showed steatosis and an acute hepatitis-like picture. Antiretroviral treatment was discontinued and serum aminotransferase levels fell to near normal levels within the next 2 months. She tolerated reintroduction of antiretroviral therapy with tenofovir, didanosine and nelfinavir without recurrence of ALT elevations. Key Points Medication: Atazanavir Pattern: Hepatocellular (R=8.3) Severity: 3+ (jaundice, hospitalization) Latency: 8 weeks to onset of ALT elevations, 30 weeks to jaundice Recovery: Yes Other medications: Tenofovir, didanosine Laboratory Values Time After Starting Time After Stopping ALT* (U/L) Alk P (U/L) Bilirubin (mg/dL) Other Pre 27 Normal Normal Pre 25 Atazanavir started and lopinavir stopped because of dyslipidemia 7 weeks 105 4 months 90 7 months 265 7.5 months 0 405 158 4.6 Therapy stopped 8 months 1 week 290 9 months 6 weeks 240 8 weeks 110 Tenofovir restarted 10 months 3 months 48 11 months 4 months 30 Normal Values <40 <130 <1.2 *Values estimated from Figure 1. Comment Mild, asymptomatic elevations in serum aminotransferase levels were identified within 8 weeks of switching HIV protease inhibitors from lopinavir/retonavir to atazanavir. However, instead of resolving spontaneously, ALT levels continued to increase. It was not clear whether the patient became symptomatic or whether the jaundice may have been partially due to the known effects of atazanavir in increasing unconjugated (indirect) bilirubin levels. The appearance of ALT elevations shortly after starting atazanavir, the absence of other known causes of liver diseases (particularly hepatitis B and C) and the resolution with stopping support the diagnosis of atazanavir induced liver injury.",
+    "raw_case_report_key_points": {
+      "Medication": "Atazanavir",
+      "Pattern": "Hepatocellular (R=8.3)",
+      "Severity": "3+ (jaundice, hospitalization)",
+      "Latency": "8 weeks to onset of ALT elevations, 30 weeks to jaundice",
+      "Recovery": "Yes",
+      "Other medications": "Tenofovir, didanosine"
+    },
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Atazanavir - Reyataz®"
+    ],
+    "raw_drug_class": [
+      "Antiviral Agents",
+      "Protease Inhibitors",
+      "Amprenavir",
+      "Darunavir",
+      "Fosamprenavir",
+      "Indinavir",
+      "Lopinavir",
+      "Nelfinavir",
+      "Ritonavir",
+      "Saquinavir",
+      "Tipranavir"
+    ],
+    "source_nxml_file": "Atazanavir.nxml"
+  },
+  {
+    "id": 450,
+    "name_en": "Atomoxetine",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "C",
+    "grade_explanation_en": "probable cause of clinically apparent liver injury",
+    "rucam_score_bonus": 1,
+    "source": "LiverTox (NIDDK, NIH): Atomoxetine.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Atomoxetine/",
+    "source_review_date": "2021-08-25",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity Atomoxetine has been linked to serum aminotransferase elevations in a small proportion of patients (~0.5%). More importantly, there have been several reports of clinically apparent acute liver injury due to atomoxetine. The onset of injury was within 3 to 12 weeks of starting the medication. The typical pattern of serum enzyme elevations was hepatocellular with marked increases in serum aminotransferase levels (often >20 times upper limit of normal) and clinical features that resembled acute viral hepatitis. Most cases have been self-limited, but instances of acute liver failure sometimes requiring emergency liver transplantation have been reported. Immunoallergic features were not found, but several patients with acute injury had antinuclear antibody and at least one patient had other features that resembled autoimmune hepatitis (with typical liver histology and high levels of immunoglobulins in serum). Likelihood score: C (probable cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury The mechanism by which atomoxetine might cause liver injury is unknown. Atomoxetine is extensively metabolized in the liver by the cytochrome P450 system, predominantly CYP 2D6 and production of a toxic intermediate or immunogenic byproduct are reasonable explanations. Atomoxetine is susceptible to drug-drug interactions with other substrates that use CYP 2D6 as well as inducers and inhibitors of the enzyme. Patients who have low or absent levels of CYP 2D6 (poor metabolizers) may have high plasma levels of atomoxetine and have more severe adverse events when receiving conventional doses, and those with high CYP 2D6 levels (ultrafast metabolizers) may have low plasma levels and fail to respond to treatment.",
+    "raw_outcome_text": "Outcome and Management The liver injury due to atomoxetine varies from minor, transient and asymptomatic elevations in serum aminotransferase levels to clinically apparent hepatitis that can be prolonged and even fatal. Chronic liver injury and vanishing bile duct syndrome due to atomoxetine have not been described. Atomoxetine should be discontinued if jaundice or symptoms of liver injury accompany serum enzyme elevations during treatment or if aminotransferase levels rise to above 5 times the upper limit of normal. There does not seem to be cross reactivity to hepatic injury between atomoxetine and other agents used for ADHD, but there may be cross reactivity with other norepinephrine reuptake inhibitors. Drug Class: Central Nervous System Stimulants; ADHD Agents",
+    "raw_case_report_text": "CASE REPORT Case 1. Acute hepatitis in a child treated with atomoxetine.(1) A 12 year old girl with ADHD developed abdominal pain, nausea, diarrhea and jaundice three weeks after restarting atomoxetine (40 mg daily). She had no previous history of liver disease or risk factors for viral hepatitis. She had received atomoxetine for approximately one year, but stopped taking it when she ran out of the medication, leading to an interruption of therapy for 6 weeks before restarting. She was not taking any other medications, over-the-counter drugs or herbals. On examination, she was jaundiced and had mild right upper quadrant tenderness without hepatomegaly or other manifestations of chronic liver disease. She had no fever or rash. Laboratory tests showed a total bilirubin of 9.1 mg/dL (direct 5.5 mg/dL) and marked elevations in serum aminotransferase levels (ALT 3264 U/L, AST 2999 U/L), with minimal increase in alkaline phosphatase (231 U/L) and gamma glutamyl transpeptidase (108 U/L) (Table). Tests for hepatitis A, B and C were negative. Antinuclear antibody was positive in a titer of 1:160; smooth muscle antibody was negative. There was no hypergammaglobulinemia, and total IgG levels were normal (769 mg/dL). A liver biopsy showed focal hepatocyte necrosis and marked portal and parenchymal inflammatory infiltrates, with minimal fibrosis and normal bile ducts. Atomoxetine was discontinued and she was monitored on no specific therapy. She improved markedly over the next six weeks, and liver tests were normal when tested six months later. Key Points Medication: Atomoxetine (40 mg daily) Pattern: Hepatocellular (R=39) Severity: 3+ (jaundice, hospitalization) Latency: 3 weeks (reexposure) Recovery: ~6 weeks Other medications: None Laboratory Values Time AfterStarting Time AfterStopping ALT(U/L) Alk P(U/L) Bilirubin(mg/dL) Comments 0 Atomoxetine (40 mg daily) started 3 weeks 0 1979 363 8.0 Atomoxetine stopped 5 weeks 2 weeks 9.8 Liver biopsy 7 weeks 4 weeks 1438 177 2.6 9 weeks 6 weeks 107 182 1.6 7 months 6 months <15 176 0.3 Normal Values <50 <397 <1.2 Comment A young girl who had previously taken atomoxetine without difficulty developed an acute, self-limited hepatitis 3 weeks after restarting it. The hepatitis was accompanied by autoantibody formation, but without elevations in globulins or IgG levels. She improved upon stopping atomoxetine and corticosteroids were not used. Drug induced liver injury due to atomoxetine is rare, but several instances of an acute hepatitis-like syndrome arising within 3 to 12 weeks of starting or restarting the medication have been reported in patients without any other obvious reason for acute liver injury. The injury is usually hepatocellular with markedly elevated serum aminotransferase levels (as in this case). Recurrence with reexposure has been reported and should be avoided.",
+    "raw_case_report_key_points": {
+      "Medication": "Atomoxetine (40 mg daily)",
+      "Pattern": "Hepatocellular (R=39)",
+      "Severity": "3+ (jaundice, hospitalization)",
+      "Latency": "3 weeks (reexposure)",
+      "Recovery": "~6 weeks",
+      "Other medications": "None"
+    },
+    "raw_trade_names": [],
+    "raw_drug_class": [
+      "Central Nervous System Stimulants",
+      "ADHD Agents"
+    ],
+    "source_nxml_file": "Atomoxetine.nxml"
+  },
+  {
+    "id": 451,
+    "name_en": "Atovaquone",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "D",
+    "grade_explanation_en": "possible rare cause of clinically apparent liver injury",
+    "rucam_score_bonus": 1,
+    "source": "LiverTox (NIDDK, NIH): Atovaquone.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Atovaquone/",
+    "source_review_date": "2017-02-02",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity Atovaquone has been linked to serum aminotransferase elevations in a small proportion of patients (1% to 6%). There have also been rare reports of clinically apparent, acute liver injury due to atovaquone. In one published case report (Case 1), the onset of injury was 25 days after starting (and a few days after stopping) treatment. The pattern of serum enzyme elevations was cholestatic. Immunoallergic manifestations (fever, rash and eosinophilia) were not prominent and autoantibodies were not present. The liver injury resolved within 2 months of stopping the medication. Because a combination of proguanil and atovaquone was used, either agent could have been responsible for the injury. Atovaquone has also been linked to rare instances of Stevens Johnson syndrome, which is frequently accompanied by mild liver injury or liver enzyme elevations. Likelihood score: D (possible rare cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury The mechanism by which atovaquone might cause liver injury is unknown. Atovaquone is minimally metabolized by the liver, while proguanil is metabolized by the cytochrome P450 system (CYP 2C19). Either a toxic or an immunogenic metabolite may be responsible for the injury.",
+    "raw_outcome_text": "Outcome and Management The severity of hepatic injury due to atovaquone varies from mild serum enzyme elevations that are asymptomatic and transient, to clinically apparent liver injury with jaundice. Acute liver failure, chronic hepatitis and vanishing bile duct syndrome have not been reported after atovaquone therapy. There does not seem to be cross reactivity to hepatic injury among the various antimalarial agents and switching to other drug can be safely done. Drug Class: Antimalarial Agents, see also Proguanil",
+    "raw_case_report_text": "CASE REPORT Case 1. Cholestatic hepatitis after course of atovaquone/proguanil for malaria prophylaxis. [Modified from: Grieshaber M, Lämmli J, Marcus L. Acute hepatitis and atovaquone/proguanil. J Travel Med 2005; 12: 289-90. PubMed Citation] A 31 year old man developed jaundice and abdominal pain a few days after a 25 day course of atovaquone (250 mg) and proguanil (100 mg) for malaria prophylaxis during travel. Other symptoms included poor appetite, itching, fatigue and dark urine. He had no previous history of liver disease or exposures to hepatitis and did not abuse alcohol. On examination, he had mild fever (37.5 oC) and was jaundiced. There was no mention of rash or eosinophilia. Serum bilirubin was mildly elevated at 2.9 mg/dL, and both ALT and alkaline phosphatase levels were prominently increased (Table). Tests for viral hepatitis A, B, C and E were negative as were autoantibody markers. MRI of the abdomen showed a normal appearing liver and biliary system. A liver biopsy was not done. His symptoms gradually improved and serum enzyme abnormalities eventually resolved approximately 8 weeks after initial presentation. Key Points Medication: Atovaquone and proguanil Pattern: Cholestatic (R=1.7) Severity: 2+ (jaundice, hospitalization) Latency: 25 days Recovery: 8 weeks Other medications: None Laboratory Values Time After Starting Time After Stopping ALT* (U/L) Alk P* (U/L) Bilirubin* (mg/dL) Other 4 weeks 1 weeks 320 445 2.9 LDH 610 U/L 2 weeks 330 410 2.2 3 weeks 710 330 0.6 7 weeks 4 weeks 310 240 0.5 5 weeks 280 190 0.5 6 weeks 75 115 0.5 7 weeks 60 110 0.5 11 weeks 8 weeks 25 105 0.5 Normal Values <40 <92 <1.2 * Estimated from Figure 1. Comment A mild case of cholestatic hepatitis typical of drug induced liver injury, and the only medications being used were atovaquone and proguanil, either of which may have been the cause. The somewhat delayed decline in serum enzymes is typical of cholestatic forms of drug induced liver injury.",
+    "raw_case_report_key_points": {
+      "Medication": "Atovaquone and proguanil",
+      "Pattern": "Cholestatic (R=1.7)",
+      "Severity": "2+ (jaundice, hospitalization)",
+      "Latency": "25 days",
+      "Recovery": "8 weeks",
+      "Other medications": "None"
+    },
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Atovaquone - Mepron®"
+    ],
+    "raw_drug_class": [
+      "Antimalarial Agents",
+      "Proguanil"
+    ],
+    "source_nxml_file": "Atovaquone.nxml"
+  },
+  {
+    "id": 452,
+    "name_en": "Atropine",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "E",
+    "grade_explanation_en": "unlikely cause of clinically apparent liver injury",
+    "rucam_score_bonus": 0,
+    "source": "LiverTox (NIDDK, NIH): Atropine_Homatropine.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Atropine_Homatropine/",
+    "source_review_date": "2017-07-07",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity Despite widespread use over many decades, atropine has not been linked convincingly to episodes of liver enzyme elevations or clinically apparent liver injury. Atropine is metabolized by the liver, but is usually given in low doses (<1 mg) for short periods only. Likelihood score: E (unlikely cause of clinically apparent liver injury). References on the safety and potential hepatotoxicity of anticholinergics are given together after the Overview section on the Anticholinergic Agents. Drug Class: Anticholinergic Agents",
+    "raw_mechanism_text": "",
+    "raw_outcome_text": "",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [],
+    "raw_drug_class": [
+      "Anticholinergic Agents"
+    ],
+    "source_nxml_file": "Atropine_Homatropine.nxml"
+  },
+  {
+    "id": 453,
+    "name_en": "Axitinib",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "E*",
+    "grade_explanation_en": "unproven but suspected cause of clinically apparent liver injury",
+    "rucam_score_bonus": 0,
+    "source": "LiverTox (NIDDK, NIH): Axitinib.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Axitinib/",
+    "source_review_date": "2017-08-01",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity In large clinical trials of axitinib, elevations in serum aminotransferase levels were common, occurring in up to 25% of patients. Values greater than 5 times the upper limit of normal (ULN), however, were uncommon, occurring in 1% to 2% of recipients. Furthermore, no instances of clinically apparent liver injury from axitinib were reported in prelicensure studies or during the more wide scale use since its approval. Nevertheless, periodic monitoring of liver tests during axitinib therapy is recommended. Likelihood score: E* (unproven but suspected cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury The mechanism of injury accounting for serum enzyme elevations during axitinib therapy is not known. Axitinib is metabolized in the liver largely through the CYP 3A4 pathway and liver injury may be related to production of a toxic intermediate. Axitinib is susceptible to drug-drug interactions with agents that inhibit or induce hepatic CYP 3A4 activity.",
+    "raw_outcome_text": "Outcome and Management Serum aminotransferase elevations above 5 times the upper limit of normal (if confirmed) should lead to dose reduction or temporary cessation. Axitinib has not been implicated in cases of acute liver failure, chronic hepatitis or vanishing bile duct syndrome. There does not appear to be cross reactivity in risk for hepatic injury between axitinib and other tyrosine kinase inhibitors and, in some situations, switching to another tyrosine kinase receptor inhibitor may be appropriate. Drug Class: Antineoplastic Agents, Protein Kinase Inhibitors",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Axitinib - Inlyta®"
+    ],
+    "raw_drug_class": [
+      "Antineoplastic Agents",
+      "Protein Kinase Inhibitors"
+    ],
+    "source_nxml_file": "Axitinib.nxml"
+  },
+  {
+    "id": 454,
+    "name_en": "Azacitidine",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "E*",
+    "grade_explanation_en": "unproven but suspected cause of clinically apparent liver injury, particularly in persons with pre-existing liver disease",
+    "rucam_score_bonus": 0,
+    "source": "LiverTox (NIDDK, NIH): Azacitidine.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Azacitidine/",
+    "source_review_date": "2023-07-27",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity In clinical trials, serum enzyme elevations occurred in up to 16% of patients on azacitidine therapy for cancer or myelodysplasia who had concurrent, underlying liver disease or liver metastases, but rarely in persons without a preexisting hepatic illness. In subsequent studies, liver adverse reactions attributed to azacitidine have rarely been reported, at least when it is given in conventional doses. Nevertheless, monitoring of serum enzyme levels is recommended in treating patients who have concurrent liver disease. Cases of clinically apparent liver injury attributed to azacitidine in patients without underlying liver disease have not been reported in the literature. Likelihood score: E* (unproven but suspected cause of clinically apparent liver injury, particularly in persons with pre-existing liver disease).",
+    "raw_mechanism_text": "Mechanism of Injury Hepatotoxicity from azacitidine appears to be rare and confined mostly to patients with underlying liver disease. For these reasons, the liver injury is likely due to direct toxicity.",
+    "raw_outcome_text": "Outcome and Management The severity of the liver injury linked to azacitidine therapy is usually mild-to-moderate in severity occurring in patients with preexisting liver disease. Azacitidine has not been linked to cases of acute liver failure, chronic hepatitis or vanishing bile duct syndrome. There is no information on cross sensitivity to hepatic injury between azacitidine and other nucleoside or cytidine analogues. Drug Class: Antineoplastic Agents Other drugs for myelodysplastic syndromes: Decitabine, Decitabine/Cedazuridine, Luspatercept",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [
+      " - Vidaza®",
+      " - Onureg®"
+    ],
+    "raw_drug_class": [
+      "Antineoplastic Agents",
+      "Decitabine",
+      "Decitabine/Cedazuridine",
+      "Luspatercept"
+    ],
+    "source_nxml_file": "Azacitidine.nxml"
+  },
+  {
+    "id": 455,
+    "name_en": "Aztreonam",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "E",
+    "grade_explanation_en": "unlikely cause of clinically apparent liver injury",
+    "rucam_score_bonus": 0,
+    "source": "LiverTox (NIDDK, NIH): Aztreonam.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Aztreonam/",
+    "source_review_date": "2017-08-02",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity Aztreonam has systemic toxicities that are similar to those of other beta lactam antibiotics, but it is unclear whether it can cause hepatic injury similar to that of the penicillins or cephalosporins. Asymptomatic serum aminotransferase elevations are common during high dose, intravenous aztreonam therapy (10% to 38%). The enzyme abnormalities are usually mild-to-moderate, asymptomatic, self-limited and not requiring drug discontinuation. Enzyme elevations occur slightly more commonly during aztreonam therapy than with other comparative antibiotics. Cases of frank liver injury and jaundice attributable to aztreonam must be extremely rare as no individual cases have been reported. For this reason, there is no data regarding the latency or pattern of the injury. Instances of marked aminotransferase elevations within 3 to 5 days of starting aztreonam have been reported, but these cases were without jaundice and resolved rapidly once the drug was stopped. Likelihood score: E (unlikely cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "",
+    "raw_outcome_text": "Outcome and Management In the majority of cases, aztreonam induced liver injury appears to be transient, mild and asymptomatic, being marked by serum enzyme elevations only. Full recovery is expected after stopping the medication. Drug Class: Antiinfective Agents",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Aztreonam - Azactam®"
+    ],
+    "raw_drug_class": [
+      "Antiinfective Agents"
+    ],
+    "source_nxml_file": "Aztreonam.nxml"
+  },
+  {
+    "id": 456,
+    "name_en": "Baloxavir",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "E",
+    "grade_explanation_en": "unlikely cause of clinically apparent liver injury",
+    "rucam_score_bonus": 0,
+    "source": "LiverTox (NIDDK, NIH): Baloxavir.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Baloxavir/",
+    "source_review_date": "2020-06-22",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity In clinical trials, there was little evidence that baloxavir caused liver injury, either in the form of serum enzyme elevations or clinically apparent liver disease. A proportion of patients with acute influenza A may have minor serum enzyme elevations during the acute illness, but these are independent of therapy and do not appear to be exacerbated by baloxavir. Likelihood score: E (unlikely cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury How baloxavir might cause liver injury is not known. Baloxavir marboxil is a prodrug that is converted to the active agent baloxavir in the intestines. Baloxavir is metabolized by the liver by UGT1A3 with a minor contribution of CYP 3A4 but demonstrates no significant drug-drug interactions. Baloxavir is administered as a single 40 or 80 mg dose, and the brief exposure and minimal hepatic metabolism may account for the absence of hepatotoxicity. Drug Classes: Antiviral Agents Other Drugs in the Class for Influenza: Amantadine, Oseltamivir, Peramivir, Rimantadine, Zanamivir",
+    "raw_outcome_text": "",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Baloxavir - Xofluza®"
+    ],
+    "raw_drug_class": [
+      "Antiviral Agents",
+      "Amantadine",
+      "Oseltamivir",
+      "Peramivir",
+      "Rimantadine",
+      "Zanamivir"
+    ],
+    "source_nxml_file": "Baloxavir.nxml"
+  },
+  {
+    "id": 457,
+    "name_en": "Baricitinib",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "E*",
+    "grade_explanation_en": "unlikely to be a cause of idiosyncratic clinically apparent liver injury but has the potential to cause reactivation of hepatitis B",
+    "rucam_score_bonus": 0,
+    "source": "LiverTox (NIDDK, NIH): Baricitinib.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Baricitinib/",
+    "source_review_date": "2022-08-30",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity In the large prelicensure clinical trials in rheumatoid arthritis, serum aminotransferase elevations occurred in up to 17% of baricitinib treated subjects compared to 11% in placebo recipients. The elevations were typically mild and transient and values above 3 times the upper limit of normal (ULN) occurred in 1% to 2% of patients. The elevations occasionally led to early discontinuations, but more often resolved even without dose adjustment. In prelicensure studies in rheumatoid arthritis, alopecia areata and other rheumatic and immune-mediated disorders, there were no instances of clinically apparent liver injury attributed to baricitinib. Since approval and more wide scale availability of baricitinib, there have been no published reports of hepatotoxicity associated with its use. Use of baricitinib in combination with remdesivir for severe COVID-19 pneumonia has been reported but with little information on its potential for causing liver injury. Patients with severe SARS-CoV-2 infection frequently have elevated serum aminotransferase levels and occasionally are jaundiced. Furthermore, remdesivir has been linked to serum aminotransferase elevations during therapy that are generally mild-to-moderate in severity and resolve rapidly once the drug is stopped. Whether baricitinib increases the risk of liver injury during COVID-19 has yet to be shown, but hepatotoxicity was not a prominent feature in these early studies of its use in patients with severe COVID-19. Finally, baricitinib is an immune modulatory agent and has the potential of causing reactivation of viral infections including hepatitis B. In clinical trials, patients with HBsAg in serum were excluded from enrollment but patients with anti-HBc without HBsAg were allowed. While routine monitoring for reactivation was not performed on all patients, at least 15% of anti-HBc positive persons with rheumatoid arthritis treated with baricitinib developed virologic evidence of reactivation marked by de novo appearance of low levels of HBV DNA in serum. In all cases, the period of viremia was brief and not associated with serum aminotransferase elevations or jaundice. Thus, baricitinib appears to be capable of causing HBV reactivation but it is generally subclinical. Furthermore, the short courses of baricitinib used in the treatment of severe COVID-19 have not been linked to episodes of HBV reactivation. Likelihood score: E* (unlikely to be a cause of idiosyncratic clinically apparent liver injury but has the potential to cause reactivation of hepatitis B).",
+    "raw_mechanism_text": "Mechanism of Injury The cause of mild serum enzyme elevations during baricitinib therapy is not known. Baricitinib is largely excreted unchanged in urine and stool and less than 10% undergoes hepatic metabolism, largely via CYP 3A4. The metabolism of baricitinib is not affected by CYP inhibitors or inducers, but its renal excretion can be affected by probenecid.",
+    "raw_outcome_text": "Outcome and Management Monitoring of serum aminotransferase levels is recommended for patients starting baricitinib. De novo elevations in serum aminotransferases levels above 5 times the upper limit of normal should lead to temporary cessation. If serum enzyme elevations do not resolve or improve within a few weeks of stopping, or if symptoms of liver injury or jaundice arise, baricitinib should be permanently discontinued. There does not appear to be cross reactivity in risk for hepatic injury between baricitinib and tofacitinib or other biologic or non-biologic DMARDs. Because of its potential to cause reactivation of hepatitis B, routine screening for HBsAg and anti-HBc is appropriate before starting therapy with baricitinib. Patients with HBsAg in serum should be treated prophylactically with an oral antiviral agent with activity against HBV such as entecavir or tenofovir. An alternative is to monitor patients carefully for HBV DNA levels to detect evidence of reactivation early and initiate appropriate therapy for HBV infection. Drug Class: Antirheumatic Agents, Protein Kinase Inhibitors, COVID-19 Drugs",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Baricitinib - Olumiant®"
+    ],
+    "raw_drug_class": [
+      "Antirheumatic Agents",
+      "Protein Kinase Inhibitors",
+      "COVID-19 Drugs"
+    ],
+    "source_nxml_file": "Baricitinib.nxml"
+  },
+  {
+    "id": 458,
+    "name_en": "Bedaquiline",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "E*",
+    "grade_explanation_en": "unproven but suspected cause of clinically apparent liver injury",
+    "rucam_score_bonus": 0,
+    "source": "LiverTox (NIDDK, NIH): Bedaquiline.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Bedaquiline/",
+    "source_review_date": "2017-09-22",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity Liver test abnormalities occur in 8% to 12% of patients treated with multiple drug regimens that include bedaquiline. These abnormalities are usually asymptomatic, mild-to-moderate in severity and self-limited in duration. In many instances, it is difficult to determine which of the antituberculosis medications accounts for the abnormalities, but monitoring of liver tests at monthly intervals is recommended during bedaquiline therapy. Clinically apparent liver injury has been reported with bedaquiline therapy, but the clinical features, course and outcome of these cases has not been described. At least three deaths from end stage liver disease have been described in patients taking bedaquiline, but the attribution of the hepatic failure to bedaquiline has been questioned. The management of multidrug resistant tuberculosis is challenging and should be under the direction of physicians with expertise in tuberculosis therapy. Likelihood score: E* (unproven but suspected cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury The mechanism by which bedaquiline causes serum aminotransferase elevations is not known, but is likely due to production of a toxic intermediate by its metabolism. Bedaquiline is metabolized by the liver via the P450 system (predominantly CPY 3A4) and it is susceptible to drug-drug interactions with agents that induce or inhibit CYP3A4.",
+    "raw_outcome_text": "Outcome and Management Patients on bedaquiline should be monitored with monthly liver tests, including serum bilirubin, ALT, AST and alkaline phosphatase. Bedaquiline should be discontinued for persistent increases in liver test abnormalities, ALT elevations above 8 times the upper limit of normal, elevations of bilirubin more than twice normal or any symptom or sign of liver injury. There does not appear to be cross sensitivity to liver injury or adverse events between bedaquiline and other antituberculosis medications. Drug Class: Antituberculosis Agents Other Drugs in the Class: Capreomycin, Cycloserine, Ethambutol, Ethionamide, Isoniazid, Pyrazinamide, Rifabutin, Rifampin, Rifapentine, Streptomycin",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Bedaquiline - Sirturo®"
+    ],
+    "raw_drug_class": [
+      "Antituberculosis Agents",
+      "Capreomycin",
+      "Cycloserine",
+      "Ethambutol",
+      "Ethionamide",
+      "Isoniazid",
+      "Pyrazinamide",
+      "Rifabutin",
+      "Rifampin",
+      "Rifapentine",
+      "Streptomycin"
+    ],
+    "source_nxml_file": "Bedaquiline.nxml"
+  },
+  {
+    "id": 459,
+    "name_en": "Benazepril",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "D",
+    "grade_explanation_en": "possible rare cause of clinically apparent liver injury",
+    "rucam_score_bonus": 1,
+    "source": "LiverTox (NIDDK, NIH): Benazepril.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Benazepril/",
+    "source_review_date": "2017-09-01",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity Benazepril, like other ACE inhibitors, has been associated with a low rate of serum aminotransferase elevations (<2%) that, in controlled trials, was no higher than with placebo therapy. These elevations were transient and rarely required dose modification. A few rare instances of clinically apparent acute liver injury have been reported with benazepril therapy. In a single case report of severe liver injury leading to hepatic failure and death, the latency to onset was 14 months which resembles the rare instances of acute hepatocellular injury reported with captopril, enalapril and lisinopril. In contrast, typical ACE inhibitor related liver injury usually arises within 12 weeks of starting therapy and is associated with a cholestatic pattern of injury which can be severe and prolonged. Immunoallergic manifestations (rash, fever, eosinophilia) are infrequent and most patients do not develop autoantibodies. Likelihood score: D (possible rare cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury The cause of the minor serum aminotransferase elevations associated with benazepril is not known. The clinically apparent acute liver injury is likely an idiosyncratic reaction to a metabolite. Benazepril is hydrolyzed in the liver to the active metabolite benazeprilat.",
+    "raw_outcome_text": "Outcome and Management There have been too few instances of benazepril associated liver injury to provide an overall assessment of its course and outcome. Most instances of acute liver injury reported with ACE inhibitors have been self limited, but there have been rare reports of acute liver failure due to captopril, enalapril, lisinopril and benazepril and several reports of cholestatic hepatitis due to ACE inhibitors including benazepril leading to prolonged jaundice and vanishing bile duct syndrome. Patients with severe benazepril induced acute liver injury should avoid use of other ACE inhibitors, although cross sensitivity to liver injury among the members of this class of agents has not always been shown. References to the safety and potential hepatotoxicity of benazepril are given in the Overview section on the Angiotensin-Converting Enzyme (ACE) Inhibitors. Drug Class: Antihypertensive Agents, Angiotensin-Converting Enzyme Inhibitors",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [],
+    "raw_drug_class": [
+      "Antihypertensive Agents",
+      "Angiotensin-Converting Enzyme Inhibitors"
+    ],
+    "source_nxml_file": "Benazepril.nxml"
+  },
+  {
+    "id": 460,
+    "name_en": "Bendamustine",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "C",
+    "grade_explanation_en": "probable cause of clinically apparent liver injury, some of which is due to reactivation of hepatitis B",
+    "rucam_score_bonus": 1,
+    "source": "LiverTox (NIDDK, NIH): Bendamustine.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Bendamustine/",
+    "source_review_date": "2017-09-01",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity Mild and transient elevations in serum aminotransferase levels are found in up to 20% of patients treated with bendamustine, but elevations above 5 times the upper limit of normal occur in less than 3% of patients. The abnormalities are generally transient, unaccompanied by symptoms and rarely require dose modification. Clinically apparent liver injury from bendamustine has been limited to a small number of cases of mild hepatitis with features of hypersensitivity including eosinophilia, rash or other systemic symptoms. Autoantibody formation is uncommon. The course is generally self-limited, but may require corticosteroid therapy for control of symptoms and timely recovery. Bendamustine therapy has also been implicated in causing reactivation of hepatitis B in patients with anti-HBc in serum with or without HBsAg. In several instances patients were also receiving corticosteroids or rituximab, yet had received these without reactivation in the past. Reactivation arose after 2 to 6 cycles of bendamustine chemotherapy, presenting with symptoms accompanied by HBsAg and rising levels of HBV DNA in serum. Reactivation was generally self-limited and patients later became HBsAg negative. In one instance, however, the course was severe and resulted in death from acute liver failure. Likelihood score: C (probable cause of clinically apparent liver injury, some of which is due to reactivation of hepatitis B).",
+    "raw_mechanism_text": "Mechanism of Injury The mild serum aminotransferase elevations that occur with bendamustine therapy are most likely due to direct hepatotoxicity and are generally mild, asymptomatic and resolve without dose modification or intervention. The more clinically apparent forms of bendamustine hepatotoxicity are likely due to hypersensitivity. Bendamustine is rarely used in myeloablative regimens in preparation of hematopoietic cell transplantation and has not been linked to cases of sinusoidal obstruction syndrome, although in high enough doses it is likely to cause sinusoidal cell injury as do other alkylating agents. Bendamustine also appears to be capable of causing reactivation of hepatitis B, probably because of its potent immunosuppressive activity. Bendamustine is extensively metabolized by the hepatic cytochrome P450 system, predominantly CYP 1A2, and may be susceptible to drug-drug interactions with agents that induce or inhibit CYP 1A2 activity.",
+    "raw_outcome_text": "Outcome and Management The severity of liver injury from bendamustine ranges from mild elevations in liver enzymes to anicteric, but symptomatic hepatitis to clinically apparent hepatitis with jaundice. Monitoring of liver tests during therapy is recommended. Cases of acute liver failure, chronic hepatitis or vanishing bile duct syndrome have not been reported. Patients with hypersensitivity reactions to bendamustine should not be reexposed to the agent. There is no information on the cross reactivity of hypersensitivity reactions to bendamustine with other alkylating agents such as mechlorethamine (nitrogen mustard), carmustine (CCNU), lomustine (BCNU), chlorambucil and cyclophosphamde. Because bendamustine can cause reactivation of hepatitis B, patients should be screened for HBsAg and anti-HBc before starting therapy and either offered prophylaxis with agents active against hepatitis B (entecavir, tenofovir) or monitored closely for HBV DNA levels and started on therapy if viral titers rise. Drug Class: Antineoplastic Agents, Alkylating Agents",
+    "raw_case_report_text": "CASE REPORT Case 1. Acute hypersensitivity reaction with hepatitis attributed to bendamustine [Modified from: Jo T, Horio K. Severe liver damage and nonallergic bronchitis with eosinophilia in a patient with follicular lymphoma treated with bendamustine plus rituximab. Case Rep Oncol 2014; 7: 497-502. PubMed Citation]. A 66 year old woman with follicular lymphoma developed cough and liver test abnormalities 16 days after starting an initial cycle of bendamustine and rituximab. She had the recent diagnosis of stage IIIa follicular lymphoma with multiple lymph node involvement. After a first course of R-CHOP therapy, she refused further courses because of peripheral neuropathy, alopecia and fatigue. For these reasons, she was switched to rituximab (375 mg/m2 on day 1) and bendamustine (75 mg/m2 on days 2 and 3 of planned 21 day cycles). She developed a severe cough that caused insomnia and fatigue and was found to have bronchitis and liver test abnormalities with ALT 93 U/L, AST 133 U/L, alkaline phosphatase 274 U/L and bilirubin 0.7 mg/dL. She had no history of smoking, drug allergies or know exposure to hepatitis. Tests for acute hepatitis A, B and C were negative as were assays for CMV and mycoplasma infection. Imaging of the liver was normal and a CT scan of the chest showed no evidence of pneumonitis. Her cough continued, but cultures were negative and she was evidently afebrile. At the same time liver tests worsened; serum bilirubin rising to 6.2 mg/dL, ALT to 577 U/L and alkaline phosphatase to 932 U/L (Table). Peripheral eosinophil counts, that had been normal initially, began to rise (peaking at 36%). Because of worsening symptoms and laboratory test results suggesting a hypersensitivity reaction, she was treated with a short course of high dose methylprednisolone and improved rapidly. She was switched to oral prednisone which was gradually reduced in dose and then discontinued. In follow up, her cough resolved and liver tests were normal. Bendamustine was not restarted. Key Points Medication: Bendamustine (2 doses of 75 mg/m2 intravenously) Pattern: Mixed (R=~4.5) Severity: 3+ (jaundice, hospitalized) Latency: 2 weeks Recovery: Within 2 months (incomplete) Other medications: Rituximab, no other mediations mentioned Laboratory Values Time After Starting Time After Stopping ALT (U/L) Alk P (U/L) Eosinophils (%) Bilirubin (mg/dL) Other Pre (-2 days) 0 12 285 3% 0.6 Day 1 0 iv rituximab Day 2-3 0 iv bendamustine 9 days 7 days 12 268 7% 2.9 16 days 14 days 93 274 1% 0.7 Cough and fatigue 28 days 26 days 477 947 2% 1.4 Admission 31 days 29 days 557 932 18% 3.1 GGT 422 U/L 34 days 32 days 577 900 19% 5.6 41 days 39 days 466 731 36% 6.2 44 days 42 days 365 693 34% 4.5 Methylprednisolone 50 days 7 weeks 73 409 5% 2.2 Prednisone 58 days 8 weeks 23 266 2% 1.1 Prednisone 64 days 9 weeks 16 250 1% 1.2 90 days 3 months 13 242 0% 1.0 Normal Values (est.) <40 <280 <5% <1.2 Comment A woman with follicular lymphoma developed a hypersensitivity reaction within 2 weeks of starting an initial cycle of rituximab and bendamustine. The major symptoms were cough and fatigue which appeared to be due to an allergic bronchitis. Accompanying this was a mild hepatitis that nevertheless progressed to jaundice and was accompanied by a rising eosinophilia. Treatment with corticosteroids rapidly brought the hypersensitivity reaction under control and her liver tests were normal within 4 to 6 weeks and remained normal even with tapering and discontinuation of corticosteroids. There was evidently no rash or fever, so that the reaction is best described as “drug-hypersensitivity with systemic symptoms” rather than DRESS syndrome. One might hypothesize that rituximab altered the clinical expression of the hypersensitivity reaction. Hypersensitivity reactions (usually rash) are not infrequent with bendamustine therapy (1% to 4%) but are generally mild and self-limited, although rare instances of Stevens Johnson syndrome have been reported.",
+    "raw_case_report_key_points": {
+      "Medication": "Bendamustine (2 doses of 75 mg/m2 intravenously)",
+      "Pattern": "Mixed (R=~4.5)",
+      "Severity": "3+ (jaundice, hospitalized)",
+      "Latency": "2 weeks",
+      "Recovery": "Within 2 months (incomplete)",
+      "Other medications": "Rituximab, no other mediations mentioned"
+    },
+    "raw_trade_names": [
+      "PRODUCT INFORMATION REPRESENTATIVE TRADE NAMES Bendamustine - Treanda®"
+    ],
+    "raw_drug_class": [
+      "Antineoplastic Agents",
+      "Alkylating Agents"
+    ],
+    "source_nxml_file": "Bendamustine.nxml"
+  },
+  {
+    "id": 461,
+    "name_en": "Benztropine",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "E",
+    "grade_explanation_en": "unlikely cause of clinically apparent liver injury",
+    "rucam_score_bonus": 0,
+    "source": "LiverTox (NIDDK, NIH): Benztropine.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Benztropine/",
+    "source_review_date": "2017-07-20",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity Benztropine has not been reported to cause serum aminotransferase elevations, but it has not been evaluated for effects on serum enzyme levels in a prospective manner. Despite its use for more than 50 years, there have been no reports of benztropine liver injury in the literature and it must be a very rare cause of liver injury, if it occurs at all. Absense of liver injury is typical of anticholinergic agents and may relate to the low doses used (less than 10 mg daily). Likelihood score: E (unlikely cause of clinically apparent liver injury). Drug Class: Antiparkinson Agents, Anticholinergic Agents Other Drugs in the Subclass, Anticholinergic Agents: Biperiden, Trihexyphenidyl",
+    "raw_mechanism_text": "",
+    "raw_outcome_text": "",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [],
+    "raw_drug_class": [
+      "Antiparkinson Agents",
+      "Anticholinergic Agents",
+      "Biperiden",
+      "Trihexyphenidyl"
+    ],
+    "source_nxml_file": "Benztropine.nxml"
+  },
+  {
+    "id": 462,
+    "name_en": "Betaxolol",
+    "type": "ยาแผนปัจจุบัน",
+    "thai_herb_source": null,
+    "livertox_grade": "E",
+    "grade_explanation_en": "unlikely cause of clinically apparent liver injury",
+    "rucam_score_bonus": 0,
+    "source": "LiverTox (NIDDK, NIH): Betaxolol.nxml",
+    "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Betaxolol/",
+    "source_review_date": "2017-01-15",
+    "last_updated": "2026-07-15",
+    "raw_hepatotoxicity_text": "Hepatotoxicity Betaxolol therapy has been associated with a low rate of mild-to-moderate elevations of serum aminotransferase levels which are usually asymptomatic and transient and resolve even with continuation of therapy. There have been no well documented cases of clinically apparent, acute liver injury attributable to betaxolol. Thus, hepatotoxicity due to betaxolol must be very rare, if it occurs at all. Most commonly used beta-blockers have been linked to rare instances of clinically apparent liver injury, typically with onset within 2 to 12 weeks, a hepatocellular pattern of liver enzyme elevations, rapid recovery on withdrawal, and little evidence of hypersensitivity (rash, fever, eosinophilia) or autoantibody formation. Likelihood score: E (unlikely cause of clinically apparent liver injury).",
+    "raw_mechanism_text": "Mechanism of Injury The mechanism of drug induced liver injury from beta-blockers such as betaxolol is not known. Betaxolol is extensively metabolized by the liver and excreted as inactive metabolites. The few cases of acute liver injury attributed to beta-blockers were likely idiosyncratic.",
+    "raw_outcome_text": "Outcome and Management The severity of liver injury due to beta-blockers ranges from mild serum aminotransferase elevations to acute hepatitis with jaundice. In large case series of drug induced liver injury and acute liver failure due to medications, betaxolol has not been listed as a potential cause. There is little information about cross reactivity among the beta-blockers to hepatic injury. Switching from a beta-blocker that has caused acute liver injury to another should be done with caution and active monitoring. References to the safety and potential hepatotoxicity of betaxolol are provided in the overview on Beta-Adrenergic Receptor Antagonists, last updated in June 2019. Drug Class: Beta-Adrenergic Receptor Antagonists",
+    "raw_case_report_text": "",
+    "raw_case_report_key_points": {},
+    "raw_trade_names": [],
+    "raw_drug_class": [
+      "Beta-Adrenergic Receptor Antagonists"
+    ],
+    "source_nxml_file": "Betaxolol.nxml"
+  }
+]
