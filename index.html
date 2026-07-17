@@ -35754,8 +35754,12 @@ function saveCase() {
       patientAge: appState.patientAge,
       patientSex: appState.patientSex,
       selectedDrug: appState.selectedDrug,
+      patientAlt: appState.patientAlt,
+      ulnAlt: document.getElementById('uln-alt-input')?.value || '',
+      patientAlp: appState.patientAlp,
+      ulnAlp: document.getElementById('uln-alp-input')?.value || '',
       patientTb: appState.patientTb,
-      ulnTb: appState.ulnTb,
+      ulnTb: document.getElementById('uln-tb-input')?.value || '',
       peakValue: appState.peakValue,
       q1StartDate: document.getElementById('q1-start-date')?.value || '',
       q1OnsetDate: document.getElementById('q1-onset-date')?.value || '',
@@ -35826,6 +35830,10 @@ function loadCase(id) {
   appState.q1 = s.q1; appState.q2 = s.q2; appState.q3 = s.q3;
   appState.q4 = s.q4; appState.q5 = s.q5; appState.q6 = s.q6; appState.q7 = s.q7;
   appState.altUlnEdited = false; appState.alpUlnEdited = false; appState.tbUlnEdited = false;
+  appState.patientAlt = s.patientAlt || '';
+  appState.ulnAlt     = s.ulnAlt     || '';
+  appState.patientAlp = s.patientAlp || '';
+  appState.ulnAlp     = s.ulnAlp     || '';
   appState.patientTb  = s.patientTb  || '';
   appState.ulnTb      = s.ulnTb      || '';
   appState.peakValue  = s.peakValue  || null;
@@ -35833,6 +35841,10 @@ function loadCase(id) {
   // Restore DOM
   document.getElementById('case-id-input').value = appState.patientCaseId;
   document.getElementById('patient-age-input').value = appState.patientAge || '';
+  document.getElementById('alt-input').value     = appState.patientAlt;
+  document.getElementById('uln-alt-input').value = appState.ulnAlt;
+  document.getElementById('alp-input').value     = appState.patientAlp;
+  document.getElementById('uln-alp-input').value = appState.ulnAlp;
   document.getElementById('tb-input').value     = appState.patientTb;
   document.getElementById('uln-tb-input').value = appState.ulnTb;
   const peakInputEl = document.getElementById('q2-peak-input');
@@ -35960,6 +35972,10 @@ function exportHistoryToExcel() {
       'ยาที่สงสัย': drugName,
       'อายุผู้ป่วย (ปี)': s.patientAge || '-',
       'เพศ': s.patientSex === 'male' ? 'ชาย' : s.patientSex === 'female' ? 'หญิง' : '-',
+      'ALT (U/L)': s.patientAlt || '-',
+      'ULN ALT (U/L) ตามเพศ': s.ulnAlt || '-',
+      'ALP (U/L)': s.patientAlp || '-',
+      'ULN ALP (U/L) ตามเพศ': s.ulnAlp || '-',
       'TB (mg/dL)': s.patientTb || '-',
       'ULN TB (mg/dL)': s.ulnTb || '-',
       'ค่า Peak': s.peakValue || '-',
