@@ -6,6 +6,7 @@
   <title>RUCAM Score Calculator — ระบบประเมินภาวะตับอักเสบจากยา (DILI)</title>
   <script src="https://cdn.tailwindcss.com"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/html2pdf.js/0.10.1/html2pdf.bundle.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.18.5/xlsx.full.min.js"></script>
   <style>
     @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Thai:wght@400;500;600;700;800&display=swap');
     body {
@@ -923,12 +924,23 @@
 
   <!-- ========== SECTION 4: HISTORY ========== -->
   <div class="section-card section-card-zinc">
-    <div class="flex items-center justify-between mb-4">
+    <div class="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-3 mb-4">
       <div class="flex items-center">
         <span class="section-number">4</span>
         <h2 class="text-xl font-bold text-slate-900">ประวัติเคสที่บันทึกไว้</h2>
       </div>
-      <button onclick="clearAllHistory()" class="btn-danger text-xs">&#128465; ล้างประวัติทั้งหมด</button>
+      <div class="flex flex-wrap items-end gap-2">
+        <div>
+          <label for="history-date-start" class="block text-[11px] text-slate-500 mb-1">จากวันที่</label>
+          <input type="date" id="history-date-start" class="border border-slate-300 rounded-lg px-2.5 py-1.5 text-xs">
+        </div>
+        <div>
+          <label for="history-date-end" class="block text-[11px] text-slate-500 mb-1">ถึงวันที่</label>
+          <input type="date" id="history-date-end" class="border border-slate-300 rounded-lg px-2.5 py-1.5 text-xs">
+        </div>
+        <button onclick="exportHistoryToExcel()" class="btn-secondary text-xs">&#128202; Export to Excel</button>
+        <button onclick="clearAllHistory()" class="btn-danger text-xs">&#128465; ล้างประวัติทั้งหมด</button>
+      </div>
     </div>
     <p class="text-xs text-slate-500 mb-4 ml-10">ข้อมูลเก็บใน Local Storage ของอุปกรณ์นี้เท่านั้น — ตาม PDPA</p>
 
@@ -35889,6 +35901,102 @@ function clearAllHistory() {
   safeWrite('rucam_history', []);
   renderHistoryTable();
   showToast('ล้างประวัติทั้งหมดเรียบร้อยแล้ว');
+}
+
+function exportHistoryToExcel() {
+  const startVal = document.getElementById('history-date-start').value;
+  const endVal = document.getElementById('history-date-end').value;
+  if (!startVal || !endVal) {
+    showToast('กรุณาเลือกวันที่เริ่มต้นและวันที่สิ้นสุด');
+    return;
+  }
+
+  const startDate = new Date(startVal + 'T00:00:00');
+  const endDate = new Date(endVal + 'T23:59:59.999');
+  if (endDate < startDate) {
+    showToast('ช่วงวันที่ไม่ถูกต้อง (วันที่สิ้นสุดต้องไม่ก่อนวันที่เริ่มต้น)');
+    return;
+  }
+
+  const history = safeRead('rucam_history', []);
+  const filtered = history.filter(r => {
+    const d = new Date(r.id);
+    return d >= startDate && d <= endDate;
+  });
+  if (filtered.length === 0) {
+    showToast('ไม่พบเคสในช่วงวันที่เลือก');
+    return;
+  }
+
+  if (typeof XLSX === 'undefined') {
+    showToast('ไม่สามารถโหลดไลบรารี Excel ได้ กรุณาตรวจสอบการเชื่อมต่ออินเทอร์เนต');
+    return;
+  }
+
+  const Q5_G1_LABEL = { hav:'HAV', hbv:'HBV', hcv:'HCV', hev:'HEV', cmv:'CMV', ebv:'EBV', biliary:'Biliary U/S' };
+  const Q5_G2_LABEL = { autoimmune:'Autoimmune', ischemic:'Ischemic', alcoholic:'Alcoholic', pregnancy:'Pregnancy', sepsis:'Sepsis' };
+  const rTypeMap = { hepatocellular: 'Hepatocellular (R ≥ 5)', cholestatic: 'Cholestatic (R ≤ 2)', mixed: 'Mixed (2 < R < 5)' };
+
+  const rows = filtered.map(r => {
+    const s = r.snapshot || {};
+
+    const drugName = s.selectedDrug
+      ? `${s.selectedDrug.name_en} (${s.selectedDrug.name_th}) — Grade ${s.selectedDrug.livertox_grade || '—'}`
+      : (r.drugName || 'Manual Mode');
+
+    const q1label = getQ1Options(s.rRatioType).find(o => o.value === s.q1)?.label || '-';
+    const q2opts = s.rRatioType === 'hepatocellular' ? Q2_HEPATOCELLULAR : Q2_CHOLESTATIC_MIXED;
+    const q2label = q2opts.find(o => o.value === s.q2)?.label || '-';
+    const q4label = Q4_OPTIONS.find(o => o.value === s.q4)?.label || '-';
+    const q5label = Q5_OPTIONS.find(o => o.value === s.q5)?.label || '-';
+    const q6label = Q6_OPTIONS.find(o => o.value === s.q6)?.label || '-';
+    const q7label = getQ7Options(s.rRatioType).find(o => o.value === s.q7)?.label || '-';
+    const q5g1Done = (s.q5GroupI || []).map(id => Q5_G1_LABEL[id] || id).join(', ') || '-';
+    const q5g2Found = (s.q5GroupII || []).map(id => Q5_G2_LABEL[id] || id).join(', ') || '-';
+
+    return {
+      'วันที่/เวลาบันทึกเคส': r.datetime || '-',
+      'Case ID': r.caseId || '—',
+      'ยาที่สงสัย': drugName,
+      'อายุผู้ป่วย (ปี)': s.patientAge || '-',
+      'เพศ': s.patientSex === 'male' ? 'ชาย' : s.patientSex === 'female' ? 'หญิง' : '-',
+      'TB (mg/dL)': s.patientTb || '-',
+      'ULN TB (mg/dL)': s.ulnTb || '-',
+      'ค่า Peak': s.peakValue || '-',
+      'R-ratio': s.rRatio ? s.rRatio.toFixed(2) : '-',
+      'ประเภทการบาดเจ็บตับ': s.rRatioType ? rTypeMap[s.rRatioType] : '-',
+      'วันที่เริ่มใช้ยา': s.q1StartDate || '-',
+      'วันที่ค่าตับเริ่มผิดปกติ': s.q1OnsetDate || '-',
+      'วันที่หยุดยา': s.q2StopDate || '-',
+      'วันที่ตรวจซ้ำ': s.q2RecheckDate || '-',
+      '1. ระยะเวลาเริ่มยา - คำตอบ': q1label,
+      '1. ระยะเวลาเริ่มยา - คะแนน': s.q1,
+      '2. การดำเนินของโรค - คำตอบ': q2label,
+      '2. การดำเนินของโรค - คะแนน': s.q2,
+      '3. ปัจจัยเสี่ยง - อายุ≥55': s.q3age ? 'ใช่' : 'ไม่',
+      '3. ปัจจัยเสี่ยง - แอลกอฮอล์': s.q3alc ? 'ใช่' : 'ไม่',
+      '3. ปัจจัยเสี่ยง - ตั้งครรภ์': s.rRatioType === 'hepatocellular' ? 'N/A' : (s.q3preg ? 'ใช่' : 'ไม่'),
+      '3. ปัจจัยเสี่ยง - คะแนน': s.q3,
+      '4. ยาอื่นร่วม - คำตอบ': q4label,
+      '4. ยาอื่นร่วม - คะแนน': s.q4,
+      '5. ตัดสาเหตุอื่น - คำตอบ': q5label,
+      '5. ตัดสาเหตุอื่น - Group I ตรวจแล้ว': q5g1Done,
+      '5. ตัดสาเหตุอื่น - Group II พบ': q5g2Found,
+      '5. ตัดสาเหตุอื่น - คะแนน': s.q5,
+      '6. ประวัติความเป็นพิษยา - คำตอบ': q6label,
+      '6. ประวัติความเป็นพิษยา - คะแนน': s.q6,
+      '7. Re-challenge - คำตอบ': q7label,
+      '7. Re-challenge - คะแนน': s.q7,
+      'คะแนนรวม RUCAM': r.totalScore,
+      'ผลการแปลผล': r.interpretation || '-'
+    };
+  });
+
+  const ws = XLSX.utils.json_to_sheet(rows);
+  const wb = XLSX.utils.book_new();
+  XLSX.utils.book_append_sheet(wb, ws, 'RUCAM History');
+  XLSX.writeFile(wb, `RUCAM_History_${startVal}_to_${endVal}.xlsx`);
+  showToast(`ส่งออก ${filtered.length} เคส เรียบร้อยแล้ว`);
 }
 
 // ============================================================
