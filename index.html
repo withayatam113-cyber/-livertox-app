@@ -411,9 +411,9 @@
         oninput="appState.drugNote = this.value"></textarea>
 
       <div class="mt-2">
-        <input type="file" id="drug-photo-input" accept="image/*" capture="environment"
+        <input type="file" id="drug-photo-input" accept="image/*" capture="environment" multiple
           class="hidden" onchange="handleDrugPhotoSelect(event)">
-        <button type="button" onclick="document.getElementById('drug-photo-input').click()"
+        <button type="button" id="drug-photo-btn" onclick="document.getElementById('drug-photo-input').click()"
           class="btn-secondary flex items-center gap-2 text-sm">
           <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 9a2 2 0 012-2h.93a2 2 0 001.664-.89l.812-1.22A2 2 0 0110.07 4h3.86a2 2 0 011.664.89l.812 1.22A2 2 0 0018.07 7H19a2 2 0 012 2v9a2 2 0 01-2 2H5a2 2 0 01-2-2V9z"/>
@@ -421,13 +421,9 @@
           </svg>
           ถ่ายรูป / แนบรูปภาพ
         </button>
+        <p class="text-xs text-slate-500 mt-1">แนบได้สูงสุด 2 รูป</p>
 
-        <div id="drug-photo-preview-wrap" class="hidden mt-3 relative inline-block">
-          <img id="drug-photo-preview" class="max-h-40 rounded-lg border border-teal-300" alt="รูปยาหรือผลิตภัณฑ์ที่สงสัย">
-          <button type="button" onclick="clearDrugPhoto()"
-            class="absolute -top-2 -right-2 w-6 h-6 flex items-center justify-center rounded-full bg-slate-700 text-white text-xs hover:bg-slate-900"
-            aria-label="ลบรูปภาพ">&#10005;</button>
-        </div>
+        <div id="drug-photo-preview-wrap" class="hidden mt-3 flex flex-wrap gap-3"></div>
       </div>
     </div>
   </div>
@@ -1022,7 +1018,7 @@ const appState = {
   q5GroupI: [], q5GroupII: [],
   q1Answered: false, q7Answered: false,
   q1: 0, q2: 0, q3: 0, q4: 0, q5: 0, q6: 0, q7: 0,
-  drugPhotoDataUrl: null,
+  drugPhotos: [],
   drugNote: ''
 };
 
@@ -40184,46 +40180,71 @@ function closeDrugDropdown() {
   document.getElementById('drug-dropdown').classList.add('hidden');
 }
 
+const MAX_DRUG_PHOTOS = 2;
+
 function handleDrugPhotoSelect(event) {
-  const file = event.target.files && event.target.files[0];
-  if (!file) return;
-  if (!file.type.startsWith('image/')) {
-    showToast('กรุณาเลือกไฟล์รูปภาพเท่านั้น');
-    event.target.value = '';
+  const all = Array.from(event.target.files || []);
+  event.target.value = '';
+  if (!all.length) return;
+
+  const remaining = MAX_DRUG_PHOTOS - appState.drugPhotos.length;
+  if (remaining <= 0) {
+    showToast('แนบรูปได้สูงสุด ' + MAX_DRUG_PHOTOS + ' รูป');
     return;
   }
 
-  const reader = new FileReader();
-  reader.onload = () => {
-    const img = new Image();
-    img.onload = () => {
-      const maxDim = 1280;
-      let { width, height } = img;
-      if (width > maxDim || height > maxDim) {
-        const scale = maxDim / Math.max(width, height);
-        width = Math.round(width * scale);
-        height = Math.round(height * scale);
-      }
-      const canvas = document.createElement('canvas');
-      canvas.width = width;
-      canvas.height = height;
-      canvas.getContext('2d').drawImage(img, 0, 0, width, height);
-      appState.drugPhotoDataUrl = canvas.toDataURL('image/jpeg', 0.82);
+  const images = all.filter(f => f.type.startsWith('image/'));
+  if (images.length < all.length) showToast('ข้ามไฟล์ที่ไม่ใช่รูปภาพ');
+  if (!images.length) return;
+  if (images.length > remaining) showToast('แนบรูปได้สูงสุด ' + MAX_DRUG_PHOTOS + ' รูป');
 
-      const preview = document.getElementById('drug-photo-preview');
-      preview.src = appState.drugPhotoDataUrl;
-      document.getElementById('drug-photo-preview-wrap').classList.remove('hidden');
+  images.slice(0, remaining).forEach(file => {
+    const reader = new FileReader();
+    reader.onload = () => {
+      const img = new Image();
+      img.onload = () => {
+        const maxDim = 1280;
+        let { width, height } = img;
+        if (width > maxDim || height > maxDim) {
+          const scale = maxDim / Math.max(width, height);
+          width = Math.round(width * scale);
+          height = Math.round(height * scale);
+        }
+        const canvas = document.createElement('canvas');
+        canvas.width = width;
+        canvas.height = height;
+        canvas.getContext('2d').drawImage(img, 0, 0, width, height);
+        if (appState.drugPhotos.length < MAX_DRUG_PHOTOS) {
+          appState.drugPhotos.push(canvas.toDataURL('image/jpeg', 0.82));
+          renderDrugPhotos();
+        }
+      };
+      img.src = reader.result;
     };
-    img.src = reader.result;
-  };
-  reader.readAsDataURL(file);
+    reader.readAsDataURL(file);
+  });
 }
 
-function clearDrugPhoto() {
-  appState.drugPhotoDataUrl = null;
+function renderDrugPhotos() {
+  const wrap = document.getElementById('drug-photo-preview-wrap');
+  const photos = appState.drugPhotos || [];
+  wrap.classList.toggle('hidden', photos.length === 0);
+  wrap.innerHTML = photos.map((src, i) => `
+    <div class="relative inline-block">
+      <img src="${src}" class="max-h-40 rounded-lg border border-teal-300" alt="รูปยาหรือผลิตภัณฑ์ที่สงสัย ${i + 1}">
+      <button type="button" onclick="clearDrugPhoto(${i})"
+        class="absolute -top-2 -right-2 w-6 h-6 flex items-center justify-center rounded-full bg-slate-700 text-white text-xs hover:bg-slate-900"
+        aria-label="ลบรูปภาพ">&#10005;</button>
+    </div>`).join('');
+  const btn = document.getElementById('drug-photo-btn');
+  if (btn) btn.classList.toggle('hidden', photos.length >= MAX_DRUG_PHOTOS);
+}
+
+function clearDrugPhoto(index) {
+  if (typeof index === 'number') appState.drugPhotos.splice(index, 1);
+  else appState.drugPhotos = [];
   document.getElementById('drug-photo-input').value = '';
-  document.getElementById('drug-photo-preview').src = '';
-  document.getElementById('drug-photo-preview-wrap').classList.add('hidden');
+  renderDrugPhotos();
 }
 
 document.addEventListener('click', e => {
@@ -40972,11 +40993,11 @@ async function generatePDF() {
       <p style="font-size:13px;color:#0f766e;margin:0;font-weight:600;">${drugName}</p>
     </div>
 
-    ${(appState.drugNote || appState.drugPhotoDataUrl) ? `
+    ${(appState.drugNote || (appState.drugPhotos && appState.drugPhotos.length)) ? `
     <div style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:8px;padding:12px;margin-bottom:16px;">
       <p style="font-size:12px;font-weight:700;color:#1e293b;margin:0 0 8px;">แนบรูปถ่าย/บันทึกเพิ่มเติม (ยาหรือผลิตภัณฑ์ที่สงสัย)</p>
-      ${appState.drugNote ? `<p style="font-size:12px;color:#334155;white-space:pre-wrap;margin:0 0 ${appState.drugPhotoDataUrl ? '10px' : '0'};">${escapeHtml(appState.drugNote)}</p>` : ''}
-      ${appState.drugPhotoDataUrl ? `<img src="${appState.drugPhotoDataUrl}" style="max-width:100%;max-height:320px;border-radius:8px;border:1px solid #e2e8f0;display:block;">` : ''}
+      ${appState.drugNote ? `<p style="font-size:12px;color:#334155;white-space:pre-wrap;margin:0 0 ${(appState.drugPhotos && appState.drugPhotos.length) ? '10px' : '0'};">${escapeHtml(appState.drugNote)}</p>` : ''}
+      ${(appState.drugPhotos || []).map(src => `<img src="${src}" style="max-width:100%;max-height:320px;border-radius:8px;border:1px solid #e2e8f0;display:block;margin-bottom:8px;">`).join('')}
     </div>` : ''}
 
     <div style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:8px;padding:12px;margin-bottom:16px;">
@@ -41399,7 +41420,7 @@ function resetForm() {
   appState.q1Answered = false; appState.q7Answered = false;
   appState.q1 = 0; appState.q2 = 0; appState.q3 = 0;
   appState.q4 = 0; appState.q5 = 0; appState.q6 = 0; appState.q7 = 0;
-  appState.drugPhotoDataUrl = null; appState.drugNote = '';
+  appState.drugPhotos = []; appState.drugNote = '';
 
   ['case-id-input','patient-age-input','alt-input','uln-alt-input',
    'alp-input','uln-alp-input','tb-input','uln-tb-input'].forEach(id => {
