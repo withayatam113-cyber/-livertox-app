@@ -12286,8 +12286,8 @@
     "name_en": "Iron",
     "name_th": "ธาตุเหล็ก",
     "type": "สมุนไพร/อาหารเสริม",
-    "livertox_grade": "-",
-    "rucam_score_bonus": "-",
+    "livertox_grade": "A",
+    "rucam_score_bonus": 2,
     "description_th": "ธาตุเหล็กเป็นแร่ธาตุจำเป็นที่ใช้เสริมในผู้ป่วยภาวะโลหิตจางจากการขาดธาตุเหล็ก การใช้ในขนาดทดแทนปกติไม่สัมพันธ์กับความเป็นพิษต่อตับอย่างชัดเจน แต่การได้รับธาตุเหล็กเกินขนาดอย่างมาก ไม่ว่าจะโดยตั้งใจหรือไม่ตั้งใจ สามารถทำให้เกิดพิษต่อตับอย่างรุนแรงได้ในลักษณะของภาวะพิษเหล็กเฉียบพลัน (iron poisoning) ซึ่งอาจรุนแรงถึงขั้นตับวายและเสียชีวิต",
     "synonyms": [
       "Iron",
@@ -12323,7 +12323,7 @@
     "case_count_reported": "-",
     "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Iron/",
     "source_review_date": "2018-04-05",
-    "last_updated": "2026-07-15"
+    "last_updated": "2026-07-18"
   },
   {
     "id": 310,
@@ -14593,7 +14593,6 @@
     "synonyms": [
       "Alpha Interferon",
       "Peginterferon Alfa",
-      "Avonex",
       "Pegintron"
     ],
     "hepatotoxicity_pattern": "Hepatocellular (การทำลายเซลล์ตับ)",
@@ -14625,7 +14624,7 @@
     "case_count_reported": "-",
     "livertox_url": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Alpha_Peginterferon/",
     "source_review_date": "2018-05-04",
-    "last_updated": "2026-07-15"
+    "last_updated": "2026-07-18"
   },
   {
     "id": 361,
