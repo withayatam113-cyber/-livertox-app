@@ -40498,12 +40498,11 @@ function renderRadioCards(groupName, options) {
     const scoreColor = isPos ? 'text-teal-600' : 'text-red-600';
     const scoreLabel = (isPos && opt.value > 0 ? '+' : '') + opt.value;
     return `
-      <label class="radio-card flex items-center gap-3 p-3.5 border-2 border-slate-200 rounded-xl cursor-pointer mb-2 w-full select-none"
+      <label class="radio-card flex items-start gap-3 p-3.5 border-2 border-slate-200 rounded-xl cursor-pointer mb-2 w-full select-none"
              data-value="${opt.value}">
         <input type="radio" name="${groupName}" value="${opt.value}" class="sr-only">
-        <div class="w-4 h-4 rounded-full border-2 border-slate-300 flex-shrink-0 radio-dot transition-colors"></div>
-        <span class="flex-1 text-sm text-slate-700">${opt.label}</span>
-        <span class="text-sm font-bold ${scoreColor} flex-shrink-0">${scoreLabel}</span>
+        <div class="w-4 h-4 mt-0.5 rounded-full border-2 border-slate-300 flex-shrink-0 radio-dot transition-colors"></div>
+        <span class="flex-1 min-w-0 text-sm text-slate-700 leading-relaxed">${opt.label} <span class="font-bold ${scoreColor} whitespace-nowrap">${scoreLabel}</span></span>
       </label>`;
   }).join('');
 }
