@@ -731,7 +731,7 @@
           <div class="rounded-xl border border-slate-200 bg-slate-50 p-4">
             <p class="text-xs font-bold text-slate-500 mb-3 flex items-center gap-1.5">
               ⚪ กลุ่มที่ 2 (Group II)
-              <span class="font-normal text-slate-400">— บันทึกเชิงคลินิก (ไม่นับคะแนน)</span>
+              <span class="font-normal text-slate-400">— ต้องตัดออกครบจึงจะได้ +2 (ตาม RUCAM)</span>
             </p>
             <div class="space-y-2">
               <label class="flex items-start gap-2.5 cursor-pointer">
@@ -770,7 +770,7 @@
         </div>
 
         <!-- Score Radio Cards (auto-selected / manual override) -->
-        <p class="text-xs text-slate-400 mb-2">คะแนนด้านล่างถูกเลือกอัตโนมัติตาม Group I — กดเลือกเองเพื่อ Override &nbsp;|&nbsp; <span class="font-semibold text-red-500">−3: สงวนไว้สำหรับกรณีพบสาเหตุหลักอื่นชัดเจน</span></p>
+        <p class="text-xs text-slate-400 mb-2">คะแนนด้านล่างถูกเลือกอัตโนมัติตาม Group I และ Group II — กดเลือกเองเพื่อ Override &nbsp;|&nbsp; <span class="font-semibold text-red-500">−3: สงวนไว้สำหรับกรณีพบสาเหตุหลักอื่นชัดเจน</span></p>
         <div id="q5-group"></div>
       </div>
 
@@ -1026,12 +1026,14 @@ const appState = {
 // RUCAM OPTION DATA
 // ============================================================
 function getQ1Options(type) {
-  const stopDay = (type === 'cholestatic') ? '30' : '15';
+  // Mixed ใช้เกณฑ์เดียวกับ Cholestatic ตาม RUCAM (Danan & Teschke 2016)
+  const isHepato = (type === 'hepatocellular');
+  const stopDay = isHepato ? '15' : '30';   // onset from cessation: Hepatocellular ≤15, Cholestatic/Mixed ≤30
+  const rechall = isHepato ? '15' : '90';   // rechallenge window:   Hepatocellular ≤15, Cholestatic/Mixed ≤90
   return [
-    { value:  2, label: `เริ่มมีอาการภายใน 5–90 วัน หลังเริ่มใช้ยา (หรือ ≤ 15 วัน หากผู้ป่วยเคยใช้ยานี้มาก่อนและเกิด Rechallenge)` },
+    { value:  2, label: `เริ่มมีอาการภายใน 5–90 วัน หลังเริ่มใช้ยา (หรือ ≤ ${rechall} วัน หากผู้ป่วยเคยใช้ยานี้มาก่อนและเกิด Rechallenge)` },
     { value:  1, label: `เริ่มมีอาการ < 5 วัน หรือ > 90 วัน หลังเริ่มใช้ยา — หรือ เริ่มมีอาการหลังจากสั่งหยุดยาไปแล้ว ≤ ${stopDay} วัน` },
-    { value:  0, label: 'ไม่ทราบข้อมูล / ไม่มีประวัติสืบค้นเวลาที่แน่ชัดได้' },
-    { value: -1, label: `เริ่มมีอาการตับอักเสบเฉียบพลันหลังจากสั่งหยุดยาตัวนี้ไปแล้วนานมากกว่า ${stopDay} วัน` }
+    { value:  0, label: 'ไม่ทราบข้อมูล หรือ ระยะเวลาการเกิดอาการไม่เข้าเกณฑ์ข้างต้น' }
   ];
 }
 const Q1_OPTIONS = getQ1Options(null); // backward-compat reference (PDF fallback)
@@ -1039,30 +1041,29 @@ const Q1_OPTIONS = getQ1Options(null); // backward-compat reference (PDF fallbac
 const Q2_HEPATOCELLULAR = [
   { value: 3,  label: 'ALT ลดลง ≥50% จากจุดสูงสุด ภายใน 8 วัน หลังหยุดยา' },
   { value: 2,  label: 'ALT ลดลง ≥50% จากจุดสูงสุด ภายใน 30 วัน หลังหยุดยา' },
-  { value: 1,  label: 'ALT ลดลง ≥50% แต่ใช้เวลานานกว่า 30 วัน' },
-  { value: 0,  label: 'ไม่ทราบ / ยังไม่หยุดยา / ข้อมูลไม่เพียงพอ' },
-  { value: -1, label: 'ALT ลดลง น้อยกว่า 50% หรือยังสูงต่อเนื่องใน 30 วัน' }
+  { value: 0,  label: 'ไม่ทราบ / ยังใช้ยาต่อ — หรือ ALT ลดลง ≥50% แต่ช้ากว่า 30 วัน' },
+  { value: -2, label: 'ALT ลดลง <50% หลังพ้น 30 วัน หรือกลับเพิ่มขึ้นซ้ำ (recurrent increase)' }
 ];
 
 const Q2_CHOLESTATIC_MIXED = [
   { value: 2,  label: 'ALP ลดลง ≥50% จากจุดสูงสุด ภายใน 180 วัน หลังหยุดยา' },
-  { value: 1,  label: 'ALP ลดลง ≥50% แต่ใช้เวลานานกว่า 180 วัน' },
-  { value: 0,  label: 'ไม่ทราบ / ยังไม่หยุดยา / ข้อมูลไม่เพียงพอ' },
-  { value: -1, label: 'ALP ยังสูงต่อเนื่อง หลังจาก 180 วัน' }
+  { value: 1,  label: 'ALP ลดลง <50% ภายใน 180 วัน หลังหยุดยา' },
+  { value: 0,  label: 'ไม่ทราบ / ALP ยังสูงคงที่หรือเพิ่มขึ้น / ยังใช้ยาต่อ' }
 ];
 
 const Q4_OPTIONS = [
-  { value:  0, label: 'ไม่มีการใช้ยาอื่นร่วมด้วย หรือ กินร่วมแต่ระยะเวลาไม่สอดคล้องกับการเกิดโรค' },
-  { value: -1, label: 'มียาอื่นที่ใช้ร่วมกัน และยานั้นมีประวัติว่าสามารถทำให้เกิดพิษต่อตับได้' },
-  { value: -2, label: 'มียาอื่นที่ใช้ร่วมกัน และมีหลักฐานหรือคะแนนประเมินชัดเจนว่ายานั้นน่าจะเป็นสาเหตุหลักมากกว่า' }
+  { value:  0, label: 'ไม่มีการใช้ยา/สมุนไพรอื่นร่วม — หรือ มีแต่ระยะเวลาการเกิดโรคไม่สอดคล้องกับยานั้น' },
+  { value: -1, label: 'มียา/สมุนไพรอื่นใช้ร่วม และระยะเวลาการเกิดโรคสอดคล้องหรือชวนสงสัยว่าเป็นสาเหตุ' },
+  { value: -2, label: 'มียา/สมุนไพรอื่นใช้ร่วม ที่ทราบว่าเป็นพิษต่อตับ และระยะเวลาสอดคล้อง/ชวนสงสัย' },
+  { value: -3, label: 'มียา/สมุนไพรอื่นใช้ร่วม ที่มีหลักฐานยืนยันบทบาทในเคสนี้ (เช่น positive rechallenge หรือ validated test)' }
 ];
 
 const Q5_OPTIONS = [
-  { value:  2, label: 'สาเหตุอื่นภายนอกทั้งหมดในกลุ่มหลัก (Group I ทั้ง 7 โรค) ถูกตรวจคัดกรองและตัดออกแล้ว' },
-  { value:  1, label: 'สาเหตุอื่นภายนอกในกลุ่มหลัก ถูกตรวจคัดกรองและตัดออกได้จำนวน 5 หรือ 6 โรค' },
-  { value:  0, label: 'ตรวจคัดกรองและตัดสาเหตุอื่นภายนอกออกไปได้จำนวน 3 หรือ 4 โรค' },
-  { value: -2, label: 'ตรวจคัดกรองน้อยมากหรือไม่สืบค้นเลย (ตรวจพบและตัดออกได้น้อยกว่า 3 โรค)' },
-  { value: -3, label: 'ตรวจพบโรคอื่นที่เป็นสาเหตุหลักเด่นชัดที่อธิบายภาวะตับอักเสบเฉียบพลันนี้ได้อยู่แล้ว (Non-drug cause highly probable)' }
+  { value:  2, label: 'ตัดสาเหตุอื่นออกได้ครบทั้ง Group I (7 โรค) และ Group II' },
+  { value:  1, label: 'ตัดสาเหตุใน Group I ออกได้ครบทั้ง 7 โรค (แต่ Group II ยังไม่ครบ)' },
+  { value:  0, label: 'ตัดสาเหตุใน Group I ออกได้ 6 หรือ 5 โรค' },
+  { value: -2, label: 'ตัดสาเหตุใน Group I ออกได้น้อยกว่า 5 โรค' },
+  { value: -3, label: 'พบสาเหตุอื่นที่เป็นไปได้สูงว่าเป็นตัวการแทน DILI (alternative cause highly probable)' }
 ];
 
 const Q6_OPTIONS = [
@@ -1072,11 +1073,14 @@ const Q6_OPTIONS = [
 ];
 
 function getQ7Options(type) {
-  const e = (type === 'cholestatic') ? 'ALP' : 'ALT';
+  // Mixed ใช้เกณฑ์เดียวกับ Cholestatic ตาม RUCAM (Danan & Teschke 2016)
+  const isHepato = (type === 'hepatocellular');
+  const e = isHepato ? 'ALT' : 'ALP';
+  const nBefore = isHepato ? '5' : '2';   // ก่อนให้ยาซ้ำ: Hepatocellular ALT <5N, Cholestatic/Mixed ALP <2N
   return [
-    { value:  3, label: `Re-challenge เป็นบวก (+3): ก่อนลองยาซ้ำค่า ${e} ลดลงมาต่ำกว่า 2 เท่าของ ULN และเมื่อได้ยาซ้ำ ค่า ${e} พุ่งกลับขึ้นมา ≥ 2 เท่าของ ULN` },
-    { value:  1, label: `Re-challenge น่าสงสัย (+1): ผลเลือดสอดคล้องกับการให้ยาซ้ำ แต่ระดับเอนไซม์ ${e} ยังพุ่งสูงขึ้นไม่ถึง 2 เท่าของ ULN` },
-    { value: -2, label: `Re-challenge เป็นลบ (-2): ผู้ป่วยได้รับยาเดิมซ้ำ แต่ค่าเอนไซม์ ${e} อาจเพิ่มขึ้นบ้าง โดยยังไม่ถึงระดับผิดปกติ (ต่ำกว่า ULN) ทั้งนี้มียาอื่นใช้ร่วมด้วยในช่วงเวลาเดียวกัน` },
+    { value:  3, label: `Re-challenge เป็นบวก (+3): ให้ยา/สมุนไพรตัวนี้ซ้ำเพียงตัวเดียว (ก่อนให้ซ้ำค่า ${e} < ${nBefore} เท่าของ ULN) แล้วค่า ${e} เพิ่มขึ้นเป็น ≥ 2 เท่าของค่าเดิม` },
+    { value:  1, label: `Re-challenge น่าสงสัย (+1): ค่า ${e} เพิ่มขึ้นเป็น ≥ 2 เท่า เมื่อได้รับยา/สมุนไพรนี้ซ้ำพร้อมกับยาอื่นที่เคยได้ตอนเกิดปฏิกิริยาครั้งแรก` },
+    { value: -2, label: `Re-challenge เป็นลบ (−2): ได้รับยา/สมุนไพรนี้ซ้ำในเงื่อนไขเดียวกับครั้งแรก แต่ค่า ${e} เพิ่มขึ้นไม่ถึงระดับปกติ (less than N)` },
     { value:  0, label: 'ไม่ได้ทำ Re-challenge / ข้อมูลไม่เพียงพอหรือไม่สามารถแปลผลทางคลินิกได้' }
   ];
 }
@@ -40542,21 +40546,34 @@ function uncheckAllRadios(groupId) {
 const Q5_G1_IDS = ['hav','hbv','hcv','hev','biliary','alcoholic','ischemic'];
 const Q5_G2_IDS = ['cmv','ebv','autoimmune','pregnancy','sepsis'];
 
+// RUCAM Domain 5 (Danan & Teschke 2016): +2 = Group I (7) และ Group II ครบ,
+// +1 = Group I ครบ 7, 0 = Group I 6-5 ข้อ, -2 = Group I < 5 ข้อ
+function computeQ5AutoScore() {
+  const g1 = appState.q5GroupI.length;
+  const g2 = appState.q5GroupII.length;
+  if (g1 >= Q5_G1_IDS.length && g2 >= Q5_G2_IDS.length) return 2;
+  if (g1 >= Q5_G1_IDS.length) return 1;
+  if (g1 >= 5) return 0;
+  return -2;
+}
+
+function applyQ5AutoScore() {
+  if (appState.q5 === -3) return; // manual override คงไว้
+  const autoScore = computeQ5AutoScore();
+  appState.q5 = autoScore;
+  syncQ5ToValue(autoScore);
+  calculateScore();
+}
+
 function handleQ5G1Change() {
   appState.q5GroupI = Q5_G1_IDS.filter(id => document.getElementById('q5-' + id)?.checked);
-  const count = appState.q5GroupI.length;
-
-  if (appState.q5 !== -3) {
-    const autoScore = count >= 7 ? 2 : count >= 5 ? 1 : count >= 3 ? 0 : -2;
-    appState.q5 = autoScore;
-    syncQ5ToValue(autoScore);
-    calculateScore();
-  }
+  applyQ5AutoScore();
   updateQ5Summary();
 }
 
 function handleQ5G2Change() {
   appState.q5GroupII = Q5_G2_IDS.filter(id => document.getElementById('q5-' + id)?.checked);
+  applyQ5AutoScore();   // Group II มีผลต่อเกณฑ์ +2 แล้ว
   updateQ5Summary();
 }
 
@@ -40586,7 +40603,7 @@ function updateQ5Summary() {
 
   if (countEl) countEl.textContent = g1Count;
 
-  const autoScore = g1Count >= 7 ? 2 : g1Count >= 5 ? 1 : g1Count >= 3 ? 0 : -2;
+  const autoScore = computeQ5AutoScore();
   if (autoEl) {
     autoEl.textContent = autoScore > 0 ? '+' + autoScore : String(autoScore);
     autoEl.style.color = autoScore >= 0 ? '#0d9488' : '#dc2626';
@@ -40904,12 +40921,20 @@ function calculateQ2DateDrop() {
   const type = appState.rRatioType;
   const isHepato = type === 'hepatocellular';
   let suggestedVal;
-  if (!appState.q2DropAboveThreshold) {
-    suggestedVal = 0;
-  } else if (isHepato) {
-    suggestedVal = diffDays <= 8 ? 3 : (diffDays <= 30 ? 2 : 1);
+  if (isHepato) {
+    // Hepatocellular (ALT): ≥50% ภายใน 8d=+3, ภายใน 30d=+2, ช้ากว่านั้น/ไม่หยุด=0, <50% หลัง 30d/กลับเพิ่ม=-2
+    if (appState.q2DropAboveThreshold) {
+      suggestedVal = diffDays <= 8 ? 3 : (diffDays <= 30 ? 2 : 0);
+    } else {
+      suggestedVal = diffDays > 30 ? -2 : 0;
+    }
   } else {
-    suggestedVal = diffDays <= 180 ? 2 : 1;
+    // Cholestatic/Mixed (ALP): ≥50% ภายใน 180d=+2, <50% ภายใน 180d=+1, อื่นๆ=0
+    if (appState.q2DropAboveThreshold) {
+      suggestedVal = diffDays <= 180 ? 2 : 0;
+    } else {
+      suggestedVal = diffDays <= 180 ? 1 : 0;
+    }
   }
 
   hintEl.className = 'text-xs bg-sky-50 border border-sky-200 rounded px-3 py-2 mt-3 text-sky-700';
@@ -40997,7 +41022,7 @@ function calculateScore() {
 function updateScoreDisplay(score) {
   document.getElementById('score-display').textContent = score > 0 ? '+' + score : String(score);
 
-  const MIN = -7, MAX = 14, RANGE = MAX - MIN;
+  const MIN = -10, MAX = 14, RANGE = MAX - MIN;
   const pct = Math.max(0, Math.min(100, ((score - MIN) / RANGE) * 100));
   document.getElementById('score-bar').style.width = pct + '%';
 
