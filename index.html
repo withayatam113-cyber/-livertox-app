@@ -313,7 +313,7 @@
             </svg>
           </div>
           <div>
-            <h1 class="text-xl sm:text-2xl font-bold">เครื่องมือประเมินภาวะตับอักเสบจากยา (DILI)</h1>
+            <h1 class="text-lg sm:text-2xl font-bold leading-tight">เครื่องมือประเมินภาวะตับอักเสบจากยา (DILI)</h1>
             <p class="text-slate-300 text-sm">Drug-Induced Liver Injury (DILI) Assessment Tool — Version 2.0 (Thai)</p>
           </div>
         </div>
@@ -821,7 +821,7 @@
       <div class="bg-white border-2 border-emerald-200 rounded-2xl p-6 text-center flex-shrink-0 min-w-[130px] shadow-sm">
         <p class="text-sm text-slate-600 font-semibold mb-1">คะแนนรวม</p>
         <p id="score-display" class="text-6xl font-extrabold text-slate-900">0</p>
-        <p class="text-xs text-slate-500 mt-2 font-medium">(-7 ถึง +14)</p>
+        <p class="text-xs text-slate-500 mt-2 font-medium">(-10 ถึง +14)</p>
       </div>
 
       <!-- Interpretation -->
@@ -834,7 +834,7 @@
           <div id="score-bar" class="score-bar-inner bg-gradient-to-r from-teal-400 to-teal-600" style="width:0%"></div>
         </div>
         <div class="flex justify-between text-xs text-slate-400 mt-1">
-          <span>-7 (Excluded)</span>
+          <span>-10 (Excluded)</span>
           <span>+9 (Highly Probable)</span>
         </div>
 
@@ -958,7 +958,9 @@
       <p class="text-sm">ยังไม่มีประวัติเคส</p>
     </div>
 
-    <div id="history-table-wrap" class="hidden overflow-x-auto">
+    <div id="history-table-wrap" class="hidden">
+      <p class="sm:hidden text-xs text-slate-400 mb-1.5">&larr; เลื่อนดูข้อมูลเพิ่มเติม</p>
+      <div class="overflow-x-auto">
       <table class="w-full text-sm">
         <thead>
           <tr class="bg-slate-100 text-slate-600 text-left">
@@ -972,6 +974,7 @@
         </thead>
         <tbody id="history-table-body"></tbody>
       </table>
+      </div>
     </div>
   </div>
 
@@ -40702,7 +40705,7 @@ function rebuildQ1() {
 function rebuildQ2() {
   const type = appState.rRatioType;
   const options = type === 'hepatocellular' ? Q2_HEPATOCELLULAR : Q2_CHOLESTATIC_MIXED;
-  const isHepatoOrMixed = type === 'hepatocellular' || type === 'mixed';
+  const isHepato = type === 'hepatocellular';   // Mixed ใช้กลุ่ม ALP เดียวกับ Cholestatic
 
   const typeLabelEl   = document.getElementById('q2-type-label');
   const hintEl        = document.getElementById('q2-hint');
@@ -40721,12 +40724,12 @@ function rebuildQ2() {
   }
 
   if (peakLabelEl) {
-    peakLabelEl.textContent = isHepatoOrMixed
+    peakLabelEl.textContent = isHepato
       ? 'ALT สูงสุดในระยะเฉียบพลัน (Peak ALT)'
       : 'ALP สูงสุดในระยะเฉียบพลัน (Peak ALP)';
   }
   if (peakInputEl) {
-    peakInputEl.placeholder = isHepatoOrMixed ? 'เช่น 850 U/L' : 'เช่น 420 U/L';
+    peakInputEl.placeholder = isHepato ? 'เช่น 850 U/L' : 'เช่น 420 U/L';
     if (appState.peakValue) peakInputEl.value = appState.peakValue;
   }
 
@@ -40783,7 +40786,7 @@ function rebuildQ7() {
 
 function calculateQ2Drop() {
   const type = appState.rRatioType;
-  const isHepatoOrMixed = type === 'hepatocellular' || type === 'mixed';
+  const isHepato = type === 'hepatocellular';   // Mixed ใช้ ALP เดียวกับ Cholestatic
   const peakVal = parseFloat(document.getElementById('q2-peak-input').value);
   const resultEl = document.getElementById('q2-drop-result');
 
@@ -40802,10 +40805,10 @@ function calculateQ2Drop() {
   appState.peakValue = peakVal;
   resultEl.classList.remove('hidden');
 
-  const curVal = isHepatoOrMixed
+  const curVal = isHepato
     ? parseFloat(document.getElementById('alt-input').value)
     : parseFloat(document.getElementById('alp-input').value);
-  const ulnVal = isHepatoOrMixed
+  const ulnVal = isHepato
     ? parseFloat(document.getElementById('uln-alt-input').value)
     : parseFloat(document.getElementById('uln-alp-input').value);
 
@@ -40840,13 +40843,22 @@ function calculateQ2Drop() {
   const textColor = aboveThreshold ? 'color:#15803d' : 'color:#c2410c';
 
   const guidanceHTML = aboveThreshold
-    ? `<p style="font-size:12px;font-weight:600;color:#15803d;margin-top:8px;">
-        💡 ผลเลือดลดลงเข้าเกณฑ์ &ge;50% แล้ว — โปรดเลือกคะแนนตามระยะเวลาจริง<br>
-        <span style="font-weight:400;">&bull; <b>+3 คะแนน</b> หากลดลงภายใน <b>8 วัน</b>  |  <b>+2 คะแนน</b> หากลดลงภายใน <b>30 วัน</b> (Hepatocellular) หรือ <b>180 วัน</b> (Cholestatic)</span>
-      </p>`
-    : `<p style="font-size:12px;color:#c2410c;margin-top:8px;">
-        ⚠️ ผลเลือดลดลงยังไม่ถึง 50% — พิจารณาเลือก <b>0 คะแนน</b> (ไม่ทราบ/ยังดำเนินอยู่) หรือ <b>-1 คะแนน</b> (ลดลงน้อยกว่า 50%)
-      </p>`;
+    ? (isHepato
+        ? `<p style="font-size:12px;font-weight:600;color:#15803d;margin-top:8px;">
+            💡 ALT ลดลงเข้าเกณฑ์ &ge;50% แล้ว — โปรดเลือกคะแนนตามระยะเวลาจริง<br>
+            <span style="font-weight:400;">&bull; <b>+3 คะแนน</b> หากลดลงภายใน <b>8 วัน</b>  |  <b>+2 คะแนน</b> หากลดลงภายใน <b>30 วัน</b></span>
+          </p>`
+        : `<p style="font-size:12px;font-weight:600;color:#15803d;margin-top:8px;">
+            💡 ALP ลดลงเข้าเกณฑ์ &ge;50% แล้ว — โปรดเลือกคะแนนตามระยะเวลาจริง<br>
+            <span style="font-weight:400;">&bull; <b>+2 คะแนน</b> หากลดลงภายใน <b>180 วัน</b> (Cholestatic/Mixed)</span>
+          </p>`)
+    : (isHepato
+        ? `<p style="font-size:12px;color:#c2410c;margin-top:8px;">
+            ⚠️ ALT ลดลงยังไม่ถึง 50% — พิจารณาเลือก <b>0 คะแนน</b> (ไม่ทราบ/ยังใช้ยาต่อ) หรือ <b>-2 คะแนน</b> (&lt;50% หลังพ้น 30 วัน/กลับเพิ่มขึ้นซ้ำ)
+          </p>`
+        : `<p style="font-size:12px;color:#c2410c;margin-top:8px;">
+            ⚠️ ALP ลดลงยังไม่ถึง 50% — พิจารณาเลือก <b>+1 คะแนน</b> (&lt;50% ภายใน 180 วัน) หรือ <b>0 คะแนน</b> (ไม่ทราบ/ยังสูงคงที่หรือเพิ่มขึ้น)
+          </p>`);
 
   resultEl.innerHTML = `
     <div style="display:flex;align-items:center;gap:12px;margin-bottom:8px;">
