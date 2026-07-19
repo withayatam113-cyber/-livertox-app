@@ -743,16 +743,16 @@
                 <span class="text-xs text-slate-600 leading-relaxed">ติดเชื้อไวรัส EBV <span class="text-slate-400">(Monospot / Anti-EBV IgM)</span></span>
               </label>
               <label class="flex items-start gap-2.5 cursor-pointer">
-                <input type="checkbox" id="q5-autoimmune" class="mt-0.5 w-4 h-4 rounded accent-slate-500 flex-shrink-0" onchange="handleQ5G2Change()">
-                <span class="text-xs text-slate-600 leading-relaxed">Autoimmune Hepatitis <span class="text-slate-400">(ANA, ASMA, IgG)</span></span>
+                <input type="checkbox" id="q5-hsv" class="mt-0.5 w-4 h-4 rounded accent-slate-500 flex-shrink-0" onchange="handleQ5G2Change()">
+                <span class="text-xs text-slate-600 leading-relaxed">ติดเชื้อไวรัส HSV <span class="text-slate-400">(Herpes simplex — PCR / Anti-HSV IgM)</span></span>
               </label>
               <label class="flex items-start gap-2.5 cursor-pointer">
-                <input type="checkbox" id="q5-pregnancy" class="mt-0.5 w-4 h-4 rounded accent-slate-500 flex-shrink-0" onchange="handleQ5G2Change()">
-                <span class="text-xs text-slate-600 leading-relaxed">Pregnancy-related <span class="text-slate-400">(AFLP, HELLP)</span></span>
+                <input type="checkbox" id="q5-vzv" class="mt-0.5 w-4 h-4 rounded accent-slate-500 flex-shrink-0" onchange="handleQ5G2Change()">
+                <span class="text-xs text-slate-600 leading-relaxed">ติดเชื้อไวรัส VZV <span class="text-slate-400">(Varicella-zoster — PCR / Anti-VZV IgM)</span></span>
               </label>
               <label class="flex items-start gap-2.5 cursor-pointer">
-                <input type="checkbox" id="q5-sepsis" class="mt-0.5 w-4 h-4 rounded accent-slate-500 flex-shrink-0" onchange="handleQ5G2Change()">
-                <span class="text-xs text-slate-600 leading-relaxed">Sepsis-related <span class="text-slate-400">(ภาวะติดเชื้อในกระแสเลือด)</span></span>
+                <input type="checkbox" id="q5-complications" class="mt-0.5 w-4 h-4 rounded accent-slate-500 flex-shrink-0" onchange="handleQ5G2Change()">
+                <span class="text-xs text-slate-600 leading-relaxed">ภาวะแทรกซ้อนจากโรคประจำตัว <span class="text-slate-400">(sepsis, มะเร็ง, autoimmune hepatitis, HBV/HCV เรื้อรัง, PBC/PSC, โรคตับพันธุกรรม)</span></span>
               </label>
             </div>
           </div>
@@ -40544,7 +40544,7 @@ function uncheckAllRadios(groupId) {
 // Q5 INTERACTIVE CHECKLIST
 // ============================================================
 const Q5_G1_IDS = ['hav','hbv','hcv','hev','biliary','alcoholic','ischemic'];
-const Q5_G2_IDS = ['cmv','ebv','autoimmune','pregnancy','sepsis'];
+const Q5_G2_IDS = ['cmv','ebv','hsv','vzv','complications']; // Group II ตาม Danan & Teschke 2016: CMV, EBV, HSV, VZV + complications of underlying disease
 
 // RUCAM Domain 5 (Danan & Teschke 2016): +2 = Group I (7) และ Group II ครบ,
 // +1 = Group I ครบ 7, 0 = Group I 6-5 ข้อ, -2 = Group I < 5 ข้อ
@@ -41074,8 +41074,8 @@ async function generatePDF() {
   const q2label = q2opts.find(o => o.value === appState.q2)?.label || '—';
   const q4label = Q4_OPTIONS.find(o => o.value === appState.q4)?.label || '—';
   const q5label = Q5_OPTIONS.find(o => o.value === appState.q5)?.label || '—';
-  const Q5_G1_LABEL = { hav:'HAV', hbv:'HBV', hcv:'HCV', hev:'HEV', cmv:'CMV', ebv:'EBV', biliary:'Biliary U/S' };
-  const Q5_G2_LABEL = { autoimmune:'Autoimmune', ischemic:'Ischemic', alcoholic:'Alcoholic', pregnancy:'Pregnancy', sepsis:'Sepsis' };
+  const Q5_G1_LABEL = { hav:'HAV', hbv:'HBV', hcv:'HCV', hev:'HEV', biliary:'Biliary U/S', alcoholic:'Alcoholism (AST/ALT≥2)', ischemic:'Ischemic/Hypotension' };
+  const Q5_G2_LABEL = { cmv:'CMV', ebv:'EBV', hsv:'HSV', vzv:'VZV', complications:'Complications of underlying disease' };
   const q5g1Done  = (appState.q5GroupI  || []).map(id => Q5_G1_LABEL[id] || id).join(', ') || '—';
   const q5g2Found = (appState.q5GroupII || []).map(id => Q5_G2_LABEL[id] || id).join(', ') || '—';
   const q6label = Q6_OPTIONS.find(o => o.value === appState.q6)?.label || '—';
@@ -41423,8 +41423,8 @@ function exportHistoryToExcel() {
     return;
   }
 
-  const Q5_G1_LABEL = { hav:'HAV', hbv:'HBV', hcv:'HCV', hev:'HEV', cmv:'CMV', ebv:'EBV', biliary:'Biliary U/S' };
-  const Q5_G2_LABEL = { autoimmune:'Autoimmune', ischemic:'Ischemic', alcoholic:'Alcoholic', pregnancy:'Pregnancy', sepsis:'Sepsis' };
+  const Q5_G1_LABEL = { hav:'HAV', hbv:'HBV', hcv:'HCV', hev:'HEV', biliary:'Biliary U/S', alcoholic:'Alcoholism (AST/ALT≥2)', ischemic:'Ischemic/Hypotension' };
+  const Q5_G2_LABEL = { cmv:'CMV', ebv:'EBV', hsv:'HSV', vzv:'VZV', complications:'Complications of underlying disease' };
   const rTypeMap = { hepatocellular: 'Hepatocellular (R ≥ 5)', cholestatic: 'Cholestatic (R ≤ 2)', mixed: 'Mixed (2 < R < 5)' };
 
   const rows = filtered.map(r => {
