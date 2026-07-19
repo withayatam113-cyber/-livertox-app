@@ -724,7 +724,7 @@
               </label>
               <label class="flex items-start gap-2.5 cursor-pointer">
                 <input type="checkbox" id="q5-biliary" class="mt-0.5 w-4 h-4 rounded accent-teal-600 flex-shrink-0" onchange="handleQ5G1Change()">
-                <span class="text-xs text-slate-700 leading-relaxed">ตรวจภาพทางเดินน้ำดีแล้วไม่พบการอุดตัน <span class="text-slate-400">(Liver Ultrasound)</span></span>
+                <span class="text-xs text-slate-700 leading-relaxed">ตรวจภาพทางเดินน้ำดีแล้วไม่พบการอุดตัน <span class="text-slate-400">(Ultrasound, Doppler, Endosonography, CT หรือ MRCP)</span></span>
               </label>
               <label class="flex items-start gap-2.5 cursor-pointer">
                 <input type="checkbox" id="q5-alcoholic" class="mt-0.5 w-4 h-4 rounded accent-teal-600 flex-shrink-0" onchange="handleQ5G1Change()">
@@ -41119,7 +41119,7 @@ async function generatePDF() {
   const q2label = q2opts.find(o => o.value === appState.q2)?.label || '—';
   const q4label = Q4_OPTIONS.find(o => o.value === appState.q4)?.label || '—';
   const q5label = Q5_OPTIONS.find(o => o.value === appState.q5)?.label || '—';
-  const Q5_G1_LABEL = { hav:'HAV', hbv:'HBV', hcv:'HCV', hev:'HEV', biliary:'Biliary U/S', alcoholic:'Alcoholism (AST/ALT≥2)', ischemic:'Ischemic/Hypotension' };
+  const Q5_G1_LABEL = { hav:'HAV', hbv:'HBV', hcv:'HCV', hev:'HEV', biliary:'Biliary Imaging (US/Doppler/CT/MRCP)', alcoholic:'Alcoholism (AST/ALT≥2)', ischemic:'Ischemic/Hypotension' };
   const Q5_G2_LABEL = { cmv:'CMV', ebv:'EBV', hsv:'HSV', vzv:'VZV', complications:'Complications of underlying disease' };
   const q5g1Done  = (appState.q5GroupI  || []).map(id => Q5_G1_LABEL[id] || id).join(', ') || '—';
   const q5g2Found = (appState.q5GroupII || []).map(id => Q5_G2_LABEL[id] || id).join(', ') || '—';
@@ -41468,7 +41468,7 @@ function exportHistoryToExcel() {
     return;
   }
 
-  const Q5_G1_LABEL = { hav:'HAV', hbv:'HBV', hcv:'HCV', hev:'HEV', biliary:'Biliary U/S', alcoholic:'Alcoholism (AST/ALT≥2)', ischemic:'Ischemic/Hypotension' };
+  const Q5_G1_LABEL = { hav:'HAV', hbv:'HBV', hcv:'HCV', hev:'HEV', biliary:'Biliary Imaging (US/Doppler/CT/MRCP)', alcoholic:'Alcoholism (AST/ALT≥2)', ischemic:'Ischemic/Hypotension' };
   const Q5_G2_LABEL = { cmv:'CMV', ebv:'EBV', hsv:'HSV', vzv:'VZV', complications:'Complications of underlying disease' };
   const rTypeMap = { hepatocellular: 'Hepatocellular (R ≥ 5)', cholestatic: 'Cholestatic (R ≤ 2)', mixed: 'Mixed (2 < R < 5)' };
 
