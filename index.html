@@ -557,7 +557,7 @@
       <div class="rucam-q-box">
         <h3 class="font-bold text-slate-800 mb-1 flex items-center gap-2">
           <span class="bg-teal-100 text-teal-800 text-xs font-bold px-2 py-0.5 rounded">ข้อ 1</span>
-          ระยะเวลาตั้งแต่เริ่มใช้ยาจนถึงการเกิดอาการ (Time to Onset)
+          ระยะเวลาตั้งแต่เริ่มใช้ยาจนถึงการเกิดอาการ (Time&nbsp;to&nbsp;Onset)
         </h3>
         <p class="text-xs text-slate-500 mb-3">นับจากวันเริ่มยาจนถึงวันที่ค่า <span id="q1-enzyme-label" class="font-semibold text-teal-700">ALT/ALP</span> เริ่มผิดปกติ</p>
 
@@ -586,7 +586,7 @@
       <div class="rucam-q-box">
         <h3 class="font-bold text-slate-800 mb-1 flex items-center gap-2">
           <span class="bg-teal-100 text-teal-800 text-xs font-bold px-2 py-0.5 rounded">ข้อ 2</span>
-          การดำเนินของโรคหลังหยุดยา (Course after Drug Cessation)
+          การดำเนินของโรคหลังหยุดยา (Course&nbsp;after&nbsp;Drug&nbsp;Cessation)
         </h3>
         <p class="text-xs text-slate-500 mb-1">
           <span class="font-semibold">รูปแบบการอักเสบของตับ <span id="q2-type-label" class="text-teal-700">—</span></span>
@@ -595,7 +595,7 @@
 
         <!-- Peak Value Input -->
         <div class="mb-4 bg-slate-50 border border-slate-200 rounded-xl p-4">
-          <label class="block text-base font-semibold text-slate-900 mb-1" id="q2-peak-label">ALT สูงสุด (Peak ALT)</label>
+          <label class="block text-base font-semibold text-slate-900 mb-1" id="q2-peak-label">ALT สูงสุด (Peak&nbsp;ALT)</label>
           <input type="number" id="q2-peak-input" placeholder="เช่น 850 U/L" min="0" step="0.1"
             style="max-width:260px;"
             oninput="calculateQ2Drop()">
@@ -628,7 +628,7 @@
       <div class="rucam-q-box">
         <h3 class="font-bold text-slate-800 mb-1 flex items-center gap-2">
           <span class="bg-teal-100 text-teal-800 text-xs font-bold px-2 py-0.5 rounded">ข้อ 3</span>
-          ปัจจัยเสี่ยง (Risk Factors) — สูงสุด +2
+          ปัจจัยเสี่ยง (Risk&nbsp;Factors) — สูงสุด +2
         </h3>
         <p class="text-xs text-slate-500 mb-3">เลือกปัจจัยที่ผู้ป่วยมี (คะแนนรวมสูงสุดไม่เกิน +2)</p>
         <div class="space-y-2" id="q3-group">
@@ -656,7 +656,7 @@
             <label class="flex items-center gap-3 p-3 cursor-pointer">
               <input type="checkbox" id="q3-pregnant" class="w-4 h-4 accent-teal-600" onchange="handleQ3Change()">
               <span class="text-sm text-slate-700">ตั้งครรภ์ <span class="text-teal-600 font-bold ml-1">+1</span>
-                <span class="text-xs text-slate-400 font-normal ml-1">(Cholestatic / Mixed เท่านั้น)</span>
+                <span class="text-xs text-slate-400 font-normal ml-1">(Cholestatic&nbsp;/&nbsp;Mixed เท่านั้น)</span>
               </span>
             </label>
             <p id="q3-pregnant-disabled-note" class="hidden text-xs text-orange-500 px-3 pb-2.5 font-medium" style="margin-top:-6px;">
@@ -671,7 +671,7 @@
       <div class="rucam-q-box">
         <h3 class="font-bold text-slate-800 mb-1 flex items-center gap-2">
           <span class="bg-teal-100 text-teal-800 text-xs font-bold px-2 py-0.5 rounded">ข้อ 4</span>
-          ยาอื่นที่ใช้ร่วม (Concomitant Drug Use)
+          ยาอื่นที่ใช้ร่วม (Concomitant&nbsp;Drug&nbsp;Use)
         </h3>
         <p class="text-xs text-slate-500 mb-3">ประเมินยาอื่นทุกชนิดที่ผู้ป่วยได้รับในช่วงเวลาเดียวกับยาที่สงสัย และระยะเวลาการใช้สอดคล้องกับการเกิดพิษต่อตับหรือไม่</p>
         <div id="q4-group"></div>
@@ -681,7 +681,7 @@
       <div class="rucam-q-box">
         <h3 class="font-bold text-slate-800 mb-1 flex items-center gap-2">
           <span class="bg-teal-100 text-teal-800 text-xs font-bold px-2 py-0.5 rounded">ข้อ 5</span>
-          การตัดสาเหตุอื่นออก (Exclusion of Non-Drug Causes)
+          การตัดสาเหตุอื่นออก (Exclusion&nbsp;of&nbsp;Non-Drug&nbsp;Causes)
         </h3>
         <p class="text-xs text-slate-500 mb-3">ติ๊กถูกทุกโรคที่ได้รับการตรวจคัดกรองและตัดออกแล้ว — ระบบคำนวณคะแนนจาก <span class="font-semibold text-teal-700">Group I (7 โรค)</span> อัตโนมัติ</p>
 
@@ -691,29 +691,29 @@
           <!-- Group I — Left Card -->
           <div class="rounded-xl border-2 border-teal-200 bg-teal-50 p-4">
             <p class="text-xs font-bold text-teal-800 mb-3 flex items-center gap-1.5">
-              🟢 กลุ่มที่ 1 (Group I)
+              🟢 กลุ่มที่ 1 (Group&nbsp;I)
               <span class="font-normal text-teal-600">— ติ๊กเมื่อตรวจแล้วตัดออกได้ (เกณฑ์หลักคิดคะแนน 7 โรค)</span>
             </p>
             <div class="space-y-2">
               <label class="flex items-start gap-2.5 cursor-pointer">
                 <input type="checkbox" id="q5-hav" class="mt-0.5 w-4 h-4 rounded accent-teal-600 flex-shrink-0" onchange="handleQ5G1Change()">
-                <span class="text-xs text-slate-700 leading-relaxed">ตรวจแล้วไม่พบไวรัสตับอักเสบเฉียบพลัน A <span class="text-slate-400">(Anti-HAV IgM)</span></span>
+                <span class="text-xs text-slate-700 leading-relaxed">ตรวจแล้วไม่พบไวรัสตับอักเสบเฉียบพลัน A <span class="text-slate-400">(Anti-HAV&nbsp;IgM)</span></span>
               </label>
               <label class="flex items-start gap-2.5 cursor-pointer">
                 <input type="checkbox" id="q5-hbv" class="mt-0.5 w-4 h-4 rounded accent-teal-600 flex-shrink-0" onchange="handleQ5G1Change()">
-                <span class="text-xs text-slate-700 leading-relaxed">ตรวจแล้วไม่พบไวรัสตับอักเสบเฉียบพลัน B <span class="text-slate-400">(HBsAg, Anti-HBc IgM)</span></span>
+                <span class="text-xs text-slate-700 leading-relaxed">ตรวจแล้วไม่พบไวรัสตับอักเสบเฉียบพลัน B <span class="text-slate-400">(HBsAg,&nbsp;Anti-HBc&nbsp;IgM)</span></span>
               </label>
               <label class="flex items-start gap-2.5 cursor-pointer">
                 <input type="checkbox" id="q5-hcv" class="mt-0.5 w-4 h-4 rounded accent-teal-600 flex-shrink-0" onchange="handleQ5G1Change()">
-                <span class="text-xs text-slate-700 leading-relaxed">ตรวจแล้วไม่พบไวรัสตับอักเสบ C <span class="text-slate-400">(Anti-HCV, HCV RNA)</span></span>
+                <span class="text-xs text-slate-700 leading-relaxed">ตรวจแล้วไม่พบไวรัสตับอักเสบ C <span class="text-slate-400">(Anti-HCV,&nbsp;HCV&nbsp;RNA)</span></span>
               </label>
               <label class="flex items-start gap-2.5 cursor-pointer">
                 <input type="checkbox" id="q5-hev" class="mt-0.5 w-4 h-4 rounded accent-teal-600 flex-shrink-0" onchange="handleQ5G1Change()">
-                <span class="text-xs text-slate-700 leading-relaxed">ตรวจแล้วไม่พบไวรัสตับอักเสบ E <span class="text-slate-400">(Anti-HEV IgM)</span></span>
+                <span class="text-xs text-slate-700 leading-relaxed">ตรวจแล้วไม่พบไวรัสตับอักเสบ E <span class="text-slate-400">(Anti-HEV&nbsp;IgM)</span></span>
               </label>
               <label class="flex items-start gap-2.5 cursor-pointer">
                 <input type="checkbox" id="q5-biliary" class="mt-0.5 w-4 h-4 rounded accent-teal-600 flex-shrink-0" onchange="handleQ5G1Change()">
-                <span class="text-xs text-slate-700 leading-relaxed">ตรวจภาพทางเดินน้ำดีแล้วไม่พบการอุดตัน <span class="text-slate-400">(Liver Ultrasound)</span></span>
+                <span class="text-xs text-slate-700 leading-relaxed">ตรวจภาพทางเดินน้ำดีแล้วไม่พบการอุดตัน <span class="text-slate-400">(Liver&nbsp;Ultrasound)</span></span>
               </label>
               <label class="flex items-start gap-2.5 cursor-pointer">
                 <input type="checkbox" id="q5-alcoholic" class="mt-0.5 w-4 h-4 rounded accent-teal-600 flex-shrink-0" onchange="handleQ5G1Change()">
@@ -721,7 +721,7 @@
               </label>
               <label class="flex items-start gap-2.5 cursor-pointer">
                 <input type="checkbox" id="q5-ischemic" class="mt-0.5 w-4 h-4 rounded accent-teal-600 flex-shrink-0" onchange="handleQ5G1Change()">
-                <span class="text-xs text-slate-700 leading-relaxed">ไม่มีภาวะช็อก/ความดันโลหิตต่ำเฉียบพลัน หรือหัวใจล้มเหลว <span class="text-slate-400">(Recent Acute Hypotension / Cardiac Failure)</span></span>
+                <span class="text-xs text-slate-700 leading-relaxed">ไม่มีภาวะช็อก/ความดันโลหิตต่ำเฉียบพลัน หรือหัวใจล้มเหลว <span class="text-slate-400">(Recent&nbsp;Acute&nbsp;Hypotension / Cardiac&nbsp;Failure)</span></span>
               </label>
             </div>
           </div>
@@ -729,21 +729,21 @@
           <!-- Group II — Right Card -->
           <div class="rounded-xl border border-slate-200 bg-slate-50 p-4">
             <p class="text-xs font-bold text-slate-500 mb-3 flex items-center gap-1.5">
-              ⚪ กลุ่มที่ 2 (Group II)
+              ⚪ กลุ่มที่ 2 (Group&nbsp;II)
               <span class="font-normal text-slate-400">— ต้องตัดออกครบจึงจะได้ +2 (ตาม RUCAM)</span>
             </p>
             <div class="space-y-2">
               <label class="flex items-start gap-2.5 cursor-pointer">
                 <input type="checkbox" id="q5-cmv" class="mt-0.5 w-4 h-4 rounded accent-slate-500 flex-shrink-0" onchange="handleQ5G2Change()">
-                <span class="text-xs text-slate-600 leading-relaxed">ตรวจแล้วไม่พบการติดเชื้อ CMV <span class="text-slate-400">(Anti-CMV IgM)</span></span>
+                <span class="text-xs text-slate-600 leading-relaxed">ตรวจแล้วไม่พบการติดเชื้อ CMV <span class="text-slate-400">(Anti-CMV&nbsp;IgM)</span></span>
               </label>
               <label class="flex items-start gap-2.5 cursor-pointer">
                 <input type="checkbox" id="q5-ebv" class="mt-0.5 w-4 h-4 rounded accent-slate-500 flex-shrink-0" onchange="handleQ5G2Change()">
-                <span class="text-xs text-slate-600 leading-relaxed">ตรวจแล้วไม่พบการติดเชื้อ EBV <span class="text-slate-400">(Monospot / Anti-EBV IgM)</span></span>
+                <span class="text-xs text-slate-600 leading-relaxed">ตรวจแล้วไม่พบการติดเชื้อ EBV <span class="text-slate-400">(Monospot / Anti-EBV&nbsp;IgM)</span></span>
               </label>
               <label class="flex items-start gap-2.5 cursor-pointer">
                 <input type="checkbox" id="q5-hsv" class="mt-0.5 w-4 h-4 rounded accent-slate-500 flex-shrink-0" onchange="handleQ5G2Change()">
-                <span class="text-xs text-slate-600 leading-relaxed">ตรวจแล้วไม่พบการติดเชื้อ HSV <span class="text-slate-400">(Herpes simplex — PCR / Anti-HSV IgM)</span></span>
+                <span class="text-xs text-slate-600 leading-relaxed">ตรวจแล้วไม่พบการติดเชื้อ HSV <span class="text-slate-400">(Herpes&nbsp;simplex — PCR / Anti-HSV&nbsp;IgM)</span></span>
               </label>
               <label class="flex items-start gap-2.5 cursor-pointer">
                 <input type="checkbox" id="q5-vzv" class="mt-0.5 w-4 h-4 rounded accent-slate-500 flex-shrink-0" onchange="handleQ5G2Change()">
@@ -777,7 +777,7 @@
       <div class="rucam-q-box">
         <h3 class="font-bold text-slate-800 mb-1 flex items-center gap-2">
           <span class="bg-teal-100 text-teal-800 text-xs font-bold px-2 py-0.5 rounded">ข้อ 6</span>
-          ประวัติความเป็นพิษของยาต่อตับที่ทราบมาก่อน (Prior Information on Hepatotoxicity)
+          ประวัติความเป็นพิษของยาต่อตับที่ทราบมาก่อน (Prior&nbsp;Information&nbsp;on&nbsp;Hepatotoxicity)
         </h3>
         <div id="q6-autofill-notice" class="hidden text-xs bg-teal-50 border border-teal-300 rounded px-3 py-2 mb-3 text-teal-800">
           &#10003; กำหนดอัตโนมัติจากการค้นหายา — ล้างชื่อยาหากต้องการเลือกเอง
@@ -789,7 +789,7 @@
       <div class="rucam-q-box">
         <h3 class="font-bold text-slate-800 mb-1 flex items-center gap-2">
           <span class="bg-teal-100 text-teal-800 text-xs font-bold px-2 py-0.5 rounded">ข้อ 7</span>
-          ผลการให้ยาซ้ำ (Response to Rechallenge)
+          ผลการให้ยาซ้ำ (Response&nbsp;to&nbsp;Rechallenge)
         </h3>
         <p class="text-xs text-slate-500 mb-2">ดูการเปลี่ยนแปลงของ <span id="q7-enzyme-label" class="font-semibold text-teal-700">ALT/ALP</span> เมื่อผู้ป่วยได้รับยาตัวเดิมซ้ำอีกครั้ง</p>
         <p id="q7-threshold-note" class="hidden text-xs bg-sky-50 border border-sky-200 rounded px-3 py-2 mb-3 text-sky-800"></p>
@@ -881,7 +881,7 @@
       <div class="flex flex-col sm:flex-row sm:items-start gap-2 sm:gap-4 bg-green-50 border border-green-200 rounded-xl p-3.5">
         <span class="flex-shrink-0 bg-green-100 text-green-700 text-xs font-bold px-2.5 py-1 rounded-lg w-fit">Grade 1 &middot; Mild</span>
         <div class="flex-1 space-y-1.5">
-          <p class="text-sm text-slate-700 leading-relaxed">ALT &ge; 5xULN and/or ALP &ge; 2xULN, bilirubin &lt; 2.5 mg/dL, and no symptoms or mild symptoms, not hospitalized</p>
+          <p class="text-sm text-slate-700 leading-relaxed">ALT &ge; 5xULN (รูปแบบการอักเสบของตับ Hepatocellular) and/or ALP &ge; 2xULN (รูปแบบการอักเสบของตับ Cholestatic/Mixed), bilirubin &lt; 2.5 mg/dL, and no symptoms or mild symptoms, not hospitalized</p>
           <p class="text-xs text-slate-600 leading-relaxed pt-1.5 border-t border-green-200"><span class="font-semibold text-green-700">การจัดการ (Management):</span> หยุดยา/สมุนไพรต้องสงสัยตามผล RUCAM ติดตามค่า Lab ซ้ำที่ 1-2 สัปดาห์แบบผู้ป่วยนอก ไม่ต้องให้การรักษาเฉพาะ</p>
         </div>
       </div>
@@ -1042,7 +1042,7 @@ const Q2_HEPATOCELLULAR = [
   { value: 3,  label: 'ALT ลดลง ≥50% จากจุดสูงสุด ภายใน 8 วัน หลังหยุดยา' },
   { value: 2,  label: 'ALT ลดลง ≥50% จากจุดสูงสุด ภายใน 30 วัน หลังหยุดยา' },
   { value: 0,  label: 'ไม่ทราบ / ยังใช้ยาต่อ — หรือ ALT ลดลง ≥50% แต่ช้ากว่า 30 วัน' },
-  { value: -2, label: 'ALT ลดลง <50% หลังพ้น 30 วัน หรือกลับเพิ่มขึ้นซ้ำ (recurrent increase)' }
+  { value: -2, label: 'ALT ลดลง <50% หลังพ้น 30 วัน หรือกลับเพิ่มขึ้นซ้ำ (recurrent increase)' }
 ];
 
 const Q2_CHOLESTATIC_MIXED = [
@@ -1055,7 +1055,7 @@ const Q4_OPTIONS = [
   { value:  0, label: 'ไม่มีการใช้ยา/สมุนไพรอื่นร่วม — หรือ มีแต่ระยะเวลาการเกิดโรคไม่สอดคล้องกับยานั้น' },
   { value: -1, label: 'มียา/สมุนไพรอื่นใช้ร่วม และระยะเวลาการเกิดโรคสอดคล้องหรือชวนสงสัยว่าเป็นสาเหตุ' },
   { value: -2, label: 'มียา/สมุนไพรอื่นใช้ร่วม ที่ทราบว่าเป็นพิษต่อตับ และระยะเวลาสอดคล้อง/ชวนสงสัย' },
-  { value: -3, label: 'มียา/สมุนไพรอื่นใช้ร่วม ที่มีหลักฐานยืนยันว่ามีผลต่อผู้ป่วยรายนี้ (positive rechallenge/validated test)' }
+  { value: -3, label: 'มียา/สมุนไพรอื่นใช้ร่วม ที่มีหลักฐานยืนยันว่ามีผลต่อผู้ป่วยรายนี้ (positive rechallenge/validated test)' }
 ];
 
 const Q5_OPTIONS = [
@@ -1063,13 +1063,13 @@ const Q5_OPTIONS = [
   { value:  1, label: 'ตัดสาเหตุใน Group I ออกได้ครบทั้ง 7 โรค (แต่ Group II ยังไม่ครบ)' },
   { value:  0, label: 'ตัดสาเหตุใน Group I ออกได้ 6 หรือ 5 โรค' },
   { value: -2, label: 'ตัดสาเหตุใน Group I ออกได้น้อยกว่า 5 โรค' },
-  { value: -3, label: 'พบสาเหตุอื่นที่เป็นไปได้สูงว่าเป็นตัวการแทน DILI (alternative cause highly probable)' }
+  { value: -3, label: 'พบสาเหตุอื่นที่เป็นไปได้สูงว่าเป็นตัวการแทน DILI (alternative cause highly probable)' }
 ];
 
 const Q6_OPTIONS = [
-  { value: 2, label: 'ระบุในเอกสารกำกับยาอย่างเป็นทางการ (LiverTox Grade A/B)' },
-  { value: 1, label: 'มีรายงานในวรรณกรรมทางการแพทย์ แต่ไม่ระบุในเอกสารยา (Grade C/D)' },
-  { value: 0, label: 'ไม่ทราบ / ไม่มีรายงาน (Grade E)' }
+  { value: 2, label: 'ระบุในเอกสารกำกับยาอย่างเป็นทางการ (LiverTox Grade A/B)' },
+  { value: 1, label: 'มีรายงานในวรรณกรรมทางการแพทย์ แต่ไม่ระบุในเอกสารยา (Grade C/D)' },
+  { value: 0, label: 'ไม่ทราบ / ไม่มีรายงาน (Grade E)' }
 ];
 
 function getQ7Options(type) {
@@ -40703,8 +40703,8 @@ function rebuildQ2() {
 
   if (peakLabelEl) {
     peakLabelEl.textContent = isHepatoOrMixed
-      ? 'ALT สูงสุดในระยะเฉียบพลัน (Peak ALT)'
-      : 'ALP สูงสุดในระยะเฉียบพลัน (Peak ALP)';
+      ? 'ALT สูงสุดในระยะเฉียบพลัน (Peak ALT)'
+      : 'ALP สูงสุดในระยะเฉียบพลัน (Peak ALP)';
   }
   if (peakInputEl) {
     peakInputEl.placeholder = isHepatoOrMixed ? 'เช่น 850 U/L' : 'เช่น 420 U/L';
