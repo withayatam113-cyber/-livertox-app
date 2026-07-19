@@ -792,7 +792,8 @@
           <span class="bg-teal-100 text-teal-800 text-xs font-bold px-2 py-0.5 rounded">ข้อ 7</span>
           ผลการให้ยาซ้ำ (Response to Rechallenge)
         </h3>
-        <p class="text-xs text-slate-500 mb-3">ดูการเปลี่ยนแปลงของ <span id="q7-enzyme-label" class="font-semibold text-teal-700">ALT/ALP</span> เมื่อผู้ป่วยได้รับยาตัวเดิมซ้ำอีกครั้ง</p>
+        <p class="text-xs text-slate-500 mb-2">ดูการเปลี่ยนแปลงของ <span id="q7-enzyme-label" class="font-semibold text-teal-700">ALT/ALP</span> เมื่อผู้ป่วยได้รับยาตัวเดิมซ้ำอีกครั้ง</p>
+        <p id="q7-threshold-note" class="hidden text-xs bg-sky-50 border border-sky-200 rounded px-3 py-2 mb-3 text-sky-800"></p>
         <div id="q7-group"></div>
       </div>
     </div>
@@ -1074,11 +1075,11 @@ const Q6_OPTIONS = [
 
 function getQ7Options(type) {
   // Mixed ใช้เกณฑ์เดียวกับ Cholestatic ตาม RUCAM (Danan & Teschke 2016)
+  // เกณฑ์ก่อนให้ยาซ้ำ (ALT<5N / ALP<2N) แสดงที่หัวข้อโดเมน (q7-threshold-note) ไม่ระบุซ้ำในข้อย่อย
   const isHepato = (type === 'hepatocellular');
   const e = isHepato ? 'ALT' : 'ALP';
-  const nBefore = isHepato ? '5' : '2';   // ก่อนให้ยาซ้ำ: Hepatocellular ALT <5N, Cholestatic/Mixed ALP <2N
   return [
-    { value:  3, label: `Re-challenge เป็นบวก (+3): ให้ยา/สมุนไพรตัวนี้ซ้ำเพียงตัวเดียว (ก่อนให้ซ้ำค่า ${e} < ${nBefore} เท่าของ ULN) แล้วค่า ${e} เพิ่มขึ้นเป็น ≥ 2 เท่าของค่าเดิม` },
+    { value:  3, label: `Re-challenge เป็นบวก (+3): ให้ยา/สมุนไพรตัวนี้ซ้ำเพียงตัวเดียว แล้วค่า ${e} เพิ่มขึ้นเป็น ≥ 2 เท่าของค่าเดิม` },
     { value:  1, label: `Re-challenge น่าสงสัย (+1): ค่า ${e} เพิ่มขึ้นเป็น ≥ 2 เท่า เมื่อได้รับยา/สมุนไพรนี้ซ้ำพร้อมกับยาอื่นที่เคยได้ตอนเกิดปฏิกิริยาครั้งแรก` },
     { value: -2, label: `Re-challenge เป็นลบ (−2): ได้รับยา/สมุนไพรนี้ซ้ำในเงื่อนไขเดียวกับครั้งแรก แต่ค่า ${e} เพิ่มขึ้นไม่ถึงระดับปกติ (less than N)` },
     { value:  0, label: 'ไม่ได้ทำ Re-challenge / ข้อมูลไม่เพียงพอหรือไม่สามารถแปลผลทางคลินิกได้' }
@@ -40730,10 +40731,24 @@ function rebuildQ2() {
 // ============================================================
 function rebuildQ7() {
   const type = appState.rRatioType;
-  const enzyme = (type === 'cholestatic') ? 'ALP' : (type ? 'ALT' : 'ALT/ALP');
+  const isHepato = (type === 'hepatocellular');
+  const enzyme = type ? (isHepato ? 'ALT' : 'ALP') : 'ALT/ALP';   // mixed → ALP
 
   const enzymeLabelEl = document.getElementById('q7-enzyme-label');
   if (enzymeLabelEl) enzymeLabelEl.textContent = enzyme;
+
+  // เกณฑ์ก่อนให้ยาซ้ำ แสดงที่หัวข้อโดเมน แยกตามประเภทตับอักเสบ
+  const noteEl = document.getElementById('q7-threshold-note');
+  if (noteEl) {
+    if (type) {
+      const nBefore = isHepato ? '5' : '2';
+      const typeLabel = isHepato ? 'Hepatocellular' : 'Cholestatic/Mixed';
+      noteEl.innerHTML = `<b>เกณฑ์ก่อนให้ยาซ้ำ (ก่อน re-exposure):</b> ค่า ${enzyme} ต้อง &lt; ${nBefore} เท่าของ ULN &nbsp;<span class="text-sky-500">(${typeLabel})</span>`;
+      noteEl.classList.remove('hidden');
+    } else {
+      noteEl.classList.add('hidden');
+    }
+  }
 
   const options = getQ7Options(type);
   document.getElementById('q7-group').innerHTML = renderRadioCards('q7', options);
